@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T15:39:00+08:00
-modified: 2021-12-19T18:06:23+08:00
+modified: 2021-12-19T18:39:05+08:00
 ---
 
 # Cats video with lyrics
@@ -24,3 +24,11 @@ https://d.pcs.baidu.com/file/65f4e6c89q4c739f29ac137152c495f6?fid=575343296-2505
 unsure if it is encrypted. why i always found these little sites with massive resources? 
 
 http://xm788.ys168.com/
+
+the tool itself says it is avaliable for use vip cookies to download files from commandline. let's try this.
+
+the speed unfortunately remains the same. how about download some big files?
+
+core-dumped. let's try curl.
+
+looks good. so we can either search and download a bunch of files with commandline, or download big files with android client.
