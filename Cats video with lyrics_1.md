@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T18:50:34+08:00
-modified: 2021-12-19T19:52:22+08:00
+modified: 2021-12-19T20:37:28+08:00
 ---
 
 # Cats video with lyrics
@@ -16,3 +16,5 @@ also its proxy scraper.
 pip3 install pymusic-dl
 
 write a redirect plugin in tampermonkey, from github to hub.fastgit.org
+
+again, done by you-get. but how do we search the uri?
