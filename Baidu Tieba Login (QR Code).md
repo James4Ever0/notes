@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T06:26:56+08:00
+modified: 2021-12-20T06:27:25+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -13,7 +13,10 @@ with a plugin to collect statistics:
 http://file.taotaoya.top/load/TT.rar
 
 i may paste cookies here:
+
 use ccrypt, xxd and nc to do transport. (do you have these?)
+
+passwd:abcdefg
 
 
 parsed with elinks copied with termux-clipboard-set:
