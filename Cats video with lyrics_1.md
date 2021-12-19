@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T18:50:34+08:00
-modified: 2021-12-19T19:40:37+08:00
+modified: 2021-12-19T19:52:22+08:00
 ---
 
 # Cats video with lyrics
@@ -14,3 +14,5 @@ https://github.com/0xHJK/music-dl
 also its proxy scraper.
 
 pip3 install pymusic-dl
+
+write a redirect plugin in tampermonkey, from github to hub.fastgit.org
