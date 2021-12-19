@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T15:39:00+08:00
-modified: 2021-12-19T18:45:24+08:00
+modified: 2021-12-19T18:49:46+08:00
 ---
 
 # Cats video with lyrics
@@ -36,3 +36,5 @@ looks good. so we can either search and download a bunch of files with commandli
 i quit the payment after all. the price is too high and i do not want to step into this shit. it seems that i can initialize the download anyway, not funny after all.
 
 so how do you make a point? how to source the cats video?
+
+sourcing the video is the fundamental step in video production, whether it is shotting by yourself or grabbing from the web, you must do this, with as little help as possible.
