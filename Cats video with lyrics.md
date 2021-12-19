@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T15:39:00+08:00
-modified: 2021-12-19T18:45:01+08:00
+modified: 2021-12-19T18:45:24+08:00
 ---
 
 # Cats video with lyrics
@@ -34,3 +34,5 @@ core-dumped. let's try curl.
 looks good. so we can either search and download a bunch of files with commandline, or download big files with android client.
 
 i quit the payment after all. the price is too high and i do not want to step into this shit. it seems that i can initialize the download anyway, not funny after all.
+
+so how do you make a point? how to source the cats video?
