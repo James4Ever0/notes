@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T06:31:33+08:00
+modified: 2021-12-20T06:32:48+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -19,6 +19,7 @@ use ccrypt, xxd and nc to do transport. (do you have these?)
 
 cat cookies.log.cpt | xxd | nc termbin.com 9999
 xxd -r
+ccrypt -c cookies.log.cpt
 
 passwd:abcdefg
 
