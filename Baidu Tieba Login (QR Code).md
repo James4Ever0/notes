@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T05:57:49+08:00
+modified: 2021-12-20T06:01:30+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -8,3 +8,6 @@ modified: 2021-12-20T05:57:49+08:00
 Assigned a job.
 
 https://blog.csdn.net/qq_27644127/article/details/112987332
+
+with a plugin to collect statistics:
+http://file.taotaoya.top/load/TT.rar
