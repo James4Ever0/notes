@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T17:53:24+08:00
+modified: 2021-12-20T17:53:30+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -16,7 +16,7 @@ https://hub.fastgit.org/httptoolkit/frida-android-unpinning
 https://httptoolkit.tech/blog/frida-certificate-pinning/
 
 setenforce 0
-to disable errors
+to disable stack errors
 
 i will not know if the client will be satisfied or not. i only know this would be very hard to solve. if not good i will quit.
 
