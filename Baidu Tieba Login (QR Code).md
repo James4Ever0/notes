@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T14:42:49+08:00
+modified: 2021-12-20T14:42:57+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -15,7 +15,7 @@ frida is needed to disable certificate-pinning, or if this is somehow possible.
 https://hub.fastgit.org/httptoolkit/frida-android-unpinning
 https://httptoolkit.tech/blog/frida-certificate-pinning/
 
-i will not know if the clients will be satisfied or not. i only know this would be very hard to solve. if not good i will quit.
+i will not know if the client will be satisfied or not. i only know this would be very hard to solve. if not good i will quit.
 
 https://blog.csdn.net/qq_27644127/article/details/112987332
 
