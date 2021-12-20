@@ -1,0 +1,16 @@
+---
+created: 2021-12-20T17:04:08+08:00
+modified: 2021-12-20T17:07:39+08:00
+---
+
+# After Termux Reinstallation
+
+grant permission for termux:api
+
+https://github.com/TilesOrganization/support/wiki/How-to-use-ADB-to-grant-permissions
+
+adb shell pm grant com.rascarlo.quick.settings.tiles android.permission.WRITE_SECURE_SETTINGS
+
+pm grant com.termux android.permission.WRITE_SECURE_SETTINGS
+
+the brightness bug is solved by uninstalling the unintended settings app. i don't know if this will cause more problems.
