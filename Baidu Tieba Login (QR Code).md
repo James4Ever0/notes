@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T21:12:09+08:00
+modified: 2021-12-20T21:13:39+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -30,6 +30,19 @@ i will not know if the client will be satisfied or not. i only know this would b
 
 print xxd line and ascii parse only:
 cat logs2.log | xxd | awk '{print $1" "$NF}'
+
+cat logs2.log | xxd | awk '{print $1" "$NF}' | grep -C 5 http://wap
+0012f020: ss-Control-Allow
+0012f030: -Methods,18:GET,
+0012f040: OPTIONS,]
+0012f050: 59:27:Access-Con
+0012f060: trol-Allow-Origi
+0012f070: n,24:http://wapp
+0012f080: ass.baidu.com,]2
+0012f090: 8:10:Connection,
+0012f0a0: 10:keep-alive,]2
+0012f0b0: 7:16:Content-Enc
+0012f0c0: oding,4:gzip,]44
 
 https://blog.csdn.net/qq_27644127/article/details/112987332
 
