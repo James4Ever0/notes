@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T21:45:44+08:00
+modified: 2021-12-20T21:49:37+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -30,7 +30,7 @@ i will not know if the client will be satisfied or not. i only know this would b
 
 
 to read flow:
-mitmproxy -n -r logs.log
+mitmproxy -n --showhost -r logs.log
 
 print xxd line and ascii parse only:
 cat logs2.log | xxd | awk '{print $1" "$NF}'
