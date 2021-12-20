@@ -1,11 +1,13 @@
 ---
 created: 2021-12-20T17:04:08+08:00
-modified: 2021-12-20T17:10:30+08:00
+modified: 2021-12-20T17:12:55+08:00
 ---
 
 # After Termux Reinstallation
 
 grant permission for termux:api
+
+android.permission.WRITE_SETTINGS can only be granted in settings tab.
 
 https://github.com/TilesOrganization/support/wiki/How-to-use-ADB-to-grant-permissions
 
