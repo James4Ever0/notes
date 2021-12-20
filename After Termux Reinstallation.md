@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T17:04:08+08:00
-modified: 2021-12-20T17:09:00+08:00
+modified: 2021-12-20T17:10:30+08:00
 ---
 
 # After Termux Reinstallation
@@ -11,7 +11,7 @@ https://github.com/TilesOrganization/support/wiki/How-to-use-ADB-to-grant-permis
 
 adb shell pm grant com.rascarlo.quick.settings.tiles android.permission.WRITE_SECURE_SETTINGS
 
-pm grant com.termux android.permission.WRITE_SECURE_SETTINGS
+pm grant com.termux.api android.permission.WRITE_SECURE_SETTINGS
 
 pm list packages
 
