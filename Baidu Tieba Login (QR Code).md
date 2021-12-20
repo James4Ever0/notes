@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T18:00:17+08:00
+modified: 2021-12-20T18:01:53+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -19,10 +19,12 @@ setenforce 0
 to disable stack errors
 
 to connect to frida-server:
+
 https://github.com/15872998154/frida_termux
-./frida_server -l 0.0.0.0:27042  
-frida -H 172.16.91.33:27042 
---codeshare sowdust/universal-android-ssl-pinning-bypass-2  -f com.baidu.tieba --no-pause
+
+./frida_server -l 0.0.0.0:27042 
+
+frida -H 127.0.0.1:27042 --codeshare sowdust/universal-android-ssl-pinning-bypass-2  -f com.baidu.tieba --no-pause
 
 i will not know if the client will be satisfied or not. i only know this would be very hard to solve. if not good i will quit.
 
