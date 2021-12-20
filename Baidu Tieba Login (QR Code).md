@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T14:40:14+08:00
+modified: 2021-12-20T14:40:58+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -12,8 +12,7 @@ mitmproxy --mode socks5 --listen-port 8050 --save-stream-file logs
 Run mitmproxy without options to generate the mitm certificate. Install the certificate (usually ~/.mitmproxy/mitmproxy-ca-cert.cer) in the Android phone. It may be needed to change the extension to .crt to install it.
 
 frida is needed to disable certificate-pinning, or if this is somehow possible.
-
-
+ssszzzz世界级
 https://blog.csdn.net/qq_27644127/article/details/112987332
 
 with a plugin to collect statistics:
