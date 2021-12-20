@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T12:52:26+08:00
+modified: 2021-12-20T12:52:38+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -26,7 +26,7 @@ ccrypt -c cookies.log.cpt
 passwd:abcdefg
 
 
-a typical QR login link:
+a typical QR login link on android:
 https://wappass.baidu.com/wp/?qrlogin&t=1639929144&error=0&sign=v1_3b3e89197877163a12614a9a7f519&cmd=login&lp=pc&tpl=tb&adapter=3&clientfrom=native&qrloginfrom=native&local=%E9%93%9C%E9%99%B5
 
 parsed with elinks copied with termux-clipboard-set:
