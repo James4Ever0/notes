@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T13:43:38+08:00
+modified: 2021-12-20T13:44:03+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -9,6 +9,7 @@ Assigned a job.
 
 This job has no public data to refer. we need to monitor the tieba app.
 mitmproxy --mode socks5 --listen-port 8050 --save-stream-file logs
+Run mitmproxy without options to generate the mitm certificate. Install the certificate (usually ~/.mitmproxy/mitmproxy-ca-cert.cer) in the Android phone. It may be needed to change the extension to .crt to install it.
 
 https://blog.csdn.net/qq_27644127/article/details/112987332
 
