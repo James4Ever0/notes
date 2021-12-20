@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T21:13:39+08:00
+modified: 2021-12-20T21:15:12+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -11,7 +11,7 @@ This job has no public data to refer. we need to monitor the tieba app.
 mitmproxy --mode socks5 --listen-port 8050 --save-stream-file logs
 Run mitmproxy without options to generate the mitm certificate. Install the certificate (usually ~/.mitmproxy/mitmproxy-ca-cert.cer) in the Android phone. It may be needed to change the extension to .crt to install it.
 
-frida is needed to disable certificate-pinning, or if this is somehow possible.
+frida is needed to disable certificate-pinning, or if this is somehow possible. (also via justtrustme, xposed)
 https://hub.fastgit.org/httptoolkit/frida-android-unpinning
 https://httptoolkit.tech/blog/frida-certificate-pinning/
 
@@ -43,6 +43,91 @@ cat logs2.log | xxd | awk '{print $1" "$NF}' | grep -C 5 http://wap
 0012f0a0: 10:keep-alive,]2
 0012f0b0: 7:16:Content-Enc
 0012f0c0: oding,4:gzip,]44
+
+cat logs2.log | xxd | awk '{print $1" "$NF}' | grep -C 5 https://wap
+001190e0: ite,]28:14:sec-f
+001190f0: etch-mode,7:no-c
+00119100: ors,]26:14:sec-f
+00119110: etch-dest,5:styl
+00119120: e,]40:7:referer,
+00119130: 26:https://wappa
+00119140: ss.baidu.com/,]3
+00119150: 6:15:accept-enco
+00119160: de
+00119170: flate,]37:15:acc
+00119180: ept-language,14:
+--
+0011aed0: ite,]28:14:sec-f
+0011aee0: etch-mode,7:no-c
+0011aef0: ors,]27:14:sec-f
+0011af00: etch-dest,6:scri
+0011af10: pt,]40:7:referer
+0011af20: ,26:https://wapp
+0011af30: ass.baidu.com/,]
+0011af40: 36:15:accept-enc
+0011af50: d
+0011af60: eflate,]37:15:ac
+0011af70: cept-language,14
+--
+0011ccd0: -site,]28:14:sec
+0011cce0: -fetch-mode,7:no
+0011ccf0: -cors,]26:14:sec
+0011cd00: -fetch-dest,5:st
+0011cd10: yle,]40:7:refere
+0011cd20: r,26:https://wap
+0011cd30: pass.baidu.com/,
+0011cd40: ]36:15:accept-en
+0011cd50: coding,13:gzip,
+0011cd60: deflate,]37:15:a
+0011cd70: ccept-language,1
+--
+00121f40: -site,]28:14:Sec
+00121f50: -Fetch-Mode,7:no
+00121f60: -cors,]26:14:Sec
+00121f70: -Fetch-Dest,5:im
+00121f80: age,]40:7:Refere
+00121f90: r,26:https://wap
+00121fa0: pass.baidu.com/,
+00121fb0: ]36:15:Accept-En
+00121fc0: coding,13:gzip,
+00121fd0: deflate,]37:15:A
+00121fe0: ccept-Language,1
+--
+0012f550: in,]28:14:Sec-Fe
+0012f560: tch-Mode,7:no-co
+0012f570: rs,]27:14:Sec-Fe
+0012f580: tch-Dest,6:scrip
+0012f590: t,]256:7:Referer
+0012f5a0: ,241:https://wap
+0012f5b0: pass.baidu.com/w
+0012f5c0: p/?qrlogin&t=163
+0012f5d0: 9980306&error=0&
+0012f5e0: sign=v1_f3b74f3a
+0012f5f0: 21e355010985e711
+--
+00139700: ,]28:14:Sec-Fetc
+00139710: h-Mode,7:no-cors
+00139720: ,]26:14:Sec-Fetc
+00139730: h-Dest,5:image,]
+00139740: 40:7:Referer,26:
+00139750: https://wappass.
+00139760: baidu.com/,]36:1
+00139770: 5:Accept-Encodin
+00139780: defla
+00139790: te,]37:15:Accept
+001397a0: -Language,14:en-
+--
+0013db70: 39997136312&tpl=
+0013db80: tb&auto_statisti
+0013db90: c=e2V2ZW50VHlwZT
+0013dba0: p0b3VjaC1qcy1lcn
+0013dbb0: Jvcn0=&extrajson
+0013dbc0: =https://wappass
+0013dbd0: .baidu.com/wp/?q
+0013dbe0: rlogin&t=1639980
+0013dbf0: 306&error=0&sign
+0013dc00: =v1_f3b74f3a21e3
+0013dc10: 55010985e7113869
 
 https://blog.csdn.net/qq_27644127/article/details/112987332
 
