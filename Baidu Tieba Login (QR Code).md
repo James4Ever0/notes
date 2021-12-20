@@ -1,6 +1,6 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T21:15:12+08:00
+modified: 2021-12-20T21:45:44+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -27,6 +27,10 @@ https://github.com/15872998154/frida_termux
 frida -H 127.0.0.1:27042 --codeshare sowdust/universal-android-ssl-pinning-bypass-2  -f com.baidu.tieba --no-pause
 
 i will not know if the client will be satisfied or not. i only know this would be very hard to solve. if not good i will quit.
+
+
+to read flow:
+mitmproxy -n -r logs.log
 
 print xxd line and ascii parse only:
 cat logs2.log | xxd | awk '{print $1" "$NF}'
