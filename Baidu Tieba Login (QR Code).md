@@ -1,11 +1,14 @@
 ---
 created: 2021-12-20T05:56:45+08:00
-modified: 2021-12-20T21:49:37+08:00
+modified: 2021-12-20T22:01:54+08:00
 ---
 
 # Baidu Tieba Login (QR Code)
 
 Assigned a job.
+
+QR Link:
+https://wappass.baidu.com/wp/?qrlogin&t=1640006201&error=0&sign=v1_13fa5a31cf31fa864475cbf3fd2fc&cmd=login&lp=pc&tpl=tb&adapter=3&logPage=traceId%3Apc_loginv4_1640006201%2ClogPage%3Aloginv4&qrloginfrom=pc&local=%E5%8D%97%E4%BA%AC
 
 This job has no public data to refer. we need to monitor the tieba app.
 mitmproxy --mode socks5 --listen-port 8050 --save-stream-file logs
