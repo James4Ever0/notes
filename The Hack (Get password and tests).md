@@ -1,9 +1,12 @@
 ---
 created: 2021-12-22T13:45:58+08:00
-modified: 2021-12-22T14:09:47+08:00
+modified: 2021-12-22T15:29:19+08:00
 ---
 
 # The Hack (Get password and tests)
+
+The Intranet Gateway For Campus:
+https://app.topsec.com.cn
 
 pdvpn.lixin.edu.cn
 pdvpn2.lixin.edu.cn
