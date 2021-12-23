@@ -8,7 +8,7 @@ modified: 2021-12-22T18:43:34+08:00
 The Intranet Gateway For Campus:
 https://app.topsec.com.cn
 
-mitmdump --mode socks5 --listen-port 8050 -w logs3.log --flow-detail 3 --set stream_websocket=true
+mitmdump --mode socks5 --listen-port 8050 -w logs.log --flow-detail 3 --set stream_websocket=true
 
 pdvpn.lixin.edu.cn
 pdvpn2.lixin.edu.cn
