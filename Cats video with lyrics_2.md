@@ -1,11 +1,13 @@
 ---
 created: 2021-12-19T20:53:06+08:00
-modified: 2021-12-28T15:39:57+08:00
+modified: 2021-12-28T15:41:24+08:00
 ---
 
 # Cats video with lyrics (Algorithm)
 
 Finally, the cats.
+
+To harvest video by tags, authors, categorize them, count the views divided by time, model the predicted views and select only the best, original videos to upload.
 
 I am selling myself on cheap. Maybe not.
 
