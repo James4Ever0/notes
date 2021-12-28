@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T20:53:06+08:00
-modified: 2021-12-28T15:41:24+08:00
+modified: 2021-12-28T15:43:38+08:00
 ---
 
 # Cats video with lyrics (Algorithm)
@@ -8,6 +8,8 @@ modified: 2021-12-28T15:41:24+08:00
 Finally, the cats.
 
 To harvest video by tags, authors, categorize them, count the views divided by time, model the predicted views and select only the best, original videos to upload.
+
+The views on other platforms does not matter and views on other channels does not matter, in the long term. We might try to embrace them because of this number seen on others but we need real feedback on our channels.
 
 I am selling myself on cheap. Maybe not.
 
