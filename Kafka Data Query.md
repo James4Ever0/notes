@@ -1,11 +1,25 @@
 ---
 created: 2021-12-30T18:13:26+08:00
-modified: 2021-12-30T19:02:04+08:00
+modified: 2021-12-30T23:11:19+08:00
 ---
 
 # Kafka Data Query
 
 大数据存储综合实验
+
+Connection:
+
+EasyConnect
+
+https://newvpn.cumt.edu.cn
+
+08192963:186880
+
+VM:
+
+http://192.168.46.253:8080/training/
+
+08192963:888888
 
 下载高速公路ETC入深圳数据， 数据量:178396条
 
