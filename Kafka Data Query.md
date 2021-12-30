@@ -1,6 +1,6 @@
 ---
 created: 2021-12-30T18:13:26+08:00
-modified: 2021-12-30T18:17:13+08:00
+modified: 2021-12-30T18:18:05+08:00
 ---
 
 # Kafka Data Query
@@ -9,7 +9,9 @@ modified: 2021-12-30T18:17:13+08:00
 
 下载高速公路ETC入深圳数据， 数据量:178396条
 
-https://opendata. sz. gov. cn/ da ta/ da taSet/ toDataDetails/2920000403621数据样例:
+https://opendata.sz.gov.cn/data/dataSet/toDataDetails/29200_00403621
+
+数据样例:
 
 要求
 
