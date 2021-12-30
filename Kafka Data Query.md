@@ -1,6 +1,6 @@
 ---
 created: 2021-12-30T18:13:26+08:00
-modified: 2021-12-30T18:19:24+08:00
+modified: 2021-12-30T19:02:04+08:00
 ---
 
 # Kafka Data Query
@@ -21,7 +21,7 @@ https://blog.csdn.net/moonpure/article/details/72674374
 
 (2)利用Kafka对高速数据进行缓存
 
-(3)利用HBase或者MIyCat+Mysql对数据进行存储。
+(3)利用HBase或者MyCat+Mysql对数据进行存储。
 
 (4)如果采用MyCat+Mysql方式存储数据，需要设计业务逻辑对数据进行分片，并对全局数据进行查询和统计
 
