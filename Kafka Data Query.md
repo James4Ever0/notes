@@ -1,6 +1,6 @@
 ---
 created: 2021-12-30T18:13:26+08:00
-modified: 2021-12-30T18:16:17+08:00
+modified: 2021-12-30T18:17:13+08:00
 ---
 
 # Kafka Data Query
@@ -24,3 +24,13 @@ https://opendata. sz. gov. cn/ da ta/ da taSet/ toDataDetails/2920000403621数�
 (5)如果采用HBase方式存储数据，需要设计业务逻辑对rowkey进行设计，并对数据进行“key-value”查询。
 
 (6)对两种方式查询或者统计的结果进行可视化展示，要求每分钟一-次对结果进行刷新。
+
+Report Template:
+
+7.实验目标和实验环境
+
+8.实验内容，
+
+9.实验步骤和结果。
+
+.10.结论与讨论。
