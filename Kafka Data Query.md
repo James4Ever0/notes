@@ -1,6 +1,6 @@
 ---
 created: 2021-12-30T18:13:26+08:00
-modified: 2021-12-30T23:11:19+08:00
+modified: 2021-12-31T13:15:16+08:00
 ---
 
 # Kafka Data Query
@@ -52,3 +52,21 @@ Report Template:
 9.实验步骤和结果。
 
 .10.结论与讨论。
+
+Python Kafka
+
+https://blog.csdn.net/weixin_35688430/article/details/111292744
+
+Thrift Hbase
+
+https://blog.csdn.net/dutsoft/article/details/60328341
+
+Python Hbase
+
+https://www.jianshu.com/p/58b79bf5e9d4
+
+Terminal Visulization
+
+https://stackoverflow.com/questions/37288421/how-to-plot-a-chart-in-the-terminal
+
+https://pythonawesome.com/a-python-file-with-some-tools-for-visualizing-machine-learning-in-the-terminal/
