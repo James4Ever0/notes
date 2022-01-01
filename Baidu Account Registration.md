@@ -1,9 +1,13 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-01T22:03:52+08:00
+modified: 2022-01-01T22:06:16+08:00
 ---
 
 # Baidu Account Registration
+
+http://im.baidu.com/promo/about.html 这个百度hi接口也可以
+
+贴吧极速版 百度网盘（安装在其他手机上？卸载？）
 
 119620
 abc123456
