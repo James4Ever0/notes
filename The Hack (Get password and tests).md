@@ -1,9 +1,11 @@
 ---
 created: 2021-12-22T13:45:58+08:00
-modified: 2021-12-23T22:44:37+08:00
+modified: 2022-01-01T22:07:33+08:00
 ---
 
 # The Hack (Get password and tests)
+
+Scan this website with kali linux.
 
 The Intranet Gateway For Campus:
 https://app.topsec.com.cn
