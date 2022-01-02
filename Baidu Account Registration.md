@@ -1,6 +1,6 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-02T14:58:02+08:00
+modified: 2022-01-02T16:32:58+08:00
 ---
 
 # Baidu Account Registration
@@ -11,7 +11,12 @@ https://passport.baidu.com/v2/?reg
 
 贴吧极速版 百度网盘（安装在其他手机上？卸载？）
 
+username:
 119620
+
+api_username:
+api-OvxtGsBA
+
 abc123456
 
 @all 服务器地址已经更新请大家及时更新，所有客户端和api地址都需要更新，老的地址将在24小时后停用。（重启自动更新或者在网址下载https://wwx.lanzoui.com/b010k124j 密码:1122）
