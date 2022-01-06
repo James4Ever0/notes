@@ -1,9 +1,15 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-02T16:32:58+08:00
+modified: 2022-01-06T20:56:16+08:00
 ---
 
 # Baidu Account Registration
+
+http://www.dididati.com/user
+
+17756220843
+
+fs5214
 
 http://im.baidu.com/promo/about.html 这个百度hi接口也可以
 
