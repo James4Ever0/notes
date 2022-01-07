@@ -1,9 +1,15 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-07T15:16:25+08:00
+modified: 2022-01-07T16:44:12+08:00
 ---
 
 # Baidu Account Registration
+
+http://www.66daili.cn
+
+714180884@qq.com
+
+fsfs5214
 
 [90/33]生成成功:S_E926kBLiITjQ[10元]
 
