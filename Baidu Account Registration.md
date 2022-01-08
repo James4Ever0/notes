@@ -1,9 +1,13 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-08T00:36:06+08:00
+modified: 2022-01-08T16:47:27+08:00
 ---
 
 # Baidu Account Registration
+
+远程地址:bh76.84684.net:11527 
+　　管理员:administrator密码:fsfs5214 
+　　拨号帐号：801006密码152415 
 
 bh19.84684.net:19055
 
