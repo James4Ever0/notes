@@ -1,9 +1,15 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-08T16:47:27+08:00
+modified: 2022-01-08T18:42:04+08:00
 ---
 
 # Baidu Account Registration
+
+[27/6]生成成功:S_IQbNu0hFXIvT[10元]
+[27/5]生成成功:S_OC5VruqBCBAI[10元]
+[27/4]生成成功:S_eByy5SzNDeL0[10元]
+[27/3]生成成功:S_cv4FrZMBAaFx[10元]
+
 
 远程地址:bh76.84684.net:11527 
 　　管理员:administrator密码:fsfs5214 
