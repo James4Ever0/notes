@@ -1,6 +1,6 @@
 ---
 created: 2021-12-22T13:45:58+08:00
-modified: 2022-01-11T02:35:04+08:00
+modified: 2022-01-11T02:36:49+08:00
 ---
 
 # The Hack (Get password and tests)
@@ -33,6 +33,10 @@ trial user:
 201960249
 
 have searched related websites with site:lixin.edu.cn, could get more if keep doing so, using dnsenum.
+
+to get all site links with proper titles, we need to use playwright.
+
+nessus scanner has that 16 ips limitation, we need to crack it first.
 
 to master kali linux, recommend to scrape kali_tools and tutorialspoint for kali, or just simply using manpage.
 
