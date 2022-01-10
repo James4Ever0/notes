@@ -1,6 +1,6 @@
 ---
 created: 2021-12-22T13:45:58+08:00
-modified: 2022-01-11T02:36:59+08:00
+modified: 2022-01-11T02:38:08+08:00
 ---
 
 # The Hack (Get password and tests)
@@ -31,6 +31,8 @@ missing puzzle for changing password:
 
 trial user:
 201960249
+
+sniffing the whole damn campus is possible, but we need to focus on how to get arp spoofing rightly executed.
 
 have searched related websites with site:lixin.edu.cn, could get more if keep doing so, using dnsenum.
 
