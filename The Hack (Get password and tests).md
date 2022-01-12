@@ -1,6 +1,6 @@
 ---
-created: 2021-12-22T13:45:58+08:00
-modified: 2022-01-11T02:45:24+08:00
+created: 2021-12-22T05:45:58+00:00
+modified: 2022-01-12T01:37:09+00:00
 ---
 
 # The Hack (Get password and tests)
@@ -42,7 +42,7 @@ to get all site links with proper titles, we need to use playwright.
 
 nessus scanner has that 16 ips limitation, we need to crack/patch it first.
 
-to master kali linux, recommend to scrape kali_tools and tutorialspoint for kali, or just simply using manpage.
+to master kali linux, recommend to scrape kali_tools (https://tools.kali.org/) and tutorialspoint (https://www.tutorialspoint.com/kali_linux/index.htm) for kali, or just simply using manpage.
 
 cisco router is untouched till now. need we to scan it?
 (intermediate ip addresses)
