@@ -1,6 +1,6 @@
 ---
 created: 2021-12-22T05:45:58+00:00
-modified: 2022-01-12T01:37:09+00:00
+modified: 2022-01-12T02:20:29+00:00
 ---
 
 # The Hack (Get password and tests)
@@ -31,6 +31,8 @@ missing puzzle for changing password:
 
 trial user:
 201960249
+
+found russia hacker's kali tool site: https://en.kali.tools/all/
 
 apparently we have some issue with log4j and this could be our way in, the damn server.
 
