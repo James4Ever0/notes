@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10T18:42:04+00:00
-modified: 2022-01-12T17:13:28+00:00
+modified: 2022-01-12T17:16:43+00:00
 ---
 
 # Agile Freelancing
@@ -13,7 +13,8 @@ https://blog.csdn.net/qq_36737934/article/details/90346757
 
 https://mirrors.aliyun.com/deepin apricot (with respect to dist/*)
 
-deb packages are missing from official mirror.
+deb packages are missing from community mirror.
+https://github.com/vufa/deepin-wine-qq-arch/issues/27
 
 https://www.bilibili.com/read/cv12914431
 
@@ -43,5 +44,3 @@ podman run -d --name wechat --device /dev/snd --ipc="host"\
     -e GID=`id -g` \
     -e UID=`id -u` \
     bestwu/wechat
-
-
