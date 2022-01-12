@@ -1,13 +1,13 @@
 ---
 created: 2021-12-22T05:45:58+00:00
-modified: 2022-01-12T02:20:29+00:00
+modified: 2022-01-12T02:21:25+00:00
 ---
 
 # The Hack (Get password and tests)
 
 Scan this website with kali linux.
 
-The Intranet Gateway For Campus:
+The Intranet Gateway For Campus: (maybe less hops?)
 https://app.topsec.com.cn
 
 mitmdump --mode socks5 --listen-port 8050 -w logs.log --flow-detail 3 --set stream_websocket=true
