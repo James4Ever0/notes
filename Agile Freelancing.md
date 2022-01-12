@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10T18:42:04+00:00
-modified: 2022-01-12T17:16:43+00:00
+modified: 2022-01-12T19:47:18+00:00
 ---
 
 # Agile Freelancing
@@ -18,6 +18,8 @@ https://github.com/vufa/deepin-wine-qq-arch/issues/27
 
 https://www.bilibili.com/read/cv12914431
 
+modify dependency
+https://www.jianshu.com/p/30eb2778182b
 
 podman run -d --name qq \
     --device /dev/snd --ipc="host"\
