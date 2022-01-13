@@ -1,9 +1,25 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-08T18:42:04+08:00
+modified: 2022-01-14T01:36:26+08:00
 ---
 
 # Baidu Account Registration
+
+sms platform 1
+
+
+http://107.148.0.217:8011/index.php/index/login/getsms?projectid=4231398&phone=13049705657&key=27bd27f908b645a4
+http://107.148.0.217:8011/index.php/index/login/getsms?projectid=4231398&phone=13049705647&key=205ce85ceefc8c3e
+
+获取短信功能获取短信获取地址http://107.148.0.217:8011/index.php/index/login/getsms?projectid=4411792&phone=13049777657&key=e21oie8e379550da8请求方法GET响应成功code=1,message返回最新一条短信内容失败code=0,message返回错误信息{"code":1,"message":"您申请注册微博的验证码为：755437（30分钟内有效，如非本人操作请忽略或咨询4000960960，本条免费）。【微博】"}备注每次获取最新一条短信
+
+获取短信功能获取短信获取地址http://107.148.0.217:8011/index.php/index/login/getsms?projectid=4231398&phone=156788888821请求方法GET响应成功code=1,message返回最新一条短信内容失败code=0,message返回错误信息{"code":1,"message":"您申请注册微博的验证码为：755437（30分钟内有效，如非本人操作请忽略或
+
+sms platform 2
+
+地址：http://117.50.175.176/请求方式：POST示例：http://117.50.175.176/ POST type=getcode&token=xxx&id=xxx&account=xxx获取手机号 随机取码类型：type=getcodetoken：文本，登录返回的tokenproject：文本，项目idaccount：文本，账户释放手机号类型 ：type=getreleasePhoneNotoken：文本，登录返回的tokenphone：文本，手机号获取验证码类型 ：type=takemessagetoken：文本，登录返回的tokenproject：文本，项目idphone：文本，手机号account：文本，账户获取子账户余额类型：type=takemoneytoken：文本，登录返回的tokenaccount：文本，账户子账户登录，返回加密的token类型：type=aloginaccount：文本，账户password：文本，密码
+
+
 
 [27/6]生成成功:S_IQbNu0hFXIvT[10元]
 [27/5]生成成功:S_OC5VruqBCBAI[10元]
