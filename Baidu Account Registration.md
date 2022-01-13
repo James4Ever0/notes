@@ -1,6 +1,6 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-14T02:20:31+08:00
+modified: 2022-01-14T02:44:53+08:00
 ---
 
 # Baidu Account Registration
@@ -19,6 +19,11 @@ http://107.148.0.217:8011/index.php/index/login/getsms?projectid=4231398&phone=1
 获取短信功能获取短信获取地址http://107.148.0.217:8011/index.php/index/login/getsms?projectid=4231398&phone=156788888821请求方法GET响应成功code=1,message返回最新一条短信内容失败code=0,message返回错误信息{"code":1,"message":"您申请注册微博的验证码为：755437（30分钟内有效，如非本人操作请忽略或
 
 sms platform 2
+
+项目id1006
+
+API说明地址： http://www.sa4233.club:8543/api/v1编码：UTF-8提交方式：GET提交数据：地址&参数名1=值1....。例如登录的提交数据是：/login?&username=用户名&password=密码返回数据：所有API成功统一返回 {"code":0,"data":"参数",msg:"错误提示"}，失败统一返回{"code":7,"message":"没有可用号码"}。例如登录时提交了正确的用户密码，那么返回为{"code":0,"data":"fdbc9a5a56d11f880a17e5219be2eb48", "message":""}其中0表示是成功了，后面的fdbc9a5a56d11f880a17e5219be2eb48是API返回的token，如果提交了错误的账号密码，注意：每个获取到的号码都必须正确回馈数据。在获取手机号时，提示“没有可用号码“，请使用死循环每隔三秒钟请求一次手机号，没号了系统有监控会及时加号的。如果服务器返回”验证码还没有回来“，最好等待3秒后再次请求。当建议不要太频繁，系统负载过高的情况下会针对高并发用户临时封IP。登录方法[Login]网页地址： http://www.sa4233.club:8543/api/v1/login提交参数：username=用户名&password=密码调用实例：http://www.sa4233.club:8543/api/v1/login?username=用户名&password=密码返回值：{"code":0,"data":"token",msg:""} (token是重要的返回参数，后面所有的请求都要传这个参数值)返回值：{"code":7,"data":"",msg:"错误提示"}获取手机号[phone]网页地址： http://www.sa4233.club:8543/api/v1/phone提交参数：token=登录时返回的令牌 projectId=项目id调用实例：http://www.sa4233.club:8543/api/v1/phone?token=登录时返回的令牌&projectId=项目id返回值：{"code":0,"data":"phone",msg:""} (这代表成功获取到手机号码)返回值：{"code":7,"data":"",msg:"没有可用号码"}当返回 "没有可用号码" ，请过3秒后重新取号。当返回 "抱歉，您的余额不足请充值后再试" , 请及时充值等存在“余额不足”的字眼，请停止软件运行。获取验证码[message]网页地址： http://www.sa4233.club:8543/api/v1/message提交参数：token=登录时返回的令牌&phone=取出来的手机号&projectId=项目id调用实例： www.sa4233.club:8543/api/v1/message?token=登录时返回的令牌&phone=取出来的手机号&projectId=项目id返回值：{"code":0,"data":"验证码",msg:""}返回值：{"code":7,"data":"",msg:"错误信息"}回馈注册结果[result]网页地址： http://www.sa4233.club:8543/api/v1/result提交参数：token=登录时返回的令牌&phone=取出来的手机号&projectId=项目id&status=(1=成功 2=失败)回馈成功： www.sa4233.club:8543/api/v1/result?token=登录时返回的令牌&phone=取出来的手机号&projectId=项目id&status=(1=成功 2=失败)回馈失败： www.sa4233.club:8543/api/v1/result?token=登录时返回的令牌&phone=取出来的手机号&projectId=项目id&status=(1=成功 2=失败)返回值：{"code":0,"data":"ok",msg:""}返回值：{"code":7,"data":"",msg:"错误信息"}
+
 
 地址：http://117.50.175.176/请求方式：POST示例：http://117.50.175.176/ POST type=getcode&token=xxx&id=xxx&account=xxx获取手机号 随机取码类型：type=getcodetoken：文本，登录返回的tokenproject：文本，项目idaccount：文本，账户释放手机号类型 ：type=getreleasePhoneNotoken：文本，登录返回的tokenphone：文本，手机号获取验证码类型 ：type=takemessagetoken：文本，登录返回的tokenproject：文本，项目idphone：文本，手机号account：文本，账户获取子账户余额类型：type=takemoneytoken：文本，登录返回的tokenaccount：文本，账户子账户登录，返回加密的token类型：type=aloginaccount：文本，账户password：文本，密码
 
