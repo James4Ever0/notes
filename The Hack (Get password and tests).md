@@ -1,13 +1,13 @@
 ---
-created: 2021-12-22T13:45:58+08:00
-modified: 2022-01-11T02:45:24+08:00
+created: 2021-12-22T05:45:58+00:00
+modified: 2022-01-12T02:21:25+00:00
 ---
 
 # The Hack (Get password and tests)
 
 Scan this website with kali linux.
 
-The Intranet Gateway For Campus:
+The Intranet Gateway For Campus: (maybe less hops?)
 https://app.topsec.com.cn
 
 mitmdump --mode socks5 --listen-port 8050 -w logs.log --flow-detail 3 --set stream_websocket=true
@@ -32,6 +32,8 @@ missing puzzle for changing password:
 trial user:
 201960249
 
+found russia hacker's kali tool site: https://en.kali.tools/all/
+
 apparently we have some issue with log4j and this could be our way in, the damn server.
 
 sniffing the whole damn campus is only possible if we know how to get into the same subnet of all people.
@@ -42,7 +44,7 @@ to get all site links with proper titles, we need to use playwright.
 
 nessus scanner has that 16 ips limitation, we need to crack/patch it first.
 
-to master kali linux, recommend to scrape kali_tools and tutorialspoint for kali, or just simply using manpage.
+to master kali linux, recommend to scrape kali_tools (https://tools.kali.org/) and tutorialspoint (https://www.tutorialspoint.com/kali_linux/index.htm) for kali, or just simply using manpage.
 
 cisco router is untouched till now. need we to scan it?
 (intermediate ip addresses)
