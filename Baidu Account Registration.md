@@ -1,9 +1,13 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-14T02:44:53+08:00
+modified: 2022-01-14T22:02:45+08:00
 ---
 
 # Baidu Account Registration
+
+远程地址:bh49.84684.net:49003 
+　　管理员:administrator密码:fsfs5214 
+　　拨号帐号：801097密码825697
 
 sms platform 1
 
