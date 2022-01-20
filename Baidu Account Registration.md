@@ -1,9 +1,12 @@
 ---
 created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-14T22:02:45+08:00
+modified: 2022-01-20T17:11:18+08:00
 ---
 
 # Baidu Account Registration
+
+http://app.sendsmscode.com/index/loginnew/getsms?
+projectid=4231398&phone=15601041101&key=acbc178db5349222adde7c785cde3d2d3019382524
 
 远程地址:bh49.84684.net:49003 
 　　管理员:administrator密码:fsfs5214 
