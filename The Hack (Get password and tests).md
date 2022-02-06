@@ -1,9 +1,12 @@
 ---
 created: 2021-12-22T05:45:58+00:00
-modified: 2022-01-12T02:21:25+00:00
+modified: 2022-02-06T17:11:24+00:00
 ---
 
 # The Hack (Get password and tests)
+
+portal (even in the internet):
+http://202.121.255.3:8080/portal
 
 Scan this website with kali linux.
 
