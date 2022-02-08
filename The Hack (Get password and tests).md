@@ -1,11 +1,23 @@
 ---
 created: 2021-12-22T05:45:58+00:00
-modified: 2022-02-08T09:28:16+00:00
+modified: 2022-02-08T09:31:04+00:00
 ---
 
 # The Hack (Get password and tests)
 
 dirbuster has found something over  "http://oa.lixin.edu.cn//test/"
++ http://oa.lixin.edu.cn//admin (CODE:301|SIZE:237)                            
++ http://oa.lixin.edu.cn//css (CODE:301|SIZE:235)                              
++ http://oa.lixin.edu.cn//help (CODE:301|SIZE:236)                             
++ http://oa.lixin.edu.cn//images (CODE:301|SIZE:238)                           
++ http://oa.lixin.edu.cn//js (CODE:301|SIZE:234)                               
++ http://oa.lixin.edu.cn//setup (CODE:301|SIZE:237)                            
++ http://oa.lixin.edu.cn//template (CODE:301|SIZE:240)                         
++ http://oa.lixin.edu.cn//test (CODE:301|SIZE:236)                             
++ http://oa.lixin.edu.cn///admin (CODE:301|SIZE:237)                           
++ http://oa.lixin.edu.cn///help (CODE:301|SIZE:236)                            
++ http://oa.lixin.edu.cn///images (CODE:301|SIZE:238)                          
++ http://oa.lixin.edu.cn///script (CODE:301|SIZE:238)  
 
 suspicious:
 http://oa.lixin.edu.cn/oanew/sys/taskcenterapp/*default/index.do
