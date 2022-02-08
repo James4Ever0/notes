@@ -1,9 +1,11 @@
 ---
 created: 2021-12-22T05:45:58+00:00
-modified: 2022-02-06T20:39:59+00:00
+modified: 2022-02-08T09:28:16+00:00
 ---
 
 # The Hack (Get password and tests)
+
+dirbuster has found something over  "http://oa.lixin.edu.cn//test/"
 
 suspicious:
 http://oa.lixin.edu.cn/oanew/sys/taskcenterapp/*default/index.do
