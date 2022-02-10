@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T16:01:51+08:00
+modified: 2022-02-10T16:06:07+08:00
 ---
 
 # Python Media Automation
@@ -41,4 +41,4 @@ hands on the approach, no matter it is inspired by anyone or anything, it is tim
 
 not a pipe, but a loop.
 
-we demonstrate the loop using fake data, then the real ones. maybe the initial topic is also meant to be fake data.
+we demonstrate the loop using fake data, then the real ones. maybe the initial topic is also meant to be fake data. the real world data is too stochastic for us to imagine. better construct something specific.
