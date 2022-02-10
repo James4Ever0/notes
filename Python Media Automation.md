@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:14:14+08:00
+modified: 2022-02-10T15:14:59+08:00
 ---
 
 # Python Media Automation
@@ -12,3 +12,5 @@ granualize every step, showing all possibilities to get content created and then
 
 filter approach:
 establish some topics, create topic specific approaches to arrange the content, choose the best among all topics.
+
+are they compatible? are you sure it is modular, scalable and extensible?
