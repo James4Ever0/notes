@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:42:03+08:00
+modified: 2022-02-10T15:43:34+08:00
 ---
 
 # Python Media Automation
@@ -30,3 +30,4 @@ the model of interests, which generates the topic, is the key breakdown approach
 anatomy of the post:
 first thing it would be postable, according to our mandatory order. it would not be taken down or banned for a long time. banning detection is required and usually simple to test against.
 second it is most profitable. we only prefer those tasks which give the most output. occasionly we choose something fresh despite lower expectations.
+third it would be resourceful. consistently pinning audience in a series of videos is undoubtably competitent.
