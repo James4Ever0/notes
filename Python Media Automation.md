@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:30:35+08:00
+modified: 2022-02-10T15:35:43+08:00
 ---
 
 # Python Media Automation
@@ -25,4 +25,4 @@ let's assume our topic is about pets on weibo. pets have different kinds and the
 
 breakdown approach is demostrated first-hand with our actor-critic model. we first view all possible posts from all sources, find what's interesting and repost it to our target platform. this is likely to be cheating. we again choose our sources, our approach of modification based on feedback. topics are generated from the very first step.
 
-the model of interests, which generates the topic, is the key breakdown approach. we have to eventually construct a breakdown approach to boost our searches in every aspect.
+the model of interests, which generates the topic, is the key breakdown approach. we have to eventually construct a breakdown approach to boost our searches in every aspect. feedback is one of those key features.
