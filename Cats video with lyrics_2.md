@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T20:53:06+08:00
-modified: 2022-02-10T16:15:26+08:00
+modified: 2022-02-10T16:37:28+08:00
 ---
 
 # Cats video with lyrics (Algorithm)
@@ -32,3 +32,5 @@ we need feedback. we need this since this is how we try things.
 anything can be hackish, especially for this damn "we media". anything can be popular, from basic bash script to regular expressions, based on how you looking at it. we shall not feed our audience full of something than another unless we know for sure it is our target.
 
 it is the power of the mirror! the feedback!
+
+create a fake, dummy project full of skeletons and then realize every step till we are done.
