@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:19:53+08:00
+modified: 2022-02-10T15:20:14+08:00
 ---
 
 # Python Media Automation
@@ -19,4 +19,4 @@ for novices, they have few unpolished ideas and waiting to realize it using code
 
 to avoid copyright issues search for google.
 
-topic based approach assues the public always have something in common and thus you only search specific things at first hand.
+topic based approach assues the public always have something in common and thus you only search specific things at first hand. they are easy to control, static and consistent.
