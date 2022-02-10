@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:56:54+08:00
+modified: 2022-02-10T16:00:42+08:00
 ---
 
 # Python Media Automation
@@ -40,3 +40,5 @@ have not yet found anything systematic on giving the full detail of such automat
 hands on the approach, no matter it is inspired by anyone or anything, it is time to begin, to complete the feedback loop.
 
 not a pipe, but a loop.
+
+we demonstrate the loop using fake data, then the real ones.
