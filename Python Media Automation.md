@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:53:32+08:00
+modified: 2022-02-10T15:55:28+08:00
 ---
 
 # Python Media Automation
@@ -38,3 +38,5 @@ third it would be resourceful. consistently pinning audience in a series of vide
 have not yet found anything systematic on giving the full detail of such automated content creation system. we only pick up those pieces. it is important to make the entire design flexible and create miniature tests to fabricate the system. like any other famous writer/director, you could only name it but not reproduce it.
 
 hands on the approach, no matter it is inspired by anyone or anything, it is time to begin, to complete the feedback loop.
+
+to begin our feedback loop we had better create fake data despite our very few knowledge on the real world.
