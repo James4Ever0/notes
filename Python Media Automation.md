@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:44:39+08:00
+modified: 2022-02-10T15:45:00+08:00
 ---
 
 # Python Media Automation
@@ -28,6 +28,9 @@ breakdown approach is demostrated first-hand with our actor-critic model. we fir
 the model of interests, which generates the topic, is the key breakdown approach. we have to eventually construct a breakdown approach to boost our searches in every aspect. feedback is one of those key features. we eventually have to view the content with the machine. suggest using the breakdown approach now.
 
 anatomy of the post:
+
 first thing it would be postable, according to our mandatory order. it would not be taken down or banned for a long time. banning detection is required and usually simple to test against.
+
 second it is most profitable. we only prefer those tasks which give the most output. occasionly we choose something fresh despite lower expectations.
+
 third it would be resourceful. consistently pinning audience in a series of videos is undoubtably competitent. this can be reached by utilizing our creativity engine based on comments and imagination, realize the unrealized.
