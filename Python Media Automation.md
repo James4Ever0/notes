@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:26:23+08:00
+modified: 2022-02-10T15:29:07+08:00
 ---
 
 # Python Media Automation
@@ -23,4 +23,6 @@ topic based approach assues the public always have something in common and thus 
 
 let's assume our topic is about pets on weibo. pets have different kinds and the content creaters are different from each other. all we do is to download and upload. we get descriptions from our viewers, video play counts and various feedback. we improve the source by our feedback, searching for more untouched contents and more mixes like video/audio crossing.
 
-breakdown approach is demostrated first-hand with our actor-critic model. we first view all possible posts from all sources, find what's interesting and repost it to our target platform. this is likely to be cheating.
+breakdown approach is demostrated first-hand with our actor-critic model. we first view all possible posts from all sources, find what's interesting and repost it to our target platform. this is likely to be cheating. we again choose our sources, our approach of modification based on feedback. topics are generated from the very first step.
+
+the model of interests, which generates the topic, is the key breakdown approach.
