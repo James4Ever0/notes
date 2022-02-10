@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T20:53:06+08:00
-modified: 2022-02-10T16:07:51+08:00
+modified: 2022-02-10T16:10:35+08:00
 ---
 
 # Cats video with lyrics (Algorithm)
@@ -28,3 +28,5 @@ initFeed({"status":0,"msg":"success","keywords":["明星"],"data":{"feed1":[{"us
 we need videos. you download it from baidu ai cloud.
 
 we need feedback. we need this since this is how we try things.
+
+anything can be hackish, especially for this damn "we media". anything can be popular, from basic bash script to regular expressions, based on how you looking at it.
