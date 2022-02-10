@@ -1,6 +1,6 @@
 ---
 created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T15:45:00+08:00
+modified: 2022-02-10T15:47:12+08:00
 ---
 
 # Python Media Automation
@@ -34,3 +34,5 @@ first thing it would be postable, according to our mandatory order. it would not
 second it is most profitable. we only prefer those tasks which give the most output. occasionly we choose something fresh despite lower expectations.
 
 third it would be resourceful. consistently pinning audience in a series of videos is undoubtably competitent. this can be reached by utilizing our creativity engine based on comments and imagination, realize the unrealized.
+
+have not yet found anything systematic on giving the full detail of such automated content creation system. we only pick up those pieces. it is important to make the entire design flexible and create miniature tests to fabricate the system.
