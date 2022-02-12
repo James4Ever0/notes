@@ -1,11 +1,13 @@
 ---
-created: 2022-02-10T15:11:00+08:00
-modified: 2022-02-10T16:06:07+08:00
+created: 2022-02-10T07:11:00+00:00
+modified: 2022-02-12T15:21:48+00:00
 ---
 
 # Python Media Automation
 
 we first see the world, get the observation and respond in the form of content. it is a feedback loop.
+
+to search components in videos, first take screenshots then do image search, then use the keywords to get the source video.
 
 breakdown approach:
 granualize every step, showing all possibilities to get content created and then optimoze it using standards.
