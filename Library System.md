@@ -1,6 +1,6 @@
 ---
 created: 2022-02-18T16:30:33+08:00
-modified: 2022-02-18T16:31:36+08:00
+modified: 2022-02-18T16:32:51+08:00
 ---
 
 # Library System
@@ -10,3 +10,5 @@ https://blog.csdn.net/cnmlgbnbcs/article/details/110643393?ops_request_misc=%257
 with database. without specific data.
 
 with entity-relation diagram
+
+3302162875@qq.com
