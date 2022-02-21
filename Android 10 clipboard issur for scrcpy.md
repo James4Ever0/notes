@@ -1,9 +1,11 @@
 ---
 created: 2022-02-21T19:44:30+08:00
-modified: 2022-02-21T21:21:26+08:00
+modified: 2022-02-21T21:23:52+08:00
 ---
 
 # Android 10 clipboard issue for scrcpy
+
+com.github.kr328.clipboard.ClipboardProxy.getPrimaryClip
 
 Magisk Module:
 Riru - Clipboard Whitelist
