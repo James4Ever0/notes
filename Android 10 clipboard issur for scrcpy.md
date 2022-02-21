@@ -1,6 +1,6 @@
 ---
 created: 2022-02-21T19:44:30+08:00
-modified: 2022-02-21T21:21:00+08:00
+modified: 2022-02-21T21:21:26+08:00
 ---
 
 # Android 10 clipboard issue for scrcpy
@@ -12,6 +12,10 @@ will white list clipboard manager app.
 https://github.com/Kr328/Riru-ClipboardWhitelist
 
 https://t.me/kr328_riru_modules
+
+script.sh:
+
+scrcpy -K -S 2>&1 | python3 reader.py
 
 reader.py:
 
