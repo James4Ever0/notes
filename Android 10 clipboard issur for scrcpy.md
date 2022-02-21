@@ -1,9 +1,9 @@
 ---
 created: 2022-02-21T19:44:30+08:00
-modified: 2022-02-21T19:44:53+08:00
+modified: 2022-02-21T19:45:01+08:00
 ---
 
-# Android 10 clipboard issur for scrcpy
+# Android 10 clipboard issue for scrcpy
 
 Magisk Module:
 Riru - Clipboard Whitelist
