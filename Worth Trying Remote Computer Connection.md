@@ -1,6 +1,6 @@
 ---
 created: 2022-03-04T23:13:13+08:00
-modified: 2022-03-05T18:11:46+08:00
+modified: 2022-03-05T22:59:24+08:00
 ---
 
 # Worth Trying Remote Computer Connection
@@ -14,3 +14,5 @@ somehow usable on localhost:
 
 x11vnc -localhost -display :0 -threads -forever
 vncviewer -PreferredEncoding=ZRLE localhoat:0
+
+sunshine host for windows/linux
