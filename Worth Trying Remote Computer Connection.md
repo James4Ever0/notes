@@ -1,6 +1,6 @@
 ---
 created: 2022-03-04T23:13:13+08:00
-modified: 2022-03-06T00:13:32+08:00
+modified: 2022-03-06T14:53:48+08:00
 ---
 
 # Worth Trying Remote Computer Connection
@@ -21,3 +21,6 @@ https://github.com/SunshineStream/Sunshine/blob/master/README.md#macos
 https://github.com/loki-47-6F-64/sunshine
 openstream-server a fork of sunshine
 https://open-stream.net/
+
+synergy mouse keyboard sharing tool
+https://github.com/SunshineStream/Sunshine/blob/master/README.md#macos
