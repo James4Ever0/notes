@@ -1,6 +1,6 @@
 ---
 created: 2022-03-04T23:13:13+08:00
-modified: 2022-03-06T15:31:24+08:00
+modified: 2022-03-06T16:58:33+08:00
 ---
 
 # Worth Trying Remote Computer Connection
@@ -25,4 +25,4 @@ https://open-stream.net/
 synergy mouse keyboard sharing tool
 ssh -X/-Y allowX11forwarding
 
-hardware solution: kvm switch
+hardware solution: kvm switch (high grade with audio redirection separate usb ports)
