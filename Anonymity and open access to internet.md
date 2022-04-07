@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-07T21:02:06+08:00
+modified: 2022-04-07T21:04:00+08:00
 ---
 
 # Anonymity and open access to internet
@@ -14,3 +14,7 @@ lucktu.com supernode.ml
 sef-hosted vps that can be paid:
 
 https://github.com/xiaoming2028/FreePAC/wiki/Hostwinds、搬瓦工、Hostinger、vutlr-四家VPS主机商速度对比测评
+
+working providers:
+
+lantern, tor, xx-net, tulingx, geph4
