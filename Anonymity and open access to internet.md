@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T02:12:14+08:00
+modified: 2022-04-08T02:16:58+08:00
 ---
 
 # Anonymity and open access to internet
@@ -9,7 +9,15 @@ use tor browser, tor daemon.
 
 openit.ml
 
+https://www.v2rayfree.eu.org
+
+https://github.com/aiboboxx/v2rayfree
+
 learn keywords and search them against given platforms
+
+ermaozi/get_subscribe
+
+https://github.com/ermaozi/get_subscribe
 
 https://fanqiangdang.com
 
