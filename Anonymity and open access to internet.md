@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T02:25:22+08:00
+modified: 2022-04-08T02:28:02+08:00
 ---
 
 # Anonymity and open access to internet
@@ -9,6 +9,7 @@ use tor browser, tor daemon.
 
 openit.ml
 
+popular tutorial:
 https://github.com/Alvin9999/new-pac
 
 https://www.v2rayfree.eu.org
