@@ -1,11 +1,24 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T03:24:45+08:00
+modified: 2022-04-08T03:25:53+08:00
 ---
 
 # Anonymity and open access to internet
 
 use tor browser, tor daemon.
+
+
+###mirror
+Google镜像  
+http://ac.scmor.com
+https://google.jiongjun.cc
+https://g.zmirrordemo.com
+https://www.gotype.tk
+http://www.hlhmf.com/
+YouTube镜像
+https://ytb-pc.zmirrordemo.com
+https://youtube.speeder.cf/ （登陆密码和账号都是speeder.club）
+http://wall.qiqiblog.cn
 
 ###############
 curated list:
