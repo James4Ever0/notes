@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T03:13:17+08:00
+modified: 2022-04-08T03:14:58+08:00
 ---
 
 # Anonymity and open access to internet
@@ -8,6 +8,9 @@ modified: 2022-04-08T03:13:17+08:00
 use tor browser, tor daemon.
 
 openit.ml
+
+don't know how it was updated. i have removed google ads with lucky patcher:
+https://github.com/bannedbook/v2ray.vpn
 
 https://github.com/hoochanlon/w3-goto-world
 
