@@ -1,12 +1,41 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T03:25:53+08:00
+modified: 2022-04-08T03:28:40+08:00
 ---
 
 # Anonymity and open access to internet
 
 use tor browser, tor daemon.
 
+###proxies
+web代理
+https://proxybrowser.xyz/
+https://github.com/EtherDream/jsproxy/
+https://demo.glyptodon.com
+http://webproxy.to/
+https://www.rabb.it
+https://weboas.is/
+https://www.anyproxy.cn
+https://www.anyproxy.top (挂了)
+https://cn.bing.com/translator/ (挂了)
+https://proxy.zagon.net.pe
+https://www.croxyproxy.com
+https://unblocksite.site/
+代理网址服务器列表
+代理服务器列表的使用
+
+https://hoochanlon.github.io/fq-book/#/only/gatherproxy
+
+http://free-proxy.cz
+http://www.freeproxylists.net
+http://free-proxy-list.net
+http://www.my-proxy.com/free-proxy-list.html
+http://www.proxylists.net
+http://sockslist.net
+http://www.myiptest.com/staticpages/index.php/Free-SOCKS5-SOCKS4-Proxy-lists.html
+http://www.proxyfire.net/index.php?pageid=ProxyLists
+http://www.samair.ru/proxy
+http://www.gatherproxy.com/
 
 ###mirror
 Google镜像  
