@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-07T21:04:00+08:00
+modified: 2022-04-08T00:10:26+08:00
 ---
 
 # Anonymity and open access to internet
@@ -18,3 +18,7 @@ https://github.com/xiaoming2028/FreePAC/wiki/Hostwinds、搬瓦工、Hostinger�
 working providers:
 
 lantern, tor, xx-net, tulingx, geph4
+
+https://t.me/tor_bridges
+
+builtin obfs4 bridges
