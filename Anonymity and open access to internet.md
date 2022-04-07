@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T02:28:02+08:00
+modified: 2022-04-08T03:13:17+08:00
 ---
 
 # Anonymity and open access to internet
@@ -8,6 +8,13 @@ modified: 2022-04-08T02:28:02+08:00
 use tor browser, tor daemon.
 
 openit.ml
+
+https://github.com/hoochanlon/w3-goto-world
+
+https://github.com/oslook/clash-freenode
+
+auto scraping vmess links
+https://github.com/zu1k/proxypool
 
 popular tutorial:
 https://github.com/Alvin9999/new-pac
