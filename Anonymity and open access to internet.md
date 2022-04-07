@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T01:53:14+08:00
+modified: 2022-04-08T02:12:14+08:00
 ---
 
 # Anonymity and open access to internet
@@ -10,6 +10,8 @@ use tor browser, tor daemon.
 openit.ml
 
 learn keywords and search them against given platforms
+
+https://fanqiangdang.com
 
 p2p vpn:
 
