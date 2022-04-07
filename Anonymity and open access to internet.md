@@ -1,14 +1,23 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T03:16:15+08:00
+modified: 2022-04-08T03:21:06+08:00
 ---
 
 # Anonymity and open access to internet
 
 use tor browser, tor daemon.
 
+tutorial:
+https://hoochanlon.github.io/fq-book/#/
+https://github.com/hoochanlon/fq-book
+
 new github mirror:
 https://hub.fastgit.xyz
+
+# 下载链接 raw.githubusercontent.com 的实际地址
+codeload.github.com
+
+raw.githubusercontent.com 替换raw.staticdn.net
 
 openit.ml
 
