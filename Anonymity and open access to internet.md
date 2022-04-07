@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T01:43:03+08:00
+modified: 2022-04-08T01:53:14+08:00
 ---
 
 # Anonymity and open access to internet
@@ -8,6 +8,8 @@ modified: 2022-04-08T01:43:03+08:00
 use tor browser, tor daemon.
 
 openit.ml
+
+learn keywords and search them against given platforms
 
 p2p vpn:
 
