@@ -1,11 +1,15 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T13:12:11+08:00
+modified: 2022-04-08T18:19:36+08:00
 ---
 
 # Anonymity and open access to internet
 
 use tor browser, tor daemon.
+
+clash needs clash.yaml.
+
+trojan's igniter supports one link only.
 
 https://github.com/YoulianBoshi/lantern-vpn
 
