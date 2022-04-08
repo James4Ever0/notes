@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T12:19:41+08:00
+modified: 2022-04-08T12:20:55+08:00
 ---
 
 # Anonymity and open access to internet
@@ -8,6 +8,9 @@ modified: 2022-04-08T12:19:41+08:00
 use tor browser, tor daemon.
 
 it was seen that freefq/free is resourceful. it scrapes from all locations.
+
+https://git.io/v2free
+https://git.io/jmsgo
 
 ##shared paid v2ray recommendation
 https://github.com/wantToDoSomeThing/ssSSRV2rayClashTrojan
