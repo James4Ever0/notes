@@ -1,11 +1,14 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T03:30:47+08:00
+modified: 2022-04-08T12:18:51+08:00
 ---
 
 # Anonymity and open access to internet
 
 use tor browser, tor daemon.
+
+##shared v2ray recommendation
+https://github.com/wantToDoSomeThing/ssSSRV2rayClashTrojan
 
 ###misc
 连接chrome商店的好帮手：http://googlehelper.net/
