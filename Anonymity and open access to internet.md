@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T18:45:54+08:00
+modified: 2022-04-08T18:46:15+08:00
 ---
 
 # Anonymity and open access to internet
@@ -9,7 +9,7 @@ use tor browser, tor daemon.
 still know nothing on torrc and the obfs4 bridges since none of these works, on linux.
 maybe snowflake would help?
 
-can we connect to tor with tor browser? we can launch the instance, check avaliability and then move on.
+can we connect to tor with tor browser? we can launch the instance, check avaliability and then move on, with socks5 direct connection.
 
 clash needs clash.yaml.
 
