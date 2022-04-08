@@ -1,11 +1,13 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T12:20:55+08:00
+modified: 2022-04-08T13:12:11+08:00
 ---
 
 # Anonymity and open access to internet
 
 use tor browser, tor daemon.
+
+https://github.com/YoulianBoshi/lantern-vpn
 
 it was seen that freefq/free is resourceful. it scrapes from all locations.
 
