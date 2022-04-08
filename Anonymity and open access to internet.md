@@ -1,12 +1,13 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T18:44:35+08:00
+modified: 2022-04-08T18:44:57+08:00
 ---
 
 # Anonymity and open access to internet
 
 use tor browser, tor daemon.
 still know nothing on torrc and the obfs4 bridges since none of these works, on linux.
+maybe snowflake would help?
 
 clash needs clash.yaml.
 
