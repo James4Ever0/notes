@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-09T20:44:44+08:00
+modified: 2022-04-09T20:46:54+08:00
 ---
 
 # Anonymity and open access to internet
@@ -17,6 +17,23 @@ https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md
 https://github.com/anaer/Sub
 
 ##META PROXY POOLS##
+#1
+
+search for keywords:
+https://cn.bing.com/search?q=free+proxies+%E7%9B%AE%E5%89%8D%E5%85%B1%E6%9C%89%E6%8A%93%E5%8F%96%E6%BA%90
+
+https://fq.lonxin.net/
+https://hellopool.herokuapp.com/
+https://proxy.whuboy.com/
+https://baby-besitgift.com/
+http://111.229.220.110:5000/
+http://66.112.210.60.16clouds.com/
+http://149.248.8.112/
+https://free.kingfu.cf/
+https://proxy.yugogo.xyz/
+#2
+
+#3
 节点池
 未去重
 
