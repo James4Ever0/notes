@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-10T04:22:13+08:00
+modified: 2022-04-10T04:26:46+08:00
 ---
 
 # Anonymity and open access to internet
@@ -11,7 +11,7 @@ maybe snowflake would help?
 
 can we connect to tor with tor browser? we can launch the instance, check avaliability and then move on, with socks5 direct connection.
 
-inaccurate system time may prevent tor from starting.
+inaccurate system time may prevent tor from starting. the builtin tor bridges worked after i synced time with "ntpdate time.windows.com"
 
 have found multiple pools under github tag "clash". might found other pools with other tags.
 
