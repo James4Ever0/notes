@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-08T18:46:15+08:00
+modified: 2022-04-09T20:41:49+08:00
 ---
 
 # Anonymity and open access to internet
@@ -10,6 +10,13 @@ still know nothing on torrc and the obfs4 bridges since none of these works, on 
 maybe snowflake would help?
 
 can we connect to tor with tor browser? we can launch the instance, check avaliability and then move on, with socks5 direct connection.
+
+meta proxy pools:
+https://github.com/alanbobs999/TopFreeProxies
+https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md
+https://github.com/anaer/Sub
+
+
 
 clash needs clash.yaml.
 
