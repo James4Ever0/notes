@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-09T20:47:12+08:00
+modified: 2022-04-09T20:48:24+08:00
 ---
 
 # Anonymity and open access to internet
@@ -19,7 +19,7 @@ https://github.com/anaer/Sub
 ##META PROXY POOLS##
 #1
 
-search for keywords: (feature of proxypool spiders)
+search for keywords: (feature of proxypool spiders) free proxies 目前共有抓取源
 https://cn.bing.com/search?q=free+proxies+%E7%9B%AE%E5%89%8D%E5%85%B1%E6%9C%89%E6%8A%93%E5%8F%96%E6%BA%90
 
 https://fq.lonxin.net/
@@ -32,7 +32,29 @@ http://149.248.8.112/
 https://free.kingfu.cf/
 https://proxy.yugogo.xyz/
 #2
-
+节点来源
+pojiezhiyuanjun/freev2, 节点数量: 96
+chfchf0306/clash, 节点数量: 367
+xiyaowong/freeFQ, 节点数量: 170
+freefq/free, 节点数量: 51
+learnhard-cn/free_proxy_ss, 节点数量: 181
+vpei/Free-Node-Merge, 节点数量: 100
+colatiger/v2ray-nodes, 节点数量: 65
+oslook/clash-freenode, 节点数量: 59
+ssrsub/ssr, 节点数量: 40
+Leon406/SubCrawler, 节点数量: 829
+umelabs/node.umelabs.dev, 节点数量: 5
+yu-steven/openit, 节点数量: 0
+iwxf/free-v2ray, 节点数量: 14
+ldir92664/Vmess-Actions, 节点数量: 57
+Galaxy8053/v2ray, 节点数量: 0
+Jsnzkpg/Jsnzkpg, 节点数量: 185
+ermaozi/get_subscribe, 节点数量: 11
+wrfree/free, 节点数量: 51
+GreenFishStudio/GreenFish, 节点数量: 102
+v2raydy/v2ray, 节点数量: 125
+ObcbO/auto-subscribe, 节点数量: 12
+电报群分享(https://t.me/Jsnzk/4664)节点池, 节点数量: 557
 #3
 节点池
 未去重
