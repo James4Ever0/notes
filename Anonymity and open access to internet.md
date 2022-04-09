@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-09T20:49:36+08:00
+modified: 2022-04-10T04:22:13+08:00
 ---
 
 # Anonymity and open access to internet
@@ -10,6 +10,8 @@ still know nothing on torrc and the obfs4 bridges since none of these works, on 
 maybe snowflake would help?
 
 can we connect to tor with tor browser? we can launch the instance, check avaliability and then move on, with socks5 direct connection.
+
+inaccurate system time may prevent tor from starting.
 
 have found multiple pools under github tag "clash". might found other pools with other tags.
 
