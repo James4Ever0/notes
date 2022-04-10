@@ -1,6 +1,6 @@
 ---
 created: 2022-04-07T19:19:58+08:00
-modified: 2022-04-10T05:25:11+08:00
+modified: 2022-04-10T14:39:14+08:00
 ---
 
 # Anonymity and open access to internet
@@ -8,6 +8,15 @@ modified: 2022-04-10T05:25:11+08:00
 use tor browser, tor daemon.
 still know nothing on torrc and the obfs4 bridges since none of these works, on linux.
 maybe snowflake would help?
+
+related links:
+https://github.com/radio24/TorBox/blob/master/etc/tor/torrc
+https://github.com/radio24/TorBox/blob/master/meek-azure
+https://github.com/darknet-book/tor-guide
+https://gist.github.com/ciktion82/8ae82e292af8a7bdb2bcb8055a3b4fab
+https://github.com/ValdikSS/GoodbyeDPI/releases
+https://github.com/krlvm/PowerTunnel
+https://github.com/krlvm/LibertyTunnel
 
 meek-azure:
 Bridge meek 0.0.2.0:3 97700DFE9F483596DDA6264C4D7DF7641E1E39CE url=https://meek.azureedge.net/ front=ajax.aspnetcdn.com
