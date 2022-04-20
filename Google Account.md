@@ -1,6 +1,6 @@
 ---
 created: 2022-04-20T13:40:54+08:00
-modified: 2022-04-20T13:49:05+08:00
+modified: 2022-04-20T13:58:12+08:00
 ---
 
 # Google Account
@@ -15,7 +15,6 @@ XL#V4RdjD3cAd_oU7@aF1
 
 super1duper3germany3forever7@gmail.com
 0O2pd#3U1sd9jx5?JL7wm
-
 
 
 computer password:
