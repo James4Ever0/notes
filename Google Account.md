@@ -1,9 +1,9 @@
 ---
 created: 2022-04-20T13:40:54+08:00
-modified: 2022-04-20T13:58:12+08:00
+modified: 2022-04-20T13:58:16+08:00
 ---
 
-# Google Account
+# Google Accounts
 
 yoshihatsu74a9e3d51a04f6c5b8e3@gmail.com
 9xjz5yu2&0_dle7qdOpbr4#i
