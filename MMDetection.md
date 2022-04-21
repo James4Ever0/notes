@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T02:12:29+08:00
+modified: 2022-04-22T02:16:21+08:00
 ---
 
 # MMDetection/MMD
@@ -12,3 +12,6 @@ while rendering mmd can be done with mmd viewer like https://github.com/benikabo
 
 found other dedicated renderer for mmd, with bullet physics:
 https://github.com/jinfagang/mmc
+
+found interesting repo of poetry composing:
+https://github.com/jinfagang/tensorflow_poems
