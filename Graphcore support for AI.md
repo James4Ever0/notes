@@ -1,6 +1,6 @@
 ---
 created: 2022-04-21T11:33:07+08:00
-modified: 2022-04-21T11:49:41+08:00
+modified: 2022-04-21T11:50:52+08:00
 ---
 
 # Graphcore support for AI
@@ -22,3 +22,5 @@ with strategy.scope():
 
 paddlepaddle:
 https://github.com/graphcore/portfolio-examples/tree/master/paddlepaddle/bert-base
+
+https://github.com/graphcore/Paddle.git
