@@ -1,6 +1,6 @@
 ---
 created: 2022-04-21T11:33:07+08:00
-modified: 2022-04-21T11:50:52+08:00
+modified: 2022-04-21T12:05:03+08:00
 ---
 
 # Graphcore support for AI
@@ -24,3 +24,9 @@ paddlepaddle:
 https://github.com/graphcore/portfolio-examples/tree/master/paddlepaddle/bert-base
 
 https://github.com/graphcore/Paddle.git
+
+TensorFlow 1 & 2 support with full performant integration with TensorFlow XLA backend
+PyTorch support for targeting IPU using the PyTorch ATEN backend 
+PopART™ (Poplar Advanced Runtime) for training & inference; supports Python/C++ model building plus ONNX model input
+Full support for PaddlePaddle
+Other frameworks support coming soon
