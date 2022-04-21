@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T02:10:20+08:00
+modified: 2022-04-22T02:12:29+08:00
 ---
 
 # MMDetection/MMD
@@ -10,5 +10,5 @@ https://github.com/open-mmlab/mmdetection
 
 while rendering mmd can be done with mmd viewer like https://github.com/benikabocha/saba or could use renderer like blender or unity. we must bake physics before dancing.
 
-found other dedicated renderer for mmd:
+found other dedicated renderer for mmd, with bullet physics:
 https://github.com/jinfagang/mmc
