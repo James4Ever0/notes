@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T02:16:21+08:00
+modified: 2022-04-22T02:20:38+08:00
 ---
 
 # MMDetection/MMD
@@ -15,3 +15,6 @@ https://github.com/jinfagang/mmc
 
 found interesting repo of poetry composing:
 https://github.com/jinfagang/tensorflow_poems
+
+mediapipe alike:
+https://pypi.org/project/alfred-py/
