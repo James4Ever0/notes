@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T02:21:01+08:00
+modified: 2022-04-22T03:08:02+08:00
 ---
 
 # MMDetection/MMD
@@ -18,3 +18,6 @@ https://github.com/jinfagang/tensorflow_poems
 
 mediapipe/paddlevideo alike:
 https://pypi.org/project/alfred-py/
+
+three.js has multiple loaders:
+https://github.com/mrdoob/three.js/tree/dev/examples/js/loaders
