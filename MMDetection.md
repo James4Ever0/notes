@@ -1,11 +1,13 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-23T00:14:16+08:00
+modified: 2022-04-23T00:42:52+08:00
 ---
 
 # MMDetection/MMD
 
 if we can re-trace the action/expression done by vtubers, we can monetize those "highlight cuts".
+
+you can firstly find points in datasets and then generate mmd videos, and then create trainset. you can also generate pose from raw video and then create dataset.
 
 found occasionally when browsing MMD, but found this with so many stars, which is an instance detection/segmentation library.
 https://github.com/open-mmlab/mmdetection
