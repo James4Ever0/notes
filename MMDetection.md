@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T13:31:35+08:00
+modified: 2022-04-22T13:32:44+08:00
 ---
 
 # MMDetection/MMD
@@ -32,3 +32,6 @@ music based dance:
 https://github.com/DeepVTuber/DanceNet3D
 https://github.com/ColbyZhuang/music2dance_DanceNet
 https://github.com/caijianfei/Music2Dance
+
+characters:
+https://www.mixamo.com/#/?page=1&type=Character
