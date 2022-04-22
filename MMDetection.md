@@ -1,9 +1,11 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T13:32:44+08:00
+modified: 2022-04-23T00:14:16+08:00
 ---
 
 # MMDetection/MMD
+
+if we can re-trace the action/expression done by vtubers, we can monetize those "highlight cuts".
 
 found occasionally when browsing MMD, but found this with so many stars, which is an instance detection/segmentation library.
 https://github.com/open-mmlab/mmdetection
