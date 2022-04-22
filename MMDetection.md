@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T03:08:54+08:00
+modified: 2022-04-22T12:54:02+08:00
 ---
 
 # MMDetection/MMD
@@ -22,3 +22,6 @@ https://pypi.org/project/alfred-py/
 three.js has multiple loaders:
 https://github.com/mrdoob/three.js/tree/dev/examples/js/loaders
 https://github.com/hanakla/three-mmd-loader
+
+render MMD using saba lib:
+https://github.com/WLiangJun/MMD-Desktop-mascot
