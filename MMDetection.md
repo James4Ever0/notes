@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T12:54:02+08:00
+modified: 2022-04-22T13:12:25+08:00
 ---
 
 # MMDetection/MMD
@@ -25,3 +25,5 @@ https://github.com/hanakla/three-mmd-loader
 
 render MMD using saba lib:
 https://github.com/WLiangJun/MMD-Desktop-mascot
+
+https://github.com/miu200521358/expose_mmd/fork
