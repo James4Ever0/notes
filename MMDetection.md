@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-22T13:18:36+08:00
+modified: 2022-04-22T13:21:43+08:00
 ---
 
 # MMDetection/MMD
@@ -30,3 +30,4 @@ https://github.com/miu200521358/expose_mmd/fork
 
 music based dance:
 https://github.com/DeepVTuber/DanceNet3D
+https://github.com/ColbyZhuang/music2dance_DanceNet
