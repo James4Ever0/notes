@@ -1,9 +1,11 @@
 ---
 created: 2022-04-26T04:54:07+08:00
-modified: 2022-04-26T05:02:42+08:00
+modified: 2022-04-26T05:04:22+08:00
 ---
 
 # Userscript and info/data collection
+
+for site collection list you could just search for it.
 
 found a repo full of userscripts:
 https://github.com/XIU2/UserScript
