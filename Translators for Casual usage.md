@@ -1,9 +1,9 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:15:59+08:00
+modified: 2022-04-29T23:16:08+08:00
 ---
 
-# Translators for Casual usage
+# Translators for casual usage
 
 文言文
 https://github.com/raynardj/yuan
