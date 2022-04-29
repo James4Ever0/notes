@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:38:57+08:00
+modified: 2022-04-29T23:42:30+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -9,6 +9,9 @@ paraphraser
 https://pypi.org/project/genienlp/
 https://github.com/salesforce/decaNLP
 parrot paraphraser
+https://pypi.org/project/lexsub/
+https://github.com/hit-joseph/lexical-paraphrase-extraction
+synonyms (python library)
 
 you can also train a contextual search tool using fine-tuned repurposed paraphrase model.
 https://pypi.org/project/nlp-text-search/
