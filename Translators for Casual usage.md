@@ -1,9 +1,13 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:46:54+08:00
+modified: 2022-04-30T01:22:52+08:00
 ---
 
 # Translators/Paraphraser for casual usage
+
+language fluency test:
+
+https://github.com/baojunshan/nlp-fluency
 
 many paraphraser models for english are on huggingface, but few for chinese.
 
