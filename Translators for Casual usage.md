@@ -1,9 +1,14 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:26:48+08:00
+modified: 2022-04-29T23:36:40+08:00
 ---
 
-# Translators for casual usage
+# Translators/Paraphraser for casual usage
+
+paraphraser
+https://pypi.org/project/genienlp/
+https://github.com/salesforce/decaNLP
+parrot paraphraser
 
 文言文
 https://github.com/raynardj/yuan
