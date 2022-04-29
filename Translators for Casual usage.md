@@ -1,12 +1,13 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:43:01+08:00
+modified: 2022-04-29T23:46:54+08:00
 ---
 
 # Translators/Paraphraser for casual usage
 
-paraphraser
+many paraphraser models for english are on huggingface, but few for chinese.
 
+https://huggingface.co/lijingxin/mt5-for-zh-paraphrase
 https://pypi.org/project/genienlp/
 https://github.com/salesforce/decaNLP
 parrot paraphraser
