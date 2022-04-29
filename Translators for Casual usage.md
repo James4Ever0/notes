@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:14:59+08:00
+modified: 2022-04-29T23:15:59+08:00
 ---
 
 # Translators for Casual usage
@@ -16,6 +16,7 @@ huggingface有英语翻译到其他语言的模型 没有翻译成中文的模�
 在线
 https://github.com/nidhaloff/deep-translator
 https://github.com/UlionTse/translators
+translatepy
 
 离线
 https://huggingface.co/tasks/translation
