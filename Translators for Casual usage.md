@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:16:08+08:00
+modified: 2022-04-29T23:26:48+08:00
 ---
 
 # Translators for casual usage
@@ -28,3 +28,5 @@ https://github.com/xhlulu/dl-translate/
 facebook/mbart-large-50-many-to-many-mmt
 mbart50
 m2m100
+
+view under https://huggingface.co/tasks to see great models fitting exact needs.
