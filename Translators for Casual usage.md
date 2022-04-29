@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-04-29T23:05:57+08:00
+modified: 2022-04-29T23:14:59+08:00
 ---
 
 # Translators for Casual usage
@@ -15,3 +15,15 @@ huggingface有英语翻译到其他语言的模型 没有翻译成中文的模�
 
 在线
 https://github.com/nidhaloff/deep-translator
+https://github.com/UlionTse/translators
+
+离线
+https://huggingface.co/tasks/translation
+https://huggingface.co/Helsinki-NLP/opus-mt-zh-en
+https://github.com/argosopentech/argos-translate
+libretranslate
+https://github.com/Teuze/translate
+https://github.com/xhlulu/dl-translate/
+facebook/mbart-large-50-many-to-many-mmt
+mbart50
+m2m100
