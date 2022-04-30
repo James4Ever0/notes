@@ -1,14 +1,22 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-04-30T23:15:37+08:00
+modified: 2022-04-30T23:39:05+08:00
 ---
 
 # gpt-2 ram requirements
 
 for monsterious models, distributed training in pytorch, or deepspeed, fairscale is needed. no single gpu is able to hold gpt3-175B at once.
 
+https://github.com/eladrich/pixel2style2pixel
 https://github.com/EleutherAI/gpt-neox
 https://www.eleuther.ai
+
+training turing-nlg:
+https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/
+
+cited from deepspeed:
+
+Extremely memory efficient: With just a single GPU, ZeRO-Offload of DeepSpeed can train models with over 10B parameters, 10x bigger than the state of the art, democratizing multi-billion-parameter model training such that many deep learning scientists can explore bigger and better models.
 
 need p40/m40 which has 24gb vram. need at least 60gb ram to load model.
 
