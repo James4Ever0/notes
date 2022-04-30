@@ -1,6 +1,6 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-04-30T23:14:16+08:00
+modified: 2022-04-30T23:15:37+08:00
 ---
 
 # gpt-2 ram requirements
@@ -8,6 +8,7 @@ modified: 2022-04-30T23:14:16+08:00
 for monsterious models, distributed training in pytorch, or deepspeed, fairscale is needed. no single gpu is able to hold gpt3-175B at once.
 
 https://github.com/EleutherAI/gpt-neox
+https://www.eleuther.ai
 
 need p40/m40 which has 24gb vram. need at least 60gb ram to load model.
 
