@@ -1,11 +1,13 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-05-01T00:07:42+08:00
+modified: 2022-05-01T00:16:45+08:00
 ---
 
 # gpt-2 ram requirements
 
 for monsterious models, zero offload, distributed training in pytorch, or deepspeed, fairscale, Horovod is needed. no single gpu is able to hold gpt3-175B at once.
+
+zero offload requires sufficient RAM.
 
 https://github.com/SeanNaren/minGPT/tree/stage3
 
