@@ -1,6 +1,6 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-05-01T22:15:14+08:00
+modified: 2022-05-01T22:19:47+08:00
 ---
 
 # gpt-2 ram requirements
@@ -11,6 +11,15 @@ lower model precision (quantization):
 
 https://pytorch.org/docs/stable/quantization.html
 https://github.com/huggingface/transformers/issues/14839 (training gpt-j on colab)
+
+# 使用torch.quantization.quantize_dynamic获得动态量化的模型
+# 量化的网络层为所有的nn.Linear的权重，使其成为int8
+quantized_model = torch.quantization.quantize_dynamic(
+    model, {torch.nn.Linear}, dtype=torch.qint8
+)
+ 
+# 打印动态量化后的BERT模型
+print(quantized_model)
 
 how to use huggingface trainer:
 
