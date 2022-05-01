@@ -1,11 +1,15 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-05-01T19:30:17+08:00
+modified: 2022-05-01T22:13:55+08:00
 ---
 
 # gpt-2 ram requirements
 
 for monsterious models, zero offload, pytorch loghtning, distributed training in pytorch, or deepspeed, fairscale, Horovod is needed. no single gpu is able to hold gpt3-175B at once.
+
+lower model precision:
+
+https://github.com/huggingface/transformers/issues/14839 (training gpt-j on colab)
 
 how to use huggingface trainer:
 
