@@ -1,11 +1,15 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-05-01T22:54:05+08:00
+modified: 2022-05-01T23:09:35+08:00
 ---
 
 # gpt-2 ram requirements
 
 for monsterious models, zero offload, pytorch loghtning, distributed training in pytorch, or deepspeed, fairscale, Horovod is needed. no single gpu is able to hold gpt3-175B at once.
+
+exporting to onnx:
+
+https://huggingface.co/docs/transformers/serialization?highlight=onnx
 
 lower model precision (quantization):
 
