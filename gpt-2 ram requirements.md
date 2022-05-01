@@ -1,6 +1,6 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-05-01T22:19:47+08:00
+modified: 2022-05-01T22:48:56+08:00
 ---
 
 # gpt-2 ram requirements
@@ -9,6 +9,8 @@ for monsterious models, zero offload, pytorch loghtning, distributed training in
 
 lower model precision (quantization):
 
+https://www.jianshu.com/p/cf83c877d71d
+https://blog.csdn.net/zimiao552147572/article/details/105910915
 https://pytorch.org/docs/stable/quantization.html
 https://github.com/huggingface/transformers/issues/14839 (training gpt-j on colab)
 
