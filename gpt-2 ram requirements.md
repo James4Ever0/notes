@@ -1,6 +1,6 @@
 ---
 created: 2022-04-28T10:22:06+08:00
-modified: 2022-05-01T22:48:56+08:00
+modified: 2022-05-01T22:54:05+08:00
 ---
 
 # gpt-2 ram requirements
@@ -8,6 +8,8 @@ modified: 2022-05-01T22:48:56+08:00
 for monsterious models, zero offload, pytorch loghtning, distributed training in pytorch, or deepspeed, fairscale, Horovod is needed. no single gpu is able to hold gpt3-175B at once.
 
 lower model precision (quantization):
+
+如果想要在GPU上操作，可以先使用torch.nn.export函数将模型转换成onnx格式，然后就可以放到TensorRT框架上inference了。（TensorRT目前不能直接解析Pytorch的网络模型，需要转换成onnx）
 
 https://www.jianshu.com/p/cf83c877d71d
 https://blog.csdn.net/zimiao552147572/article/details/105910915
