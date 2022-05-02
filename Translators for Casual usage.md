@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-02T17:52:27+08:00
+modified: 2022-05-02T17:53:15+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -8,6 +8,8 @@ modified: 2022-05-02T17:52:27+08:00
 paraphraser.io
 
 simbert
+
+https://www.zhihu.com/question/317540171
 
 BERT：原始版本bertRoberta：哈工大开源的中文wwm roberta模型BERT-SQ：本人在百度知道相似句数据集(Sim-Query)上微调后的bert模型Roberta-SQ：同上BERT-Whitening： @苏剑林 最新博客中提出的白化模型。Roberta-Whitening：同上
 
