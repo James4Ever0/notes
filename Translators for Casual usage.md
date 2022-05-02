@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-02T17:29:19+08:00
+modified: 2022-05-02T17:32:26+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -8,6 +8,8 @@ modified: 2022-05-02T17:29:19+08:00
 paraphraser.io
 
 simbert
+
+https://yongzhuo.blog.csdn.net/article/details/89166307
 
 language fluency test:
 
