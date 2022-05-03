@@ -1,9 +1,13 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-03T18:27:17+08:00
+modified: 2022-05-03T20:38:21+08:00
 ---
 
 # Translators/Paraphraser for casual usage
+
+paraphrase dataset:
+
+https://github.com/Wys997/Chinese-Paraphrase-from-Quora
 
 文本纠错
 https://github.com/James4Ever0/pycorrector
