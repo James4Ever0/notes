@@ -1,9 +1,15 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-05-03T18:20:49+08:00
+modified: 2022-05-03T20:38:05+08:00
 ---
 
 # MMDetection/MMD
+
+opengl recording:
+
+https://lencerf.github.io/post/2019-09-21-save-the-opengl-rendering-to-image-file/
+
+
 
 model zoo:
 
