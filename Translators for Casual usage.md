@@ -1,9 +1,27 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-03T11:27:34+08:00
+modified: 2022-05-03T18:23:48+08:00
 ---
 
 # Translators/Paraphraser for casual usage
+
+文本纠错
+https://github.com/James4Ever0/pycorrector
+
+calculate perplexity:
+
+https://github.com/DUTANGx/Chinese-BERT-as-language-model
+https://github.com/James4Ever0/nlp-fluency
+https://zhuanlan.zhihu.com/p/265677864
+https://github.com/mattzheng/py-kenlm-model
+
+multi-purpose tool for chinese: 偏旁部首 情感分析
+https://github.com/SeanLee97/xmnlp
+
+敏感词过滤 语言检测 训练语料库
+https://github.com/fighting41love/funNLP
+
+
 
 paraphraser.io
 
