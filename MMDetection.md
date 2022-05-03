@@ -1,9 +1,17 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-04-23T00:42:52+08:00
+modified: 2022-05-03T18:20:49+08:00
 ---
 
 # MMDetection/MMD
+
+model zoo:
+
+https://github.com/Zhongdao/Towards-Realtime-MOT/blob/master/DATASET_ZOO.md
+
+mmd auto tracking:
+
+https://github.com/errno-mmd/mmdmatic/blob/master/setup.bat
 
 if we can re-trace the action/expression done by vtubers, we can monetize those "highlight cuts".
 
