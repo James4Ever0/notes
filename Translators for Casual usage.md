@@ -1,11 +1,15 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-02T17:53:15+08:00
+modified: 2022-05-03T11:27:34+08:00
 ---
 
 # Translators/Paraphraser for casual usage
 
 paraphraser.io
+
+multilingual paraphrase database:
+
+paraphrase.org
 
 simbert
 
