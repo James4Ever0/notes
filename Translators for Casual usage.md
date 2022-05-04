@@ -1,9 +1,28 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-04T14:48:32+08:00
+modified: 2022-05-04T15:10:50+08:00
 ---
 
 # Translators/Paraphraser for casual usage
+
+text style transfer:
+
+https://blog.csdn.net/qq_27590277/article/details/106991084
+
+pegasus paraphrase:
+
+increase the num_beams and temperature
+https://analyticsindiamag.com/how-to-paraphrase-text-using-pegasus-transformer/
+
+https://www.thepythoncode.com/article/paraphrase-text-using-transformers-in-python
+
+example paraphrase project using LSTM as decoder and encoder:
+
+https://github.com/vsuthichai/paraphraser
+
+paraphrase with t5:
+
+https://github.com/Vamsi995/Paraphrase-Generator
 
 paraphrase dataset:
 
