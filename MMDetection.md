@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-05-04T14:50:20+08:00
+modified: 2022-05-04T14:58:53+08:00
 ---
 
 # MMDetection/MMD
@@ -8,6 +8,10 @@ modified: 2022-05-04T14:50:20+08:00
 opengl recording:
 
 https://lencerf.github.io/post/2019-09-21-save-the-opengl-rendering-to-image-file/
+http://www.songho.ca/opengl/gl_pbo.html#pack
+https://stackoverflow.com/questions/7634966/save-opengl-rendering-to-video
+https://www.codeproject.com/articles/15941/recording-directx-and-opengl-rendered-animations
+https://www.glfw.org/documentation.html
 
 
 model zoo:
@@ -17,6 +21,29 @@ https://github.com/Zhongdao/Towards-Realtime-MOT/blob/master/DATASET_ZOO.md
 mmd auto tracking:
 
 https://github.com/errno-mmd/mmdmatic/blob/master/setup.bat
+https://github.com/miu200521358/expose_mmd
+https://github.com/miu200521358/AlphaPose-MMD
+
+face tracking:
+
+https://github.com/Aditya-Khadilkar/Face-tracking-with-Anime-characters
+
+anime face detector:
+
+https://github.com/nagadomi/lbpcascade_animeface
+https://github.com/qhgz2013/anime-face-detector
+
+anime facial features:
+
+https://github.com/pranau97/anime-detection
+
+repair anime images:
+
+https://github.com/youyuge34/Anime-InPainting
+
+paint manga from sketch (with color blocks):
+
+https://github.com/youyuge34/PI-REC
 
 if we can re-trace the action/expression done by vtubers, we can monetize those "highlight cuts".
 
