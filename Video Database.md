@@ -1,11 +1,11 @@
 ---
 created: 2022-05-05T09:13:55+08:00
-modified: 2022-05-05T09:28:33+08:00
+modified: 2022-05-05T09:29:20+08:00
 ---
 
 # Video Database For Video Generation
 
-The data remaining only have texts, danmaku, likes, titles, intros, comments, tags, image/video analysis results(short description). You can only generate video from generated metadata or given rules. Find similar words, similar danmaku, similar features, comments or the inverse.
+The data remaining only have texts, danmaku, likes, titles, intros, comments, tags, image/video analysis results(short description). You can only generate video from generated metadata or given rules. Find similar words, similar danmaku, similar features, comments or the inverse, according to the selected topic and main idea.
 
 Analyze video when downloaded, mark its highlights, analyze texts and danmaku. Get video segments and audio segments.
 
