@@ -1,9 +1,15 @@
 ---
 created: 2022-05-05T09:13:55+08:00
-modified: 2022-05-05T09:29:20+08:00
+modified: 2022-05-05T10:59:23+08:00
 ---
 
 # Video Database For Video Generation
+
+descriptive information generation from video/image:
+
+https://github.com/BAAI-WuDao/CogView
+https://github.com/BAAI-WuDao/BriVL
+https://github.com/PaddlePaddle/PaddleVideo/blob/develop/docs/zh-CN/install.md
 
 The data remaining only have texts, danmaku, likes, titles, intros, comments, tags, image/video analysis results(short description). You can only generate video from generated metadata or given rules. Find similar words, similar danmaku, similar features, comments or the inverse, according to the selected topic and main idea.
 
