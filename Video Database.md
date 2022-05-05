@@ -1,6 +1,6 @@
 ---
 created: 2022-05-05T09:13:55+08:00
-modified: 2022-05-05T09:28:18+08:00
+modified: 2022-05-05T09:28:33+08:00
 ---
 
 # Video Database For Video Generation
@@ -13,7 +13,7 @@ Collect pictures/videos with given rules, namely finding the head of somebody, w
 
 Split audio and grab the main speaker. clone the voice and perhaps changes the gender.
 
-Split video and do human/image segmentation if human/target is found. put it onto another human's background masking the original human, with similar areas and movements.
+Split video and do human/image segmentation if human/target is found. put it onto another human/target's background masking the original human, with similar areas and movements.
 
 Analyze video with off-topic(offline) and of-topic(online) sources.
 
