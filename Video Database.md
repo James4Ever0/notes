@@ -1,9 +1,11 @@
 ---
 created: 2022-05-05T09:13:55+08:00
-modified: 2022-05-05T09:18:08+08:00
+modified: 2022-05-05T09:20:06+08:00
 ---
 
 # Video Database
+
+The data remaining only have texts, danmaku, likes, intros, comments.
 
 Analyze video when downloaded, mark its highlights, analyze texts and danmaku. Get video segments and audio segments.
 
