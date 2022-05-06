@@ -1,6 +1,6 @@
 ---
 created: 2022-05-06T19:59:22+08:00
-modified: 2022-05-07T03:03:02+08:00
+modified: 2022-05-07T03:03:47+08:00
 ---
 
 # Letsketch libwacom
@@ -27,3 +27,5 @@ EndSection
 to debug input problems:
 
 https://wiki.ubuntu.com/DebuggingMouseDetection#:~:text=In%20case%20your%20mouse%20stops%20working%20after%20a,your%20mouse%20stops%20working.%20...%20More%20items...%20
+
+check /etc/logs/Xorg.0.logs
