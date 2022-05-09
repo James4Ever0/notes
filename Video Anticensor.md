@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T01:03:27+08:00
+modified: 2022-05-10T01:04:54+08:00
 ---
 
 # Video Anticensor
@@ -12,6 +12,7 @@ grayscale -> ai coloring
 dithering
 chroma shift(hue)
 (gradient/video) overlay
+dashing/filtering
 
 text:
 
