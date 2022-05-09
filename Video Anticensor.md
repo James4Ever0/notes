@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T01:03:18+08:00
+modified: 2022-05-10T01:03:27+08:00
 ---
 
 # Video Anticensor
@@ -11,7 +11,7 @@ picture to sketch -> ai painting
 grayscale -> ai coloring
 dithering
 chroma shift(hue)
-(gradient) overlay
+(gradient/video) overlay
 
 text:
 
