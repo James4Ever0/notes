@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T01:07:49+08:00
+modified: 2022-05-10T01:07:57+08:00
 ---
 
 # Video Anticensor
@@ -13,7 +13,7 @@ dithering
 chroma shift(hue)
 (gradient/video) overlay
 dashing/filtering, could be done in 2 frames or more
-random pixelized noise
+random pixel noise
 
 text:
 
