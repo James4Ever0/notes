@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T00:53:57+08:00
+modified: 2022-05-10T00:54:11+08:00
 ---
 
 # Video Anticensor
@@ -12,6 +12,7 @@ grayscale -> ai coloring
 dithering
 
 text:
+
 handwritten font
 italic
 pixelize, blur
