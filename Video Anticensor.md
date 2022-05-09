@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T01:00:02+08:00
+modified: 2022-05-10T01:00:25+08:00
 ---
 
 # Video Anticensor
@@ -22,3 +22,4 @@ boxing texts
 slashing texts
 rotating texts (30 degree?)
 coloring texts
+different font size
