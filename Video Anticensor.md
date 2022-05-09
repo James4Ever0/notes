@@ -1,9 +1,11 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T01:08:46+08:00
+modified: 2022-05-10T01:10:05+08:00
 ---
 
 # Video Anticensor For Bilibili Tarot
+
+could use processing to do the job.
 
 video:
 
