@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T01:06:22+08:00
+modified: 2022-05-10T01:06:40+08:00
 ---
 
 # Video Anticensor
@@ -12,7 +12,7 @@ grayscale -> ai coloring
 dithering
 chroma shift(hue)
 (gradient/video) overlay
-dashing/filtering, could be done in 2 frames
+dashing/filtering, could be done in 2 frames or more
 
 text:
 
