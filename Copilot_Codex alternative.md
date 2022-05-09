@@ -1,6 +1,6 @@
 ---
 created: 2022-05-09T12:35:16+08:00
-modified: 2022-05-09T13:07:32+08:00
+modified: 2022-05-09T13:10:20+08:00
 ---
 
 # Copilot/Codex alternative
@@ -17,6 +17,14 @@ https://huggingface.co/mrm8488/CodeGPT-small-finetuned-python-token-completion
 codegpt
 https://huggingface.co/microsoft/CodeGPT-small-py-adaptedGPT2
 https://huggingface.co/microsoft/CodeGPT-small-py
+https://github.com/microsoft/CodeXGLUE/issues/75
+https://github.com/microsoft/CodeXGLUE/issues/36
+
+codebert
+https://github.com/microsoft/CodeBERT
+
+code-gpt-neox
+https://github.com/Linyxus/code-gpt-neox
 
 Captain Stack
 https://github.com/hieunc229/copilot-clone
