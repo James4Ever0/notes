@@ -1,6 +1,6 @@
 ---
 created: 2022-05-09T12:35:16+08:00
-modified: 2022-05-09T12:55:11+08:00
+modified: 2022-05-09T12:55:22+08:00
 ---
 
 # Copilot/Codex alternative
@@ -17,7 +17,7 @@ https://github.com/badboysm890/clara-copilot
 gpt-code-clippy
 https://github.com/ncoop57/gpt-code-clippy
 https://gpt3demo.com/apps/gpt-code-clippy-gpt-cc
-https://seart-ghs.si.usi.ch/
+https://seart-ghs.si.usi.ch/ (github search engine)
 
 kite
 https://kite.com/integrations/jupyter/
