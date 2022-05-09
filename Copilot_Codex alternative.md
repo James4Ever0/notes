@@ -1,12 +1,18 @@
 ---
 created: 2022-05-09T12:35:16+08:00
-modified: 2022-05-09T12:59:17+08:00
+modified: 2022-05-09T13:05:59+08:00
 ---
 
 # Copilot/Codex alternative
 
 Codegen
 https://github.com/salesforce/CodeGen
+
+code autocomplete
+https://github.com/shibing624/code-autocomplete
+
+codegpt python token completion
+https://huggingface.co/mrm8488/CodeGPT-small-finetuned-python-token-completion
 
 Captain Stack
 https://github.com/hieunc229/copilot-clone
