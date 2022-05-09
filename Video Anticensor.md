@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T01:01:29+08:00
+modified: 2022-05-10T01:02:02+08:00
 ---
 
 # Video Anticensor
@@ -23,4 +23,4 @@ slashing texts
 rotating texts (30 degree?)
 coloring texts
 different font size
-randomly censor words into letters
+(randomly) censor words into letters
