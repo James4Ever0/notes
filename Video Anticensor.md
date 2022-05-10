@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T11:42:50+08:00
+modified: 2022-05-10T11:55:06+08:00
 ---
 
 # Video Anticensor For Bilibili Tarot
@@ -31,3 +31,8 @@ coloring texts
 different font size
 (randomly) censor words into letters
 reshape (decrese height or width)
+
+audio:
+
+vocoder
+style change
