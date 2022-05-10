@@ -1,6 +1,6 @@
 ---
 created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T11:55:06+08:00
+modified: 2022-05-10T11:55:58+08:00
 ---
 
 # Video Anticensor For Bilibili Tarot
@@ -9,6 +9,7 @@ could use p5 to do part of the job.
 
 video:
 
+style transfer
 glitch
 picture to sketch -> ai painting
 grayscale -> ai coloring
@@ -36,3 +37,4 @@ audio:
 
 vocoder
 style change
+pitch change
