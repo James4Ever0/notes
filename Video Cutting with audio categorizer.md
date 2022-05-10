@@ -1,10 +1,10 @@
 ---
 created: 2022-05-10T23:43:25+08:00
-modified: 2022-05-10T23:45:08+08:00
+modified: 2022-05-10T23:45:18+08:00
 ---
 
 # Video Cutting with audio categorizer
 
-need to identify sounds like dog bark and gun shots, sobs, laughs.
+need to identify sounds like dog bark and gun shots, sobs, laughs. Open sourced.
 
 May use sound analyzers.
