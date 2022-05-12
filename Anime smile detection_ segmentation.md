@@ -1,6 +1,6 @@
 ---
 created: 2022-05-11T11:48:39+08:00
-modified: 2022-05-11T11:52:10+08:00
+modified: 2022-05-12T10:07:10+08:00
 ---
 
 # Anime smile detection/ segmentation
@@ -10,3 +10,9 @@ when an anime head is detected, cut it out and create dataset with labels. may a
 segmentation using labeled data and train it on pretrained models. using anme head detection as double verification. no double heads.
 
 ppse recognition may be applied without further training, or else.
+
+我分析需要YOLO确定人物位置 CNN判断服装类型 人物性别 ocr识别字幕 音频分析识别语气 性别 音乐类型 再用seq2seq来把所有的输出概括成我的描述
+
+或者看看有没有文字转关键词的模型
+
+可以的话加上人物姿态估计 动漫人物的
