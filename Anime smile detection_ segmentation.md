@@ -1,6 +1,6 @@
 ---
 created: 2022-05-11T11:48:39+08:00
-modified: 2022-05-12T10:07:10+08:00
+modified: 2022-05-12T10:09:18+08:00
 ---
 
 # Anime smile detection/ segmentation
@@ -16,3 +16,9 @@ ppse recognition may be applied without further training, or else.
 或者看看有没有文字转关键词的模型
 
 可以的话加上人物姿态估计 动漫人物的
+
+关于光流算法：
+
+熵就是梯度的标准差
+一段范围的熵就是起始时间到末尾的熵的标准差
+或者起始到末尾的梯度的标准差
