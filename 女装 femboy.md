@@ -1,6 +1,6 @@
 ---
 created: 2022-05-19T09:47:59+08:00
-modified: 2022-05-19T09:51:34+08:00
+modified: 2022-05-19T09:53:21+08:00
 ---
 
 # 女装 femboy
@@ -8,3 +8,5 @@ modified: 2022-05-19T09:51:34+08:00
 transcribe non-explicit femboy youtube videos to bilibili
 
 both manual and machine translation are needed for hot keyword translation. can also find translation in wiki like 女装男（femboy）
+
+you can google for translated definitions and collect from urban dictionary.
