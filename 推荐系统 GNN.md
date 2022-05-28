@@ -1,6 +1,6 @@
 ---
 created: 2022-05-27T11:25:06+08:00
-modified: 2022-05-28T18:47:58+08:00
+modified: 2022-05-28T18:52:54+08:00
 ---
 
 # 推荐系统 GNN
@@ -11,6 +11,15 @@ modified: 2022-05-28T18:47:58+08:00
 不同的产品和不同的产品被一起推荐
 
 人对产品的接受度
+
+youzan has an ai platform called trexpark, offering chinese NLP and image models pretrained from e-commerce databases.
+https://github.com/youzanai/trexpark
+
+decide the feedback embeddings:
+https://huggingface.co/youzanai/bert-product-comment-chinese
+
+conversational embeddings:
+https://huggingface.co/youzanai/bert-customer-message-chinese
 
 neo4j developer build a recommendation engine:
 https://neo4j.com/developer/cypher/guide-build-a-recommendation-engine/
