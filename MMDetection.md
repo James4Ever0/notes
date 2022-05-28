@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-05-28T15:35:38+08:00
+modified: 2022-05-28T15:36:51+08:00
 ---
 
 # MMDetection/MMD
@@ -13,6 +13,11 @@ https://stackoverflow.com/questions/7634966/save-opengl-rendering-to-video
 https://www.codeproject.com/articles/15941/recording-directx-and-opengl-rendered-animations
 https://www.glfw.org/documentation.html
 
+download expose models:
+https://expose.is.tue.mpg.de/downloads
+
+smpl-x model download:
+https://smpl-x.is.tue.mpg.de/download.php
 
 model zoo:
 
