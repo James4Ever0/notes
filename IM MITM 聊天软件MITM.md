@@ -1,9 +1,9 @@
 ---
 created: 2022-05-29T00:15:24+08:00
-modified: 2022-05-29T00:20:28+08:00
+modified: 2022-05-29T00:20:32+08:00
 ---
 
-# IM MITM 聊天软件MITM
+# IM MITM 聊天软件 MITM
 
 better do this in virtual enviorment without using any real world platform, just your own IM enviorment like a self-hosted IRC or something.
 
