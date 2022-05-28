@@ -1,6 +1,6 @@
 ---
 created: 2022-05-27T11:25:06+08:00
-modified: 2022-05-28T13:57:34+08:00
+modified: 2022-05-28T13:58:47+08:00
 ---
 
 # 推荐系统 GNN
@@ -11,6 +11,8 @@ modified: 2022-05-28T13:57:34+08:00
 不同的产品和不同的产品被一起推荐
 
 人对产品的接受度
+
+gnn is based on basic data/label models and provide high-level reasoning and predictions.
 
 neo4j graph academy practical usage:
 https://neo4j.com/graphacademy/training-iga-40/12-iga-40-ingredient-analysis/
