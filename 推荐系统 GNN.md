@@ -1,6 +1,6 @@
 ---
 created: 2022-05-27T11:25:06+08:00
-modified: 2022-05-28T18:14:13+08:00
+modified: 2022-05-28T18:47:58+08:00
 ---
 
 # 推荐系统 GNN
@@ -11,6 +11,9 @@ modified: 2022-05-28T18:14:13+08:00
 不同的产品和不同的产品被一起推荐
 
 人对产品的接受度
+
+neo4j developer build a recommendation engine:
+https://neo4j.com/developer/cypher/guide-build-a-recommendation-engine/
 
 torch_geometric(PyG) documentation:
 https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GatedGraphConv
