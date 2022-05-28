@@ -1,6 +1,6 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-05-04T14:58:53+08:00
+modified: 2022-05-28T15:35:38+08:00
 ---
 
 # MMDetection/MMD
@@ -23,6 +23,9 @@ mmd auto tracking:
 https://github.com/errno-mmd/mmdmatic/blob/master/setup.bat
 https://github.com/miu200521358/expose_mmd
 https://github.com/miu200521358/AlphaPose-MMD
+
+smplx expose alternative body tracker:
+https://github.com/vchoutas/smplx
 
 face tracking:
 
