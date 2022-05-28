@@ -1,6 +1,6 @@
 ---
 created: 2022-05-27T11:25:06+08:00
-modified: 2022-05-28T13:58:47+08:00
+modified: 2022-05-28T15:34:44+08:00
 ---
 
 # 推荐系统 GNN
@@ -11,6 +11,9 @@ modified: 2022-05-28T13:58:47+08:00
 不同的产品和不同的产品被一起推荐
 
 人对产品的接受度
+
+tagspace text classification via hashtags:
+https://paddlerec.readthedocs.io/en/latest/models/contentunderstanding/tagspace.html
 
 gnn is based on basic data/label models and provide high-level reasoning and predictions.
 
