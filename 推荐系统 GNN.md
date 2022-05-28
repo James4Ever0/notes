@@ -1,6 +1,6 @@
 ---
 created: 2022-05-27T11:25:06+08:00
-modified: 2022-05-28T15:34:44+08:00
+modified: 2022-05-28T17:57:08+08:00
 ---
 
 # 推荐系统 GNN
@@ -18,6 +18,7 @@ https://paddlerec.readthedocs.io/en/latest/models/contentunderstanding/tagspace.
 gnn is based on basic data/label models and provide high-level reasoning and predictions.
 
 neo4j graph academy practical usage:
+https://graphacademy.neo4j.com/categories/
 https://neo4j.com/graphacademy/training-iga-40/12-iga-40-ingredient-analysis/
 
 video segments have different features and orders. predict missing links. predict categories semi-supervised or unsupervised.
