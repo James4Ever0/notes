@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-04T15:10:50+08:00
+modified: 2022-05-31T14:32:06+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -73,7 +73,16 @@ many paraphraser models for english are on huggingface, but few for chinese.
 https://huggingface.co/lijingxin/mt5-for-zh-paraphrase
 https://pypi.org/project/genienlp/
 https://github.com/salesforce/decaNLP
-parrot paraphraser
+
+parrot paraphraser with nlu engines
+https://github.com/PrithivirajDamodaran/Parrot_Paraphraser
+
+sentence level paraphraser:
+https://github.com/vsuthichai/paraphraser
+
+document level paraphraser:
+https://github.com/L-Zhe/CoRPG
+
 https://pypi.org/project/lexsub/
 https://github.com/hit-joseph/lexical-paraphrase-extraction
 synonyms (python library)
