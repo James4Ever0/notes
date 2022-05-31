@@ -1,6 +1,6 @@
 ---
 created: 2022-05-13T21:50:48+08:00
-modified: 2022-05-31T11:40:17+08:00
+modified: 2022-05-31T11:40:49+08:00
 ---
 
 # the still image to singing face bot, lip-sync video generation
@@ -26,3 +26,4 @@ https://github.com/the-garlic-os/wombo-reverse-engineering
 matamata using vosk models, recommend to use gentle lip-sync method:
 https://github.com/AI-Spawn/Auto-Lip-Sync
 https://github.com/Matamata-Animator/Matamata-Core
+https://github.com/Yey007/Auto-Lip-Sync
