@@ -1,6 +1,6 @@
 ---
 created: 2022-05-13T21:50:48+08:00
-modified: 2022-05-31T11:34:24+08:00
+modified: 2022-05-31T11:40:17+08:00
 ---
 
 # the still image to singing face bot, lip-sync video generation
@@ -15,5 +15,14 @@ https://github.com/Rudrabha/Wav2Lip
 lipgan generate realistic lip-sync talking head animation(fully_pythonic branch or google colab notebook):
 https://github.com/Rudrabha/LipGAN
 
-google's lipsync implementation:
+google's lipsync implementation, using tensorflow facemesh:
 https://github.com/google/lipsync
+https://lipsync.withyoutube.com/
+https://github.com/tensorflow/tfjs-models/tree/master/facemesh
+
+network reverse engineering for wombo.ai:
+https://github.com/the-garlic-os/wombo-reverse-engineering
+
+matamata using vosk models, recommend to use gentle lip-sync method:
+https://github.com/AI-Spawn/Auto-Lip-Sync
+https://github.com/Matamata-Animator/Matamata-Core
