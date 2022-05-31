@@ -1,6 +1,6 @@
 ---
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-05-31T13:18:40+08:00
+modified: 2022-05-31T13:31:00+08:00
 ---
 
 # 变声软件 Morphvox alternatives
@@ -11,7 +11,7 @@ https://github.com/lyrebird-voice-changer/lyrebird
 voice changer based on MHW Audio Modding Tool (not recommended):
 https://github.com/ItsBurpee/MHWVoiceChanger
 
-mozilla voice changer web api:
+mozilla voice changer and visualizer based on  web api:
 https://github.com/mdn/voice-change-o-matic
 
 Real time voice changer:
