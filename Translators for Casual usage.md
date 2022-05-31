@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-31T14:32:58+08:00
+modified: 2022-05-31T14:34:23+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -74,7 +74,7 @@ https://huggingface.co/lijingxin/mt5-for-zh-paraphrase
 https://pypi.org/project/genienlp/
 https://github.com/salesforce/decaNLP
 
-parrot paraphraser with nlu engines
+parrot paraphraser with nlu engines for english:
 https://github.com/PrithivirajDamodaran/Parrot_Paraphraser
 
 sentence level paraphraser:
