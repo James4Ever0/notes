@@ -1,11 +1,14 @@
 ---
 created: 2022-05-13T21:50:48+08:00
-modified: 2022-05-31T11:43:12+08:00
+modified: 2022-05-31T12:47:31+08:00
 ---
 
 # the still image to singing face bot, lip-sync video generation
 
 wombo.ai, likely to be talking head or yanderifier
+
+all in one colab text to talking face generation, also consider paddlespeech example:
+https://github.com/ChintanTrivedi/ask-fake-ai-karen
 
 avaliable from paddlegan as an example used in paddlespeech, the artificial host.
 
