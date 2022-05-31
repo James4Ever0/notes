@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-05-31T14:32:06+08:00
+modified: 2022-05-31T14:32:58+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -80,7 +80,7 @@ https://github.com/PrithivirajDamodaran/Parrot_Paraphraser
 sentence level paraphraser:
 https://github.com/vsuthichai/paraphraser
 
-document level paraphraser:
+document level paraphraser, with sentence rewriting and reordering(shuffle):
 https://github.com/L-Zhe/CoRPG
 
 https://pypi.org/project/lexsub/
