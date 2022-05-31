@@ -1,6 +1,6 @@
 ---
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-05-31T13:32:20+08:00
+modified: 2022-05-31T13:32:48+08:00
 ---
 
 # 变声软件 Morphvox alternatives
@@ -18,7 +18,7 @@ Real time voice changer in python:
 https://github.com/symphonly/figaro
 
 Pyvoicechanger:
- https://github.com/juancarlospaco/pyvoicechanger
+https://github.com/juancarlospaco/pyvoicechanger
 
 change the Pitch of the voice:
 https://github.com/wittymindstech/change-voice-pitch
