@@ -1,6 +1,6 @@
 ---
 created: 2022-05-31T12:47:47+08:00
-modified: 2022-05-31T12:55:19+08:00
+modified: 2022-05-31T12:56:01+08:00
 ---
 
 # Text to Video/Music to video generator GAN
@@ -14,5 +14,5 @@ https://github.com/ajbrock/BigGAN-PyTorch
 dance video generation self-supervised:
 https://github.com/xrenaa/Music-Dance-Video-Synthesis
 
-show me what and tell me how based on openai clip by snap research:
+show me what and tell me how based on openai clip by snap research with pretrained models:
 https://github.com/snap-research/MMVID
