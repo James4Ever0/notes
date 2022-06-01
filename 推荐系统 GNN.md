@@ -1,6 +1,6 @@
 ---
 created: 2022-05-27T11:25:06+08:00
-modified: 2022-05-28T18:52:54+08:00
+modified: 2022-06-01T10:49:16+08:00
 ---
 
 # 推荐系统 GNN
@@ -14,6 +14,9 @@ modified: 2022-05-28T18:52:54+08:00
 
 youzan has an ai platform called trexpark, offering chinese NLP and image models pretrained from e-commerce databases.
 https://github.com/youzanai/trexpark
+
+session based recommendation system:
+https://github.com/CRIPAC-DIG/SR-GNN
 
 decide the feedback embeddings:
 https://huggingface.co/youzanai/bert-product-comment-chinese
