@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T10:12:22+08:00
+modified: 2022-06-03T10:35:34+08:00
 ---
 
 # Neo4j learning notes
@@ -18,6 +18,13 @@ asterisks:
 
 load csv:
 load csv with headers from "http://localhost/person.csv" as line
+call {with line
 merge (n:person {id: toInteger(line.id)})
 set n.name = line.name
-return n
+} in transactions of 2 rows
+
+count nodes:
+match (n) return count(n)
+
+match relationship patterns:
+match (n) -[:friend|hater*3]->(p) return p limit 20
