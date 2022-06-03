@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T12:03:16+08:00
+modified: 2022-06-03T12:03:28+08:00
 ---
 
 # Neo4j learning notes
@@ -60,7 +60,7 @@ merge can only ensure the existance of one node or pattern at a time, no comma
 
 plus can concatenate strings
 
-time dataformat can be used as numbers to compute.
+tenporal dataformat can be used as numbers to compute.
 
 Map operators
 . for static value access by key, [] for dynamic value access by key
