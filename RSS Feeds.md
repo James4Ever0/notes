@@ -1,6 +1,6 @@
 ---
 created: 2022-04-17T11:43:37+08:00
-modified: 2022-04-30T22:58:40+08:00
+modified: 2022-06-03T16:17:24+08:00
 ---
 
 # RSS Feeds
@@ -31,6 +31,8 @@ https://reader.readthedocs.io/en/latest/
 we need cleaner view by using readbility.js, but how to preserve pictures? is it built-in?
 
 pictures could be a big fingerprint. better deal them with link extracter and shufflers.
+
+this is for the reader mode, make webpage readable
 https://github.com/luin/readability
 https://github.com/phpdocker-io/readability-js-server
 https://github.com/mozilla/readability
