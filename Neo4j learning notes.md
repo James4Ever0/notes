@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T14:16:53+08:00
+modified: 2022-06-03T14:17:03+08:00
 ---
 
 # Neo4j learning notes
@@ -13,7 +13,7 @@ create fulltext index lucene for (n:Person) on each [n.title, n.description]
 call db.index.fulltext.queryNodes("titlesAndDescriptions", "Full Metal Jacket") yield node, score return node, score
 
 exist subquery:
-match (n) where exists {
+match (n:Person) where exists {
 match (n) --(t:Tech)
 where size((t)-[:likes]-(:Person)) >2
 }
