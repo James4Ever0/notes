@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T10:35:34+08:00
+modified: 2022-06-03T10:37:49+08:00
 ---
 
 # Neo4j learning notes
@@ -28,3 +28,5 @@ match (n) return count(n)
 
 match relationship patterns:
 match (n) -[:friend|hater*3]->(p) return p limit 20
+
+node can have multiple labels, while relationship can only have one type, both specified after the colon.
