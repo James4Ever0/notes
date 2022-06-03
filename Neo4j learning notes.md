@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T14:25:17+08:00
+modified: 2022-06-03T14:36:40+08:00
 ---
 
 # Neo4j learning notes
@@ -11,6 +11,15 @@ match () -- (p) return p
 create fulltext index
 create fulltext index lucene for (n:Person) on each [n.title, n.description]
 call db.index.fulltext.queryNodes("titlesAndDescriptions", "Full Metal Jacket") yield node, score return node, score
+
+calculate customer rating cosine similarity for recommendation:
+https://neo4j.com/graphgists/northwind-recommendation-engine
+match (c1:customer)-[r1:rated]-(:product)-[r2:rated]-(c2:customer)
+with sum(r1.score*r2.score) as dot_product,
+sqrt(reduce(x=0, a in r1.score | x+a^2)) as r1_length,
+sqrt(reduce(y=0, b in r2.score | y+b^2)) as r2_length
+merge (c1)-[s:similarity}]-(c2)
+set s +=  {score:dot_product/(r1_length*r2_length)
 
 use collect to turn maps into lists:
 match (p) return collect(p.names)
