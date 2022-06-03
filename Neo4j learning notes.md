@@ -1,12 +1,16 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T12:03:28+08:00
+modified: 2022-06-03T13:26:10+08:00
 ---
 
 # Neo4j learning notes
 
 to query undirected relationships:
 match () -- (p) return p
+
+list comprehension:
+return [x in range(0,10) where x%3 = 0| x/2] as list
+return [x in range(0,10) where not x in range(4,10) ] as list
 
 to use conditional matches or regular expressions:
 match () -- (p) where p.name in ["helen"] or p.name =~ ".*chinese.*" return p
