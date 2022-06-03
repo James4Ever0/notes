@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T11:08:35+08:00
+modified: 2022-06-03T11:26:15+08:00
 ---
 
 # Neo4j learning notes
@@ -57,3 +57,9 @@ set n+={name:"helen"} // if using = the properties will be totally replaced inst
 return n.name
 
 merge can only ensure the existance of one node or pattern at a time, no comma
+
+Map operators
+. for static value access by key, [] for dynamic value access by key
+
+List operators
++ for concatenation, IN to check existence of an element in a list, [] for accessing element(s) dynamically
