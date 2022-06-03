@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T10:09:41+08:00
+modified: 2022-06-03T10:12:22+08:00
 ---
 
 # Neo4j learning notes
@@ -13,3 +13,11 @@ match () -- (p) where p.name in ["helen"] or p.name =~ ".*chinese.*" return p
 
 create index on properties:
 create index for (n:Category) on (n.categoryName)
+
+asterisks:
+
+load csv:
+load csv with headers from "http://localhost/person.csv" as line
+merge (n:person {id: toInteger(line.id)})
+set n.name = line.name
+return n
