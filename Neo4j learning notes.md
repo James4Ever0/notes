@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T14:17:03+08:00
+modified: 2022-06-03T14:25:17+08:00
 ---
 
 # Neo4j learning notes
@@ -11,6 +11,9 @@ match () -- (p) return p
 create fulltext index
 create fulltext index lucene for (n:Person) on each [n.title, n.description]
 call db.index.fulltext.queryNodes("titlesAndDescriptions", "Full Metal Jacket") yield node, score return node, score
+
+use collect to turn maps into lists:
+match (p) return collect(p.names)
 
 exist subquery:
 match (n:Person) where exists {
