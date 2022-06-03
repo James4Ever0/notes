@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T12:00:26+08:00
+modified: 2022-06-03T12:01:04+08:00
 ---
 
 # Neo4j learning notes
@@ -65,6 +65,6 @@ List operators
 + for concatenation, IN to check existence of an element in a list, [] for accessing element(s) dynamically
 
 recommendation steps:
-first find meta relatonships
-next sort recommendation by importance
+first find targets by meta relatonships
+next sort recommendation by frequency, ratings or occurance
 third filter items by topics or properties
