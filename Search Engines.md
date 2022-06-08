@@ -1,11 +1,11 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-08T22:06:25+08:00
+modified: 2022-06-08T22:07:07+08:00
 ---
 
 # Search Engines DIY
 
-I bet there are many many alternatives.
+I bet there are many many alternatives. even for a relational database or graph database it can be a search engine by its nature.
 
 TypeSense:
 dedicated client for every popular programminhg language
