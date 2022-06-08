@@ -1,9 +1,9 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-08T22:00:53+08:00
+modified: 2022-06-08T22:01:08+08:00
 ---
 
-# Search Engines
+# Search Engines DIY
 
 TypeSense:
 dedicated client for every popular programminhg language
