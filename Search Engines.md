@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-08T22:13:43+08:00
+modified: 2022-06-08T22:16:24+08:00
 ---
 
 # Search Engines DIY
@@ -8,6 +8,8 @@ modified: 2022-06-08T22:13:43+08:00
 I bet there are many many alternatives. even for a relational database or graph database it can be a search engine by its nature.
 
 search for search engine in github.
+
+search engines are related to spiders/crawlers.
 
 many specialized search engines that can search image, video and audio. one example is Jina
 
