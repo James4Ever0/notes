@@ -1,11 +1,11 @@
 ---
 created: 2022-06-01T11:25:15+08:00
-modified: 2022-06-08T22:03:43+08:00
+modified: 2022-06-08T22:19:18+08:00
 ---
 
 # Bookmark Browsing Directory Tree Browsing History Collection
 
-Using Kali forensic tool.
+Using Kali forensic tool. (turned out not needed. just some googling for answers)
 
 Organized under modifier termux ~/works/bookmark_dirtree_traverse. search via rg.
 maybe we can organize directory trees using other methods, like some javascript library with both a search tool and a browsing tool. we can host a search engine via javascript, only static resources and client side computation.
