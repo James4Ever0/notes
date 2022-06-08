@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-08T22:33:16+08:00
+modified: 2022-06-08T22:33:50+08:00
 ---
 
 # Search Engines DIY
@@ -8,6 +8,8 @@ modified: 2022-06-08T22:33:16+08:00
 I bet there are many many alternatives. even for a relational database or graph database it can be a search engine by its nature.
 
 how the heck can i search my own notes? slice it into little segments? standard excerpt included.
+
+do you need to export your own good old notes?
 
 search for search engine in github.
 
