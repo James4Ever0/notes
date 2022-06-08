@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-08T22:16:24+08:00
+modified: 2022-06-08T22:17:36+08:00
 ---
 
 # Search Engines DIY
@@ -10,6 +10,8 @@ I bet there are many many alternatives. even for a relational database or graph 
 search for search engine in github.
 
 search engines are related to spiders/crawlers.
+
+how to utilize these search engines is a problem. use url filters, generic extractors, readbility.js.
 
 many specialized search engines that can search image, video and audio. one example is Jina
 
