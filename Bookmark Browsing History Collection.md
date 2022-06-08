@@ -1,11 +1,13 @@
 ---
 created: 2022-06-01T11:25:15+08:00
-modified: 2022-06-08T22:25:38+08:00
+modified: 2022-06-08T22:35:38+08:00
 ---
 
 # Bookmark Browsing Directory Tree Browsing History Collection
 
 Using Kali forensic tool. (turned out not needed. just some googling for answers)
+
+do you need to export your own good old notes? i mean mi notes. 2 phone numbers, 2 accounts. one with physical storage. the other you may want to download the mi note app and extract in the same way.
 
 Organized under modifier termux ~/works/bookmark_dirtree_traverse. search via rg.
 maybe we can organize directory trees using other methods, like some javascript library with both a search tool and a browsing tool. we can host a search engine via javascript, only static resources and client side computation.
