@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-08T22:17:36+08:00
+modified: 2022-06-08T22:18:01+08:00
 ---
 
 # Search Engines DIY
@@ -11,7 +11,7 @@ search for search engine in github.
 
 search engines are related to spiders/crawlers.
 
-how to utilize these search engines is a problem. use url filters, generic extractors, readbility.js.
+how to utilize these search engines is a problem. use url filters, generic extractors, readbility.js, summarizers like sumy.
 
 many specialized search engines that can search image, video and audio. one example is Jina
 
