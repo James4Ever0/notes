@@ -1,6 +1,6 @@
 ---
 created: 2022-06-01T11:25:15+08:00
-modified: 2022-06-08T22:19:18+08:00
+modified: 2022-06-08T22:20:20+08:00
 ---
 
 # Bookmark Browsing Directory Tree Browsing History Collection
@@ -12,4 +12,4 @@ maybe we can organize directory trees using other methods, like some javascript 
 
 this client side search engine usage example can be found at /data/data/com.termux/files/home/storage/shared/works/milkshake_server and ./external/milkshake_server. the js searching library is called fuse.js.
 
-I have made this into meilisearch, and i have backed up it to github/james4ever0/notes2 and aliyunpan and baiduyunpan. desktop search experience is better. meilisearch consume too much ram. i consider to find alternatives with less ram consumption.
+I have made this into meilisearch, and i have backed it up to github/james4ever0/notes2 and aliyunpan and baiduyunpan. desktop search experience is better. meilisearch consume too much ram. i consider to find alternatives with less ram consumption.
