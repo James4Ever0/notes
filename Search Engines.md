@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T13:39:43+08:00
+modified: 2022-06-09T13:40:20+08:00
 ---
 
 # Search Engines DIY
@@ -16,6 +16,8 @@ search engines are related to spiders/crawlers.
 how to utilize these search engines is a problem/challenge. use url filters, generic extractors, readbility.js, summarizers like sumy.
 
 many specialized search engines that can search image, video and audio. one example is Jina
+
+semantic search tool, multimedia search tool
 
 txtai:
 semantic search tool
