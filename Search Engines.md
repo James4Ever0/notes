@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-08T22:35:33+08:00
+modified: 2022-06-09T11:39:02+08:00
 ---
 
 # Search Engines DIY
@@ -16,6 +16,19 @@ search engines are related to spiders/crawlers.
 how to utilize these search engines is a problem/challenge. use url filters, generic extractors, readbility.js, summarizers like sumy.
 
 many specialized search engines that can search image, video and audio. one example is Jina
+
+yacy:
+distributed search engine circumvent censorship
+
+searx:
+meta search engine self-hosted
+
+mwmbl:
+distributed crawler central search engine, can be self-hosted
+written in python
+
+yuno:
+context based search engine for anime, anime search engine with transformer and deep learning.
 
 TypeSense:
 dedicated client for every popular programminhg language
