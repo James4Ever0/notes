@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T13:45:03+08:00
+modified: 2022-06-09T14:47:19+08:00
 ---
 
 # Search Engines DIY
@@ -27,6 +27,7 @@ https://github.com/neuml/txtai
 
 yacy:
 distributed search engine circumvent censorship
+provide rss feeds
 
 searx:
 meta search engine self-hosted
