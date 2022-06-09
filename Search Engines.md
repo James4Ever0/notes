@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T13:19:58+08:00
+modified: 2022-06-09T13:25:39+08:00
 ---
 
 # Search Engines DIY
@@ -30,7 +30,9 @@ distributed crawler central search engine, can be self-hosted
 written in python
 
 yuno:
-context based search engine for anime, anime search engine with transformer and deep learning.
+context based search engine for anime, anime search engine with transformer and deep learning. text based search. more like a semantic search tool.
+Yuno is a context based search engine that indexes over 0.5 million anime reviews and other anime informations. To help you find anime with specific properties. This search engine will help people of r/AnimeSuggest who are looking for specific type of anime to watch.
+This search engine was created to solve the problem of finding an object with specific properties and the object in this case is anime. But this search engine can be easily extended to any domain like books,movies,etc. Without the need of any kind of handcrafted dataset.
 
 TypeSense:
 dedicated client for every popular programminhg language
