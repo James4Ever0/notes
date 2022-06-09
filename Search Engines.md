@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T11:39:02+08:00
+modified: 2022-06-09T13:19:58+08:00
 ---
 
 # Search Engines DIY
@@ -22,6 +22,8 @@ distributed search engine circumvent censorship
 
 searx:
 meta search engine self-hosted
+has third-party hosted searx websites avaliable:
+https://searx.space/ total 83 online(currently)
 
 mwmbl:
 distributed crawler central search engine, can be self-hosted
