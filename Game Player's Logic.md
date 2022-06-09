@@ -1,6 +1,6 @@
 ---
 created: 2022-06-09T23:35:36+08:00
-modified: 2022-06-09T23:51:48+08:00
+modified: 2022-06-09T23:52:36+08:00
 ---
 
 # Game Player's Logic
@@ -22,3 +22,5 @@ Gaming starts from dissatisfactory of the reality. Be it loneliness, anger, tire
 可以把游戏相关的视频从外网搬到内网 把游戏视频搬运过来 也可以引用游戏元素 头像 吸引游戏玩家的流量 可以切分游戏剪辑视频 转化游戏攻略之类的视频和文案
 
 sound, visual effects, scripts
+
+Classic scenes picked from danmaku peaks.
