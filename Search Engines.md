@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T13:38:56+08:00
+modified: 2022-06-09T13:39:43+08:00
 ---
 
 # Search Engines DIY
@@ -20,7 +20,7 @@ many specialized search engines that can search image, video and audio. one exam
 txtai:
 semantic search tool
 pip3 install txtai
-using sentence-transformer models from huggingface
+using sentence-transformer models from huggingface sentence embedding
 https://github.com/neuml/txtai
 
 yacy:
