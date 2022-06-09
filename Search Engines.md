@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T13:25:39+08:00
+modified: 2022-06-09T13:38:56+08:00
 ---
 
 # Search Engines DIY
@@ -17,6 +17,12 @@ how to utilize these search engines is a problem/challenge. use url filters, gen
 
 many specialized search engines that can search image, video and audio. one example is Jina
 
+txtai:
+semantic search tool
+pip3 install txtai
+using sentence-transformer models from huggingface
+https://github.com/neuml/txtai
+
 yacy:
 distributed search engine circumvent censorship
 
@@ -29,8 +35,12 @@ mwmbl:
 distributed crawler central search engine, can be self-hosted
 written in python
 
+video search engine:
+generate summary from frames
+https://github.com/AkshatSh/VideoSearchEngine
+
 yuno:
-context based search engine for anime, anime search engine with transformer and deep learning. text based search. more like a semantic search tool.
+context based search engine for anime, anime search engine with transformer and deep learning. text based search. more like a semantic search tool, or neural search tool.
 Yuno is a context based search engine that indexes over 0.5 million anime reviews and other anime informations. To help you find anime with specific properties. This search engine will help people of r/AnimeSuggest who are looking for specific type of anime to watch.
 This search engine was created to solve the problem of finding an object with specific properties and the object in this case is anime. But this search engine can be easily extended to any domain like books,movies,etc. Without the need of any kind of handcrafted dataset.
 
