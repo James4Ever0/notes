@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T13:40:20+08:00
+modified: 2022-06-09T13:45:03+08:00
 ---
 
 # Search Engines DIY
@@ -17,7 +17,7 @@ how to utilize these search engines is a problem/challenge. use url filters, gen
 
 many specialized search engines that can search image, video and audio. one example is Jina
 
-semantic search tool, multimedia search tool
+semantic search tool, multimedia search tool, neural search tool
 
 txtai:
 semantic search tool
