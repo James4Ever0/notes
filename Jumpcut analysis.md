@@ -1,12 +1,12 @@
 ---
 created: 2022-06-10T00:22:06+08:00
-modified: 2022-06-10T00:56:22+08:00
+modified: 2022-06-10T00:56:31+08:00
 ---
 
 # Jumpcut analysis
 
 jumpcut.com provides digital marketing courses:
-viral academy(free as youtube influencer 101 course), automated income machine(forbidden), video ads bootscamp(nothing, avaliable on freecoursedl.com), contageous content(premium)
+viral academy(free as youtube influencer 101 course), automated income machine(forbidden), video ads bootscamp(nothing, avaliable on freecoursedl.com), contageous content(currently premium)
 
 it features different camera angles of narriator's portraits, relative animations and pdf sheets for fill-in-blank tasks. it emphasizes on email ads and audience funnel/filter.
 
