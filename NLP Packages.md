@@ -1,9 +1,9 @@
 ---
 created: 2022-06-09T11:39:24+08:00
-modified: 2022-06-09T11:41:44+08:00
+modified: 2022-06-09T12:18:31+08:00
 ---
 
-# NLP Packages
+# NLP NLG Packages
 
 questgen.ai:
 generate question from essay, imitate interaction
