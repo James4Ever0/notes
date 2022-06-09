@@ -1,6 +1,6 @@
 ---
 created: 2022-06-10T00:22:06+08:00
-modified: 2022-06-10T00:32:36+08:00
+modified: 2022-06-10T00:33:38+08:00
 ---
 
 # Jumpcut analysis
@@ -14,3 +14,5 @@ many free course providers now offer jumpcut academy 2.0. they also offer techni
 中文的自媒体教程和它也是讲一个类型的内容，不过更倾向于实操和自动化。当然也有国外的自媒体教程。
 
 我觉得教程看太多了可能不利于代码实现。可以先把记录放在这里等待之后利用。
+
+搬运教程也是一个好的方向，好的教程需要被翻译或者洗稿，避免被维权。
