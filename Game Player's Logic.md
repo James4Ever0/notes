@@ -1,11 +1,15 @@
 ---
 created: 2022-06-09T23:35:36+08:00
-modified: 2022-06-09T23:42:08+08:00
+modified: 2022-06-09T23:45:19+08:00
 ---
 
 # Game Player's Logic
 
 玩家玩游戏的逻辑
+
+“Looks like you are caring about me.”
+
+Gaming starts from dissatisfactory of the reality. Be it loneliness, anger, tirement or stress.
 
 玩游戏都是有人引导玩的 都是因为别人玩 所以跟着玩的 固有的社交属性
 
