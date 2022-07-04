@@ -1,6 +1,6 @@
 ---
 created: 2022-05-24T13:30:47+08:00
-modified: 2022-07-04T19:38:44+08:00
+modified: 2022-07-04T19:38:54+08:00
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -31,8 +31,6 @@ https://github.com/zmrbak/PcWeChatHooK
 wechaty base framework:
 https://github.com/Wechaty/python-wechaty/ (puppet support might be incomplete)
 https://github.com/Wechaty/wechaty/
-
-
 
 botoy opqbot api for python
 https://botoy.opqbot.com/zh_CN/latest/action/
