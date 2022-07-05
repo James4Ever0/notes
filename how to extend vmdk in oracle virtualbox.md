@@ -1,9 +1,9 @@
 ---
 created: 2022-07-05T21:56:23+08:00
-modified: 2022-07-05T21:57:11+08:00
+modified: 2022-07-05T21:57:26+08:00
 ---
 
-# how to extend vmdk in oracle virtualbox
+# how to extend/resize vmdk in oracle virtualbox
 
 original article:
 https://www.patricia-anong.com/blog/2017/11/1/extend-vmdk-on-virtualbox
