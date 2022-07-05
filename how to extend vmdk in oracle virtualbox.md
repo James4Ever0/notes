@@ -1,9 +1,12 @@
 ---
 created: 2022-07-05T21:56:23+08:00
-modified: 2022-07-05T21:57:26+08:00
+modified: 2022-07-05T22:08:27+08:00
 ---
 
 # how to extend/resize vmdk in oracle virtualbox
+
+win 7 扩容:
+开始菜单 计算机 右键 管理 存储 磁盘管理
 
 original article:
 https://www.patricia-anong.com/blog/2017/11/1/extend-vmdk-on-virtualbox
