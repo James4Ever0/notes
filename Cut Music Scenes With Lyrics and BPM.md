@@ -1,9 +1,9 @@
 ---
 created: 2022-07-09T02:17:05+08:00
-modified: 2022-07-09T02:31:53+08:00
+modified: 2022-07-09T22:25:59+08:00
 ---
 
-# Cut Music Scenes With Lyrics and BPM
+# Cut Music Segments With Lyrics and BPM
 
 def compare(a,b,reverse=False):
 
