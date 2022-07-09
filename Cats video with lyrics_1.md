@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T18:50:34+08:00
-modified: 2022-07-09T22:16:13+08:00
+modified: 2022-07-09T22:25:40+08:00
 ---
 
 # Cats video with lyrics (Lyrics)
@@ -10,8 +10,12 @@ Again i want to start finding lyrics, tired of sourcing & analyzing videos.
 again found in github.
 
 netease music's apis have been reverse engineered on github.
+https://github.com/Binaryify/NeteaseCloudMusicApi
 
 what about spotify apis?
+https://github.com/thelinmichael/spotify-web-api-node (credentials are optional)
+https://github.com/JMPerez/spotify-web-api-js
+https://github.com/plamere/spotipy
 
 https://github.com/0xHJK/music-dl
 
