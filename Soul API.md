@@ -1,9 +1,9 @@
 ---
 created: 2022-07-08T23:57:27+08:00
-modified: 2022-07-08T23:57:48+08:00
+modified: 2022-07-09T22:26:36+08:00
 ---
 
-# Soul API
+# Soul APIs
 
 灵魂测试卡片信息，获取签名*
 https://api.soulapp.cn/html/measureResult/info/v2?userIdEcpt=加密用户ID
