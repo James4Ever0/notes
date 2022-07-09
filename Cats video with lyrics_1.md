@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T18:50:34+08:00
-modified: 2022-02-10T16:07:11+08:00
+modified: 2022-07-09T22:16:13+08:00
 ---
 
 # Cats video with lyrics (Lyrics)
@@ -8,6 +8,10 @@ modified: 2022-02-10T16:07:11+08:00
 Again i want to start finding lyrics, tired of sourcing & analyzing videos.
 
 again found in github.
+
+netease music's apis have been reverse engineered on github.
+
+what about spotify apis?
 
 https://github.com/0xHJK/music-dl
 
