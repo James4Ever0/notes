@@ -1,10 +1,11 @@
 ---
 created: 2022-07-10T00:16:40+08:00
-modified: 2022-07-10T01:21:27+08:00
+modified: 2022-07-10T01:21:43+08:00
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs
 
+百度搜索api
 https://github.com/wcadaydayup/python-baidusearch
 https://github.com/1049451037/MagicBaidu
 https://github.com/alkalixin/jsonp
