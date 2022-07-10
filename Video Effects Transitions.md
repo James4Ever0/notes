@@ -1,6 +1,6 @@
 ---
 created: 2022-07-11T00:08:15+08:00
-modified: 2022-07-11T00:17:10+08:00
+modified: 2022-07-11T00:19:02+08:00
 ---
 
 # Video Effects Transitions
@@ -24,3 +24,7 @@ https://github.com/ice45571/video-transition
 https://github.com/povdocs/video-transitions
 https://github.com/transitive-bullshit/ffmpeg-concat
 https://github.com/transitive-bullshit/ffmpeg-gl-transition
+
+shot detect key frame saving:
+https://github.com/yu239-zz/shotdetect
+https://github.com/AnyiRao/ShotDetection
