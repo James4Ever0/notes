@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T19:01:14+08:00
-modified: 2022-07-11T00:30:50+08:00
+modified: 2022-07-11T00:44:30+08:00
 ---
 
 # Video Editors
@@ -23,3 +23,18 @@ https://github.com/MachineEditor/MachineVideoEditor
 
 openshot python:
 https://github.com/OpenShot/openshot-qt
+
+youtube video summarizer:
+https://github.com/codelucas/shorten.tv
+
+commandline video editor from suckless:
+https://github.com/maandree/blind
+
+remove slience from video:
+https://github.com/gusals3587/jumpcutterV2
+https://github.com/carykh/jumpcutter
+https://github.com/jappeace/cut-the-crap
+https://github.com/MashiMaroLjc/rabbitVE
+
+commandline video editor:
+https://github.com/wkentaro/video-cli
