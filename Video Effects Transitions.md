@@ -1,6 +1,6 @@
 ---
 created: 2022-07-11T00:08:15+08:00
-modified: 2022-07-11T00:09:55+08:00
+modified: 2022-07-11T00:17:10+08:00
 ---
 
 # Video Effects Transitions
@@ -17,3 +17,10 @@ video ai transition tool using pose estimation
 https://github.com/jungdj/AI-Effects
 
 https://github.com/IronSpiderMan/VideoSpecialEffects
+
+video transitions:
+https://github.com/advplyr/img2vid
+https://github.com/ice45571/video-transition
+https://github.com/povdocs/video-transitions
+https://github.com/transitive-bullshit/ffmpeg-concat
+https://github.com/transitive-bullshit/ffmpeg-gl-transition
