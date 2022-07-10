@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T00:16:40+08:00
-modified: 2022-07-10T21:37:46+08:00
+modified: 2022-07-10T21:43:59+08:00
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs
@@ -8,9 +8,13 @@ modified: 2022-07-10T21:37:46+08:00
 图片下载api
 https://github.com/CharlesPikachu/imagedl
 
-免费聊天api 青云客api
+免费聊天api 青云客api 腾讯智能闲聊
 https://zhuanlan.zhihu.com/p/110785806
 http://api.qingyunke.com/api.php?key=free&appid=0&msg=你好
+
+思知对话机器人
+https://www.ownthink.com/docs/bot/
+https://github.com/ownthink/robot/
 
 流行视频下载api
 https://github.com/CharlesPikachu/videodl
