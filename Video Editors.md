@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T19:01:14+08:00
-modified: 2022-07-11T00:44:44+08:00
+modified: 2022-07-11T00:47:34+08:00
 ---
 
 # Video Editors
@@ -35,6 +35,8 @@ remove slience from video:
 https://github.com/gusals3587/jumpcutterV2
 https://github.com/carykh/jumpcutter
 https://github.com/jappeace/cut-the-crap
+
+ai video editor:
 https://github.com/MashiMaroLjc/rabbitVE
 
 commandline video editor:
