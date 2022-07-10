@@ -1,12 +1,15 @@
 ---
 created: 2022-04-22T01:58:04+08:00
-modified: 2022-06-22T21:23:35+08:00
+modified: 2022-07-10T18:56:55+08:00
 ---
 
 # MMDetection/MMD
 
 3d 虚拟形象动作生成 视频生成 虚拟偶像 Vtuber:
 https://github.com/xianfei/SysMocap
+
+human pose detection:
+https://github.com/facebookresearch/VideoPose3D
 
 opengl recording:
 
