@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T00:16:40+08:00
-modified: 2022-07-10T13:05:43+08:00
+modified: 2022-07-10T13:08:10+08:00
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs
@@ -11,12 +11,21 @@ https://github.com/CharlesPikachu/imagedl
 流行视频下载api
 https://github.com/CharlesPikachu/videodl
 
-热搜https://github.com/Eurkon/weibo-top-api
+热搜
+https://github.com/Eurkon/weibo-top-api
 https://github.com/ningyuwhut/query_suggestion
 https://github.com/Arrackisarookie/weibo-hot-search
 https://github.com/justjavac/zhihu-trending-top-search
 https://github.com/justjavac/weibo-trending-hot-search
 https://github.com/huqi-pr/trending-in-one
+
+热搜2
+https://github.com/quarrying/baidu-top-crawler
+https://github.com/towelong/zhihu-hot-questions
+https://github.com/gaussic/baidu_hot_words
+https://github.com/ctts/TopSearch
+https://github.com/henrylee123/baiduIndexCrawler
+https://github.com/realzhengyiming/Spider_of_keywordRank
 
 登录主流网站
 https://github.com/CharlesPikachu/DecryptLogin
