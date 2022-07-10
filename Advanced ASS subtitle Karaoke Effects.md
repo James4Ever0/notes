@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T23:56:16+08:00
-modified: 2022-07-10T23:59:33+08:00
+modified: 2022-07-10T23:59:49+08:00
 ---
 
 # Advanced ASS subtitle Karaoke Effects
@@ -23,4 +23,5 @@ http://www.aegisub.org/
 eyecandy create karaoke ass files:
 https://github.com/Alquimista/Eyecandy-py
 
+create karaoke effects subtitle with lrc file
 https://github.com/DYY-Studio/lrc2ass_py3
