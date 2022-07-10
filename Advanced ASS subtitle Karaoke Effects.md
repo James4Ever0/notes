@@ -1,9 +1,9 @@
 ---
 created: 2022-07-10T23:56:16+08:00
-modified: 2022-07-10T23:59:59+08:00
+modified: 2022-07-11T00:00:53+08:00
 ---
 
-# Advanced ASS subtitle Karaoke Effects
+# Advanced ASS Subtitle Karaoke Effects
 
 create karaoke effects
 https://github.com/Kagu-chan/FXSpindle
