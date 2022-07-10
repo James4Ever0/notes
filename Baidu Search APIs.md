@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T00:16:40+08:00
-modified: 2022-07-10T13:08:10+08:00
+modified: 2022-07-10T13:09:33+08:00
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs
@@ -18,6 +18,7 @@ https://github.com/Arrackisarookie/weibo-hot-search
 https://github.com/justjavac/zhihu-trending-top-search
 https://github.com/justjavac/weibo-trending-hot-search
 https://github.com/huqi-pr/trending-in-one
+https://github.com/jw-star/weiboPush-go-actions
 
 热搜2
 https://github.com/quarrying/baidu-top-crawler
