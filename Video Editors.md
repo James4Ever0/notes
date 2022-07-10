@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T19:01:14+08:00
-modified: 2022-07-11T00:25:47+08:00
+modified: 2022-07-11T00:28:19+08:00
 ---
 
 # Video Editors
@@ -17,3 +17,6 @@ https://github.com/WyattBlue/auto-editor
 
 position video by face:
 https://github.com/diego3g/video-to-reels
+
+machine video editor using deepfake, with gui, not open sourced:
+https://github.com/MachineEditor/MachineVideoEditor
