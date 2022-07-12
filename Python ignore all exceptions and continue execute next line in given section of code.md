@@ -1,7 +1,7 @@
 ---
 title: Python ignore all exceptions and continue execute next line in given section of code
 created: 2022-07-11T22:57:00+08:00
-modified: 2022-07-12T23:42:34+08:00
+modified: 2022-07-13T01:39:03+08:00
 ---
 
 # Python ignore all exceptions and continue execute next line in given section of code
@@ -54,7 +54,7 @@ def skipException(func, debug_flag=False, breakpoint_flag=False):
         mBlocks=[]
         current_block = lines[0]
         lines = lines+[""]
-        keywords = [" ", "def", "with", "class", "@"]
+        keywords = [" ", "def", "async def", "with", "class", "@"]
         for line in lines[1:]:
             if sum([line.startswith(keyword) for keyword in keywords]):
                 current_block+="\n"
