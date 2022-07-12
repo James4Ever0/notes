@@ -1,7 +1,7 @@
 ---
 title: Python ignore all exceptions and continue execute next line in given section of code
 created: 2022-07-11T22:57:00+08:00
-modified: 2022-07-12T23:42:20+08:00
+modified: 2022-07-12T23:42:34+08:00
 ---
 
 # Python ignore all exceptions and continue execute next line in given section of code
@@ -19,7 +19,7 @@ to execute code grouped by lowest level of indentation, we can def those lines o
 
 my solution is down here, with concrete examples.
 
-hereby we recommend to insert a conditional return statement to ensure we will exit this buggy code at the best time. maybe we could insert a dictionary somehow, tuples within string or something.
+hereby we recommend to insert a conditional return statement to ensure we will exit this buggy code at the best time. maybe we could put it into a dictionary somehow, tuples within string or something.
 
 ```python
 import dill
