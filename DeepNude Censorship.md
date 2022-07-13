@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-13T23:16:09+08:00
+modified: 2022-07-13T23:29:30+08:00
 ---
 
 # DeepNude Censorship NSFW
@@ -12,6 +12,7 @@ https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/
 nsfw: not safe for work, inappropriate content, porn, offensive
 
 to train these networks, suitable datasets are required.
+找训练集 找涉政 涉黄 暴力血腥图片训练集 找类似的文字训练集
 
 github violence detection:
 https://github.com/topics/violence-detection
