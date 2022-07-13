@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-14T00:08:55+08:00
+modified: 2022-07-14T00:20:55+08:00
 ---
 
 # DeepNude Censorship NSFW
@@ -29,10 +29,18 @@ https://github.com/aojiaotage/text-censor
 deepnude nsfw nude picture detection:
 https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/README-ZH.md
 
+videoaudit 视频审核框架https://github.com/minitrill/VideoAudit
+
 nsfw: not safe for work, inappropriate content, porn, offensive
 https://github.com/rockyzhengwu/nsfw
 https://github.com/alex000kim/nsfw_data_scraper
 https://github.com/yahoo/open_nsfw
+https://github.com/Rayraegah/nsfw_japan
+https://github.com/fishsup/nsfw-image-classification
+https://github.com/yangbisheng2009/nsfw-resnet
+https://github.com/GantMan/nsfw_model
+https://github.com/devzwy/open_nsfw_androidhttps://github.com/infinitered/nsfwjs
+https://github.com/nsfw-filter/nsfw-filter
 
 nudity, violence and drug
 https://github.com/amshrbo/nsfw-detection
