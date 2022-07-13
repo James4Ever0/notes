@@ -1,9 +1,11 @@
 ---
 created: 2022-07-11T23:43:20+08:00
-modified: 2022-07-12T00:01:41+08:00
+modified: 2022-07-13T08:06:19+08:00
 ---
 
 # Hacking tutorials
+
+暗网社工库 数据库 暗网黑客教学
 
 the payload, dedicated tutorial
 https://github.com/swisskyrepo/PayloadsAllTheThings
