@@ -1,10 +1,13 @@
 ---
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
-created: '2022-07-09T16:16:40.000Z'
-modified: '2022-07-13T07:38:59.338Z'
+created: 2022-07-10T00:16:40+08:00
+modified: 2022-07-14T00:32:51+08:00
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
+
+爬取tumblr
+https://github.com/zhangslob/awesome_crawl
 
 图片下载api
 https://github.com/CharlesPikachu/imagedl
