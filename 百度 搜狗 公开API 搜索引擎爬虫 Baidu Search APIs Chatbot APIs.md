@@ -1,7 +1,7 @@
 ---
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 created: '2022-07-09T16:16:40.000Z'
-modified: '2022-07-13T07:38:07.495Z'
+modified: '2022-07-13T07:38:59.338Z'
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
@@ -13,7 +13,7 @@ https://github.com/CharlesPikachu/imagedl
 https://zhuanlan.zhihu.com/p/110785806
 http://api.qingyunke.com/api.php?key=free&appid=0&msg=你好
 
-思知对话机器人 
+思知对话机器人 语义理解 自然语言转化为结构化数据
 https://www.ownthink.com/docs/bot/
 https://github.com/ownthink/robot/
 
