@@ -1,12 +1,17 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-14T00:05:21+08:00
+modified: 2022-07-14T00:08:29+08:00
 ---
 
 # DeepNude Censorship NSFW
 
-敏感词过滤器 also need a high speed censor engine using trie
+敏感词过滤器 also need a high speed censor engine using trie, also in diffferent language(like english or japanese)
+https://github.com/snguyenthanh/better_profanity
+https://github.com/zacanger/profane-words
+https://github.com/MauriceButler/badwords
+https://github.com/vzhou842/profanity-check
+https://github.com/coffee-and-fun/google-profanity-words
 https://github.com/gaohuifeng/sensitive-word-filter
 https://github.com/lunzima/profanities.txt
 https://github.com/nyx1987/forbiddenwords
