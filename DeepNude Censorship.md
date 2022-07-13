@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-14T00:20:55+08:00
+modified: 2022-07-14T00:43:36+08:00
 ---
 
 # DeepNude Censorship NSFW
@@ -62,6 +62,7 @@ search for nsfw filter providers on google/kaggle
 
 kaggle nsfw image dataset
 https://www.kaggle.com/datasets/laxmansingh/nsfw-images-data
+https://www.kaggle.com/datasets/drakedtrex/my-nsfw-dataset/code
 
 search for nsfw image/text on github:
 https://github.com/alex000kim/nsfw_data_scraper
