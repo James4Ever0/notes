@@ -1,10 +1,14 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-13T23:46:59+08:00
+modified: 2022-07-13T23:50:31+08:00
 ---
 
 # DeepNude Censorship NSFW
+
+敏感词过滤器
+https://github.com/observerss/textfilter
+https://github.com/aojiaotage/text-censor
 
 deepnude nsfw nude picture detection:
 https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/README-ZH.md
