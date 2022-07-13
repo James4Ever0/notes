@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: '2022-05-31T04:00:06.000Z'
-modified: '2022-07-13T08:04:05.340Z'
+modified: '2022-07-13T08:09:35.550Z'
 ---
 
 # DeepNude Censorship NSFW
@@ -10,6 +10,8 @@ deepnude nsfw nude picture detection:
 https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/README-ZH.md
 
 nsfw: not safe for work, inappropriate content, porn, offensive
+
+search for nsfw filter providers on google/kaggle
 
 search for nsfw image/text on github:
 https://github.com/alex000kim/nsfw_data_scraper
