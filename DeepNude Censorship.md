@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: '2022-05-31T04:00:06.000Z'
-modified: '2022-07-13T08:02:26.270Z'
+modified: '2022-07-13T08:03:04.966Z'
 ---
 
 # DeepNude Censorship NSFW
@@ -15,7 +15,7 @@ search for nsfw image/text on github:
 https://github.com/alex000kim/nsfw_data_scraper
 https://github.com/nsfw-filter/nsfw-filter
 
-规避文本审查：
+规避文本审查：有可能是加密了 但是人眼可以识别
 https://github.com/kallydev/shutup
 
 nudenet based inappropriate image censoring
