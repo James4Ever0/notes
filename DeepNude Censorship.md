@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-13T23:13:45+08:00
+modified: 2022-07-13T23:16:09+08:00
 ---
 
 # DeepNude Censorship NSFW
@@ -26,6 +26,11 @@ search for nsfw filter providers on google/kaggle
 search for nsfw image/text on github:
 https://github.com/alex000kim/nsfw_data_scraper
 https://github.com/nsfw-filter/nsfw-filter
+nsfwjs
+https://github.com/arufian/Image-Censor-Lightning-Web-Component
+https://github.com/enymuss/censorText
+https://github.com/fmsky/resnet50_inappropriate_content_detect
+https://github.com/CheranMahalingam/Image_Content_Moderation
 
 文本审核框架：
 https://github.com/minitrill/TextAudit
