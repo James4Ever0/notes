@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-13T23:07:30+08:00
+modified: 2022-07-13T23:12:31+08:00
 ---
 
 # DeepNude Censorship NSFW
@@ -10,6 +10,13 @@ deepnude nsfw nude picture detection:
 https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/README-ZH.md
 
 nsfw: not safe for work, inappropriate content, porn, offensive
+
+to train these networks, suitable datasets are required.
+
+Bloody Image Classification with Global and Local Features
+https://www.researchgate.net/publication/309365631_Bloody_Image_Classification_with_Global_and_Local_Features
+
+Object content understanding in images and videos draws more and more attention nowadays. However, only few existing methods have addressed the problem of bloody scene detection in images. Along with the widespread popularity of the Internet, violent contents have affected our daily life. In this paper, we propose region-based techniques to identify a color image being bloody or not. Firstly, we have established a new dataset containing 25431 bloody images and 25431 non-bloody images. These annotated images are derived from the Violent Scenes Dataset, a public shared dataset for violent scenes detection in Hollywood movies and web videos. Secondly, we design a bloody image classification method with global visual features using Support Vector Machines. Thirdly, we also construct a novel bloody region identification approach using Convolutional Neural Networks. Finally, comparative experiments show that bloody image classification with local features is more effective.
 
 search for nsfw filter providers on google/kaggle
 
