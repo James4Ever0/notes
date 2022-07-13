@@ -1,9 +1,15 @@
 ---
-created: 2022-05-31T12:00:06+08:00
-modified: 2022-05-31T12:37:05+08:00
+title: DeepNude Censorship
+created: '2022-05-31T04:00:06.000Z'
+modified: '2022-07-13T07:58:00.187Z'
 ---
 
 # DeepNude Censorship NSFW
 
 deepnude nsfw nude picture detection:
 https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/README-ZH.md
+
+
+nudenet based inappropriate image censoring
+
+
