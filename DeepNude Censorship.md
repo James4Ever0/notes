@@ -1,13 +1,19 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-13T23:58:34+08:00
+modified: 2022-07-14T00:04:17+08:00
 ---
 
 # DeepNude Censorship NSFW
 
-敏感词过滤器
+敏感词过滤器 also need a high speed censor engine
 https://github.com/gaohuifeng/sensitive-word-filter
+https://github.com/lunzima/profanities.txt
+https://github.com/nyx1987/forbiddenwords
+https://github.com/insoxin/bannedwords
+https://github.com/chason777777/mgck
+https://github.com/k5h9999/keywordfilter
+https://github.com/tomzhang/bannedwords
 https://github.com/observerss/textfilter（需要回看历史 查看git历史）
 https://github.com/aojiaotage/text-censor
 
