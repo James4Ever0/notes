@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
-created: '2022-05-31T04:00:06.000Z'
-modified: '2022-07-13T08:09:35.550Z'
+created: 2022-05-31T12:00:06+08:00
+modified: 2022-07-13T23:07:30+08:00
 ---
 
 # DeepNude Censorship NSFW
@@ -27,6 +27,8 @@ nudenet based inappropriate image censoring
 
 ocr based word censoring
 
-涉及政治：领导人 人脸识别
+politics
+涉及政治：领导人 人脸识别 图标识别
 
+violence 
 血腥暴力：图像识别
