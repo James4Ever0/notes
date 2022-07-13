@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: '2022-05-31T04:00:06.000Z'
-modified: '2022-07-13T07:58:00.187Z'
+modified: '2022-07-13T07:58:27.098Z'
 ---
 
 # DeepNude Censorship NSFW
@@ -11,5 +11,7 @@ https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/
 
 
 nudenet based inappropriate image censoring
+
+ocr based word censoring
 
 
