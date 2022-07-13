@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
 created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-13T23:12:31+08:00
+modified: 2022-07-13T23:13:45+08:00
 ---
 
 # DeepNude Censorship NSFW
@@ -12,6 +12,9 @@ https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/blob/master/
 nsfw: not safe for work, inappropriate content, porn, offensive
 
 to train these networks, suitable datasets are required.
+
+github violence detection:
+https://github.com/topics/violence-detection
 
 Bloody Image Classification with Global and Local Features
 https://www.researchgate.net/publication/309365631_Bloody_Image_Classification_with_Global_and_Local_Features
