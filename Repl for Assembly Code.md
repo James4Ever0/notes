@@ -1,7 +1,7 @@
 ---
 title: Repl for Assembly Code
 created: '2022-07-13T03:09:59.458Z'
-modified: '2022-07-13T03:11:03.553Z'
+modified: '2022-07-13T03:11:08.937Z'
 ---
 
 # Repl for Assembly Code
@@ -10,4 +10,4 @@ modified: '2022-07-13T03:11:03.553Z'
 https://github.com/yrp604/rappel
 
 ## msf provided repl
-msf-nasm_
+msf-nasm_shell
