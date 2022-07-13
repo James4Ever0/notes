@@ -1,7 +1,7 @@
 ---
 title: NLP Packages
 created: '2022-06-09T03:39:24.000Z'
-modified: '2022-07-13T08:06:59.366Z'
+modified: '2022-07-13T08:07:08.742Z'
 ---
 
 # NLP NLG Packages
@@ -12,7 +12,7 @@ generate question from essay, imitate interaction
 question answering question generator
 
 甲骨 jiagu nlp包 provided by ownthink:
-
+https://github.com/ownthink/Jiagu
 - 中文分词
 - 词性标注
 - 命名实体识别
