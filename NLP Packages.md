@@ -1,6 +1,7 @@
 ---
-created: 2022-06-09T11:39:24+08:00
-modified: 2022-06-28T18:55:22+08:00
+title: NLP Packages
+created: '2022-06-09T03:39:24.000Z'
+modified: '2022-07-13T08:06:34.688Z'
 ---
 
 # NLP NLG Packages
@@ -9,6 +10,8 @@ questgen.ai:
 generate question from essay, imitate interaction
 增加观众互动性 生成问题
 question answering question generator
+
+甲骨 jiagu nlp包 
 
 haystack:
 nlp framework
