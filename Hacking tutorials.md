@@ -1,14 +1,12 @@
 ---
 title: Hacking tutorials
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-07-13T02:33:55.975Z'
+modified: '2022-07-13T02:34:25.699Z'
 ---
 
 # Hacking tutorials
 
 暗网 社工库 数据库 暗网黑客教学
-
-abcd
 
 the payload, dedicated tutorial
 https://github.com/swisskyrepo/PayloadsAllTheThings
