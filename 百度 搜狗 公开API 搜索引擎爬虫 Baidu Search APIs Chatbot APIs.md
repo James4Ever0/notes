@@ -1,13 +1,13 @@
 ---
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 created: '2022-07-09T16:16:40.000Z'
-modified: '2022-07-14T05:18:34.952Z'
+modified: '2022-07-14T05:18:51.951Z'
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 
 爬取课程视频 去水印
-
+coursera udemy khanacademy icourse163
 
 爬取tumblr 知乎 腾讯新闻
 https://github.com/zhangslob/awesome_crawl
