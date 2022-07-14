@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T08:01:24.677Z'
+modified: '2022-07-14T08:01:32.424Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -13,7 +13,7 @@ under logs:
 %Y.%m.%d_%H.%M.%S
 
 under selected folder:
-device_logcat_test_
+device_logcat_test_<serial_number>_
 
 Tables:
 
