@@ -1,7 +1,7 @@
 ---
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-07-14T05:12:34.115Z'
+modified: '2022-07-14T05:12:48.685Z'
 ---
 
 # quantative financial stock market analysis
@@ -21,6 +21,7 @@ https://github.com/yutiansut/QUANTAXIS
 vn.py:
 
 talib:
+https://github.com/mrjbq7/ta-lib
 https://www.programcreek.com/python/example/92322/talib.EMA?msclkid=425d0f6cb5dd11ec9da2a03aa72194cd
 
 superalgos:
