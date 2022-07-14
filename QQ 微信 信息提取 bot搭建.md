@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: 2022-05-24T13:30:47+08:00
-modified: 2022-07-15T00:22:57+08:00
+modified: 2022-07-15T00:30:55+08:00
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -26,6 +26,9 @@ search https://qun.qq.com in search engines
 可以考虑截图获取QQ群验证问题 或者手机测试 appium
 
 if possible then just use frida/radare2 or some reverse engineering to automate the process.
+
+radare2 based, ida alike reverse engineering tool:
+https://cutter.re
 
 如何获取进群验证问题？记得可以拦截PC端搜索QQ群接收的数据包获取验证问题 或许不行 总之可以获取到一些参数 查看是否包含验证问题 是不是允许任何人进群 也可以考虑拦截opqqq的通信 或者发送一些通用的加群验证信息 比如“加群学习” “小伙伴一起玩” 之类的 或者用ai模型根据群描述 群主题 生成
 
