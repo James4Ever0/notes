@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T08:43:54.159Z'
+modified: '2022-07-14T08:44:01.932Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -25,7 +25,7 @@ it will.
 log format:
 
 A1test1..4
-
+A2test5
 
 Tables:
 
