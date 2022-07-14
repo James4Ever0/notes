@@ -1,13 +1,16 @@
 ---
 title: quantatitive financial stock market analysis
-created: '2022-06-09T06:38:29.000Z'
-modified: '2022-07-14T05:23:25.155Z'
+created: 2022-06-09T14:38:29+08:00
+modified: 2022-07-14T22:22:27+08:00
 ---
 
 # quantative financial stock market analysis
 
 reinforcement financial deep learning package:
 https://github.com/AI4Finance-Foundation/FinRL
+
+openbb_terminal:
+https://github.com/OpenBB-finance/OpenBBTerminal
 
 zipline
 https://github.com/quantopian/zipline
