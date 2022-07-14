@@ -1,11 +1,15 @@
 ---
-created: 2022-05-24T13:30:47+08:00
-modified: 2022-07-04T19:38:54+08:00
+title: QQ 微信 信息提取 bot搭建
+created: '2022-05-24T05:30:47.000Z'
+modified: '2022-07-14T14:02:19.877Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
 
 would it be a lot easier if we can send those article/video links to external (out of gfw) social media platforms in their native language? still censorship will be applied.
+
+# qq群最多可以添加500个群 1500个好友 其中群可加的数量 = max(0,500 - 已加入群数量 - 好友数量)
+# 可以退出一些安静的群 不发红包的群 删除好友
 
 WeChat needs serious reverse engineering like frida.
 
