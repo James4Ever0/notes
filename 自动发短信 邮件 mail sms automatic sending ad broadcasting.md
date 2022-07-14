@@ -1,6 +1,6 @@
 ---
 created: 2022-07-04T20:47:02+08:00
-modified: 2022-07-15T01:12:41+08:00
+modified: 2022-07-15T01:17:17+08:00
 ---
 
 # 自动发短信 邮件 mail sms automatic sending ad broadcasting
@@ -9,4 +9,5 @@ modified: 2022-07-15T01:12:41+08:00
 
 smsboom by whalefall 远程获取的api 不知道是干啥的 有待研究
 这个的原理是收集了大量发验证码到目标的手机号的api
+repo转移到了openethan下面
 https://github.com/WhaleFell/SMSBoom
