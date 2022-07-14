@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-07-14T14:02:41.928Z'
+modified: '2022-07-14T14:03:58.630Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -13,7 +13,7 @@ would it be a lot easier if we can send those article/video links to external (o
 qq群最多可以添加500个群 1500个好友 其中群可加的数量 = max(0,500 - 已加入群数量 - 好友数量)
 可以退出一些安静的群 不发红包的群 删除好友
 
-
+一个手机号码可以申请10个qq号，一个手机号绑定的QQ帐号名额上限为10个，但一天一个手机号只能成功注册两到三个
 
 WeChat needs serious reverse engineering like frida.
 
