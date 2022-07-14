@@ -1,10 +1,12 @@
 ---
 title: Hacking tutorials
 created: 2022-07-11T23:43:20+08:00
-modified: 2022-07-13T10:35:46+08:00
+modified: 2022-07-15T00:51:53+08:00
 ---
 
 # Hacking tutorials
+
+maybe you should follow kali/parrot/blackarch tutorial first?
 
 暗网 社工库 数据库 暗网黑客教学
 
