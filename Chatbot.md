@@ -1,11 +1,11 @@
 ---
 created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-14T22:25:52+08:00
+modified: 2022-07-14T22:26:18+08:00
 ---
 
 # Chatbot Self-hosted
 
-could host the model on huggingface.
+could host the model on huggingface, or baidu aistudio
 
 中文chatbot:
 https://github.com/zhaoyingjun/chatbot
