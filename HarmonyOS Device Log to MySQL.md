@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T08:22:14.439Z'
+modified: '2022-07-14T08:43:32.440Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -21,6 +21,10 @@ gzip -d
 
 does the decompression remove the .gz file?
 it will.
+
+log format:
+
+
 
 Tables:
 
