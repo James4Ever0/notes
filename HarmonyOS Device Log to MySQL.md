@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T07:59:55.069Z'
+modified: '2022-07-14T08:00:01.157Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -19,7 +19,6 @@ testValue date(%Y-%m-%d) hmsVersion(HMSCore660319) baselineId_id deviceId_id(1,2
 
 Performance_Daily_Data
 id features indicators baseValue
-
 
 Performance_Device_Info
 id(to the deviceId_id) model type sn cpu
