@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T08:02:06.895Z'
+modified: '2022-07-14T08:03:18.271Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -10,7 +10,8 @@ Logs Path:
 /data/data/Local/DeviceTest/20220406163617_hts_project/resources/HTS/android-hts/logs
 
 under logs:
-%Y.%m.%d_%H.%M.%S
+%Y.%m.%d_%H.%M.%S_<serial_number>
+select the latest folder
 
 under selected folder:
 device_logcat_test_<serial_number>_<unknownInteger>.txt.gz
