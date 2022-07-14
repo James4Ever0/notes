@@ -1,11 +1,18 @@
 ---
 created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-14T22:31:42+08:00
+modified: 2022-07-14T22:38:25+08:00
 ---
 
 # Chatbot Self-hosted
 
-could host the model on huggingface, or baidu aistudio
+could host the model on huggingface, or baidu aistudio, heroku or your own machine
+
+heroku:
+https://www.kaggle.com/getting-started/208405
+https://signup.heroku.com
+
+heroku alternatives:
+
 
 aistudio api:
 一个项目可以创建至多五个沙盒服务, 并选择其中一个沙盒服务部署为线上服务.
