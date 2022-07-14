@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: 2022-05-24T13:30:47+08:00
-modified: 2022-07-15T00:05:31+08:00
+modified: 2022-07-15T00:11:50+08:00
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -20,6 +20,8 @@ qq群最多可以添加500个群 1500个好友 其中群可加的数量 = max(0,
 
 一个验证QQ群的Python代码
 https://www.bilibili.com/read/mobile?id=10044756
+
+search https://qun.qq.com in search engines
 
 可以考虑截图获取QQ群验证问题
 
