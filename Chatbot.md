@@ -1,10 +1,12 @@
 ---
 title: Chatbot
-created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-14T14:58:57.798Z'
+created: 2022-07-14T22:19:56+08:00
+modified: 2022-07-14T23:00:48+08:00
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
+
+could use this method to generate title for videos. i mean generally.
 
 could host the model on huggingface, or baidu aistudio, heroku or your own machine
 
