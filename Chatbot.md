@@ -1,6 +1,7 @@
 ---
-created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-14T22:58:00+08:00
+title: Chatbot
+created: '2022-07-14T14:19:56.000Z'
+modified: '2022-07-14T14:58:57.798Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -35,4 +36,5 @@ https://github.com/Dimsmary/Ossas_ChatBot
 https://github.com/lcdevelop/ChatBotCourse
 https://github.com/fendouai/Awesome-Chatbot
 
-语料库https://github.com/codemayq/chinese_chatbot_corpus
+语料库
+https://github.com/codemayq/chinese_chatbot_corpus
