@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: 2022-05-24T13:30:47+08:00
-modified: 2022-07-15T00:37:45+08:00
+modified: 2022-07-15T00:40:48+08:00
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -10,6 +10,10 @@ would it be a lot easier if we can send those article/video links to external (o
 
 wechat frida hook on macos:
 https://github.com/dounine/wechat-frida
+
+WeChat PC Frida hook:
+https://github.com/K265/frida-wechat-sticker
+https://github.com/kingking888/frida_wechat_hook
 
 ## qq号码注册规则
 
