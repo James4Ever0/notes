@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T08:48:59.468Z'
+modified: '2022-07-14T08:49:11.599Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -23,7 +23,7 @@ does the decompression remove the .gz file?
 it will.
 
 log format per line:
-DfxTestLog: A1<testName>_<testName2_contain_test_serial>_
+DfxTestLog: A1<testName>_<testName2_contain_test_serial>_DfxTestTime
 
 from 1 to 13:
 A1test1..4
