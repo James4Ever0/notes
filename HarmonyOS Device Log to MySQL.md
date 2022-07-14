@@ -1,10 +1,15 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T08:49:34.423Z'
+modified: '2022-07-14T08:57:08.011Z'
 ---
 
 # HarmonyOS Device Log to MySQL
+
+mysql path:
+jdbc:mysql://10.33.163.33:3306/HTS_DB?characterEncoding=UTF-8
+root
+pipeline@123
 
 Logs Path:
 /data/data/Local/DeviceTest/20220406163617_hts_project/resources/HTS/android-hts/logs
