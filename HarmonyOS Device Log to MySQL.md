@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T07:51:16.767Z'
+modified: '2022-07-14T07:51:22.815Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -16,6 +16,6 @@ Tables:
 
 Performance_Baseline_Info
 Performance_Daily_Data
-Performance_
+Performance_Device_I
 
 
