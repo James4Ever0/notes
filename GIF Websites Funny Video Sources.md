@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T00:16:55+08:00
-modified: 2022-07-10T01:00:00+08:00
+modified: 2022-07-14T22:39:53+08:00
 ---
 
 # GIF Websites Funny Video Sources
@@ -13,6 +13,9 @@ https://github.com/sogamoso/giphy
 https://github.com/Giphy/GiphyAPI
 https://developers.giphy.com/branch/master/docs/
 https://github.com/shaunduncan/giphypop
+
+enternainment apis and more, search for free apis/public apis:
+https://apipheny.io/free-api/#entertainment-apis
 
 find things from public apis:
 https://github.com/public-apis/public-apis
