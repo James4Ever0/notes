@@ -1,6 +1,6 @@
 ---
 created: 2022-07-04T20:47:02+08:00
-modified: 2022-07-15T01:58:20+08:00
+modified: 2022-07-15T02:29:40+08:00
 ---
 
 # 自动发短信 邮件 mail sms automatic sending ad broadcasting
@@ -17,4 +17,15 @@ https://textbelt.com/
 https://github.com/HACK3RY2J/Anon-SMS
 https://github.com/typpo/textbelt
 
+freesms:
+https://www.afreesms.com/freesms/
+
 yoy might want phone number lists for sending ads via free sms providers
+
+shows [number]@139.com is the only email2sms gateway in china
+https://email2sms.info
+
+list of email2sms providers:
+https://www.howtogeek.com/howto/27051/use-email-to-send-text-messages-sms-to-mobile-phones-for-free/
+http://www.mutube.com/projects/open-email-to-sms/gateway-list/
+http://en.wikipedia.org/wiki/List_of_carriers_providing_Email_or_Web_to_SMS
