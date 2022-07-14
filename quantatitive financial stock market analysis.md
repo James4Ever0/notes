@@ -1,7 +1,7 @@
 ---
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-07-14T05:11:19.641Z'
+modified: '2022-07-14T05:11:26.130Z'
 ---
 
 # quantative financial stock market analysis
@@ -13,6 +13,7 @@ zipline
 https://github.com/quantopian/zipline
 
 pyalgotrade
+https://github.com/gbeced/pyalgotrade
 
 quantaxis:
 
