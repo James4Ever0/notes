@@ -1,9 +1,9 @@
 ---
 created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-14T22:56:33+08:00
+modified: 2022-07-14T22:58:00+08:00
 ---
 
-# Chatbot Self-hosted
+# Chatbot Self-hosted Model Cloud Deploy
 
 could host the model on huggingface, or baidu aistudio, heroku or your own machine
 
