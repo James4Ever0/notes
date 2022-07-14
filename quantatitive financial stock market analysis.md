@@ -1,7 +1,7 @@
 ---
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-07-14T05:11:26.130Z'
+modified: '2022-07-14T05:11:37.125Z'
 ---
 
 # quantative financial stock market analysis
@@ -16,6 +16,7 @@ pyalgotrade
 https://github.com/gbeced/pyalgotrade
 
 quantaxis:
+https://github.com/yutiansut/QUANTAXIS
 
 vn.py:
 
