@@ -1,7 +1,7 @@
 ---
 title: HarmonyOS Device Log to MySQL
 created: '2022-07-14T07:47:35.702Z'
-modified: '2022-07-14T08:57:08.011Z'
+modified: '2022-07-14T08:59:28.927Z'
 ---
 
 # HarmonyOS Device Log to MySQL
@@ -21,8 +21,8 @@ select the latest folder
 under selected folder:
 device_logcat_test_<serial_number>_<unknownInteger>.txt.gz
 
-decompress using:
-gzip -d 
+decompress using: (before that os.chdir to the selected folder)
+gzip -d <file>
 
 does the decompression remove the .gz file?
 it will.
