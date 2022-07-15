@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:19:25.209Z'
+modified: '2022-07-15T12:20:20.715Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -12,7 +12,7 @@ https://github.com/jrising/pysoundtouch
 
 install crossover to run windows app on linux
 
-compile crossover from source(code avaliable from official website):
+compile crossover from source on macos(code avaliable from official website):
 https://gist.github.com/Alex4386/4cce275760367e9f5e90e2553d655309
 https://www.codeweavers.com/crossover/source
 
