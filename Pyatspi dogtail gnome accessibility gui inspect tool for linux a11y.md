@@ -1,7 +1,7 @@
 ---
 title: Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 created: '2022-07-15T05:07:25.612Z'
-modified: '2022-07-15T05:14:46.459Z'
+modified: '2022-07-15T05:15:21.359Z'
 ---
 
 # Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
@@ -18,6 +18,7 @@ a11y is the general term for accessibility, for web browsers like firefox. howev
 
 linux a11y:
 https://github.com/shubhamvasaikar/Auto-GUI-Testing
+gnome accessibility toolkit(atk)
 
 https://gitlab.gnome.org/GNOME/pyatspi2
 https://gitlab.com/dogtail/dogtail
