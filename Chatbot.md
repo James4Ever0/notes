@@ -1,14 +1,14 @@
 ---
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-15T14:54:30.838Z'
+modified: '2022-07-15T14:55:05.317Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
 
 可以提取关键词然后到百度上面搜索 获取相关内容
 
-可以用huggingface的api来翻译 对接英文的chatbot
+可以用huggingface的api来翻译 对接英文的chatbot (blenderbot, dialo-gpt)
 
 可以把训练好的中文chatbot放到huggingface上面去 用kaggle放
 
