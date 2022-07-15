@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-15T14:53:37.799Z'
+modified: '2022-07-15T14:53:54.213Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -9,6 +9,8 @@ modified: '2022-07-15T14:53:37.799Z'
 可以提取关键词然后到百度上面搜索 获取相关内容
 
 可以用huggingface的api来翻译 对接英文的chatbot
+
+
 
 could use this method to generate title for videos. i mean generally.
 
