@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-15T12:40:02.929Z'
+modified: '2022-07-15T12:43:06.613Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -35,6 +35,7 @@ paddlenlp
 plato2
 https://github.com/PaddlePaddle/Knover
 https://github.com/PaddlePaddle/Knover/tree/develop/projects/PLATO-2
+https://aistudio.baidu.com/aistudio/projectdetail/1886227?channelType=0&channel=0
 
 中文chatbot:
 https://github.com/zhaoyingjun/chatbot
