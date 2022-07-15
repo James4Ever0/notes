@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:16:27.250Z'
+modified: '2022-07-15T12:17:48.852Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -29,6 +29,9 @@ https://github.com/obsproject/obs-vst
 
 pyvst vst wrapper for windows:
 https://github.com/mbrucher/PyVST
+
+python vst wrapper for windows:
+https://pypi.org/project/neil-vst/
 
 yabridge use windows vst3, vst2 plugins on linux using wine, with reaper:
 https://github.com/robbert-vdh/yabridge
