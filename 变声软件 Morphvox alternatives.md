@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:20:20.715Z'
+modified: '2022-07-15T12:32:48.591Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -9,6 +9,9 @@ modified: '2022-07-15T12:20:20.715Z'
 SoundTouch
 萝莉音 青年音
 https://github.com/jrising/pysoundtouch
+
+gan based voice changer:
+https://github.com/yl4579/StarGANv2-VC
 
 install crossover to run windows app on linux
 
