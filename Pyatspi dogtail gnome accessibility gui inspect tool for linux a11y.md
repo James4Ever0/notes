@@ -1,10 +1,16 @@
 ---
 title: Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 created: '2022-07-15T05:07:25.612Z'
-modified: '2022-07-15T05:14:01.865Z'
+modified: '2022-07-15T05:14:46.459Z'
 ---
 
 # Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
+
+does appium do linux accessibility?
+
+windows a11y:
+https://github.com/blackrosezy/gui-inspect-tool
+pywinauto
 
 bookmark_history_search sucks. it does not include webpage summaries, only title, which makes searching the history very hard. the solution is to use readbility.js to visit and summarize these pages, and update these documents in meilisearch.
 
