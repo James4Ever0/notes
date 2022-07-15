@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-15T12:45:43.741Z'
+modified: '2022-07-15T14:44:20.405Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -15,6 +15,9 @@ https://huggingface.co/docs/api-inference/quicktour
 
 huggingface inference apis:
 https://huggingface.co/inference-api
+
+huggingface conversational (chatbot) models:
+https://huggingface.co/models?pipeline_tag=conversational&sort=downloads
 
 heroku, use fastapi as interface:
 https://fastapi.tiangolo.com
