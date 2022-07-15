@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
-created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T15:15:52.668Z'
+created: 2022-05-29T00:14:51+08:00
+modified: 2022-07-15T23:38:29+08:00
 ---
 
 # 变声软件 Morphvox alternatives
@@ -9,6 +9,10 @@ modified: '2022-07-15T15:15:52.668Z'
 xidada's tts:
 https://huggingface.co/spaces/X*i-J*i*nP*i*n*g/X*i-J*i*nP*i*n*g-TTS # remove asterisks!
 
+哔哩哔哩上看到的免费变声器
+下载地址：
+https://yuanqiyinpin.github.io/
+本机架为二次开源软件，优点是占用率滴，不吃电脑配置，上手简单，免费使用
 
 SoundTouch
 萝莉音 青年音
