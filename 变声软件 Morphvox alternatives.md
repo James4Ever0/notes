@@ -1,13 +1,14 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T15:15:22.904Z'
+modified: '2022-07-15T15:15:52.668Z'
 ---
 
 # 变声软件 Morphvox alternatives
 
 xidada's tts:
-https://huggingface.co/spaces/Xi-JinPing/Xi-JinPing-TTS
+https://huggingface.co/spaces/X*i-J*i*nP*i*n*g/X*i-J*i*nP*i*n*g-TTS # remove asterisks!
+
 
 SoundTouch
 萝莉音 青年音
