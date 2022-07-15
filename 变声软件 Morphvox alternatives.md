@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:01:56.260Z'
+modified: '2022-07-15T12:02:05.041Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -18,6 +18,8 @@ https://github.com/hq9000/py_headless_daw
 
 linux vst wrapper/bridge:
 https://github.com/osxmidi/LinVst
+
+https://github.com/abique/vst-bridge
 
 lyrebird voice changer for linux gtk3:
 https://github.com/lyrebird-voice-changer/lyrebird
