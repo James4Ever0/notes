@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:47:54.777Z'
+modified: '2022-07-15T12:49:44.082Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -9,9 +9,6 @@ modified: '2022-07-15T12:47:54.777Z'
 SoundTouch
 萝莉音 青年音
 https://github.com/jrising/pysoundtouch
-
-python voice changer figaro:
-https://github.com/symphonly/figaro
 
 gan based voice changer:
 https://github.com/yl4579/StarGANv2-VC
