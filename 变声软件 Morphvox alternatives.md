@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:02:56.865Z'
+modified: '2022-07-15T12:03:11.633Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -24,6 +24,9 @@ https://github.com/abique/vst-bridge
 
 use vst 2.4 on macos with obs studio:
 https://github.com/obsproject/obs-vst
+
+pyvst vst wrapper for windows:
+https://github.com/mbrucher/PyVST
 
 lyrebird voice changer for linux gtk3:
 https://github.com/lyrebird-voice-changer/lyrebird
