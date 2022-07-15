@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:01:09.918Z'
+modified: '2022-07-15T12:01:39.967Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -15,6 +15,9 @@ https://github.com/jrising/pysoundtouch
 run vst on linux headlessly:
 https://github.com/hq9000/cython-vst-loader
 https://github.com/hq9000/py_headless_daw
+
+linux vst:
+https://github.com/osxmidi/LinVst
 
 lyrebird voice changer for linux gtk3:
 https://github.com/lyrebird-voice-changer/lyrebird
