@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:00:44.575Z'
+modified: '2022-07-15T12:00:48.255Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -10,7 +10,8 @@ SoundTouch
 萝莉音 青年音
 https://github.com/jrising/pysoundtouch
 
-变声器一般是vst
+变声器一般是vst类型的
+
 
 lyrebird voice changer for linux gtk3:
 https://github.com/lyrebird-voice-changer/lyrebird
