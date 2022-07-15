@@ -1,12 +1,13 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T15:15:14.026Z'
+modified: '2022-07-15T15:15:17.324Z'
 ---
 
 # 变声软件 Morphvox alternatives
 
-xidada
+xidada's tts:
+
 
 SoundTouch
 萝莉音 青年音
