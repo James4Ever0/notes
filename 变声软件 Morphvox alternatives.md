@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:05:22.201Z'
+modified: '2022-07-15T12:05:36.114Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -28,7 +28,7 @@ https://github.com/obsproject/obs-vst
 pyvst vst wrapper for windows:
 https://github.com/mbrucher/PyVST
 
-yabridge use windows vst3, vst2 plugins on linux, with reaper:
+yabridge use windows vst3, vst2 plugins on linux using wine, with reaper:
 https://github.com/robbert-vdh/yabridge
 
 lyrebird voice changer for linux gtk3:
