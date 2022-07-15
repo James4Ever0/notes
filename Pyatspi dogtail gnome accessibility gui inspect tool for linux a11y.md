@@ -1,7 +1,7 @@
 ---
 title: Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 created: '2022-07-15T05:07:25.612Z'
-modified: '2022-07-15T05:10:15.730Z'
+modified: '2022-07-15T05:10:26.570Z'
 ---
 
 # Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
@@ -10,6 +10,7 @@ bookmark_history_search sucks. it does not include webpage summaries, only title
 
 a11y is for web browsers like firefox. however, there's implementation for gnome internally.
 
+https://gitlab.gnome.org/GNOME/pyatspi2
 
 
 
