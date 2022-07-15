@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-15T12:43:06.613Z'
+modified: '2022-07-15T12:45:43.741Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -30,8 +30,10 @@ https://ai.baidu.com/ai-doc/AISTUDIO/bk3e382cq#创建在线api服务
 沙盒服务如果连续超过24小时无调用将自动调整为暂停状态.
 线上服务如果连续超过14天无调用将自动调整为暂停状态.
 
-paddlepaddle chat model:
 paddlenlp
+https://aistudio.baidu.com/aistudio/projectdetail/3723144?channelType=0&channel=0
+
+paddlepaddle chat model:
 plato2
 https://github.com/PaddlePaddle/Knover
 https://github.com/PaddlePaddle/Knover/tree/develop/projects/PLATO-2
