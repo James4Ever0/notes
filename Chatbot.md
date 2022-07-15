@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-16T00:27:00+08:00
+modified: 2022-07-16T00:30:03+08:00
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -10,7 +10,6 @@ modified: 2022-07-16T00:27:00+08:00
 
 search huggingface with julia or python:
 huggingface_hub(python)
-
 
 可以用huggingface的api来翻译 对接英文的chatbot (blenderbot, dialo-gpt)
 add timeout to these api requests
