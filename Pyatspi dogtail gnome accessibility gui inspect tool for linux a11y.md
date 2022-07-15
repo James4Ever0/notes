@@ -1,7 +1,7 @@
 ---
 title: Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 created: '2022-07-15T05:07:25.612Z'
-modified: '2022-07-15T05:13:05.852Z'
+modified: '2022-07-15T05:13:17.284Z'
 ---
 
 # Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
@@ -17,5 +17,38 @@ https://www.freedesktop.org/wiki/Accessibility/PyAtSpi2Example/
 accessibility implementation in different toolkits:
 https://github.com/GNOME/at-spi2-core/blob/e83d5558d2fbded5b345b0af254f26865e148e49/devel-docs/toolkits.md
 
+Toolkits that use the DBus APIs directly
+GTK4
+Sources: gtk4/gtk/a11y
+
+Qt5
+Sources: qtbase/src/gui/accessible/linux
+
+WebKit
+Sources: WebKit/Source/WebCore/accessibility/atspi
+
+Toolkits that use ATK
+GTK3
+Sources: gtk3/gtk/a11y
+
+gnome-shell / St / via clutter's cally
+Sources: mutter/clutter/clutter/cally
+
+Mozilla Firefox
+Sources: gecko-dev/accessible/atk
+
+Chromium
+Uses both ATK and libatspi?
+
+Sources:
+
+chromium/ui/accessibility/platform/*auralinux* (atk)
+chromium/ui/accessibility/platform/inspect/*auralinux* (atspi)
+chromium/content/browser/accessibility/*auralinux* (atspi and atk)
+LibreOffice
+Sources: LibreOffice/core/vcl/unx/gtk3/a11y
+
+Java Swing - via java-atk-wrapper
+Sources: java-atk-wrapper
 
 
