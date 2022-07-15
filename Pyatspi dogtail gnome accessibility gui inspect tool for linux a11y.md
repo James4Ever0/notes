@@ -1,12 +1,12 @@
 ---
 title: Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 created: '2022-07-15T05:07:25.612Z'
-modified: '2022-07-15T05:15:37.995Z'
+modified: '2022-07-15T05:15:47.703Z'
 ---
 
 # Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 
-does appium have linux accessibility?
+does appium have linux accessibility implementation?
 
 windows a11y:
 https://github.com/blackrosezy/gui-inspect-tool
