@@ -1,7 +1,7 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-07-15T12:05:36.114Z'
+modified: '2022-07-15T12:16:27.250Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -9,6 +9,8 @@ modified: '2022-07-15T12:05:36.114Z'
 SoundTouch
 萝莉音 青年音
 https://github.com/jrising/pysoundtouch
+
+install crossover to run windows app on linux
 
 变声器一般是vst类型的
 
