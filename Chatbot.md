@@ -1,7 +1,7 @@
 ---
 title: Chatbot
-created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-14T23:00:48+08:00
+created: '2022-07-14T14:19:56.000Z'
+modified: '2022-07-15T12:38:24.645Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -29,6 +29,10 @@ https://ai.baidu.com/ai-doc/AISTUDIO/bk3e382cq#创建在线api服务
 一个项目可以创建至多五个沙盒服务, 并选择其中一个沙盒服务部署为线上服务.
 沙盒服务如果连续超过24小时无调用将自动调整为暂停状态.
 线上服务如果连续超过14天无调用将自动调整为暂停状态.
+
+paddlepaddle chat model:
+paddlenlp
+plato2
 
 中文chatbot:
 https://github.com/zhaoyingjun/chatbot
