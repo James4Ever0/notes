@@ -1,12 +1,12 @@
 ---
 title: github Gitee 大文件大型repo如何上传
 created: '2022-07-16T10:40:40.000Z'
-modified: '2022-07-16T14:50:48.062Z'
+modified: '2022-07-16T14:51:13.834Z'
 ---
 
 # github Gitee 大文件大型repo如何上传
 
-run command after opened the vscode repeatedly.
+run git related command after opened the vscode repeatedly, just like notable.
 
 首先不能follow symlink
 
