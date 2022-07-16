@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-16T02:40:27.086Z'
+modified: '2022-07-16T02:40:40.931Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -30,7 +30,7 @@ https://huggingface.co/inference-api
 huggingface conversational (chatbot) models:
 https://huggingface.co/models?pipeline_tag=conversational&sort=downloads
 
-heroku
+heroku only have 512MB RAM, impossible to run a chatbot.
 
 heroku, use fastapi as interface:
 https://fastapi.tiangolo.com
