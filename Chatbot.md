@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-16T00:30:03+08:00
+modified: 2022-07-16T09:22:48+08:00
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
@@ -15,6 +15,7 @@ huggingface_hub(python)
 add timeout to these api requests
 
 可以把训练好的中文chatbot放到huggingface上面去 用kaggle放
+https://github.com/yangjianxin1/GPT2-chitchat
 
 could use this method to generate title for videos. i mean generally.
 
