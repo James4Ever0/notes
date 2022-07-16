@@ -1,7 +1,7 @@
 ---
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-07-16T14:15:43.270Z'
+modified: '2022-07-16T14:17:37.913Z'
 ---
 
 # 复读机 Chatbot
@@ -15,8 +15,16 @@ modified: '2022-07-16T14:15:43.270Z'
 根据模板生成下一句 不要直接生成 素材可以是群公告 群主题 接收到的信息
 
 ```python
-
-
+>>> import re
+>>> re.split(r"(abc|acd)","aaabcaaacdaaa")
+['aa', 'abc', 'aa', 'acd', 'aaa']
+>>> word="aaabcaaacdaaa"
+>>> word="aaabcaaacdaaa"
+>>> re.escape("abc")   
+'abc'
+>>> re.escape("efgh")
+'efgh'
+>>>
 ```
 
 可以拆分句子为列表
