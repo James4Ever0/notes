@@ -1,12 +1,12 @@
 ---
 title: Chatbot
-created: '2022-07-14T14:19:56.000Z'
-modified: '2022-07-16T02:40:40.931Z'
+created: 2022-07-14T22:19:56+08:00
+modified: 2022-07-16T17:44:34+08:00
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
 
-可以提取关键词然后到百度上面搜索 获取相关内容
+可以提取关键词然后到百度必应上面搜索 获取相关内容 注意语种一致性
 
 search huggingface with julia or python:
 huggingface_hub(python)
@@ -29,8 +29,6 @@ https://huggingface.co/inference-api
 
 huggingface conversational (chatbot) models:
 https://huggingface.co/models?pipeline_tag=conversational&sort=downloads
-
-heroku only have 512MB RAM, impossible to run a chatbot.
 
 heroku, use fastapi as interface:
 https://fastapi.tiangolo.com
