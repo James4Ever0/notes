@@ -1,7 +1,7 @@
 ---
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-07-16T10:09:27.469Z'
+modified: '2022-07-16T10:19:33.824Z'
 ---
 
 # 复读机 Chatbot
@@ -20,7 +20,7 @@ modified: '2022-07-16T10:09:27.469Z'
 
 输出内容的时候不能有违禁词语 放进来的可以违禁 或者用拼音或者拆字转换这些违禁词语 保证上下文一致性 文本审查
 
-bad chinese -> letter -> leetspeek
+bad chinese -> letter(pinyin initials) -> leetspeek
 
 下一次挑选的时候自动过滤掉这些下一句在历史回答里面的句子对
 
