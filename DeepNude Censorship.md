@@ -1,7 +1,7 @@
 ---
 title: DeepNude Censorship
-created: 2022-05-31T12:00:06+08:00
-modified: 2022-07-14T00:43:36+08:00
+created: '2022-05-31T04:00:06.000Z'
+modified: '2022-07-16T08:25:51.155Z'
 ---
 
 # DeepNude Censorship NSFW
@@ -23,7 +23,7 @@ https://github.com/insoxin/bannedwords
 https://github.com/chason777777/mgck
 https://github.com/k5h9999/keywordfilter
 https://github.com/tomzhang/bannedwords
-https://github.com/observerss/textfilter（需要回看历史 查看git历史）
+https://github.com/observerss/textfilter （需要回看历史 查看git历史）
 https://github.com/aojiaotage/text-censor
 
 deepnude nsfw nude picture detection:
