@@ -1,10 +1,14 @@
 ---
 title: quantatitive financial stock market analysis
 created: 2022-06-09T14:38:29+08:00
-modified: 2022-07-14T22:22:27+08:00
+modified: 2022-07-17T20:33:35+08:00
 ---
 
 # quantative financial stock market analysis
+
+crypto trading bot, support all crypto trading markets:
+https://github.com/freqtrade/freqtrade
+
 
 reinforcement financial deep learning package:
 https://github.com/AI4Finance-Foundation/FinRL
