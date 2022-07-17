@@ -1,12 +1,14 @@
 ---
 title: github Gitee 大文件大型repo如何上传
 created: '2022-07-16T10:40:40.000Z'
-modified: '2022-07-17T03:07:44.239Z'
+modified: '2022-07-17T04:01:56.900Z'
 ---
 
 # github Gitee 大文件大型repo如何上传
 
 run git related command after opened the vscode repeatedly, just like notable.
+
+before git submodule .git folder deletion you may record the remote origin url to somewhere in the base folder.
 
 you could patch the vscode launcher somehow, read the working directory to determine to repeatedly sync or not.
 
