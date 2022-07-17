@@ -1,9 +1,12 @@
 ---
-created: 2022-05-05T09:13:55+08:00
-modified: 2022-05-05T11:11:38+08:00
+title: Video Database
+created: '2022-05-05T01:13:55.000Z'
+modified: '2022-07-17T09:14:12.105Z'
 ---
 
 # Video Database For Video Generation
+
+when removing video watermarks, remember to ease in/out. that is said, do not stop blurring immediately after the end mark. instead, extend the blur time and decrease blur level incrementally. also, the blur ease-in is needed for the start mark, blur ahead of the start mark and ease in incrementally.
 
 descriptive information generation from video/image:
 
