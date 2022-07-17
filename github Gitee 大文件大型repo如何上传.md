@@ -1,7 +1,7 @@
 ---
 title: github Gitee 大文件大型repo如何上传
 created: '2022-07-16T10:40:40.000Z'
-modified: '2022-07-17T04:01:56.900Z'
+modified: '2022-07-17T04:03:54.407Z'
 ---
 
 # github Gitee 大文件大型repo如何上传
@@ -12,7 +12,7 @@ before git submodule .git folder deletion you may record the remote origin url t
 
 you could patch the vscode launcher somehow, read the working directory to determine to repeatedly sync or not.
 
-also you might need five filelocks: one for git init(entry lock?), one for git sync, one for local sync, two for remote sync.
+also you might need six filelocks: one for main loop process running, one for git init(entry lock?), one for git sync, one for local sync, two for remote sync.
 
 use `$@` or `$*` will do to pass arguments to the vscode binary.
 
