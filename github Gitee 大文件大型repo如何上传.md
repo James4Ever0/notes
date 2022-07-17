@@ -1,14 +1,14 @@
 ---
 title: github Gitee 大文件大型repo如何上传
-created: '2022-07-16T10:40:40.000Z'
-modified: '2022-07-17T07:47:24.562Z'
+created: 2022-07-16T18:40:40+08:00
+modified: 2022-07-17T18:48:31+08:00
 ---
 
 # github Gitee 大文件大型repo如何上传
 
-run git related command after opened the vscode repeatedly, just like notable.
+if you decide to upload the thing to github, and to sync among devices, then you need to share your ssh key.
 
-remove all other .gitignore files other than the primary one.
+run git related command after opened the vscode repeatedly, just like notable.
 
 before git submodule .git folder deletion you may record the remote origin url to somewhere in the base folder.
 
