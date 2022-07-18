@@ -1,7 +1,7 @@
 ---
 title: NTFS recovery tool for bilibili cookie under AutoUP
 created: '2022-07-17T19:09:33.000Z'
-modified: '2022-07-18T04:33:17.522Z'
+modified: '2022-07-18T04:33:33.640Z'
 ---
 
 # NTFS recovery tool for bilibili cookie under AutoUP
@@ -51,3 +51,5 @@ dd if=/dev/block/mmcblk0 | gzip -9 | nc -l 5555
 On the computer, run:
 
 nc [AndroidIP] 5555 | pv -b > mmcblk0.img.gz
+
+testdisk mmcblk0.raw
