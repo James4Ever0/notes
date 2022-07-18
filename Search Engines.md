@@ -1,6 +1,6 @@
 ---
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-06-09T14:47:19+08:00
+modified: 2022-07-19T00:53:19+08:00
 ---
 
 # Search Engines DIY
@@ -18,6 +18,29 @@ how to utilize these search engines is a problem/challenge. use url filters, gen
 many specialized search engines that can search image, video and audio. one example is Jina
 
 semantic search tool, multimedia search tool, neural search tool
+
+https://github.com/searxng/searxng
+
+parse popular search engine results like baidu, bing:
+https://github.com/bisohns/search-engine-parser
+
+search and scrape news
+https://github.com/01joy/news-search-engine
+
+image search engine
+https://github.com/matsui528/sis
+
+search engines used by hackers, social engineering, onion sites:
+https://github.com/edoardottt/awesome-hacker-search-engines
+
+search engine with customized recommendation:
+https://github.com/mtianyan/FunpySpiderSearchEngine
+
+seo tools 百度下拉词获取 推荐词相关词
+https://github.com/marcobiedermann/search-engine-optimization
+
+a self-hosted search engine that can be deployed on heroku, google alike:
+https://github.com/benbusby/whoogle-search
 
 txtai:
 semantic search tool
