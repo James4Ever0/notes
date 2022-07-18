@@ -1,11 +1,13 @@
 ---
 created: 2021-12-19T18:50:34+08:00
-modified: 2022-07-17T20:43:37+08:00
+modified: 2022-07-19T01:37:16+08:00
 ---
 
 # Cats video with lyrics (Lyrics)
 
 Again i want to start finding lyrics, tired of sourcing & analyzing videos.
+
+一系列的视频观众都要看下去 那么下一期视频最好就是用该类视频的推荐下一个（类）视频作为模板来做的
 
 using yolov7 to detect and cut cat/dog videos.
 https://github.com/WongKinYiu/yolov7
