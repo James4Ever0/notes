@@ -1,6 +1,6 @@
 ---
 created: 2022-05-29T00:15:24+08:00
-modified: 2022-07-19T00:16:32+08:00
+modified: 2022-07-19T00:18:34+08:00
 ---
 
 # IM MITM 聊天软件 MITM
@@ -23,6 +23,12 @@ https://github.com/Schmavery/facebook-chat-api
 
 facebook scraper:
 https://github.com/kevinzg/facebook-scraper
+
+instagram api:
+https://github.com/facebookarchive/python-instagram
+
+instagram scraper:
+https://github.com/huaying/instagram-crawler
 
 topic analysis among recent frequent conversations
 
