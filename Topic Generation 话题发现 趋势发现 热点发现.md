@@ -1,13 +1,13 @@
 ---
 created: 2022-07-14T00:25:04+08:00
-modified: 2022-07-14T00:40:49+08:00
+modified: 2022-07-18T11:53:03+08:00
 ---
 
 # Topic Generation 话题发现 趋势发现 热点发现 文本分类
 
 https://github.com/MaartenGr/BERTopic
 
-新词发现
+新词发现（可用于挖掘热点 热词 蓝海词）
 https://github.com/zhanzecheng/Chinese_segment_augment
 https://github.com/bojone/word-discovery
 https://github.com/blmoistawinde/HarvestText
