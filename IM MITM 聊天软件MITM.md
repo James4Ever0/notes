@@ -1,6 +1,6 @@
 ---
 created: 2022-05-29T00:15:24+08:00
-modified: 2022-07-19T00:23:36+08:00
+modified: 2022-07-19T00:33:04+08:00
 ---
 
 # IM MITM 聊天软件 MITM
@@ -11,6 +11,29 @@ is there any existing solution like telegram-mitm or twitter mitm?
 
 scraper of tumblr, pinterest, youtube, reddit using api:
 https://github.com/ScriptSmith/socialreaper
+
+youtube search and youtube comment scraper
+https://github.com/alexmercerind/youtube-search-python
+https://github.com/egbertbouman/youtube-comment-downloader
+
+youtube, youtube transcribe and youtube music api
+https://github.com/srcecde/python-youtube-api
+https://github.com/sigma67/ytmusicapi
+https://github.com/jdepoix/youtube-transcript-api
+https://github.com/youtube/api-samples
+
+reddit scraper and analyzer
+https://github.com/casperbh96/Web-Scraping-Reddit
+https://github.com/umitkaanusta/reddit-detective
+
+reddit api
+https://github.com/praw-dev/praw
+
+tumblr api
+https://github.com/tumblr/pytumblr
+
+tumblr scraper
+https://github.com/henan715/tumblrScrapy
 
 discord bot api:
 https://github.com/discordjs/discord.js
