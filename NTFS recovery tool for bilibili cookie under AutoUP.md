@@ -1,6 +1,7 @@
 ---
-created: 2022-07-18T03:09:33+08:00
-modified: 2022-07-18T03:27:39+08:00
+title: NTFS recovery tool for bilibili cookie under AutoUP
+created: '2022-07-17T19:09:33.000Z'
+modified: '2022-07-18T04:31:20.411Z'
 ---
 
 # NTFS recovery tool for bilibili cookie under AutoUP
@@ -15,3 +16,7 @@ recoverpy
 korczis/foremost
 
 could also try to retrieve from android phones (/data/data/tv.danmaku.bili)
+
+https://roubert.name/joakim/androidfilerecovery/
+
+
