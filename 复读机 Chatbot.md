@@ -1,7 +1,7 @@
 ---
 title: 复读机 Chatbot
-created: 2022-07-14T23:35:31+08:00
-modified: 2022-07-18T23:29:07+08:00
+created: '2022-07-14T15:35:31.000Z'
+modified: '2022-07-18T15:32:17.320Z'
 ---
 
 # 复读机 Chatbot
@@ -10,7 +10,7 @@ modified: 2022-07-18T23:29:07+08:00
 
 add `involution` option, allow to append unqualified replies to input message, separated by space.
 
-add extend conversation option, allow to reply more than one sentence at a time (proper delay needed)
+add extend conversation option, allow to reply more than one sentence at a time (proper delay needed) -> could be achieved by using GPT2 alike generation model
 
 
 可以给群友点赞
