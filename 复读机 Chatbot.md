@@ -1,7 +1,7 @@
 ---
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-07-19T10:53:35.321Z'
+modified: '2022-07-19T11:17:43.492Z'
 ---
 
 # 复读机 Chatbot
@@ -17,6 +17,8 @@ add extend conversation option, allow to reply more than one sentence at a time 
 可以给群友点赞
 
 可以发语音
+
+correct sentences with pycorrector, and filter out too complex/nonsense words 
 
 每次对话输入的context不能太小 不然看起来假
 
