@@ -1,12 +1,14 @@
 ---
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-07-19T09:41:15+08:00
+modified: 2022-07-19T09:47:21+08:00
 ---
 
 # 复读机 Chatbot
 
 复读机不能使得死群活起来 但是主动推送可以 推送长的 自言自语的对话到群里面 不能是同一个群 主题要相关 filter out too negative ones
+
+拉人到别的群里面来 最好是多个号不共享群但是话题有交集的人
 
 add `involution` option, allow to append unqualified replies to input message, separated by space.
 
