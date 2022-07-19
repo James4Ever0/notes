@@ -1,7 +1,7 @@
 ---
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-07-19T09:47:21+08:00
+modified: 2022-07-19T09:49:38+08:00
 ---
 
 # 复读机 Chatbot
@@ -28,7 +28,7 @@ add extend conversation option, allow to reply more than one sentence at a time 
 
 模板生成要和新词发现结合
 
-模板生成可以和chatlocal或者repeater结合
+模板生成 paraphraser可以和chatlocal或者repeater结合
 
 根据模板生成下一句 不要直接生成 素材可以是群公告 群主题 接收到的信息
 
