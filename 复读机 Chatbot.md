@@ -1,7 +1,7 @@
 ---
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-07-19T11:17:49.943Z'
+modified: '2022-07-19T11:42:40.664Z'
 ---
 
 # 复读机 Chatbot
@@ -15,6 +15,8 @@ add extend conversation option, allow to reply more than one sentence at a time 
 寻找问句 问题 到百度上面寻找答案
 
 可以给群友点赞
+
+separate gpt2 dialog inputs by group ids.
 
 可以发语音
 
