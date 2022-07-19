@@ -1,10 +1,15 @@
 ---
 title: QQ 微信 信息提取 bot搭建
-created: 2022-05-24T13:30:47+08:00
-modified: 2022-07-15T00:50:44+08:00
+created: '2022-05-24T05:30:47.000Z'
+modified: '2022-07-19T14:04:45.781Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
+
+somehow the wechat web uos protocol is usable again? check it out.
+
+https://www.npmjs.com/package/wechaty-puppet-wechat
+https://github.com/wechaty/puppet-wechat/pull/206
 
 would it be a lot easier if we can send those article/video links to external (out of gfw) social media platforms in their native language? still censorship will be applied.
 
