@@ -1,12 +1,14 @@
 ---
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-07-19T23:54:13+08:00
+modified: 2022-07-20T13:59:10+08:00
 ---
 
 # 复读机 Chatbot
 
 debug the consecutive group reply thresholding protocol
+
+增加复读图片的功能 增加chatlocal返回图片的功能
 
 复读机不能使得死群活起来 但是主动推送可以 推送长的 自言自语的对话到群里面 不能是同一个群 主题要相关 filter out too negative ones
 
