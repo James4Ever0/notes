@@ -1,14 +1,14 @@
 ---
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-07-20T15:38:58+08:00
+modified: 2022-07-20T15:40:43+08:00
 ---
 
 # 复读机 Chatbot
 
 debug the consecutive group reply thresholding protocol
 
-推广视频的时候可以加入动态的GIF 音频 或者是短视频
+推广视频的时候可以加入动态的GIF 音频 或者是短视频 然后再发送xml
 
 增加复读图片的功能 增加chatlocal返回图片的功能
 
