@@ -1,7 +1,7 @@
 ---
 title: 'Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE'
 created: '2022-07-21T14:02:12.739Z'
-modified: '2022-07-21T15:45:09.356Z'
+modified: '2022-07-21T15:45:25.146Z'
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
@@ -27,5 +27,5 @@ spacevim with [custom color theme](https://github.com/jordst/colorscheme) and ne
 
 run multiple vim commands at once:
 ```vimscript
-:cd \ | NERDTree
+:cd / | NERDTree
 ```
