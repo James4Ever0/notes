@@ -1,14 +1,14 @@
 ---
 title: 'Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE'
 created: '2022-07-21T14:02:12.739Z'
-modified: '2022-07-21T14:51:40.607Z'
+modified: '2022-07-21T14:57:23.416Z'
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
 
 can we mount git repo as user filesystem?
 
-cloud based github ide includes gitpod.io, github.dev, pythonanywhere but these are with serious limitations, most importantly without autocommit.
+cloud based github ide includes gitpod.io, github.dev, pythonanywhere but these are with serious limitations, most importantly without autocommit or too restricted to write code.
 
 browse github repo as remote filesystem(vscode insider):
 https://marketplace.visualstudio.com/items?itemName=github.remotehub
