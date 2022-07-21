@@ -1,7 +1,7 @@
 ---
 title: 'Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE'
 created: '2022-07-21T14:02:12.739Z'
-modified: '2022-07-21T15:10:12.950Z'
+modified: '2022-07-21T15:10:22.397Z'
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
@@ -10,7 +10,7 @@ can we mount git/github repo as user filesystem(fuse)?
 
 usually read-only github/git filesystems, but this one is different. [it](https://github.com/danishprakash/githubfs) is backed by [writable github apis](https://pygithub.readthedocs.io/en/latest/examples/Repository.html#update-a-file-in-the-repository) and is written in python, with [python implementation of fuse](https://github.com/terencehonles/fusepy). this pygithub has trending api(maybe?) which is useful for social engineering or propaganda.
 
-we could also implement a watchdog like system to check against the files.
+we could also implement a watchdog like system to check against the files using pygithub.
 
 cloud based github ide includes gitpod.io, github.dev, pythonanywhere but these are with serious limitations, most importantly without autocommit or too restricted to write code.
 
