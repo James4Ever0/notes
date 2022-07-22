@@ -1,14 +1,14 @@
 ---
-title: 'Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE'
-created: '2022-07-21T14:02:12.739Z'
-modified: '2022-07-21T15:45:25.146Z'
+title: Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
+created: 2022-07-21T22:02:12+08:00
+modified: 2022-07-22T11:09:47+08:00
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
 
 can we mount git/github repo as user filesystem(fuse)?
 
-usually read-only github/git filesystems, but this one is different. [it](https://github.com/danishprakash/githubfs) is backed by [writable github apis](https://pygithub.readthedocs.io/en/latest/examples/Repository.html#update-a-file-in-the-repository) and is written in python, with [python implementation of fuse](https://github.com/terencehonles/fusepy). this pygithub has trending api(maybe?) which is useful for social engineering or propaganda.
+usually read-only github/git filesystems, but this one is different. [it](https://github.com/danishprakash/githubfs) is backed by [writable github apis](https://pygithub.readthedocs.io/en/latest/examples/Repository.html#update-a-file-in-the-repository) and is written in python, with [python implementation of fuse](https://github.com/terencehonles/fusepy) which is updated [here](https://github.com/fusepy/fusepy). this pygithub has trending api(maybe?) which is useful for social engineering or propaganda.
 
 we could also implement a watchdog like system to check against the files using pygithub.
 
