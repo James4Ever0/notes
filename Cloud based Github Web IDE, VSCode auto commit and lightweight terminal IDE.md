@@ -1,13 +1,14 @@
 ---
 title: Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
 created: 2022-07-21T22:02:12+08:00
-modified: 2022-07-23T00:47:21+08:00
+modified: 2022-07-23T00:48:16+08:00
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
 
-gitee python api, first step is to get access token by login:
-https://gitee.com/wuyu15255872976/gitee-python-client/tree/master/gitee_client/apis
+[gitee python api, first step is to get access token by login](https://gitee.com/wuyu15255872976/gitee-python-client/tree/master/gitee_client/apis)
+
+[gitee apis](https://gitee.com/api/v5/swagger#/postV5ReposOwnerRepoContentsPath)
 
 can we mount git/github repo as user filesystem(fuse)?
 
