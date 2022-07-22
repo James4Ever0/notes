@@ -1,10 +1,12 @@
 ---
 title: github Gitee 大文件大型repo如何上传
 created: 2022-07-16T18:40:40+08:00
-modified: 2022-07-20T16:35:46+08:00
+modified: 2022-07-23T00:46:29+08:00
 ---
 
 # github Gitee 大文件大型repo如何上传
+
+
 
 exclude xonsh yaml(.yml) files
 
