@@ -1,12 +1,14 @@
 ---
-title: Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
-created: 2022-07-21T22:02:12+08:00
-modified: 2022-07-24T08:06:50+08:00
+title: 'Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE'
+created: '2022-07-21T14:02:12.000Z'
+modified: '2022-07-24T02:51:32.345Z'
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
 
 solved by gitfs
+
+libgit2 sucks.
 
 [most stars](https://github.com/presslabs/gitfs)
 this gitfs is actually a searchable git history filesystem.
