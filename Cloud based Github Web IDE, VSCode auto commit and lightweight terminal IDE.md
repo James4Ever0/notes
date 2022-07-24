@@ -1,7 +1,7 @@
 ---
 title: Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
 created: 2022-07-21T22:02:12+08:00
-modified: 2022-07-24T08:05:59+08:00
+modified: 2022-07-24T08:06:50+08:00
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
@@ -9,6 +9,8 @@ modified: 2022-07-24T08:05:59+08:00
 solved by gitfs
 
 [most stars](https://github.com/presslabs/gitfs)
+this gitfs is actually a searchable git history filesystem.
+
 [tested](https://github.com/semk/GitFS)
 
 [gitee python api, first step is to get access token by login](https://gitee.com/wuyu15255872976/gitee-python-client/tree/master/gitee_client/apis)
