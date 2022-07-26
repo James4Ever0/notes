@@ -1,6 +1,7 @@
 ---
-created: 2022-07-25T01:17:40+08:00
-modified: 2022-07-25T01:20:30+08:00
+title: Vim Custom color scheme
+created: '2022-07-24T17:17:40.000Z'
+modified: '2022-07-25T08:39:07.047Z'
 ---
 
 # Vim Custom color scheme
@@ -11,3 +12,5 @@ modified: 2022-07-25T01:20:30+08:00
 
 keyword for vertical spliters:
 VertSplit
+
+keyword for bottom line:
