@@ -1,7 +1,7 @@
 ---
 title: Search and switch to window by title
 created: '2022-07-27T02:12:56.139Z'
-modified: '2022-07-27T09:25:29.728Z'
+modified: '2022-07-27T09:27:04.291Z'
 ---
 
 # Search and switch to window by title
@@ -11,6 +11,14 @@ modified: '2022-07-27T09:25:29.728Z'
 ### yal
 
 access and search windows
+
+access files, programs, bookmarks, search engines
+
+## macos
+
+### finda
+
+find windows, browser tabs, code editor buffers, browser history, apps, files
 
 ## linux
 
