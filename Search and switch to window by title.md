@@ -1,10 +1,16 @@
 ---
 title: Search and switch to window by title
 created: '2022-07-27T02:12:56.139Z'
-modified: '2022-07-27T02:24:12.899Z'
+modified: '2022-07-27T09:25:29.728Z'
 ---
 
 # Search and switch to window by title
+
+## windows
+
+### yal
+
+access and search windows
 
 ## linux
 
