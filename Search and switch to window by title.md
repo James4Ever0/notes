@@ -1,12 +1,14 @@
 ---
 title: Search and switch to window by title
 created: '2022-07-27T02:12:56.139Z'
-modified: '2022-07-27T02:15:07.222Z'
+modified: '2022-07-27T02:23:37.915Z'
 ---
 
 # Search and switch to window by title
 
 ## linux
+
+kupfer 
 
 use xdotool and wmctrl
 
