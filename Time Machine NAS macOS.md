@@ -1,7 +1,7 @@
 ---
 title: Time Machine NAS macOS
 created: '2022-07-28T12:59:47.101Z'
-modified: '2022-08-01T04:14:38.831Z'
+modified: '2022-08-01T04:23:39.999Z'
 ---
 
 # Time Machine NAS macOS
@@ -16,4 +16,4 @@ did i screw up somehow?
 
 or not?
 
-really?
+really? or not?
