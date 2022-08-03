@@ -1,7 +1,7 @@
 ---
 title: Free Mathematica Activation Method
 created: '2022-08-03T10:38:01.912Z'
-modified: '2022-08-03T12:56:07.991Z'
+modified: '2022-08-03T12:56:25.536Z'
 ---
 
 # Free Mathematica Activation Method
@@ -16,4 +16,4 @@ for macos, we can find it here:
 `/Users/<userName>/Library/WolframEngine/Licensing/mathpass`
 
 for linux:
-`/root/.WolframEngine/Licensing/mathpass`
+`/root/.WolframEngine/Licensing/mathpass` or something else.
