@@ -1,7 +1,7 @@
 ---
 title: Popular Video Sites
 created: '2022-08-03T15:48:53.798Z'
-modified: '2022-08-03T15:50:01.639Z'
+modified: '2022-08-03T15:50:26.867Z'
 ---
 
 # Popular Video Sites
@@ -21,5 +21,5 @@ https://weibo.com/tv
 https://krcom.cn
 https://tv.sohu.com
 https://v.qq.com
-[NetEase Public Class]()
+[NetEase Public Class](https://open.163.com/ted)
 [QQ Music-MV](QQ Music-MV)
