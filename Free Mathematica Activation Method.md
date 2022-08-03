@@ -1,7 +1,7 @@
 ---
 title: Free Mathematica Activation Method
 created: '2022-08-03T10:38:01.912Z'
-modified: '2022-08-03T12:48:33.116Z'
+modified: '2022-08-03T12:52:00.237Z'
 ---
 
 # Free Mathematica Activation Method
@@ -10,4 +10,10 @@ visit [online activation code generator](https://ibug.io/blog/2019/05/mathematic
 
 first generate MathID using a free wolfram account, login through it.
 
-next find the location of 
+next find the location of `mathpass`. follow the format and create a new line above all lines, with the obtained activation code.
+
+for macos, we can find it here:
+`/Users/<userName>/Library/WolframEngine/Licensing/mathpass`
+
+for linux:
+``
