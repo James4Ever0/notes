@@ -1,10 +1,12 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-07-19T14:04:45.781Z'
+modified: '2022-08-03T03:25:45.232Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
+
+qq空间发美女图片把人家的脸要挡住 或者要把脸换了
 
 somehow the wechat web uos protocol is usable again? check it out.
 
