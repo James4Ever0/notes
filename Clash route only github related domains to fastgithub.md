@@ -1,7 +1,7 @@
 ---
 title: Clash route only github related domains to fastgithub
 created: '2022-07-27T16:45:37.000Z'
-modified: '2022-08-02T15:54:36.310Z'
+modified: '2022-08-04T10:38:57.178Z'
 ---
 
 # Clash route only github related domains to fastgithub
@@ -11,6 +11,8 @@ modified: '2022-08-02T15:54:36.310Z'
 use clash official DNS settings to resolve issues related to domain resolution, especially when used as a system proxy.
 
 [documentation](https://github.com/Dreamacro/clash/wiki/configuration#dns)
+
+to persist program using platform-specific service manager like nssm on windows:
 
 ## macos
 
