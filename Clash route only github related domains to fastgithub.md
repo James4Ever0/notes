@@ -1,7 +1,7 @@
 ---
 title: Clash route only github related domains to fastgithub
 created: '2022-07-27T16:45:37.000Z'
-modified: '2022-08-04T15:42:04.758Z'
+modified: '2022-08-04T15:43:36.619Z'
 ---
 
 # Clash route only github related domains to fastgithub
@@ -24,3 +24,5 @@ create systemd
 need to change system wide proxy settings in init files
 
 or use [monit](https://mmonit.com/monit/documentation/monit.html)
+
+or shell script alike [linuxNSSM](https://github.com/guolisongIsesol/linuxNssm)
