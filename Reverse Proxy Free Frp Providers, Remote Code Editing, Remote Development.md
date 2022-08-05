@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-05T13:48:02.776Z'
+modified: '2022-08-05T13:48:14.901Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -20,6 +20,6 @@ at least we need to see the output, so we need to mount the remote filesystem as
 
 for now, two viable ways:
 
-one using code-server, the other using code-server-insider provided by code-insider. when using builtin code-server-insider, remember it will not share the plugins installed by code-insider. the executable location is at `/root/.vscode-server-insiders/bin/12b08be500f8a307f30e92cbc3ee39ba115eab69/bin/code-server-insider` or something. must set the local setting `remote.SSH.useLocalServer` to false.
+one using code-server, the other using code-server-insider provided by code-insider. when using builtin code-server-insider, remember it will not share the plugins installed by code-insider. the remote executable location is at `/root/.vscode-server-insiders/bin/12b08be500f8a307f30e92cbc3ee39ba115eab69/bin/code-server-insider` or something. must set the local setting `remote.SSH.useLocalServer` to false.
 
 when using code-server, one can connect to the workspace using browser, instead of vscode builtin remote connector.
