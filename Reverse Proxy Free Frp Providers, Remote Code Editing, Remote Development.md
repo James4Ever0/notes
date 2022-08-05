@@ -1,10 +1,12 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-05T09:31:10.382Z'
+modified: '2022-08-05T09:49:27.318Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+try out [code-server](https://github.com/coder/code-server) by [coder](https://coder.com/)
 
 currently we only have [one](https://www.idonglei.com/free-frp), which uses direct ip address instead of a hijacked domain. maybe it is time to consider some faster server providers.
 
