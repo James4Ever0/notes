@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T18:25:02.489Z'
+modified: '2022-08-06T18:25:12.241Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -12,7 +12,7 @@ on macos, when crontab is created, cron will be automatically launched by launch
 
 the problem of internet disconnetion will most not likely to interfere with the server since frpc has auto reconnection and the update hook is the filesystem watchdog, which will not run when no changes made (including the offline period)
 
-maybe it will affect the client when mounting the remote filesystem using sshfs or rclone. but that has to be verified.
+maybe it will affect the client when mounting the remote filesystem using sshfs or rclone, but that has to be verified.
 
 ## serve and mount remote filesystem
 
