@@ -1,10 +1,18 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T04:54:35.096Z'
+modified: '2022-08-06T06:08:54.469Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+## code-server color fixes
+
+```css
+.cursor{
+  background: white;
+}
+```
 
 ## connectors other than frp
 
