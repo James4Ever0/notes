@@ -1,7 +1,7 @@
 ---
 title: Clash route only github related domains to fastgithub
 created: '2022-07-27T16:45:37.000Z'
-modified: '2022-08-04T15:45:57.886Z'
+modified: '2022-08-06T18:20:55.743Z'
 ---
 
 # Clash route only github related domains to fastgithub
@@ -16,7 +16,7 @@ to persist program using platform-specific service manager like nssm on windows:
 
 ## macos
 
-use launchctl or easyd
+use launchctl(launchd) or easyd
 
 ## linux
 
