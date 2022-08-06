@@ -1,12 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T13:58:56.044Z'
+modified: '2022-08-06T14:00:26.702Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## serve and mount remote filesystem
+
+before serving, make sure the path `/media/root/help/pyjom` exists by running our mount script
 
 create htpasswd file:
 
