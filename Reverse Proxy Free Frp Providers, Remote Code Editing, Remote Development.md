@@ -1,10 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T07:04:08.879Z'
+modified: '2022-08-06T08:12:51.826Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+## encryption and invalid HTTPS certificates
+
+use `nginx` to redirect remote server as localhost, since the host name on the certificate is localhost we cannot let chrome to trust anything other than that
 
 ## code-server(browser) color fixes
 
