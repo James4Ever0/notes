@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T12:24:44.987Z'
+modified: '2022-08-06T12:25:15.679Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -12,7 +12,8 @@ use rclone:
 
 ```bash
 rclone serve webdav . --addr 0.0.0.0:8468 --key /root/.local/share/code-server/localhost.key
---client-ca /root/.local/share/code-server/localhost.crt
+--client-ca /root/.local/share/code-server/localhost.crt --pass $(cat /root/.local/share/code-server/
+)
 ```
 
 
