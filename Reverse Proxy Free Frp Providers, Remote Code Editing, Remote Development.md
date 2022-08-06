@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T06:12:48.482Z'
+modified: '2022-08-06T06:12:58.725Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -19,7 +19,7 @@ body.web{
 
 .monaco-editor .view-line span.inline-selected-text{
   background: blue;
-  text
+  color: white;
 }
 ```
 
