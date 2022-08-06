@@ -1,10 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-05T13:50:09.813Z'
+modified: '2022-08-06T04:34:56.470Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+## connectors other than frp
+
+code-server provides [some other methods](https://coder.com/docs/code-server/latest/guide#external-authentication) like [cloudflared]() and [ngrok](). 花生壳可能也有用 但是可能不好用
 
 ## methods
 
