@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T14:12:25.677Z'
+modified: '2022-08-06T14:15:13.243Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -28,7 +28,7 @@ before mounting, use `rclone config` to setup remote associated with a name. mak
 ```bash
 rclone mount webdav_local_nginx:/ /Volume/CaseSensitive/pyjom_remote_mountpoint --ca-cert /Users/jamesbrown/Desktop/works/host_discovery_ssh_local_connect/certificates/localhost.crt
 ```
-after mounting, seems zsh on macos is not working very well with macfuse. bash works. does bash works with sshfs as well? maybe that will save efforts.
+after mounting, seems zsh on macos is not working very well with macfuse. bash works. does bash/fish works with sshfs as well? maybe that will save efforts.
 
 ## encryption and invalid HTTPS certificates
 
