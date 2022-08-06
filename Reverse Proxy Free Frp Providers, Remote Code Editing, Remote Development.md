@@ -1,12 +1,19 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T12:32:44.527Z'
+modified: '2022-08-06T12:43:34.067Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## serve and mount remote filesystem
+
+create htpasswd file:
+
+```bash
+htpasswd -bc webdav_htpasswd <username> <password>
+
+```
 
 use rclone:
 
