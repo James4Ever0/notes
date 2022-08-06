@@ -1,10 +1,19 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T08:13:49.425Z'
+modified: '2022-08-06T12:13:31.705Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+## serve and mount remote filesystem
+
+use rclone:
+
+```bash
+rclone serve webdav . --addr 0.0.0.0: --cert 
+```
+
 
 ## encryption and invalid HTTPS certificates
 
