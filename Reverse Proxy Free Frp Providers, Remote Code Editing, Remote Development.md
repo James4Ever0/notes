@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T08:12:51.826Z'
+modified: '2022-08-06T08:13:49.425Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -9,6 +9,18 @@ modified: '2022-08-06T08:12:51.826Z'
 ## encryption and invalid HTTPS certificates
 
 use `nginx` to redirect remote server as localhost, since the host name on the certificate is localhost we cannot let chrome to trust anything other than that
+
+```c
+worker_processes auto;
+error_log error.log;
+events { }
+stream {
+  server {
+    listen 127.0.0.1:7576;
+    proxy_pass REMOTE_HOST:7576;
+  }
+}
+```
 
 ## code-server(browser) color fixes
 
