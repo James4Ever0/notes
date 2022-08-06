@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T13:21:24.280Z'
+modified: '2022-08-06T13:23:57.169Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -21,7 +21,7 @@ use rclone:
 rclone serve webdav . --addr 0.0.0.0:8468 --key /root/.local/share/code-server/localhost.key --cert /root/.local/share/code-server/localhost.crt --pass $(cat /root/.config/code-server/config.yaml | grep password: | awk '{print $2}')
 ```
 
-before mounting, use `rclone config` to setup remote name.
+before mounting, use `rclone config` to setup remote name. do not install rclone from brew since it does not support fuse. instead, install from [here](https://rclone.org/downloads/)
 
 ```bash
 rclone mount webdav_local_nginx 
