@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T13:58:06.470Z'
+modified: '2022-08-06T13:58:56.044Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -18,7 +18,7 @@ htpasswd -bc webdav_htpasswd <username> <password>
 use rclone:
 
 ```bash
-rclone serve webdav /media/root/help/pyjom --addr 0.0.0.0:8468 --key /root/.local/share/code-server/localhost.key --cert /root/.local/share/code-server/localhost.crt --pass $(cat /root/.config/code-server/config.yaml | grep password: | awk '{print $2}')
+rclone serve webdav /media/root/help/pyjom --addr 0.0.0.0:8468 --key /root/.local/share/code-server/localhost.key --cert /root/.local/share/code-server/localhost.crt --htpasswd /root/Desktop/works/sync_git_repos/remote_deploys/webdav_htpasswd
 ```
 
 before mounting, use `rclone config` to setup remote associated with a name. make sure the hostname is `localhost` instead of ip address to avoid certificate issues. do not install rclone from brew since it does not support fuse. instead, install from [here](https://rclone.org/downloads/)
