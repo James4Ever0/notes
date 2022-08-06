@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-06T12:26:17.176Z'
+modified: '2022-08-06T12:26:55.800Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -11,9 +11,7 @@ modified: '2022-08-06T12:26:17.176Z'
 use rclone:
 
 ```bash
-rclone serve webdav . --addr 0.0.0.0:8468 --key /root/.local/share/code-server/localhost.key
---client-ca /root/.local/share/code-server/localhost.crt --pass $(cat config.yaml | grep password: | awk '{print $2}')
-)
+rclone serve webdav . --addr 0.0.0.0:8468 --key /root/.local/share/code-server/localhost.key --client-ca /root/.local/share/code-server/localhost.crt --pass $(cat config.yaml | grep password: | awk '{print $2}')
 ```
 
 
