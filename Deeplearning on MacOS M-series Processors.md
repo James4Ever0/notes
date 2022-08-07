@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:18:18.018Z'
+modified: '2022-08-07T12:21:58.827Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -12,7 +12,7 @@ heavy lifting jobs are likely to be running on Mac Studio with M1 Ultra and 128G
 
 also aside of Apple platforms, these APIs are virtually useless.
 
-to run these on other non-apple machines, you need to tweak and install macOS on x86-64 platforms with GPU support.
+to run these on other non-apple machines, you need to tweak and install macOS on x86-64 platforms with GPU support, which will definitely not taking any advantage of huge shared RAM with CPU, and may run poorly on CoreML/CreateML, may not support deepspeed.
 
 ## tensorflow with m1 support
 
