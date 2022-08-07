@@ -1,9 +1,11 @@
 ---
 title: youtube download and its fork
 created: '2022-08-07T18:32:21.185Z'
-modified: '2022-08-07T18:33:02.334Z'
+modified: '2022-08-07T18:33:48.962Z'
 ---
 
 # youtube download and its fork
 
-the fork with faster download speed: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+original [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
+the fork with faster (maybe?) download speed: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
