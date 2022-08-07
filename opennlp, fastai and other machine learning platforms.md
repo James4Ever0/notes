@@ -1,12 +1,12 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T18:03:09.289Z'
+modified: '2022-08-07T18:03:17.751Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
 
-## [jax]()
+## [jax](https://github.com/google/jax)
 
 [docs](https://jax.readthedocs.io/en/latest/)
 
