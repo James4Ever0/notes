@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:40:28.108Z'
+modified: '2022-08-07T17:48:08.680Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -76,6 +76,8 @@ pip3 install lightgbm
 ## [pymc](https://www.pymc.io/welcome.html)
 
 difference between pymc3 (old) and pymc (pymc4):
+
+pymc is optimized and faster than pymc3
 
 pymc3 use theano as backend while pymc use aesara (forked theano)
 
