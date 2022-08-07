@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:07:34.290Z'
+modified: '2022-08-07T12:10:54.279Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -20,7 +20,13 @@ validation:
 python3 -c "import tensorflow as tf; physical_devices = tf.config.list_physical_devices('GPU'); print('Num GPUs:', len(physical_devices)); print(physical_devices)"
 ```
 
-## pytorch with m1 support
+## pytorch with m1 support, using MPS (Metal performance shader)
+
+install from nightly release channel, with minimum system version requirements 12.3 (which this machine had been qualified after system update, now 12.5)
+
+```bash
+
+```
 
 ## run python inside swift
 
