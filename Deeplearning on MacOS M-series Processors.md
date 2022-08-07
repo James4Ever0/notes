@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:03:53.407Z'
+modified: '2022-08-07T12:06:43.413Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -9,6 +9,11 @@ modified: '2022-08-07T12:03:53.407Z'
 ## tensorflow with m1 support
 
 using [tensorflow metal plugin](https://developer.apple.com/metal/tensorflow-plugin/), which sets up miniforge and install tensorflow-metal within.
+
+validation:
+```bash
+python3 -c "import tensorflow as tf; physical_devices = tf.config.list_physical_devices('GPU'); print('Num GPUs:', len(physical_devices)); print(physical_devices)"
+```
 
 ## pytorch with m1 support
 
