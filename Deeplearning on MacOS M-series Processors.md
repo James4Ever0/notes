@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:42:01.115Z'
+modified: '2022-08-07T11:42:20.723Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -30,8 +30,8 @@ CoreML models can be created by CreateML and some customization can be done via 
 
 ## Links
 
-[CoreML Models](https://developer.apple.com/machine-learning/models/)
-<details>
+
+<details>[CoreML Models](https://developer.apple.com/machine-learning/models/)
 <p>
 FCRN-DepthPrediction
 Depth Estimation
