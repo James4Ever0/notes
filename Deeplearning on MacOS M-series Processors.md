@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T13:09:18.582Z'
+modified: '2022-08-07T13:09:33.944Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -10,7 +10,7 @@ modified: '2022-08-07T13:09:18.582Z'
 
 consider [using external gpus (eGPUs) with thunderbolt 3 and AMD GPUs](https://support.apple.com/en-us/HT208544) to avoid overheating. but that can currently be done with intel Macs.
 
-battery life is currently bad for intel/amd notebooks
+battery life is currently bad for intel/amd notebooks of x86/64 architecture.
 
 heavy lifting jobs are likely to be run on Mac Studio with M1 Ultra and 128GB RAM. Macbook Air M1 with 8GB RAM is simply not feasible.
 
