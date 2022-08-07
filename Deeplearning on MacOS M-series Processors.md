@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:14:06.329Z'
+modified: '2022-08-07T12:15:44.747Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -11,6 +11,8 @@ modified: '2022-08-07T12:14:06.329Z'
 heavy lifting jobs are likely to be running on Mac Studio with M1 Ultra and 128GB RAM. Macbook Air M1 with 8GB RAM is simply not feasible.
 
 also aside of Apple platforms, these APIs are virtually useless.
+
+to run these on other non-apple machines, you need to tweak and install MacOS on x86-64 platforms with GPU support.
 
 ## tensorflow with m1 support
 
