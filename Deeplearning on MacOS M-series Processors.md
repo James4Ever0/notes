@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:56:31.575Z'
+modified: '2022-08-07T11:57:27.192Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -35,6 +35,8 @@ convert into onnx first, then run on onnxruntime.
 paddlepaddle itself currently only support running on M1 CPU only via rosetta 2.
 
 ## Links
+
+[classifying sounds with coreml](https://developer.apple.com/documentation/soundanalysis/classifying_sounds_in_an_audio_file) with timestamp-type association
 
 [detect human pose using coreml](https://developer.apple.com/documentation/coreml/model_integration_samples/detecting_human_body_poses_in_an_image)
 
