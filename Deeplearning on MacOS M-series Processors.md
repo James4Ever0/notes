@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:29:31.685Z'
+modified: '2022-08-07T11:30:45.879Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -31,5 +31,6 @@ CoreML models can be created by CreateML and some customization can be done.
 ## Links
 
 [CoreML Models](https://developer.apple.com/machine-learning/models/)
-
+[CoreML APIs](https://developer.apple.com/machine-learning/api/) (may need user permission within or without xcode by means of Info.plist or something)
+[]
 
