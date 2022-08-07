@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T18:14:22.790Z'
+modified: '2022-08-07T18:14:42.916Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -17,7 +17,7 @@ With its updated version of Autograd, JAX can automatically differentiate native
 XLA (Accelerated Linear Algebra) is a domain-specific compiler for linear algebra that can accelerate TensorFlow models with potentially no source code changes.
 </details>
 
-## [pyro]()
+## [pyro](http://pyro.ai/#install)
 
 probabilistic programming
 
