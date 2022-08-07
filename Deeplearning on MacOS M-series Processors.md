@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T13:50:39.178Z'
+modified: '2022-08-07T13:50:47.219Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -77,7 +77,8 @@ brew install dotnet-sdk nuget
 
 to install and launch [dotnet repl](https://github.com/jonsequitur/dotnet-repl):
 ```bash
-dotnet tool  -g dotnet-repl
+dotnet tool install -g dotnet-repl
+dotnet repl
 ```
 
 ## paddlepaddle support
