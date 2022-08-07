@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:31:18.867Z'
+modified: '2022-08-07T17:34:03.071Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -21,8 +21,6 @@ pip install -U libsvm-official
 ```bash
 pip install libsvm
 ```
-
-
 
 ## [opennlp](https://opennlp.apache.org/)
 
@@ -78,6 +76,8 @@ pip3 install lightgbm
 ## [pymc](https://www.pymc.io/welcome.html)
 
 [docs](https://www.pymc.io/projects/docs/en/stable/learn.html) with live demo of pymc
+
+PyMC is a probabilistic programming library for Python that allows users to build Bayesian models with a simple Python API and fit them using Markov chain Monte Carlo (MCMC) methods.
 
 ## [fastai](https://github.com/fastai/fastai)
 
