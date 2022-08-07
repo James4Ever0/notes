@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:51:28.419Z'
+modified: '2022-08-07T15:51:58.871Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -22,7 +22,7 @@ in order to use opennlp with less code written, here's how to [invoke java from 
 
 ## [dl4j]()
 
-found on [mannings article about search engine suggestions](). in this example it is used with lucene, which has image retrieval (LIRE) capability. lucene is also avaliable as [lucene.net](https://lucenenet.apache.org/) in dotnet/c#.
+found on [mannings article about better search engine suggestions](https://manningbooks.medium.com/more-sensitive-suggestions-1c1c39cbdc12). in this example it is used with lucene, which has image retrieval (LIRE) capability. lucene is also avaliable as [lucene.net](https://lucenenet.apache.org/) in dotnet/c#.
 
 to install lucene.net:
 
