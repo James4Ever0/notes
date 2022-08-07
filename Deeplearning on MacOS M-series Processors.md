@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:52:43.924Z'
+modified: '2022-08-07T11:53:32.669Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -35,6 +35,8 @@ convert into onnx first, then run on onnxruntime.
 paddlepaddle itself currently only support running on M1 CPU only via rosetta 2.
 
 ## Links
+
+[pytorch mps backend](https://pytorch.org/docs/stable/notes/mps.html)
 
 [text classification using createml](https://heartbeat.comet.ml/text-classification-on-ios-using-create-ml-f71d7191404a)
 
