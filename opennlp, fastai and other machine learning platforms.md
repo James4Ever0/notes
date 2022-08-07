@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:18:32.267Z'
+modified: '2022-08-07T17:19:33.528Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -48,7 +48,11 @@ gradient boost is used to train decision trees and classification models.
 
 Light Gradient Boosting Machine
 
-have official commandline tools. 
+have official commandline tools. installation on macos:
+
+```bash
+brew install lightgbm
+```
 
 ## [pymc](https://www.pymc.io/welcome.html)
 
