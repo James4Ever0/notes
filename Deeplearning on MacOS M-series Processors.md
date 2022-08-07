@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:06:43.413Z'
+modified: '2022-08-07T12:07:34.290Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -9,6 +9,11 @@ modified: '2022-08-07T12:06:43.413Z'
 ## tensorflow with m1 support
 
 using [tensorflow metal plugin](https://developer.apple.com/metal/tensorflow-plugin/), which sets up miniforge and install tensorflow-metal within.
+
+install without miniforge(is that supported?)
+```bash
+pip3 install tensorflow-macos tensorflow-metal
+```
 
 validation:
 ```bash
