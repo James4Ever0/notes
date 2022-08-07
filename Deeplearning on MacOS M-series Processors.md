@@ -1,12 +1,14 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:57:55.697Z'
+modified: '2022-08-07T12:00:19.924Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
 
 ## tensorflow with m1 support
+
+using [tensorflow metal plugin](https://developer.apple.com/metal/tensorflow-plugin/)
 
 ## pytorch with m1 support
 
