@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:43:17.525Z'
+modified: '2022-08-07T11:44:23.496Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -30,8 +30,8 @@ CoreML models can be created by CreateML and some customization can be done via 
 
 ## Links
 
-
-<details><summary><a href="https://developer.apple.com/machine-learning/models/">CoreML Models</a></summary>
+[CoreML Models](https://developer.apple.com/machine-learning/models/)
+<details>
 <p>
 FCRN-DepthPrediction
 Depth Estimation
@@ -102,7 +102,8 @@ View Model and Code Sample
 </p></details>
 
 [CoreML APIs](https://developer.apple.com/machine-learning/api/) (may need user permission within or without xcode by means of Info.plist or something)
-
+<details>
+<p>
 Vision
 Build features that can process and analyze images and video using computer vision.
 
@@ -320,6 +321,6 @@ Sound Classification
 Analyze sounds in audio using the built-in sound classifier or a custom Core ML sound classification model.
 
 View API
-
+</p></details>
 []
 
