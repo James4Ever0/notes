@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T13:49:54.530Z'
+modified: '2022-08-07T13:50:21.048Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -75,7 +75,7 @@ to install c# on macos:
 brew install dotnet-sdk nuget
 ```
 
-to install and launch dotnet repl:
+to install and launch [dotnet repl](https://github.com/jonsequitur/dotnet-repl):
 ```bash
 nuget install -g dotnet-repl
 ```
