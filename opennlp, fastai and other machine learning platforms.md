@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T18:03:17.751Z'
+modified: '2022-08-07T18:05:49.945Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -15,7 +15,7 @@ autograd and xla (Accelerated Linear Algebra)
 With its updated version of Autograd, JAX can automatically differentiate native Python and NumPy functions. It can differentiate through loops, branches, recursion, and closures, and it can take derivatives of derivatives of derivatives. It supports reverse-mode differentiation (a.k.a. backpropagation) via grad as well as forward-mode differentiation, and the two can be composed arbitrarily to any order.
 
 XLA (Accelerated Linear Algebra) is a domain-specific compiler for linear algebra that can accelerate TensorFlow models with potentially no source code changes.
-<details>
+</details>
 
 ## [pyro]()
 
