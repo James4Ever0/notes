@@ -1,7 +1,7 @@
 ---
 title: MacOS locate fix and alternative
 created: '2022-08-07T05:34:18.266Z'
-modified: '2022-08-07T05:36:26.908Z'
+modified: '2022-08-07T05:38:21.915Z'
 ---
 
 # MacOS locate fix and alternative
@@ -16,6 +16,12 @@ to update locate db:
 ```bash
 sudo /usr/libexec/locate.updatedb
 ```
+or, more conveniently:
+```bash
+sudo ln -s /usr/libexec/locate.updatedb /usr/local/sbin/updatedb
+sudo updatedb
+```
+
 ## alternative
 
 use `mdfind`
