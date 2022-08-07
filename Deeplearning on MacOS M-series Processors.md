@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:35:33.589Z'
+modified: '2022-08-07T11:41:25.145Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -29,9 +29,8 @@ CoreML models can be created by CreateML and some customization can be done via 
 [onnxruntime]() can run onnx models on CoreML.
 
 ## Links
-
-[CoreML Models](https://developer.apple.com/machine-learning/models/)
-
+<details><summary>[CoreML Models](https://developer.apple.com/machine-learning/models/)</summary>
+<p>
 FCRN-DepthPrediction
 Depth Estimation
 
@@ -98,6 +97,7 @@ Question Answering
 
 Find answers to questions about paragraphs of text.
 View Model and Code Sample
+</p></details>
 
 [CoreML APIs](https://developer.apple.com/machine-learning/api/) (may need user permission within or without xcode by means of Info.plist or something)
 
