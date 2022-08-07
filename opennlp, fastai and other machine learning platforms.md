@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:44:56.817Z'
+modified: '2022-08-07T15:48:14.212Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -22,7 +22,7 @@ in order to use opennlp with less code written, here's how to [invoke java from 
 
 ## [dl4j]()
 
-found on [mannings article about search engine suggestions]()
+found on [mannings article about search engine suggestions](). in this example it is used with lucene, which has
 
 deep learning library for java
 
