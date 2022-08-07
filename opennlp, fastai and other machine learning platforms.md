@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:19:33.528Z'
+modified: '2022-08-07T17:21:29.237Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -52,6 +52,13 @@ have official commandline tools. installation on macos:
 
 ```bash
 brew install lightgbm
+```
+
+install python package on macos:
+
+```bash
+brew install cmake
+pip3 install lightgbm
 ```
 
 ## [pymc](https://www.pymc.io/welcome.html)
