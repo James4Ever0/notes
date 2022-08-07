@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:51:15.459Z'
+modified: '2022-08-07T15:51:28.419Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -27,7 +27,7 @@ found on [mannings article about search engine suggestions](). in this example i
 to install lucene.net:
 
 ```bash
-
+dotnet add package Lucene.Net --prerelease
 ```
 
 deep learning library for java
