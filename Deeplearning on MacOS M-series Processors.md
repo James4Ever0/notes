@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T15:20:11.226Z'
+modified: '2022-08-07T15:20:44.332Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -89,7 +89,7 @@ paddlepaddle itself currently only supports running on M1 CPU only via rosetta 2
 
 ## Links
 
-[train image classifier and text classifier](https://www.appcoda.com/create-ml/) in which `CreateMLUI` is deprecated
+[train image classifier and text classifier](https://www.appcoda.com/create-ml/) in which `CreateMLUI` is deprecated (gone)
 
 [train source code classifier](https://flight.school/articles/classifying-programming-languages-with-createml/) with [flightschool](https://flight.school/) which is a free swift tutorial books provider
 
