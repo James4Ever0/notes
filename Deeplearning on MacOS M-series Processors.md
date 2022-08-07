@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:48:16.192Z'
+modified: '2022-08-07T11:49:53.789Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -27,6 +27,12 @@ CreateML is similar to any other [AutoML](https://www.automl.org/automl/) tools,
 CoreML models can be created by CreateML and some customization can be done via `protocol MLCustomLayer`.
 
 [onnxruntime]() can run onnx models on CoreML.
+
+## paddlepaddle support
+
+convert into onnx first, then run on onnxruntime.
+
+paddlepaddle itself currently only support running on M1 CPU only via rosetta 2.
 
 ## Links
 
