@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T16:33:58.235Z'
+modified: '2022-08-07T16:37:23.367Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -36,7 +36,7 @@ dotnet add package Lucene.Net --prerelease
 
 deep learning library for java
 
-## [xgboost]()
+## [xgboost](https://xgboost.readthedocs.io/en/stable/)
 
 gradient boost is used to train decision trees and classification models.
 
