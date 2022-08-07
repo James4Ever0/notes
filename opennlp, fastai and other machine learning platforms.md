@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T16:28:37.474Z'
+modified: '2022-08-07T16:32:22.046Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -54,5 +54,5 @@ on the twitter list related to opennlp shown up on its official website, fastai 
 
 fastai does not support macos. or is it? fastai is on top of pytorch.
 
-searching 'samoyed' like [this](https://github.com/search?q=org%3Afastai+samoyed&type=code) in github we get a [dataset for pets classification called imagewoof]() from [fastai 2020 tutorial series](https://github.com/fastai/course20/blob/master/index.ipynb)
+searching 'samoyed' like [this](https://github.com/search?q=org%3Afastai+samoyed&type=code) in github we get a [dataset for pets classification called imagewoof](https://s3.amazonaws.com/fast-ai-imageclas/imagewoof.tgz) from [fastai 2020 tutorial series](https://github.com/fastai/course20/blob/master/index.ipynb)
 
