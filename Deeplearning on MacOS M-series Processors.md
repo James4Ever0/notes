@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T13:23:38.044Z'
+modified: '2022-08-07T13:24:29.079Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -74,7 +74,7 @@ CoreML models can be created by CreateML and some customization can be done via 
 
 convert into onnx first, then run on onnxruntime.
 
-paddlepaddle itself currently only support running on M1 CPU only via rosetta 2.
+paddlepaddle itself currently only supports running on M1 CPU only via rosetta 2.
 
 ## Links
 
