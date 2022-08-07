@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:28:27.785Z'
+modified: '2022-08-07T17:28:36.156Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -10,7 +10,7 @@ modified: '2022-08-07T17:28:27.785Z'
 
 machine learning in python
 
-## [libsvm]()
+## [libsvm](https://github.com/cjlin1/libsvm)
 
 [python libsvm package](https://github.com/ocampor/libsvm)
 
