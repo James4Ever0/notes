@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T16:04:29.915Z'
+modified: '2022-08-07T16:05:16.181Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -22,7 +22,7 @@ opennlp is written in java. after installing openjdk on macos with homebrew, run
 
 opennlp has a language detector for 103 languages, including chinese. opennlp has a sentence detector (separator) which could be trained on chinese (maybe?)
 
-in order to use opennlp with less code written, here's how to [invoke java from kotlin]()
+in order to use opennlp with less code written, here's how to [invoke java from kotlin](https://kotlinlang.org/docs/java-interop.html)
 
 ## [dl4j](https://deeplearning4j.konduit.ai/)
 
