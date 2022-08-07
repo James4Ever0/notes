@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T16:56:39.021Z'
+modified: '2022-08-07T17:12:30.185Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -41,6 +41,8 @@ deep learning library for java
 gradient boost is used to train decision trees and classification models.
 
 ## [lightgbm](https://lightgbm.readthedocs.io/en/v3.3.2/)
+
+Light Gradient Boosting Machine
 
 ## [pymc](https://www.pymc.io/welcome.html)
 
