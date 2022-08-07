@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:48:14.212Z'
+modified: '2022-08-07T15:49:17.835Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -22,7 +22,7 @@ in order to use opennlp with less code written, here's how to [invoke java from 
 
 ## [dl4j]()
 
-found on [mannings article about search engine suggestions](). in this example it is used with lucene, which has
+found on [mannings article about search engine suggestions](). in this example it is used with lucene, which has image retrieval (LIRE) capability.
 
 deep learning library for java
 
