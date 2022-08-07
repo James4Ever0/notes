@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:53:43.365Z'
+modified: '2022-08-07T16:04:29.915Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -52,7 +52,7 @@ gradient boost is used to train decision trees and classification models.
 
 on the twitter list related to opennlp shown up on its official website, fastai has been spotted.
 
-fastai does not support macos.
+fastai does not support macos. or is it? fastai is on top of pytorch.
 
 searching '' like [this]() in github we get a [dataset for pets classification]() from [fastai 2020 tutorial series](https://github.com/fastai/course20/blob/master/index.ipynb)
 
