@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:22:51.539Z'
+modified: '2022-08-07T11:23:03.053Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -12,4 +12,4 @@ modified: '2022-08-07T11:22:51.539Z'
 
 ## run python inside swift
 
-use [pythonkit]()
+use [pythonkit](https://github.com/pvieito/PythonKit.git)
