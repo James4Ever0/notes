@@ -1,10 +1,16 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:59:59.783Z'
+modified: '2022-08-07T18:01:29.087Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
+
+## [jax]()
+
+autograd and xla
+
+
 
 ## [pyro]()
 
