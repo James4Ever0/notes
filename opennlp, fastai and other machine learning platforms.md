@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T18:05:49.945Z'
+modified: '2022-08-07T18:09:10.136Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -99,6 +99,8 @@ pip3 install lightgbm
 ```
 
 ## [pymc](https://www.pymc.io/welcome.html)
+
+if want to enable jax sampling, install  `numpyro` or `blackjax`
 
 difference between pymc3 (old) and pymc (pymc4):
 
