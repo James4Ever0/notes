@@ -1,14 +1,14 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T15:22:11.151Z'
+modified: '2022-08-07T15:22:36.530Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
 
 ## thermal and battery life concerns, and more
 
-consider [using external gpus (eGPUs) with thunderbolt 3 and AMD GPUs](https://support.apple.com/en-us/HT208544) to avoid overheating. but that can currently only be done with intel Macs.
+consider [using external gpus (eGPUs) with thunderbolt 3 and AMD GPUs](https://support.apple.com/en-us/HT208544) to avoid overheating. but that currently can only be done with intel Macs.
 
 battery life is currently bad for intel/amd notebooks of x86/64 architecture.
 
