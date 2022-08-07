@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:30:45.879Z'
+modified: '2022-08-07T11:33:34.583Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -24,7 +24,7 @@ CreateML is similar to any other [AutoML]() tools, like [AutoKeras](https://auto
 
 ## using CoreML
 
-CoreML models can be created by CreateML and some customization can be done.
+CoreML models can be created by CreateML and some customization can be done via `protocol MLCustomLayer`.
 
 [onnxruntime]() can run onnx models on CoreML.
 
