@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:17:09.341Z'
+modified: '2022-08-07T12:18:18.018Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -32,6 +32,12 @@ python3 -c "import tensorflow as tf; physical_devices = tf.config.list_physical_
 
 install from nightly release channel, with minimum system version requirements 12.3 (which this machine had been qualified after system update, now 12.5)
 
+```bash
+# MPS acceleration is available on MacOS 12.3+
+pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+```
+
+validation
 ```bash
 
 ```
