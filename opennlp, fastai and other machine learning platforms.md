@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:57:50.149Z'
+modified: '2022-08-07T17:58:49.888Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -14,9 +14,9 @@ probabilistic programming
 
 [examples](http://pyro.ai/examples/)
 
-## [numpyro]()
+## [numpyro](https://num.pyro.ai/en/stable/getting_started.html)
 
-faster pyro implementation
+pyro implementation in numpy, alpha stage
 
 ## [scikit-learn](https://scikit-learn.org/stable/index.html)
 
