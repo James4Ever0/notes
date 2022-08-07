@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:16:23.125Z'
+modified: '2022-08-07T12:17:09.341Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -18,7 +18,7 @@ to run these on other non-apple machines, you need to tweak and install macOS on
 
 using [tensorflow metal plugin](https://developer.apple.com/metal/tensorflow-plugin/), which sets up miniforge and install tensorflow-metal within.
 
-install without miniforge(is that supported?)
+install without miniforge(works!)
 ```bash
 pip3 install tensorflow-macos tensorflow-metal
 ```
