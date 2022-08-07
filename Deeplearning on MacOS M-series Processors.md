@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:23:03.053Z'
+modified: '2022-08-07T11:24:34.303Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -13,3 +13,11 @@ modified: '2022-08-07T11:23:03.053Z'
 ## run python inside swift
 
 use [pythonkit](https://github.com/pvieito/PythonKit.git)
+
+## automatic machine learning using CreateML
+
+```swift
+import CreateML
+```
+
+CreateML is similar to any other [AutoML]() tools.
