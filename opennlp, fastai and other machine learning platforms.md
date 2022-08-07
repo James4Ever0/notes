@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T16:39:40.428Z'
+modified: '2022-08-07T16:50:44.596Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -47,6 +47,8 @@ gradient boost is used to train decision trees and classification models.
 [docs](https://www.pymc.io/projects/docs/en/stable/learn.html) with live demo of pymc
 
 ## [fastai](https://github.com/fastai/fastai)
+
+a high level torch wrapper including “out of the box” support for vision, text, tabular, and collab (collaborative filtering) models.
 
 [docs](https://docs.fast.ai/)
 
