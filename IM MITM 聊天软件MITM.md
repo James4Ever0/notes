@@ -1,7 +1,7 @@
 ---
 title: IM MITM 聊天软件MITM
 created: '2022-05-28T16:15:24.000Z'
-modified: '2022-08-07T14:56:55.298Z'
+modified: '2022-08-07T14:57:11.329Z'
 ---
 
 # IM MITM 聊天软件 MITM
@@ -10,7 +10,7 @@ better do this in virtual enviorment without using any real world platform, just
 
 is there any existing solution like telegram-mitm or twitter mitm?
 
-lua twitter automation:
+lua twitter automation, found on luarocks:
 https://github.com/leafo/lua-twitter
 
 scraper of tumblr, pinterest, youtube, reddit using api:
