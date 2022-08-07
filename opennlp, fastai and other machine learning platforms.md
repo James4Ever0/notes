@@ -1,12 +1,14 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:52:25.587Z'
+modified: '2022-08-07T15:53:10.862Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
 
 ## [opennlp](https://opennlp.apache.org/)
+
+[hands-on docs](https://opennlp.apache.org/docs/2.0.0/manual/opennlp.html)
 
 opennlp uses onnx runtime(maybe?), may support m1 inference.
 
