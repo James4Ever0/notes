@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:51:58.871Z'
+modified: '2022-08-07T15:52:25.587Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -20,7 +20,7 @@ opennlp has a language detector for 103 languages, including chinese. opennlp ha
 
 in order to use opennlp with less code written, here's how to [invoke java from kotlin]()
 
-## [dl4j]()
+## [dl4j](https://deeplearning4j.konduit.ai/)
 
 found on [mannings article about better search engine suggestions](https://manningbooks.medium.com/more-sensitive-suggestions-1c1c39cbdc12). in this example it is used with lucene, which has image retrieval (LIRE) capability. lucene is also avaliable as [lucene.net](https://lucenenet.apache.org/) in dotnet/c#.
 
