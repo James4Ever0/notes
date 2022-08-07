@@ -1,12 +1,12 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:13:51.118Z'
+modified: '2022-08-07T12:14:06.329Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
 
-## thermal and battery life concerns
+## thermal and battery life concerns, and more
 
 heavy lifting jobs are likely to be running on Mac Studio with M1 Ultra and 128GB RAM. Macbook Air M1 with 8GB RAM is simply not feasible.
 
