@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T11:24:48.763Z'
+modified: '2022-08-07T11:24:54.188Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -20,4 +20,4 @@ use [pythonkit](https://github.com/pvieito/PythonKit.git)
 import CreateML
 ```
 
-CreateML is similar to any other [AutoML]() tools, like [AutoKeras](), 
+CreateML is similar to any other [AutoML]() tools, like [AutoKeras](https://autokeras.com/), 
