@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T16:50:44.596Z'
+modified: '2022-08-07T16:56:39.021Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -56,7 +56,7 @@ a high level torch wrapper including “out of the box” support for vision, te
 
 on the twitter list related to opennlp shown up on its official website, fastai has been spotted.
 
-fastai does not support macos. or is it? fastai is on top of pytorch.
+fastai does not support macos. or is it? fastai is on top of pytorch. initial support starts with 2.7.8 and now it is currently 2.7.9
 
 searching 'samoyed' like [this](https://github.com/search?q=org%3Afastai+samoyed&type=code) in github we get a [dataset for pets classification called imagewoof](https://s3.amazonaws.com/fast-ai-imageclas/imagewoof.tgz) from [fastai 2020 tutorial series](https://github.com/fastai/course20/blob/master/index.ipynb). more image classes like subcategories of cats may be found in [imagenet](https://image-net.org/index).
 
