@@ -1,7 +1,7 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T18:10:24.251Z'
+modified: '2022-08-07T18:14:22.790Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
@@ -21,7 +21,7 @@ XLA (Accelerated Linear Algebra) is a domain-specific compiler for linear algebr
 
 probabilistic programming
 
-[getting started]()
+[getting started](https://docs.pyro.ai/en/stable/getting_started.html)
 
 [examples](http://pyro.ai/examples/)
 
