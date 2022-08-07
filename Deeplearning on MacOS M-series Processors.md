@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T13:23:00.639Z'
+modified: '2022-08-07T13:23:38.044Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -49,7 +49,7 @@ pip3 install --pre torch torchvision torchaudio --extra-index-url https://downlo
 
 validation
 ```bash
-python3 -c "import torch; print('MPS avaliable:',torch.backends.mps.is_available()); print('Built with MPS',torch.backends.mps.is_built())"
+python3 -c "import torch; print('MPS avaliable:',torch.backends.mps.is_available()); print('Built with MPS:',torch.backends.mps.is_built())"
 ```
 
 ## run python inside swift
