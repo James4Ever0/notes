@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T12:25:01.142Z'
+modified: '2022-08-07T12:29:38.466Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -13,6 +13,12 @@ heavy lifting jobs are likely to be run on Mac Studio with M1 Ultra and 128GB RA
 aside of Apple platforms, these APIs are virtually useless.
 
 to run these on other non-apple machines, you need to tweak and install macOS on x86-64 platforms with macOS supported GPUs(may have low performance), which will definitely not taking any advantage of huge shared RAM with CPU, and may run poorly on CoreML/CreateML, may not support deepspeed stage 2/3 or BMI(big model inference)
+
+<details><summary>Non-Supported NVIDIA Cards, use AMD GPU instead</summary>
+High Sierra no longer supports NVIDIA Mac.
+Mojave – Catalina – BigSur only works with AMD graphics and Intel onboard graphics and only a very small number of old NVIDIA products. Suppose you have GTX 1070, 1080, and the like, you can not use High Sierra onwards because Nvidia does not provide any updates for Mac and can not be used in any other way.
+In general, the graphics of the Turing, Pascal, and Maxwell series will never be supported again. The latest Mac version that can use this series of graphics is High Sierra.
+</details>
 
 ## tensorflow with m1 support
 
