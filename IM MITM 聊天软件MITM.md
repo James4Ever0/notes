@@ -1,6 +1,7 @@
 ---
-created: 2022-05-29T00:15:24+08:00
-modified: 2022-07-19T00:33:04+08:00
+title: IM MITM 聊天软件MITM
+created: '2022-05-28T16:15:24.000Z'
+modified: '2022-08-07T14:56:55.298Z'
 ---
 
 # IM MITM 聊天软件 MITM
@@ -8,6 +9,9 @@ modified: 2022-07-19T00:33:04+08:00
 better do this in virtual enviorment without using any real world platform, just your own IM enviorment like a self-hosted IRC or something.
 
 is there any existing solution like telegram-mitm or twitter mitm?
+
+lua twitter automation:
+https://github.com/leafo/lua-twitter
 
 scraper of tumblr, pinterest, youtube, reddit using api:
 https://github.com/ScriptSmith/socialreaper
