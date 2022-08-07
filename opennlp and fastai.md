@@ -1,7 +1,7 @@
 ---
 title: opennlp and fastai
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T15:37:34.518Z'
+modified: '2022-08-07T15:39:16.548Z'
 ---
 
 # opennlp and fastai
@@ -24,3 +24,6 @@ opennlp is written in java. after installing openjdk on macos with homebrew, run
 on twitter list related to opennlp shown up on its official website, fastai has been spotted.
 
 fastai does not support macos.
+
+searching '' like [this]() in github we get a [dataset for pets classification]() from [fastai 2020 tutorial series]()
+
