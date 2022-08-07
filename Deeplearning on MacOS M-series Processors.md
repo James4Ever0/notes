@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T13:50:47.219Z'
+modified: '2022-08-07T13:52:23.371Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -72,6 +72,7 @@ CoreML models can be created by CreateML and some customization can be done via 
 
 to install c# on macos:
 ```bash
+brew install --build-from-source mono # to avoid some issues?
 brew install dotnet-sdk nuget
 ```
 
