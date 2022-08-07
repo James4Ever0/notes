@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-07T05:44:18.304Z'
+modified: '2022-08-07T05:44:58.814Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -10,7 +10,7 @@ modified: '2022-08-07T05:44:18.304Z'
 
 on macos, when crontab is created, cron will be automatically launched by launchd.
 
-cronjobs may need to launch after the `env` call.
+cronjobs may need to launch with the `$(which env)` prefix.
 
 the problem of internet disconnetion will most not likely to interfere with the server since frpc has auto reconnection and the update hook is the filesystem watchdog, which will not run when no changes made (including the offline period)
 
