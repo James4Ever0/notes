@@ -1,12 +1,14 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T18:02:49.855Z'
+modified: '2022-08-07T18:03:09.289Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
 
 ## [jax]()
+
+[docs](https://jax.readthedocs.io/en/latest/)
 
 autograd and xla (Accelerated Linear Algebra)
 <details>
