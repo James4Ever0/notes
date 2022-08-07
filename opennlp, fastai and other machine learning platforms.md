@@ -1,10 +1,14 @@
 ---
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T17:12:30.185Z'
+modified: '2022-08-07T17:15:43.247Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
+
+## [scikit-learn](https://scikit-learn.org/stable/index.html)
+
+machine learning in python
 
 ## [opennlp](https://opennlp.apache.org/)
 
