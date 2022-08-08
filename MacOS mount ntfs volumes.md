@@ -1,7 +1,7 @@
 ---
 title: MacOS mount ntfs volumes
 created: '2022-08-08T05:19:14.354Z'
-modified: '2022-08-08T05:20:39.453Z'
+modified: '2022-08-08T05:25:26.580Z'
 ---
 
 # MacOS mount ntfs volumes
@@ -13,6 +13,6 @@ code from [mounty.app](https://mounty.app/)
 mounty is somehow not working so manual remount is needed.
 
 ```bash
-sudo umount /Volumes/UNTITLED
-sudo mount -t ntfs -o rw,auto,nobrowse /dev/disk3s1 ~/ntfs-volume
+sudo umount /Volumes/Toshiba3000
+sudo mkdir /Volumes/Toshiba3000; sudo mount -t ntfs -o rw,auto,nobrowse /dev/<diskIdentifier> /Volumes/Toshiba3000
 ```
