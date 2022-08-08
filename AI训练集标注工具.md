@@ -1,10 +1,13 @@
 ---
 title: AI训练集标注工具
 created: '2022-05-24T05:18:21.000Z'
-modified: '2022-08-08T06:56:15.978Z'
+modified: '2022-08-08T06:57:31.112Z'
 ---
 
 # AI训练集标注工具
+
+video/image annotation tool:
+https://github.com/openvinotoolkit/cvat
 
 image labeling:
 https://github.com/heartexlabs/labelImg
