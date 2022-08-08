@@ -1,12 +1,12 @@
 ---
 title: AI训练集标注工具
 created: '2022-05-24T05:18:21.000Z'
-modified: '2022-08-08T06:57:47.319Z'
+modified: '2022-08-08T06:58:13.821Z'
 ---
 
 # AI训练集标注工具
 
-video/image annotation tool, needs docker:
+video/image annotation tool, needs docker, with [online demo](https://cvat.org):
 https://github.com/openvinotoolkit/cvat
 
 image labeling:
