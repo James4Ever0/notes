@@ -1,9 +1,13 @@
 ---
-created: 2022-05-24T13:18:21+08:00
-modified: 2022-05-24T15:03:05+08:00
+title: AI训练集标注工具
+created: '2022-05-24T05:18:21.000Z'
+modified: '2022-08-08T06:56:15.978Z'
 ---
 
 # AI训练集标注工具
+
+image labeling:
+https://github.com/heartexlabs/labelImg
 
 with audio video support
 https://github.com/heartexlabs/label-studio
