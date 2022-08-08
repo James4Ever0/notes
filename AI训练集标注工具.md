@@ -1,13 +1,18 @@
 ---
 title: AI训练集标注工具
 created: '2022-05-24T05:18:21.000Z'
-modified: '2022-08-08T06:59:03.567Z'
+modified: '2022-08-08T06:59:34.593Z'
 ---
 
 # AI训练集标注工具
 
 text annotation tool:
 https://github.com/doccano/doccano
+
+sqlite 3 backend:
+```bash
+pip3 install doccano
+```
 
 video/image annotation tool, needs docker, with [online demo](https://cvat.org):
 https://github.com/openvinotoolkit/cvat
