@@ -1,10 +1,13 @@
 ---
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 created: 2022-07-10T00:16:40+08:00
-modified: 2022-08-08T18:00:45+08:00
+modified: 2022-08-08T18:30:16+08:00
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
+
+google tts for python:
+pip install gtts
 
 爬取课程视频 去水印
 coursera udemy khanacademy icourse163
