@@ -1,12 +1,15 @@
 ---
 created: 2022-05-09T12:35:16+08:00
-modified: 2022-05-09T13:10:20+08:00
+modified: 2022-08-08T20:57:33+08:00
 ---
 
 # Copilot/Codex alternative
 
 Codegen
 https://github.com/salesforce/CodeGen
+
+copilot self-hosted powered by codegen (lots of vram, maybe for mac studio 128gb):
+https://github.com/moyix/fauxpilot
 
 code autocomplete
 https://github.com/shibing624/code-autocomplete
