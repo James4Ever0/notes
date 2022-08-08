@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-06-14T11:09:46+08:00
+modified: 2022-08-08T17:58:46+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -8,6 +8,9 @@ modified: 2022-06-14T11:09:46+08:00
 text style transfer:
 
 https://blog.csdn.net/qq_27590277/article/details/106991084
+
+paraphraser api online paraphrase support Chinese by rapid api freemium:
+https://rapidapi.com/vidanov-PTkl1skiJB3/api/paraphraser1/details
 
 paraphrase via rephrasing and reordering
 
