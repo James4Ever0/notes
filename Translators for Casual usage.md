@@ -1,6 +1,6 @@
 ---
 created: 2022-04-29T23:03:52+08:00
-modified: 2022-08-08T18:06:04+08:00
+modified: 2022-08-08T18:28:49+08:00
 ---
 
 # Translators/Paraphraser for casual usage
@@ -8,6 +8,9 @@ modified: 2022-08-08T18:06:04+08:00
 text style transfer:
 
 https://blog.csdn.net/qq_27590277/article/details/106991084
+
+python google translate api:
+pip install googletrans
 
 google translate in php:
 https://github.com/Stichoza/google-translate-php
