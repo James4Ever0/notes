@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:04:14.228Z'
+modified: '2022-08-09T06:04:51.661Z'
 ---
 
 # systemd on linux, maintainence details
@@ -109,4 +109,19 @@ WantedBy=graphical.target
 
 ```
 
+sync_git_repos_syncdog.service
+```js
 
+[Unit]
+Description=syncdog (server), to sync things to the cloud (github)
+Wants=sshd.service
+Wants=network.target
+
+[Service]
+User=root
+ExecStart=/usr/bin/python3 syncdog_test.py
+WorkingDirectory=/root/Desktop/works/sync_git_repos
+
+[Install]
+WantedBy=multi-user.target
+```
