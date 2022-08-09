@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:02:18.388Z'
+modified: '2022-08-09T06:02:43.115Z'
 ---
 
 # systemd on linux, maintainence details
@@ -44,7 +44,7 @@ KillMode=process
 WantedBy=multi-user.target
 ```
 
-
+pyjom_webdav
 ```js
 
 ```
