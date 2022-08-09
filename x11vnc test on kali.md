@@ -1,10 +1,12 @@
 ---
-title: vnc test
+title: x11vnc test on kali
 created: '2022-08-09T18:42:03.499Z'
-modified: '2022-08-09T18:47:01.033Z'
+modified: '2022-08-09T18:47:48.879Z'
 ---
 
-# vnc test
+# x11vnc test on kali
+
+better use nomachine instead, which is based on nx
 
 password: 472831
 
