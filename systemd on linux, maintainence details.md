@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:02:51.884Z'
+modified: '2022-08-09T06:03:13.125Z'
 ---
 
 # systemd on linux, maintainence details
@@ -56,6 +56,19 @@ WorkingDirectory=/root/Desktop/works/restore_sessions
 
 [Install]
 WantedBy=multi-user.target
+```
 
+tempthrottle.service
+```js
+[Unit]
+Description=temperature control, cpu temperature under 60 celsius
+
+[Service]
+User=root
+ExecStart=/usr/bin/python3 tempthrottle_daemon.py
+WorkingDirectory=/root/Desktop/works/restore_sessions
+
+[Install]
+WantedBy=multi-user.target
 
 ```
