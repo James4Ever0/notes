@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:04:51.661Z'
+modified: '2022-08-09T06:24:07.421Z'
 ---
 
 # systemd on linux, maintainence details
@@ -23,6 +23,8 @@ systemctl start <serviceName>.service
 ```
 
 ## sample systemd service config files
+
+maybe we should add some autorestart configs at it?
 
 frpc_service.service
 ```js
