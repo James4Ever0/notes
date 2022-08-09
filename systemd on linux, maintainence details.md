@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T05:59:52.063Z'
+modified: '2022-08-09T06:00:00.988Z'
 ---
 
 # systemd on linux, maintainence details
@@ -9,7 +9,7 @@ modified: '2022-08-09T05:59:52.063Z'
 ## view full logs
 
 ```bash
-
+journalctl 
 ```
 
 ## create, install, restart, reload
