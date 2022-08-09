@@ -1,10 +1,10 @@
 ---
-title: find an unused random port and announce it on redis
+title: find an unused random local port and announce it on redis
 created: '2022-08-09T06:15:35.018Z'
-modified: '2022-08-09T06:21:12.570Z'
+modified: '2022-08-09T06:22:38.660Z'
 ---
 
-# find an unused random port and announce it on redis
+# find an unused random local port and announce it on redis
 
 issues were found when launching apps on fixed ports.
 
