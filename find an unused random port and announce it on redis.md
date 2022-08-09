@@ -1,7 +1,7 @@
 ---
 title: find an unused random port and announce it on redis
 created: '2022-08-09T06:15:35.018Z'
-modified: '2022-08-09T06:19:54.703Z'
+modified: '2022-08-09T06:20:06.757Z'
 ---
 
 # find an unused random port and announce it on redis
@@ -36,5 +36,10 @@ r = redis.Redis(
     host='hostname',
     port=port, 
     password='password')
+# open a connection to Redis
+ 
+r.set('foo', 'bar')
+value = r.get('foo')
+print(value)
 
 ```
