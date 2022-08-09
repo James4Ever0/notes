@@ -1,7 +1,7 @@
 ---
 title: find an unused random port and announce it on redis
 created: '2022-08-09T06:15:35.018Z'
-modified: '2022-08-09T06:18:37.436Z'
+modified: '2022-08-09T06:19:47.191Z'
 ---
 
 # find an unused random port and announce it on redis
@@ -21,6 +21,11 @@ def getUnusedLocalhostPort():
     port = sock.getsockname()[1]
     sock.close()
     return port
+```
+
+install redis-py:
+```bash
+pip install redis
 ```
 
 python send port to redis:
