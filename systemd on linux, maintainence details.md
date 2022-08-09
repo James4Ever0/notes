@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:01:01.121Z'
+modified: '2022-08-09T06:02:18.388Z'
 ---
 
 # systemd on linux, maintainence details
@@ -24,4 +24,27 @@ systemctl start <serviceName>.service
 
 ## sample systemd service config files
 
+frpc_service.service
+```js
+[Unit]
+Description=frpc service, expose ssh, webdav and code-server ports
+Wants=network.target
+After=syslog.target network-online.target
 
+[Service]
+Type=simple
+User=root
+ExecStart=/root/frp_client_linux/frp_0.36.2_linux_amd64/frpc -c frpc.ini
+WorkingDirectory=/root/frp_client_linux/frp_0.36.2_linux_amd64
+Restart=on-failure
+RestartSec=10
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
+```
+
+
+```js
+
+```
