@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:00:00.988Z'
+modified: '2022-08-09T06:01:01.121Z'
 ---
 
 # systemd on linux, maintainence details
@@ -9,7 +9,7 @@ modified: '2022-08-09T06:00:00.988Z'
 ## view full logs
 
 ```bash
-journalctl 
+journalctl -u <serviceName>.service
 ```
 
 ## create, install, restart, reload
@@ -21,3 +21,7 @@ systemctl enable <serviceName>.service
 systemctl daemon-reload
 systemctl start <serviceName>.service
 ```
+
+## sample systemd service config files
+
+
