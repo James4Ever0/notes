@@ -1,11 +1,11 @@
 ---
-title: Untitled
+title: Public APIs
 created: '2022-08-09T17:49:17.081Z'
-modified: '2022-08-09T17:49:20.706Z'
+modified: '2022-08-09T17:50:06.033Z'
 ---
 
+# Public APIs
 <div align="center">
-    <h1>Public APIs</h1>
     <i>A collective list of free APIs for use in software and web development</i>
 </div>
 
