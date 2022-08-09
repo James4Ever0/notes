@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:03:48.559Z'
+modified: '2022-08-09T06:04:14.228Z'
 ---
 
 # systemd on linux, maintainence details
@@ -87,6 +87,25 @@ ExecStart=/usr/bin/clash -d /etc/clash
 
 [Install]
 WantedBy=multi-user.target
+
+```
+
+tujia_scraper_qq_bot.service
+```js
+[Unit]
+Description=two crucial services: tujia scraper, qq bot
+Wants=network.target
+After=syslog.target network-online.target
+
+[Service]
+Environment="DISPLAY=:1"
+Environment="XAUTHORITY=/root/.Xauthority"
+User=root
+ExecStart=/usr/bin/python3 main_daemon.py
+WorkingDirectory=/root/Desktop/works/restore_sessions
+
+[Install]
+WantedBy=graphical.target
 
 ```
 
