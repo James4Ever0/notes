@@ -1,7 +1,7 @@
 ---
 title: find an unused random local port and announce it on redis
 created: '2022-08-09T06:15:35.018Z'
-modified: '2022-08-09T06:30:12.233Z'
+modified: '2022-08-09T06:30:37.673Z'
 ---
 
 # find an unused random local port and announce it on redis
@@ -10,7 +10,7 @@ issues were found when launching apps on fixed ports.
 
 maybe you should create this entry inside your `lazero` package? no need for uploading to pypi, just keep it under `pyjom` and leave a local install script there.
 
-make sure all services are going to launch after the `redis_service.service` target. on macos or windows this may vary.
+make sure all related services are going to launch after the `redis_service.service` target. on macos or windows this may vary.
 
 python to get unused port:
 ```python
