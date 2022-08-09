@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:03:13.125Z'
+modified: '2022-08-09T06:03:48.559Z'
 ---
 
 # systemd on linux, maintainence details
@@ -72,3 +72,22 @@ WorkingDirectory=/root/Desktop/works/restore_sessions
 WantedBy=multi-user.target
 
 ```
+
+clash_fastgithub.service
+
+```js
+[Unit]
+Description=Clash Fastgithub Proxy
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/clash -d /etc/clash
+
+[Install]
+WantedBy=multi-user.target
+
+```
+
+
