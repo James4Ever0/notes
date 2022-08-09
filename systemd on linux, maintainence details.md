@@ -1,7 +1,7 @@
 ---
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:02:43.115Z'
+modified: '2022-08-09T06:02:51.884Z'
 ---
 
 # systemd on linux, maintainence details
@@ -44,7 +44,18 @@ KillMode=process
 WantedBy=multi-user.target
 ```
 
-pyjom_webdav
+pyjom_webdav_rclone_service.service
 ```js
+[Unit]
+Description=rclone webdav served on pyjom, after the disk is mounted
+
+[Service]
+User=root
+ExecStart=/usr/bin/python3 mount_help_and_serve_pyjom.py
+WorkingDirectory=/root/Desktop/works/restore_sessions
+
+[Install]
+WantedBy=multi-user.target
+
 
 ```
