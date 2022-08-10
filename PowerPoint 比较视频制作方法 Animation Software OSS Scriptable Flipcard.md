@@ -1,12 +1,12 @@
 ---
 title: PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
-created: 2022-07-13T23:16:54+08:00
-modified: 2022-08-10T15:39:55+08:00
+created: '2022-07-13T15:16:54.000Z'
+modified: '2022-08-10T07:53:18.794Z'
 ---
 
 # PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
 
-[free open source animation sofrware for linux](https://sourceforge.net/directory/graphics/graphics/animation/os%3Alinux/) 
+[free open source animation software for linux, by sourcefource.net](https://sourceforge.net/directory/graphics/graphics/animation/os%3Alinux/) 
 
 [three.js](https://sourceforge.net/projects/three-js.mirror/) javascript 3d library
 
