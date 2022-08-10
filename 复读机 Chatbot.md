@@ -1,10 +1,13 @@
 ---
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-08-08T20:55:39+08:00
+modified: 2022-08-10T15:20:26+08:00
 ---
 
 # 复读机 Chatbot
+
+[dialogpt documentation](https://huggingface.co/docs/transformers/model_doc/dialogpt)
+
 
 闲聊chitchat dialog bot training framework by facebook:
 https://github.com/facebookresearch/ParlAI
