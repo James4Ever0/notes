@@ -1,12 +1,20 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-08-10T14:45:36+08:00
+modified: 2022-08-10T15:03:41+08:00
 ---
 
 # 变声软件 Morphvox alternatives
 
+主要的vst变声插件：
+
+变声插件以及其他VST的选择，大家可以参考上一篇专栏，本人现在用的是Avox Mutator调整声调，Little Alterboy调整共振峰的搭配：
+
+[gachikoe! core](https://sakurane-sachi.booth.pm/items/1236505) sign in with pixiv to download for free
+
 [VST机架 变声 设置教程](https://www.bilibili.com/read/mobile?id=6275919&from=articleDetail)
+
+需要多个vst插件相互连接
 
 可能只适合个别声音 如果是野生音源 需要预处理 再进行输入
 
