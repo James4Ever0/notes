@@ -1,9 +1,11 @@
 ---
 created: 2022-07-14T00:25:04+08:00
-modified: 2022-07-18T11:53:03+08:00
+modified: 2022-08-10T15:21:16+08:00
 ---
 
 # Topic Generation 话题发现 趋势发现 热点发现 文本分类
+
+[bert documentation](https://huggingface.co/docs/transformers/model_doc/bert)
 
 https://github.com/MaartenGr/BERTopic
 
