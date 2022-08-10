@@ -1,10 +1,13 @@
 ---
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
-created: 2022-07-10T00:16:40+08:00
-modified: 2022-08-08T18:30:25+08:00
+created: '2022-07-09T16:16:40.000Z'
+modified: '2022-08-10T06:14:27.752Z'
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
+
+image search engines sourced from `search by image` browser plugin:
+Google, Bing, Yandex, Baidu and TinEye
 
 google tts for python:
 import gtts
