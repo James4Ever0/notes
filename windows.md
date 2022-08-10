@@ -1,10 +1,12 @@
 ---
 title: Time Machine Alternative for linux/windows
 created: '2022-08-10T08:12:46.237Z'
-modified: '2022-08-10T08:17:59.737Z'
+modified: '2022-08-10T08:20:52.207Z'
 ---
 
 # Time Machine Alternative for linux/windows
+
+[linux-timemachine](https://github.com/cytopia/linux-timemachine#star-features) supports windows, linux, macOS, can use hardlink to make backup management very easy. can delete previous backup without losing data. need external controller to make "circular" or to only keep most recent backups on disk.
 
 [curated list of alternative time machine for OSes other than macOS](https://alternativeto.net/software/time-machine/?platform=linux&p=2)
 
