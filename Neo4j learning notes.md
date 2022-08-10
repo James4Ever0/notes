@@ -1,9 +1,11 @@
 ---
 created: 2022-06-03T10:05:00+08:00
-modified: 2022-06-03T14:36:40+08:00
+modified: 2022-08-10T15:26:11+08:00
 ---
 
 # Neo4j learning notes
+
+[neo4j desktop](https://neo4j.com/download) provide free multi graph databases support, enable you to create and use multiple graph datases at once
 
 to query undirected relationships:
 match () -- (p) return p
