@@ -1,6 +1,6 @@
 ---
 created: 2022-07-10T23:56:16+08:00
-modified: 2022-07-11T00:00:53+08:00
+modified: 2022-08-10T15:23:25+08:00
 ---
 
 # Advanced ASS Subtitle Karaoke Effects
@@ -10,7 +10,8 @@ https://github.com/Kagu-chan/FXSpindle
 
 karaoke effects
 https://github.com/Youka/NyuFX
-https://github.com/CoffeeStraw/PyonFX
+[pyonfx code](https://github.com/CoffeeStraw/PyonFX)
+[pyonfx documentation](https://pyonfx.readthedocs.io/en/latest/quick%20start.html#starting-out)
 https://github.com/logarrhythmic/karaOK
 
 aegisub and its plugins
