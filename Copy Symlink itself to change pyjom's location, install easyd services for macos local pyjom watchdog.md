@@ -1,7 +1,7 @@
 ---
 title: 'Copy Symlink itself to change pyjom''s location, install easyd services for macos local pyjom watchdog'
 created: '2022-08-11T06:41:13.000Z'
-modified: '2022-08-11T19:07:55.479Z'
+modified: '2022-08-11T19:16:26.682Z'
 ---
 
 # Copy Symlink itself to change pyjom's location, install easyd services for macos local pyjom watchdog
@@ -28,8 +28,12 @@ sudo launchctl debug gui/501/pyjom_local_syncdog --stdout --stderr
 ```
 
 ```bash
-launchctl list | grep pyjom_local_syncdog # to get process pid
-kill -s TERM <service_pid>
+# to be succint:
+launchctl list | grep syncdog | awk '{print $1}' | xargs -I abc kill -s TERM abc
+
+# instead of:
+#launchctl list | grep pyjom_local_syncdog # to get process pid
+#kill -s TERM <service_pid>
 ```
 we need to add some code for it. consider adding something alike to that to kali?
 
