@@ -1,7 +1,7 @@
 ---
 title: 'Copy Symlink itself to change pyjom''s location, install easyd services for macos local pyjom watchdog'
 created: '2022-08-11T06:41:13.000Z'
-modified: '2022-08-11T19:06:39.188Z'
+modified: '2022-08-11T19:07:55.479Z'
 ---
 
 # Copy Symlink itself to change pyjom's location, install easyd services for macos local pyjom watchdog
@@ -31,9 +31,11 @@ sudo launchctl debug gui/501/pyjom_local_syncdog --stdout --stderr
 launchctl list | grep pyjom_local_syncdog # to get process pid
 kill -s TERM <service_pid>
 ```
-we need to add some code for it. consider adding that to kali?
+we need to add some code for it. consider adding something alike to that to kali?
 
 ```python
+os.environ["http_proxy"]="http://localhost:7930"
+os.environ["https_proxy"]="http://localhost:7930"
 
 ```
 
