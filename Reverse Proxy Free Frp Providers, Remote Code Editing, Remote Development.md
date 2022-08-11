@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T21:48:19.504Z'
+modified: '2022-08-11T21:51:13.279Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -16,7 +16,11 @@ brew has [tinc](https://www.xmodulo.com/how-to-install-and-configure-tinc-vpn.ht
 
 [tinc conf](https://tinc-vpn.org/documentation/tinc.conf.5)
 
-[]()
+[tinc setup with core server](https://chanix.github.io/TincCookbook/examples/1-HowToInstallTincOnUbuntu1604.html)
+
+[remote access with vps using tinc](https://zhuanlan.zhihu.com/p/419173153)
+
+[install and config tinc on linux](https://www.xmodulo.com/how-to-install-and-configure-tinc-vpn.html)
 
 tinc is somehow complex and it may requires some tinkering on `tinc-up` or using docker.
 
