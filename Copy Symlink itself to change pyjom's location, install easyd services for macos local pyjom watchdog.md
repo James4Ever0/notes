@@ -1,7 +1,7 @@
 ---
 title: 'Copy Symlink itself to change pyjom''s location, install easyd services for macos local pyjom watchdog'
 created: '2022-08-11T06:41:13.000Z'
-modified: '2022-08-11T19:05:15.860Z'
+modified: '2022-08-11T19:06:39.188Z'
 ---
 
 # Copy Symlink itself to change pyjom's location, install easyd services for macos local pyjom watchdog
@@ -21,6 +21,16 @@ main issue happens after local vscode launched.
 
 the issue is such that the proxy setting not right.
 
+to debug the service:
+
+```bash
+sudo launchctl debug gui/501/pyjom_local_syncdog --stdout --stderr
+```
+
+```bash
+launchctl list | grep pyjom_local_syncdog # to get process pid
+kill -s TERM <service_pid>
+```
 we need to add some code for it. consider adding that to kali?
 
 ```python
