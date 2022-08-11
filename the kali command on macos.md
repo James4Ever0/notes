@@ -1,7 +1,7 @@
 ---
 title: the kali command on macos
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-11T19:37:19.480Z'
+modified: '2022-08-11T19:37:32.225Z'
 ---
 
 # the kali command on macos
@@ -12,7 +12,7 @@ would it be interesting to run all our kali connectors ranged from vscode-ssh-co
 
 using redis to store some daemon reported values.
 
-how about we set the workding directory of `redis-server` to temp
+how about we set the workding directory of `redis-server` to `/tmp`?
 
 first value is `online`.
 
