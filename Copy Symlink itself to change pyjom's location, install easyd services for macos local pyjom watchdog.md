@@ -1,7 +1,7 @@
 ---
 title: 'Copy Symlink itself to change pyjom''s location, install easyd services for macos local pyjom watchdog'
 created: '2022-08-11T06:41:13.000Z'
-modified: '2022-08-11T09:19:15.436Z'
+modified: '2022-08-11T09:34:59.246Z'
 ---
 
 # Copy Symlink itself to change pyjom's location, install easyd services for macos local pyjom watchdog
@@ -13,8 +13,14 @@ cp -R -P /media/root/help1/pyjom .
 
 because of the qqChatBottask, pyjom on kali may be syncing too often.need to check the watchdog logs.
 
-install macos pyjom watchdogs (local):
+install macos pyjom watchdog (local):
 
 ```bash
-easyd -l  -- /opt/homebrew/bin/rclone mount webdav_local_nginx:/ /Volumes/CaseSensitive/pyjom_remote_mountpoint -L
+easyd -l pyjom_local_watchdog -w /Users/jamesbrown/Desktop/works/sync_git_repos -- /usr/bin/python3 /Users/jamesbrown/Desktop/works/sync_git_repos/watchdog_macos.py
+```
+
+install macos pyjom syncdog (local):
+
+```bash
+easyd -l pyjom_local_syncdog -w /Users/jamesbrown/Desktop/works/sync_git_repos -- /usr/bin/python3 /Users/jamesbrown/Desktop/works/sync_git_repos/syncdog_macos.py
 ```
