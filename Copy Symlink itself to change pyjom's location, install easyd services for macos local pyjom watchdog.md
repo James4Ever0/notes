@@ -1,7 +1,7 @@
 ---
 title: 'Copy Symlink itself to change pyjom''s location, install easyd services for macos local pyjom watchdog'
 created: '2022-08-11T06:41:13.000Z'
-modified: '2022-08-11T09:34:59.246Z'
+modified: '2022-08-11T09:47:44.367Z'
 ---
 
 # Copy Symlink itself to change pyjom's location, install easyd services for macos local pyjom watchdog
@@ -11,7 +11,7 @@ cd /media/root/parrot
 cp -R -P /media/root/help1/pyjom .
 ```
 
-because of the qqChatBottask, pyjom on kali may be syncing too often.need to check the watchdog logs.
+because of the qqChatBot task, pyjom on kali may be syncing too often. need to check the watchdog logs.
 
 install macos pyjom watchdog (local):
 
