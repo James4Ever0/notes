@@ -1,7 +1,7 @@
 ---
 title: 'ramfs on macos, linux and windows'
 created: '2022-08-11T11:28:39.000Z'
-modified: '2022-08-11T12:38:50.966Z'
+modified: '2022-08-11T12:39:00.078Z'
 ---
 
 # ramfs on macos, linux and windows
@@ -73,7 +73,7 @@ mount -o noatime -t hfs <returned_disk_device_id> ~/Ramdisk
 
 ## windows
 
-[dynamic ramfs by extending winfsp ](https://github.com/Ceiridge/WinFsp-MemFs-Extended)
+[dynamic ramfs by extending winfsp's memfs](https://github.com/Ceiridge/WinFsp-MemFs-Extended)
 
 [winfsp](https://winfsp.dev/rel/) is released in the form of an MSI installer that includes a signed driver and all files necessary to run and develop user mode file systems on Windows. The installer supports Windows native, FUSE, .NET and Cygwin file systems out of the box.
 
