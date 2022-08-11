@@ -1,7 +1,7 @@
 ---
 title: 'ramfs on macos, linux and windows'
 created: '2022-08-11T11:28:39.000Z'
-modified: '2022-08-11T12:39:00.078Z'
+modified: '2022-08-11T12:40:20.607Z'
 ---
 
 # ramfs on macos, linux and windows
@@ -82,3 +82,5 @@ mount -o noatime -t hfs <returned_disk_device_id> ~/Ramdisk
 use third-party ramdisk tool like [imdisk](https://sourceforge.net/projects/imdisk-toolkit/), [eram](https://github.com/Zero3K/ERAM) with kernel driver installed, secure boot disabled (no uefi maybe?)
 
 [ramdisk driver](https://github.com/guidoreina/ramdisk)
+
+[](https://github.com/aso930/CreateRAMDISK)
