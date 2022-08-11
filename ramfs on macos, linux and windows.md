@@ -1,7 +1,7 @@
 ---
 title: 'ramfs on macos, linux and windows'
 created: '2022-08-11T11:28:39.000Z'
-modified: '2022-08-11T12:40:28.593Z'
+modified: '2022-08-11T12:42:02.054Z'
 ---
 
 # ramfs on macos, linux and windows
@@ -83,4 +83,4 @@ use third-party ramdisk tool like [imdisk](https://sourceforge.net/projects/imdi
 
 [ramdisk driver](https://github.com/guidoreina/ramdisk)
 
-[powershell ramdisk](https://github.com/aso930/CreateRAMDISK)
+[powershell ramdisk](https://github.com/aso930/CreateRAMDISK) which create ramdisk on remote windows server having iscsi roles installed (complex and deprecated?)
