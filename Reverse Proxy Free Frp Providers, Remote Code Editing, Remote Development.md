@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T16:45:48.835Z'
+modified: '2022-08-11T16:46:38.334Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -20,7 +20,7 @@ use [n2n](https://github.com/ntop/n2n) to send udp packages among clients, try t
 
 somehow brew does not have n2n as a package. macports has it, which requires xcode (huge!) to be installed.
 
-[peervpn](https://peervpn.net/)
+[peervpn tutorial](https://peervpn.net/)
 
 ## daemonize (launch at startup)
 
