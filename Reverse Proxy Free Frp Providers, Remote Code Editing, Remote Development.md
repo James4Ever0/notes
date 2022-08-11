@@ -1,10 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-07T05:44:58.814Z'
+modified: '2022-08-11T16:32:46.012Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+## p2p network
+
+use [n2n](https://github.com/ntop/n2n) send udp packages among clients, try to create direct link between devices which will speed up ssh connection speed. supernode creation could be used along with frpc
 
 ## daemonize (launch at startup)
 
@@ -13,6 +17,10 @@ on macos, when crontab is created, cron will be automatically launched by launch
 cronjobs may need to launch with the `$(which env)` prefix.
 
 the problem of internet disconnetion will most not likely to interfere with the server since frpc has auto reconnection and the update hook is the filesystem watchdog, which will not run when no changes made (including the offline period)
+
+the watchdog may be replaced by some mirror fuse system, which will report every access request to our dedicated server.
+
+we have seen this behavior (filesystem mirroring) in our gitfuse code. but does that support symlink? should we really take care of that? or should we forget that and just use inotify instead?
 
 maybe it will affect the client when mounting the remote filesystem using sshfs or rclone, but that has to be verified.
 
