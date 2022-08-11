@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T21:46:16.227Z'
+modified: '2022-08-11T21:48:19.504Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -13,6 +13,10 @@ you could test the speed and decide to use it or not.
 in kali discovery service, when local connection is not avaliable, usually the p2p network is preferred than direct frp tunneling.
 
 brew has [tinc](https://www.xmodulo.com/how-to-install-and-configure-tinc-vpn.html) as a package!
+
+[tinc conf](https://tinc-vpn.org/documentation/tinc.conf.5)
+
+[]()
 
 tinc is somehow complex and it may requires some tinkering on `tinc-up` or using docker.
 
