@@ -1,6 +1,7 @@
 ---
-created: 2022-08-11T19:28:39+08:00
-modified: 2022-08-11T20:22:44+08:00
+title: 'ramfs on macos, linux and windows'
+created: '2022-08-11T11:28:39.000Z'
+modified: '2022-08-11T12:31:36.181Z'
 ---
 
 # ramfs on macos, linux and windows
@@ -23,6 +24,8 @@ mount -t ramfs -o size=2g ramfs /mnt/tmp
 ```
 
 ## macos
+
+macos 11 introduced `mount_tmpfs` or `mount -t tmpfs` option so one can mount fixed size ramdisk without the haze of legacy bloated commands.
 
 /private/tmp is not ramdisk. it is just a directory cleared by startup.
 
