@@ -1,14 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T16:32:46.012Z'
+modified: '2022-08-11T16:32:55.435Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## p2p network
 
-use [n2n](https://github.com/ntop/n2n) send udp packages among clients, try to create direct link between devices which will speed up ssh connection speed. supernode creation could be used along with frpc
+use [n2n](https://github.com/ntop/n2n) to send udp packages among clients, try to create direct link between devices which will speed up ssh connection speed. supernode creation could be used along with frpc
 
 ## daemonize (launch at startup)
 
