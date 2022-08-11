@@ -1,10 +1,10 @@
 ---
 title: the kali command
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-11T16:17:58.562Z'
+modified: '2022-08-11T16:18:05.412Z'
 ---
 
-# the `kali` command
+# the kali command
 
 using redis to store some daemon reported values.
 
