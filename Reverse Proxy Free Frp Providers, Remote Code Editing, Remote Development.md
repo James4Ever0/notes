@@ -1,12 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T16:36:22.998Z'
+modified: '2022-08-11T16:43:44.010Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## p2p network
+
+brew has tinc as a package!
 
 [install n2n without macports](https://www.jianshu.com/p/559c1e582724)
 
