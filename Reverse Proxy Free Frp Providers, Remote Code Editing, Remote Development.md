@@ -1,12 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T16:35:38.791Z'
+modified: '2022-08-11T16:36:22.998Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## p2p network
+
+[install n2n without macports](https://www.jianshu.com/p/559c1e582724)
 
 use [n2n](https://github.com/ntop/n2n) to send udp packages among clients, try to create direct link between devices which will speed up ssh connection speed. supernode creation could be used along with frpc
 
