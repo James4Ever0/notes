@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T16:34:00.550Z'
+modified: '2022-08-11T16:35:38.791Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -10,7 +10,7 @@ modified: '2022-08-11T16:34:00.550Z'
 
 use [n2n](https://github.com/ntop/n2n) to send udp packages among clients, try to create direct link between devices which will speed up ssh connection speed. supernode creation could be used along with frpc
 
-somehow brew does not have n2n as a package.
+somehow brew does not have n2n as a package. macports has it, which requires xcode (huge!) to be installed.
 
 ## daemonize (launch at startup)
 
