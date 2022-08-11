@@ -1,7 +1,7 @@
 ---
 title: the kali command on macos
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-11T20:47:09.339Z'
+modified: '2022-08-11T20:47:23.027Z'
 ---
 
 # the kali command on macos
@@ -18,7 +18,7 @@ we need to know if this will successifully launch after reboot since `/tmp` may 
 
 install redis-server service:
 ```bash
-easyd -w /tmp -l redis_server -- 
+easyd -w /tmp -l redis_server -- /opt/homebrew/bin/redis-server
 ```
 
 first value is `online`.
