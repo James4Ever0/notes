@@ -1,7 +1,7 @@
 ---
 title: 'Copy Symlink itself to change pyjom''s location, install easyd services for macos local pyjom watchdog'
 created: '2022-08-11T06:41:13.000Z'
-modified: '2022-08-11T18:20:04.757Z'
+modified: '2022-08-11T18:43:00.756Z'
 ---
 
 # Copy Symlink itself to change pyjom's location, install easyd services for macos local pyjom watchdog
@@ -17,9 +17,21 @@ turned out it is the `__pycache__` dirs to be blamed
 
 disable all sync related services on macos for debug:
 
+main issue happens after local vscode launched.
+
 ```bash
-launchctl remove gui/501/pyjom_local_watchdog
+launchctl stop gui/501/pyjom_local_watchdog;
+launchctl kill TERM gui/501/pyjom_local_watchdog;
+launchctl unload gui/501/pyjom_local_watchdog;
+launchctl disable gui/501/pyjom_local_watchdog;
+launchctl remove gui/501/pyjom_local_watchdog;
+
+launchctl stop gui/501/pyjom_local_syncdog;
+launchctl kill TERM gui/501/pyjom_local_syncdog;
+launchctl unload gui/501/pyjom_local_syncdog;
+launchctl disable gui/501/pyjom_local_syncdog;
 launchctl remove gui/501/pyjom_local_syncdog
+
 ```
 
 install macos pyjom watchdog (local):
