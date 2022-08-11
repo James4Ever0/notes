@@ -1,12 +1,16 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T16:43:44.010Z'
+modified: '2022-08-11T16:45:48.835Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## p2p network
+
+you could test the speed and decide to use it or not.
+
+usually the p2p network is preferred than direct frp tunneling.
 
 brew has tinc as a package!
 
@@ -15,6 +19,8 @@ brew has tinc as a package!
 use [n2n](https://github.com/ntop/n2n) to send udp packages among clients, try to create direct link between devices which will speed up ssh connection speed. supernode creation could be used along with frpc
 
 somehow brew does not have n2n as a package. macports has it, which requires xcode (huge!) to be installed.
+
+[peervpn](https://peervpn.net/)
 
 ## daemonize (launch at startup)
 
