@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T21:43:55.098Z'
+modified: '2022-08-11T21:43:59.169Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -14,7 +14,7 @@ in kali discovery service, when local connection is not avaliable, usually the p
 
 brew has [tinc](https://www.xmodulo.com/how-to-install-and-configure-tinc-vpn.html) as a package!
 
-tinc is way too complex and i suggest to use docker to act as the `supernode` or something, or create separate
+tinc is way too complex and i suggest to use docker to act as the `supernode` or something, or create 
 
 [install n2n without macports](https://www.jianshu.com/p/559c1e582724)
 
