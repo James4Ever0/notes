@@ -1,7 +1,7 @@
 ---
 title: 'ramfs on macos, linux and windows'
 created: '2022-08-11T11:28:39.000Z'
-modified: '2022-08-11T12:31:36.181Z'
+modified: '2022-08-11T12:35:47.768Z'
 ---
 
 # ramfs on macos, linux and windows
@@ -76,3 +76,5 @@ mount -o noatime -t hfs <returned_disk_device_id> ~/Ramdisk
 [a curated ramdisk software list](https://www.geckoandfly.com/21507/ramdisk-virtual-disk-memory/#:~:text=RAMDisk%20is%20a%20program%20that%20takes%20a%20portion,default%20‘ReadyBoost’%20found%20in%20Microsoft%20Windows%20operating%20system.)
 
 use third-party ramdisk tool like [imdisk](https://sourceforge.net/projects/imdisk-toolkit/), [eram](https://github.com/Zero3K/ERAM) with kernel driver installed, secure boot disabled (no uefi maybe?)
+
+[ramdisk driver](https://github.com/guidoreina/ramdisk)
