@@ -1,7 +1,7 @@
 ---
 title: the kali command on macos
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-11T20:47:23.027Z'
+modified: '2022-08-11T20:48:11.917Z'
 ---
 
 # the kali command on macos
@@ -15,6 +15,8 @@ using redis to store some daemon reported values.
 how about we set the workding directory of `redis-server` to `/tmp` so that the `dump.rdb` file will never take space after reboot?
 
 we need to know if this will successifully launch after reboot since `/tmp` may not exist by that time
+
+default redis server port: 6379
 
 install redis-server service:
 ```bash
