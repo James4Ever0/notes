@@ -1,6 +1,6 @@
 ---
 created: 2022-08-11T19:28:39+08:00
-modified: 2022-08-11T20:22:44+08:00
+modified: 2022-08-11T20:23:30+08:00
 ---
 
 # ramfs on macos, linux and windows
@@ -16,7 +16,7 @@ create bounded tmpfs:
 mount -t tmpfs -o size=2g tmpfs /mnt/tmp
 ```
 
-or yoy labor yourself to mount some additional  ramfs:
+or yoy labor yourself to mount some additional ramfs:
 
 ```bash
 mount -t ramfs -o size=2g ramfs /mnt/tmp
