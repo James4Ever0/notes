@@ -1,7 +1,7 @@
 ---
 title: 'ramfs on macos, linux and windows'
 created: '2022-08-11T11:28:39.000Z'
-modified: '2022-08-11T12:37:06.304Z'
+modified: '2022-08-11T12:38:22.549Z'
 ---
 
 # ramfs on macos, linux and windows
@@ -75,7 +75,7 @@ mount -o noatime -t hfs <returned_disk_device_id> ~/Ramdisk
 
 [dynamic ramfs by extending winfsp](https://github.com/Ceiridge/WinFsp-MemFs-Extended)
 
-[winfsp]()
+[winfsp](https://winfsp.dev/rel/)
 
 [a curated ramdisk software list](https://www.geckoandfly.com/21507/ramdisk-virtual-disk-memory/#:~:text=RAMDisk%20is%20a%20program%20that%20takes%20a%20portion,default%20‘ReadyBoost’%20found%20in%20Microsoft%20Windows%20operating%20system.)
 
