@@ -1,7 +1,7 @@
 ---
 title: the kali command on macos
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-11T19:37:57.303Z'
+modified: '2022-08-11T20:47:09.339Z'
 ---
 
 # the kali command on macos
@@ -13,6 +13,13 @@ would it be interesting to run all our kali connectors ranged from vscode-ssh-co
 using redis to store some daemon reported values.
 
 how about we set the workding directory of `redis-server` to `/tmp` so that the `dump.rdb` file will never take space after reboot?
+
+we need to know if this will successifully launch after reboot since `/tmp` may not exist by that time
+
+install redis-server service:
+```bash
+easyd -w /tmp -l redis_server -- 
+```
 
 first value is `online`.
 
