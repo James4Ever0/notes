@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-11T16:46:57.772Z'
+modified: '2022-08-11T16:47:21.640Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -10,7 +10,7 @@ modified: '2022-08-11T16:46:57.772Z'
 
 you could test the speed and decide to use it or not.
 
-in kali discovery service, usually the p2p network is preferred than direct frp tunneling.
+in kali discovery service, when local connection is not analiable, usually the p2p network is preferred than direct frp tunneling.
 
 brew has tinc as a package!
 
