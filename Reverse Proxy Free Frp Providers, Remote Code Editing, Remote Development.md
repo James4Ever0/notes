@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T13:12:16.372Z'
+modified: '2022-08-12T13:15:21.101Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -13,7 +13,7 @@ maybe you can use nomachine with n2n?
 some problems:
 
 - need manual kernel module loading before launching the n2n edge command.
-- when running as root, python library path need to be appended to `sys.path`
+- when running as root, python library path need to be appended to `sys.path`, though `where_is_kali.py` does not have 3rd party libs so it is fine without the patch.
 
 
 turned out n2n is necessary, since the speed comparasion strongly disencourage the usage of frp directly.
