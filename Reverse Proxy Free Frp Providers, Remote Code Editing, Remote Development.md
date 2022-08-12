@@ -1,10 +1,55 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-07T05:44:58.814Z'
+modified: '2022-08-12T06:10:48.602Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+## p2p network
+
+turned out n2n is necessary, since the speed comparasion strongly disencourage the usage of frp directly.
+
+n2n test commands, using compatible v3 protocol to communicate:
+
+supernode v3: n2n.laiyx.win:10090
+
+
+kali:
+```bash
+sudo edge -c <name> -k <password> -a 192.168.100.1 -f -l n2n.laiyx.win:10090 -Er -A3 -e auto
+```
+
+macos, since we use sudo you might consider doing it with system service:
+```bash
+sudo edge -c <name> -k <password> -a 192.168.100.2 -f -l n2n.laiyx.win:10090 -Er -A3 -e auto
+```
+
+[public shared n2n supernodes](http://www.supernode.ml/)
+
+you could test the speed and decide to use it or not.
+
+in kali discovery service, when local connection is not avaliable, usually the p2p network is preferred than direct frp tunneling.
+
+brew has [tinc](https://www.xmodulo.com/how-to-install-and-configure-tinc-vpn.html) as a package!
+
+[tinc conf](https://tinc-vpn.org/documentation/tinc.conf.5)
+
+[tinc setup with core server](https://chanix.github.io/TincCookbook/examples/1-HowToInstallTincOnUbuntu1604.html)
+
+[remote access with vps using tinc](https://zhuanlan.zhihu.com/p/419173153)
+
+[install and config tinc on linux](https://www.xmodulo.com/how-to-install-and-configure-tinc-vpn.html)
+
+tinc is somehow complex and it may requires some tinkering on `tinc-up` or using docker.
+
+[install n2n without macports](https://www.jianshu.com/p/559c1e582724)
+
+use [n2n](https://github.com/ntop/n2n) to send udp packages among clients, try to create direct link between devices which will speed up ssh connection speed. supernode creation could be used along with frpc
+
+somehow brew does not have n2n as a package. macports has it, which requires xcode (huge!) to be installed.
+
+[peervpn tutorial](https://peervpn.net/)
 
 ## daemonize (launch at startup)
 
@@ -13,6 +58,10 @@ on macos, when crontab is created, cron will be automatically launched by launch
 cronjobs may need to launch with the `$(which env)` prefix.
 
 the problem of internet disconnetion will most not likely to interfere with the server since frpc has auto reconnection and the update hook is the filesystem watchdog, which will not run when no changes made (including the offline period)
+
+the watchdog may be replaced by some mirror fuse system, which will report every access request to our dedicated server.
+
+we have seen this behavior (filesystem mirroring) in our gitfuse code. but does that support symlink? should we really take care of that? or should we forget that and just use inotify instead?
 
 maybe it will affect the client when mounting the remote filesystem using sshfs or rclone, but that has to be verified.
 
