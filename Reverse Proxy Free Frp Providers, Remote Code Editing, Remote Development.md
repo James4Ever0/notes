@@ -1,12 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T05:19:45.930Z'
+modified: '2022-08-12T05:52:11.674Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## p2p network
+
+turned out n2n is necessary, since the speed comparasion strongly disencourage the usage of frp directly.
 
 n2n test commands, using compatible v3 protocol to communicate:
 
