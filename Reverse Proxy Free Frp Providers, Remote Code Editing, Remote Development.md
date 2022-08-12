@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T13:49:13.045Z'
+modified: '2022-08-12T13:49:29.272Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -13,6 +13,8 @@ maybe you can use nomachine with n2n?
 some problems:
 
 - reconfigure redis to make it not to persist to disk or any further modification will raise error.
+
+to disable this behavior:
 ```bash
 redis-server --save "" --appendonly no
 ```
