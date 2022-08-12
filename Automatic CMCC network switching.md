@@ -1,7 +1,7 @@
 ---
 title: Automatic CMCC network switching
 created: '2022-08-12T16:27:39.348Z'
-modified: '2022-08-12T16:33:07.338Z'
+modified: '2022-08-12T16:33:29.243Z'
 ---
 
 # Automatic CMCC network switching
@@ -14,7 +14,7 @@ kali, could you use some network card for sniffing while connecting to existing 
 
 could you extract some login default patterns/filters?
 
-for macos and linux:
+## for macos and linux:
 
 if modifier hotspot is present, connect to it.
 
@@ -22,7 +22,7 @@ otherwise if CMCC present, connect to it.
 
 if CMCC fails after login attempts, try to connect with some paid network.
 
-for modifier:
+## for modifier:
 
 if CMCC present, connect to it.
 
