@@ -1,7 +1,7 @@
 ---
 title: Automatic CMCC network switching
 created: '2022-08-12T16:27:39.348Z'
-modified: '2022-08-12T16:32:35.682Z'
+modified: '2022-08-12T16:33:07.338Z'
 ---
 
 # Automatic CMCC network switching
@@ -27,5 +27,7 @@ for modifier:
 if CMCC present, connect to it.
 
 if CMCC fails, try to connect with some paid network.
+
+internet switch will be manually turned on, to save power.
 
 
