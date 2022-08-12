@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T04:43:06.575Z'
+modified: '2022-08-12T04:43:46.763Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -15,7 +15,7 @@ supernode v3: n2n.laiyx.win:10090
 
 kali:
 ```bash
-
+$ sudo edge -c mynetwork -k mysecretpass -a 192.168.100.1 -f -l n2n.laiyx.win:10090
 ```
 
 macos:
