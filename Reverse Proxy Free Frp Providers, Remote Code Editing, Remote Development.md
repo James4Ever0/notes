@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T04:42:56.896Z'
+modified: '2022-08-12T04:43:06.575Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -10,7 +10,7 @@ modified: '2022-08-12T04:42:56.896Z'
 
 n2n test commands, using compatible v3 protocol to communicate:
 
-supernode: n2n.laiyx.win
+supernode v3: n2n.laiyx.win:10090
 
 
 kali:
