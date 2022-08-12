@@ -1,7 +1,7 @@
 ---
 title: Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 created: 2022-08-04T23:49:02+08:00
-modified: 2022-08-12T23:06:00+08:00
+modified: 2022-08-12T23:17:35+08:00
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -9,6 +9,8 @@ modified: 2022-08-12T23:06:00+08:00
 ## p2p network
 
 [nps](https://github.com/ehang-io/nps/) also supports p2p
+
+opengnb, gost
 
 turned out n2n is necessary, since the speed comparasion strongly disencourage the usage of frp directly.
 
