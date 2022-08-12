@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T13:15:55.132Z'
+modified: '2022-08-12T13:16:42.603Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -12,7 +12,7 @@ maybe you can use nomachine with n2n?
 
 some problems:
 
-- need manual kernel module loading before launching the n2n edge command.
+- need manual kernel module loading before launching the n2n edge command. the kernel module is found from the app folder of tunnel
 - when running `nginx_with_kali_finder.py` as root, python library path need to be appended to `sys.path`, though `where_is_kali.py` does not have 3rd party libs so running it is fine without the patch.
 
 
