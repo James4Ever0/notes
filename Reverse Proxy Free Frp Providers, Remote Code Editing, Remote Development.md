@@ -1,7 +1,7 @@
 ---
 title: Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 created: 2022-08-04T23:49:02+08:00
-modified: 2022-08-12T23:20:18+08:00
+modified: 2022-08-12T23:21:42+08:00
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -10,7 +10,7 @@ modified: 2022-08-12T23:20:18+08:00
 
 [nps](https://github.com/ehang-io/nps/) also supports p2p
 
-[opengnb](https://github.com/gnbdev/opengnb) p2p network, faster than n2n v3
+[opengnb](https://github.com/gnbdev/opengnb) p2p network, faster than n2n v3, can run without public ip
 
 [gost](https://github.com/ginuerzh/gost) as an frp alternative
 
