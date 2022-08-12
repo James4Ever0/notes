@@ -1,7 +1,7 @@
 ---
 title: Automatic CMCC network switching
 created: '2022-08-12T16:27:39.348Z'
-modified: '2022-08-12T16:32:23.769Z'
+modified: '2022-08-12T16:32:35.682Z'
 ---
 
 # Automatic CMCC network switching
@@ -12,7 +12,7 @@ the policy follows:
 
 kali, could you use some network card for sniffing while connecting to existing network? or could you automate the sniffing so that we don't get bored?
 
-could you extract some login default patterns?
+could you extract some login default patterns/filters?
 
 for macos and linux:
 
