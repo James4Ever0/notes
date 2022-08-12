@@ -1,26 +1,14 @@
 ---
-title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
-created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T13:49:29.272Z'
+title: Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+created: 2022-08-04T23:49:02+08:00
+modified: 2022-08-12T23:06:00+08:00
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## p2p network
 
-maybe you can use nomachine with n2n?
-
-some problems:
-
-- reconfigure redis to make it not to persist to disk or any further modification will raise error.
-
-to disable this behavior:
-```bash
-redis-server --save "" --appendonly no
-```
-- need manual kernel module loading before launching the n2n edge command. the kernel module is found under the app folder of tunnelblick.
-- when running `nginx_with_kali_finder.py` as root, python library path need to be appended to `sys.path`, though `where_is_kali.py` does not have 3rd party libs so running it is fine without the patch.
-
+[nps](https://github.com/ehang-io/nps/) also supports p2p
 
 turned out n2n is necessary, since the speed comparasion strongly disencourage the usage of frp directly.
 
