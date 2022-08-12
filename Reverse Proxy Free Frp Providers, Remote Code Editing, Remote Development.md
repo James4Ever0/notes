@@ -1,12 +1,14 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T06:10:48.602Z'
+modified: '2022-08-12T12:19:06.652Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
 
 ## p2p network
+
+maybe you can use nomachine with n2n?
 
 turned out n2n is necessary, since the speed comparasion strongly disencourage the usage of frp directly.
 
