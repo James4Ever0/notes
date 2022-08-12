@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.034Z'
-modified: '2022-08-12T13:31:07.195Z'
+modified: '2022-08-12T13:49:13.045Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -13,6 +13,9 @@ maybe you can use nomachine with n2n?
 some problems:
 
 - reconfigure redis to make it not to persist to disk or any further modification will raise error.
+```bash
+redis-server --save "" --appendonly no
+```
 - need manual kernel module loading before launching the n2n edge command. the kernel module is found under the app folder of tunnelblick.
 - when running `nginx_with_kali_finder.py` as root, python library path need to be appended to `sys.path`, though `where_is_kali.py` does not have 3rd party libs so running it is fine without the patch.
 
