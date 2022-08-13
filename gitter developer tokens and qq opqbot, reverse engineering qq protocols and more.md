@@ -1,12 +1,12 @@
 ---
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T08:19:13.566Z'
+modified: '2022-08-13T08:24:14.431Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
 
-关于自动加群 可以考虑使用安卓手机自启动功能（需要下载[startup manager](https://play.google.com/store/apps/details?id=imoblife.startupmanager) 或者[boot manager](https://play.google.com/store/apps/details?id=de.defim.apk.bootmanager&showAllReviews=true) ，有root权限和xposed框架） 用[termux-appium](https://www.npmjs.com/package/termux-appium) 自动操作手机在联网的情况下自启动加群
+关于自动加群 可以考虑使用安卓手机自启动功能（需要下载[startup manager](https://play.google.com/store/apps/details?id=imoblife.startupmanager) 或者[boot manager](https://play.google.com/store/apps/details?id=de.defim.apk.bootmanager&showAllReviews=true)（有root权限和xposed框架）） 用[termux-appium](https://www.npmjs.com/package/termux-appium) 自动操作手机在联网的情况下自启动加群
 
 现在有两个标准[onebot](https://onebot.dev/) [nonebot](https://nb2.baka.icu/)
 
