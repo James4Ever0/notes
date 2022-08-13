@@ -1,11 +1,12 @@
 ---
 title: Video Database
 created: 2022-05-05T09:13:55+08:00
-modified: 2022-08-13T14:26:43+08:00
+modified: 2022-08-13T14:27:20+08:00
 ---
 
 # Video Database For Video Generation
 
+视听分割 视频注意力机制
 only segment video objects that make sounds, video/audio combined segmentation:
 https://github.com/OpenNLPLab/AVSBench
 
