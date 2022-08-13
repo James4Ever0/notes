@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T01:02:23.834Z'
+modified: '2022-08-13T01:16:16.654Z'
 ---
 
 # gitter developer tokens
@@ -9,6 +9,10 @@ modified: '2022-08-13T01:02:23.834Z'
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
 
 it seems the login issue of opqbot is related to the account itself, not gitter token or proxy
+
+by the way we could always use go-cqhttp, without the ability to collect red packet and add group/friends.
+
+add group/friends may be enabled by our windows virtual machines. without opq, it is very memory intensive.
 
 tokens:
 ```
