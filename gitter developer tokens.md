@@ -1,12 +1,12 @@
 ---
 title: gitter developer tokens
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T00:55:34.247Z'
+modified: '2022-08-13T00:56:05.873Z'
 ---
 
 # gitter developer tokens
 
-to get the token, visit [here]()
+to get the token, login first, then visit [here]()
 
 tokens:
 ```
