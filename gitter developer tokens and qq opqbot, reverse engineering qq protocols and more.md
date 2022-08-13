@@ -1,12 +1,25 @@
 ---
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T11:45:45.411Z'
+modified: '2022-08-13T16:05:07.054Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
 
 opqbot官方已经说了 登陆过程中会用到远程的服务器 这个服务器究竟在干什么不得而知 可能和登陆有关也可能没有关系 但是服务器维护期间是没法扫码登录的 如果有可以正常使用的secdata是可以直接启动服务的 不需要服务器 所以估计这个服务器很可能就是拿来解析cookie的
+
+login error:
+```
+登陆(除非冻结导致的掉线) 发不出去群消息请挂机几天 TX日常风控   
+本框架 🎈 免费 🎈 使用 谨防 ⚠️ 诈骗 ⚠️ 收费 切勿用于 🈲️ 非 🈲️ 法用途
+=========交流群:757360354 TG群组:https://t.me/IOTQQ      
+=========开源社区 👍 https://github.com/opq-osc 👍       
+=========项目主页 😄 https://github.com/OPQBOT/OPQ/wiki 😄
+=========项目Wiki 📒 https://github.com/OPQBOT/OPQ/wiki 📒
+2022/08/14 00:02:30.234 [W]  recvPump session 0D48F5949075DA13D3A9F83838903920
+2022/08/14 00:02:30.234 [A]  Default Closed:0D48F5949075DA13D3A9F83838903920
+2022/08/14 00:02:30.235 [D]  Unregister In Conn -> 0D48F5949075DA13D3A9F83838903920
+```
 
 关于自动加群 可以考虑使用安卓手机自启动功能（需要下载[startup manager](https://play.google.com/store/apps/details?id=imoblife.startupmanager) 或者[boot manager](https://play.google.com/store/apps/details?id=de.defim.apk.bootmanager&showAllReviews=true)（有root权限和xposed框架）） 用[termux-appium](https://www.npmjs.com/package/termux-appium) 自动操作手机在联网的情况下自启动加群
 
