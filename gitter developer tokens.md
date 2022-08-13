@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T01:16:16.654Z'
+modified: '2022-08-13T01:16:45.764Z'
 ---
 
 # gitter developer tokens
@@ -12,7 +12,7 @@ it seems the login issue of opqbot is related to the account itself, not gitter 
 
 by the way we could always use go-cqhttp, without the ability to collect red packet and add group/friends.
 
-add group/friends may be enabled by our windows virtual machines. without opq, it is very memory intensive.
+qq add group/friends may be enabled by our windows virtual machines. without opq, it is very memory intensive.
 
 tokens:
 ```
