@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:13:15.727Z'
+modified: '2022-08-13T07:15:01.791Z'
 ---
 
 # gitter developer tokens and qq opqbot
@@ -12,7 +12,11 @@ onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外
 
 在onebot的qq适配器中 [oicq]()这个适配器提供了一些用于逆向qq协议的程序：
 
-也可以考虑逆向opqbot的go编译好了的程序 或者逆向分析opqbot的网络请求数据
+也有一些可以进行二次开发的qq web api
+
+这些适配器中有的提供了qq频道的支持：
+
+也可以考虑用frida ghidra radare2 逆向opqbot的go编译好了的程序 或者逆向分析opqbot的网络请求数据
 
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
 
