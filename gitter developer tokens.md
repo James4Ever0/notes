@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T00:57:12.670Z'
+modified: '2022-08-13T00:57:53.197Z'
 ---
 
 # gitter developer tokens
@@ -14,5 +14,7 @@ tokens:
 ```
 ```
 2d391bd7639362032d09abfc5a9cc6368b7664d5
-
+```
+```
+bdf52599d992665509ee5b0b533d5eed08452def
 ```
