@@ -1,7 +1,7 @@
 ---
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T16:05:07.054Z'
+modified: '2022-08-13T16:06:21.348Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
@@ -11,7 +11,7 @@ opqbot官方已经说了 登陆过程中会用到远程的服务器 这个服务
 login error:
 ```
 登陆(除非冻结导致的掉线) 发不出去群消息请挂机几天 TX日常风控   
-本框架 🎈 免费 🎈 使用 谨防 ⚠️ 诈骗 ⚠️ 收费 切勿用于 🈲️ 非 🈲️ 法用途
+=========本框架 🎈 免费 🎈 使用 谨防 ⚠️ 诈骗 ⚠️ 收费 切勿用于 🈲️ 非 🈲️ 法用途
 =========交流群:757360354 TG群组:https://t.me/IOTQQ      
 =========开源社区 👍 https://github.com/opq-osc 👍       
 =========项目主页 😄 https://github.com/OPQBOT/OPQ/wiki 😄
