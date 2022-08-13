@@ -1,7 +1,7 @@
 ---
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:59:11.404Z'
+modified: '2022-08-13T08:19:13.566Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
@@ -31,7 +31,7 @@ nonebot可以[连接onebot](https://onebot.adapters.nonebot.dev/docs/guide/insta
 
 这些适配器中有的提供了qq频道的支持：
 
-[oicp-guild](https://github.com/takayama-lily/oicq-guild)
+[oicq-guild](https://github.com/takayama-lily/oicq-guild)
 
 也可以考虑用[frida](https://frida.re/) [ghidra](https://github.com/NationalSecurityAgency/ghidra) [radare2](https://rada.re/n/radare2.html) [cutter](https://cutter.re/)来[逆向opqbot的go编译好了的程序](https://cn.bing.com/search?q=reverse+go+binary&form=CHRDEF&sp=-1&pq=reverse+go+binary&sc=0-17&qs=n&sk=&cvid=3A1FCCCF9C2F495DB516CB656D281DCA&ghsh=0&ghacc=0&ghpl=) 或者逆向分析opqbot的网络请求数据 甚至直接动态调用opqbot里面的方法 直接用其他机器人登陆之后获得的cookie进行操作
 
