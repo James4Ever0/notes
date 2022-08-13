@@ -1,12 +1,14 @@
 ---
 title: gitter developer tokens
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T00:57:53.197Z'
+modified: '2022-08-13T01:02:23.834Z'
 ---
 
 # gitter developer tokens
 
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
+
+it seems the login issue of opqbot is related to the account itself, not gitter token or proxy
 
 tokens:
 ```
