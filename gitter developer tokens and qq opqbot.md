@@ -1,12 +1,14 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T01:17:53.831Z'
+modified: '2022-08-13T07:05:57.023Z'
 ---
 
 # gitter developer tokens and qq opqbot
 
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
+
+据说扫码登录只支持同一个ip下面的登陆 不知道为什么这个opqbot登陆失败
 
 it seems the login issue of opqbot is related to the account itself, not gitter token, software version or proxy
 
