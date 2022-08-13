@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.000Z'
-modified: '2022-08-13T19:11:47.606Z'
+modified: '2022-08-13T19:16:54.054Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -23,14 +23,16 @@ supernode v3: n2n.laiyx.win:10090
 
 kali:
 ```bash
-sudo edge -c <name> -k <password> -a 192.168.100.1 -f -l n2n.laiyx.win:10090 -l nton.eu.org:10090 -l n2n.lu8.win:10090 -l 	n2n.haoren.eu.org:10090 -l 	
+sudo edge -c <name> -k <password> -a 192.168.100.1 -f -l n2n.laiyx.win:10090 -l nton.eu.org:10090 -l n2n.lu8.win:10090 -l n2n.haoren.eu.org:10090 -l 	
 supernode.ntop.org:7777 -l 47.102.102.77:10090 -l n2n.myan.cc:10090 -l 
-n2n.sfcs.eu.org:10090 -l n2n.eriol.cn:10090 -l -Er -A3 -e auto
+n2n.sfcs.eu.org:10090 -l n2n.eriol.cn:10090 -l n2n.x0x.cn:10090 -l n2n.vvcd.win:10090 -Er -A3 -e auto
 ```
 
 macos, since we use sudo you might consider doing it with system service:
 ```bash
-sudo edge -c <name> -k <password> -a 192.168.100.2 -f -l n2n.laiyx.win:10090 -Er -A3 -e auto
+sudo edge -c <name> -k <password> -a 192.168.100.2 -f -l n2n.laiyx.win:10090 -l nton.eu.org:10090 -l n2n.lu8.win:10090 -l n2n.haoren.eu.org:10090 -l 	
+supernode.ntop.org:7777 -l 47.102.102.77:10090 -l n2n.myan.cc:10090 -l 
+n2n.sfcs.eu.org:10090 -l n2n.eriol.cn:10090 -l n2n.x0x.cn:10090 -l n2n.vvcd.win:10090 -Er -A3 -e auto
 ```
 
 [public shared n2n supernodes](http://www.supernode.ml/)
