@@ -1,10 +1,12 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:05:57.023Z'
+modified: '2022-08-13T07:06:25.527Z'
 ---
 
 # gitter developer tokens and qq opqbot
+
+现在有两个标准
 
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
 
