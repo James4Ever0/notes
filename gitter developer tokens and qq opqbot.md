@@ -1,14 +1,14 @@
 ---
-title: gitter developer tokens
+title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T01:16:45.764Z'
+modified: '2022-08-13T01:17:53.831Z'
 ---
 
-# gitter developer tokens
+# gitter developer tokens and qq opqbot
 
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
 
-it seems the login issue of opqbot is related to the account itself, not gitter token or proxy
+it seems the login issue of opqbot is related to the account itself, not gitter token, software version or proxy
 
 by the way we could always use go-cqhttp, without the ability to collect red packet and add group/friends.
 
