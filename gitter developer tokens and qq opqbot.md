@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:31:25.764Z'
+modified: '2022-08-13T07:31:48.581Z'
 ---
 
 # gitter developer tokens and qq opqbot
@@ -13,7 +13,7 @@ onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外
 
 在onebot的qq适配器中 [oicq](https://github.com/takayama-lily/oicq)这个适配器有在群里面加好友的方法`addFriend(gid, uid)`可以参考,提供了一些用于逆向qq协议的程序：
 
-[txhook](https://github.com/fuqiuluo/TXHook) 该软件适合在安卓8.0以上系统运行，理论支持安卓7.0以上，但是很多问题。
+[txhook](https://github.com/fuqiuluo/TXHook) 该软件适合在安卓8.0以上系统运行，理论支持安卓7.0以上，但是很多问题。群号：901422091 702991373
 
 也有一些可以进行二次开发的[qq web api](https://github.com/takayama-lily/oicq/blob/main/web-api.md)
 
