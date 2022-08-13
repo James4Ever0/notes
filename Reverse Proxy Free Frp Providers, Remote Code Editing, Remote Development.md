@@ -1,7 +1,7 @@
 ---
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.000Z'
-modified: '2022-08-12T16:16:52.512Z'
+modified: '2022-08-13T19:02:57.336Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
@@ -23,7 +23,7 @@ supernode v3: n2n.laiyx.win:10090
 
 kali:
 ```bash
-sudo edge -c <name> -k <password> -a 192.168.100.1 -f -l n2n.laiyx.win:10090 -Er -A3 -e auto
+sudo edge -c <name> -k <password> -a 192.168.100.1 -f -l n2n.laiyx.win:10090 -l nton.eu.org -Er -A3 -e auto
 ```
 
 macos, since we use sudo you might consider doing it with system service:
