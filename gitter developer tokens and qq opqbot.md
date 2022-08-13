@@ -1,17 +1,17 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:20:37.325Z'
+modified: '2022-08-13T07:24:50.666Z'
 ---
 
 # gitter developer tokens and qq opqbot
 
 现在有两个标准[onebot]() [nonebot](https://nb2.baka.icu/)
  这两个协议都不支持主动加好友 加群 还有收红包方法
- 
+
 onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外的连接器](https://nb2.baka.icu/store)
 
-在onebot的qq适配器中 [oicq]()这个适配器提供了一些用于逆向qq协议的程序：
+在onebot的qq适配器中 [oicq]()这个适配器有在群里面加好友的方法`addFriend(gid, uid)`可以参考,提供了一些用于逆向qq协议的程序：
 
 也有一些可以进行二次开发的qq web api
 
