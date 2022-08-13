@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:34:18.474Z'
+modified: '2022-08-13T07:34:51.550Z'
 ---
 
 # gitter developer tokens and qq opqbot
@@ -18,6 +18,8 @@ onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外
 - 主动拦截固定Ecdh密钥及版本
 - 对Jce\Protobuf的自动分析
 - 过滤抓包，支持高级过滤（长按抓包页面的搜索栏展示/隐藏图标）
+
+[protobug]
 
 也有一些可以进行二次开发的[qq web api](https://github.com/takayama-lily/oicq/blob/main/web-api.md) 搜索QQ号和群号 且有个性签名等更多信息 或许可以搜索关键词？
 
