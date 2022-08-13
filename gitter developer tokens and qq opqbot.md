@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:31:48.581Z'
+modified: '2022-08-13T07:34:18.474Z'
 ---
 
 # gitter developer tokens and qq opqbot
@@ -14,10 +14,16 @@ onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外
 在onebot的qq适配器中 [oicq](https://github.com/takayama-lily/oicq)这个适配器有在群里面加好友的方法`addFriend(gid, uid)`可以参考,提供了一些用于逆向qq协议的程序：
 
 [txhook](https://github.com/fuqiuluo/TXHook) 该软件适合在安卓8.0以上系统运行，理论支持安卓7.0以上，但是很多问题。群号：901422091 702991373
+- 获取ShareKey\PublicKey\D2\A2...
+- 主动拦截固定Ecdh密钥及版本
+- 对Jce\Protobuf的自动分析
+- 过滤抓包，支持高级过滤（长按抓包页面的搜索栏展示/隐藏图标）
 
-也有一些可以进行二次开发的[qq web api](https://github.com/takayama-lily/oicq/blob/main/web-api.md)
+也有一些可以进行二次开发的[qq web api](https://github.com/takayama-lily/oicq/blob/main/web-api.md) 搜索QQ号和群号 且有个性签名等更多信息 或许可以搜索关键词？
 
 这些适配器中有的提供了qq频道的支持：
+
+[oicp-guild](https://github.com/takayama-lily/oicq-guild)
 
 也可以考虑用frida ghidra [radare2](https://rada.re/n/radare2.html) cutter来[逆向opqbot的go编译好了的程序](https://cn.bing.com/search?q=reverse+go+binary&form=CHRDEF&sp=-1&pq=reverse+go+binary&sc=0-17&qs=n&sk=&cvid=3A1FCCCF9C2F495DB516CB656D281DCA&ghsh=0&ghacc=0&ghpl=) 或者逆向分析opqbot的网络请求数据 甚至直接动态调用opqbot里面的方法 直接用其他机器人登陆之后获得的cookie进行操作
 
