@@ -1,16 +1,16 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:12:36.051Z'
+modified: '2022-08-13T07:13:15.727Z'
 ---
 
 # gitter developer tokens and qq opqbot
 
-现在有两个标准onebot [nonebot](https://nb2.baka.icu/)
+现在有两个标准[onebot]() [nonebot](https://nb2.baka.icu/)
 
-onebot有大量的qq适配器 而nonebot有大量的插件和除了qq以外的连接器
+onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外的连接器](https://nb2.baka.icu/store)
 
-在onebot的qq适配器中 oicq这个适配器提供了一些用于逆向qq协议的程序：
+在onebot的qq适配器中 [oicq]()这个适配器提供了一些用于逆向qq协议的程序：
 
 也可以考虑逆向opqbot的go编译好了的程序 或者逆向分析opqbot的网络请求数据
 
