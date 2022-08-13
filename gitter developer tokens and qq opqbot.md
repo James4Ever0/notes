@@ -1,10 +1,12 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:42:14.933Z'
+modified: '2022-08-13T07:45:44.808Z'
 ---
 
 # gitter developer tokens and qq opqbot
+
+关于自动加群 可以考虑使用安卓手机自启动功能（需要下载[startup manager]()， 有root权限） 用[termux-appium] 自动操作手机在联网的情况下自启动加群
 
 现在有两个标准[onebot]() [nonebot](https://nb2.baka.icu/)
  这两个协议都不支持主动加好友 加群 还有收红包方法 至少mac qq协议支持这些方法 但是其他的协议比如手表 ipad协议支不支持就不清楚了
