@@ -1,12 +1,12 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:12:12.695Z'
+modified: '2022-08-13T07:12:36.051Z'
 ---
 
 # gitter developer tokens and qq opqbot
 
-现在有两个标准onebot nonebot
+现在有两个标准onebot [nonebot](https://nb2.baka.icu/)
 
 onebot有大量的qq适配器 而nonebot有大量的插件和除了qq以外的连接器
 
