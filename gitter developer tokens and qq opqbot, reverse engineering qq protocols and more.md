@@ -1,10 +1,12 @@
 ---
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T08:24:14.431Z'
+modified: '2022-08-13T11:45:45.411Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
+
+opqbot官方已经说了 登陆过程中会用到远程的服务器 这个服务器究竟在干什么不得而知 可能和登陆有关也可能没有关系 但是服务器维护期间是没法扫码登录的 如果有可以正常使用的secdata是可以直接启动服务的 不需要服务器 所以估计这个服务器很可能就是拿来解析cookie的
 
 关于自动加群 可以考虑使用安卓手机自启动功能（需要下载[startup manager](https://play.google.com/store/apps/details?id=imoblife.startupmanager) 或者[boot manager](https://play.google.com/store/apps/details?id=de.defim.apk.bootmanager&showAllReviews=true)（有root权限和xposed框架）） 用[termux-appium](https://www.npmjs.com/package/termux-appium) 自动操作手机在联网的情况下自启动加群
 
