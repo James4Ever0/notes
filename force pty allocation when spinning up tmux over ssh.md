@@ -1,13 +1,17 @@
 ---
 title: force pty allocation when spinning up tmux over ssh
 created: '2022-08-13T06:09:37.706Z'
-modified: '2022-08-13T06:11:27.471Z'
+modified: '2022-08-13T06:12:08.298Z'
 ---
 
 # force pty allocation when spinning up tmux over ssh
 
 ```bash
 kali -t tmux attach -t <target_session_name>
+```
+or:
+```bash
+kali -o RequestTTY=no tmux attach -t <target_session_name>
 ```
 situation:
 
