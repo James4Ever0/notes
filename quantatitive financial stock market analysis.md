@@ -1,10 +1,13 @@
 ---
 title: quantatitive financial stock market analysis
-created: 2022-06-09T14:38:29+08:00
-modified: 2022-07-22T01:00:06+08:00
+created: '2022-06-09T06:38:29.000Z'
+modified: '2022-08-13T15:24:22.218Z'
 ---
 
 # quantative financial stock market analysis
+
+general reinforcement learning:
+https://github.com/DLR-RM/stable-baselines3
 
 crypto trading bot, support all crypto trading markets:
 https://github.com/freqtrade/freqtrade
