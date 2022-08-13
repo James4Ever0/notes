@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:38:43.287Z'
+modified: '2022-08-13T07:42:14.933Z'
 ---
 
 # gitter developer tokens and qq opqbot
@@ -10,6 +10,8 @@ modified: '2022-08-13T07:38:43.287Z'
  这两个协议都不支持主动加好友 加群 还有收红包方法 至少mac qq协议支持这些方法 但是其他的协议比如手表 ipad协议支不支持就不清楚了
 
 onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外的连接器](https://nb2.baka.icu/store)
+
+nonebot可以[连接onebot](https://onebot.adapters.nonebot.dev/docs/guide/installation)
 
 在onebot的qq适配器中 [oicq](https://github.com/takayama-lily/oicq)这个适配器有在群里面加好友的方法`addFriend(gid, uid)`可以参考,提供了一些用于逆向qq协议的程序：
 
