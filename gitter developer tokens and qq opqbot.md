@@ -1,13 +1,13 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:34:51.550Z'
+modified: '2022-08-13T07:38:43.287Z'
 ---
 
 # gitter developer tokens and qq opqbot
 
 现在有两个标准[onebot]() [nonebot](https://nb2.baka.icu/)
- 这两个协议都不支持主动加好友 加群 还有收红包方法
+ 这两个协议都不支持主动加好友 加群 还有收红包方法 至少mac qq协议支持这些方法 但是其他的协议比如手表 ipad协议支不支持就不清楚了
 
 onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外的连接器](https://nb2.baka.icu/store)
 
@@ -19,7 +19,8 @@ onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外
 - 对Jce\Protobuf的自动分析
 - 过滤抓包，支持高级过滤（长按抓包页面的搜索栏展示/隐藏图标）
 
-[protobug]
+[protobuf online decode](https://protobuf-decoder.netlify.app)
+[protobuf unpack-tools](https://github.com/takayama-lily/unpack-tools)
 
 也有一些可以进行二次开发的[qq web api](https://github.com/takayama-lily/oicq/blob/main/web-api.md) 搜索QQ号和群号 且有个性签名等更多信息 或许可以搜索关键词？
 
@@ -32,6 +33,12 @@ onebot有大量的[qq适配器]() 而nonebot有[大量的插件和除了qq以外
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
 
 据说扫码登录只支持同一个ip下面的登陆 不知道为什么这个opqbot登陆失败 但是其他机器人都提供了账号密码登陆的渠道 将opqbot的协议逆向出来 或许可以提高登陆成功率 实现相同的功能
+
+默认(可修改)在 ./data/your-account/ 下会自动生成device.json设备文件，登录完成后此设备文件长期有效
+设备文件的生成并非随机，而是使用固定算法，一个账号会永远生成同一份设备文件
+如果需要在异地服务器上登录，建议先在常用地通过设备验证并登录挂机一段时间
+由于会生成相同设备文件，只要不手动修改，只需验证一次，在任何地区都可直接登录
+
 
 it seems the login issue of opqbot is related to the account itself, not gitter token, software version or proxy
 
