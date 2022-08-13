@@ -1,7 +1,7 @@
 ---
 title: gitter developer tokens and qq opqbot
 created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T07:51:34.587Z'
+modified: '2022-08-13T07:52:30.412Z'
 ---
 
 # gitter developer tokens and qq opqbot
@@ -33,7 +33,7 @@ nonebot可以[连接onebot](https://onebot.adapters.nonebot.dev/docs/guide/insta
 
 [oicp-guild](https://github.com/takayama-lily/oicq-guild)
 
-也可以考虑用[frida]() [ghidra]() [radare2](https://rada.re/n/radare2.html) [cutter](https://cutter.re/)来[逆向opqbot的go编译好了的程序](https://cn.bing.com/search?q=reverse+go+binary&form=CHRDEF&sp=-1&pq=reverse+go+binary&sc=0-17&qs=n&sk=&cvid=3A1FCCCF9C2F495DB516CB656D281DCA&ghsh=0&ghacc=0&ghpl=) 或者逆向分析opqbot的网络请求数据 甚至直接动态调用opqbot里面的方法 直接用其他机器人登陆之后获得的cookie进行操作
+也可以考虑用[frida](https://frida.re/) [ghidra]() [radare2](https://rada.re/n/radare2.html) [cutter](https://cutter.re/)来[逆向opqbot的go编译好了的程序](https://cn.bing.com/search?q=reverse+go+binary&form=CHRDEF&sp=-1&pq=reverse+go+binary&sc=0-17&qs=n&sk=&cvid=3A1FCCCF9C2F495DB516CB656D281DCA&ghsh=0&ghacc=0&ghpl=) 或者逆向分析opqbot的网络请求数据 甚至直接动态调用opqbot里面的方法 直接用其他机器人登陆之后获得的cookie进行操作
 
 to get the token, login first, then visit [here](https://developer.gitter.im/apps) or click "sign in" [here](https://developer.gitter.im/)
 
