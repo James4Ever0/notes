@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-14T16:26:30.138Z'
+modified: '2022-08-14T16:29:02.428Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -11,6 +11,10 @@ qq聊天记录导出 qq消息导出
 [微信聊天记录导出](https://github.com/ppwwyyxx/wechat-dump)
 
 聊天记录渲染成图片
+[vue qq 聊天界面组件库](https://blog.csdn.net/weixin_45783387/article/details/121595190)
+```bash
+npm install vue-mchat
+```
 [demo大师 qq界面模仿 vuejs 要钱](http://www.demodashi.com/demo/12539.html)
 [demo大师 vue3 仿微信/qq界面 免费](http://www.demodashi.com/demo/17893.html)
 [render chat record to picture 微信聊天记录渲染成图片](https://github.com/ppwwyyxx/wechat-dump/blob/master/dump-html.py)
