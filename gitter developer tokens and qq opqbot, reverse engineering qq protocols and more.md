@@ -1,7 +1,7 @@
 ---
-title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
-created: '2022-08-13T00:54:17.441Z'
-modified: '2022-08-13T16:08:52.964Z'
+title: gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
+created: 2022-08-13T08:54:17+08:00
+modified: 2022-08-14T23:29:06+08:00
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
@@ -35,7 +35,7 @@ onebot有大量的[qq适配器](https://onebot.dev/ecosystem.html#onebot-12) 而
 
 nonebot可以[连接onebot](https://onebot.adapters.nonebot.dev/docs/guide/installation)
 
-在onebot的qq适配器中 [oicq](https://github.com/takayama-lily/oicq)这个适配器有在群里面加好友的方法`addFriend(gid, uid)`可以参考,提供了一些用于逆向qq协议的程序：
+在onebot的qq适配器中 oicq可以查看qq历史聊天记录（有待验证） 可能对qq的数据爬取有帮助 视频爬取 [oicq](https://github.com/takayama-lily/oicq)这个适配器有在群里面加好友的方法`addFriend(gid, uid)`可以参考,提供了一些用于逆向qq协议的程序：
 
 [txhook](https://github.com/fuqiuluo/TXHook) 该软件适合在安卓8.0以上系统运行，理论支持安卓7.0以上，但是很多问题。群号：901422091 702991373
 - 获取ShareKey\PublicKey\D2\A2...
