@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-14T15:46:46.482Z'
+modified: '2022-08-14T15:46:54.236Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -10,7 +10,7 @@ qq聊天记录导出 qq消息导出
 
 [微信聊天记录导出](https://github.com/ppwwyyxx/wechat-dump) [render chat record to picture 微信聊天记录渲染成图片](https://github.com/ppwwyyxx/wechat-dump/blob/master/dump-html.py)
 
-聊天记录渲染成图片 [html css渲染](https://blog.csdn.net/weixin_42298415/article/details/117871213) 仿QQ+html5的聊天界面 HTML5手机微信聊天界面代码 [](https://github.com/helpcode/chat-room)
+聊天记录渲染成图片 [html css渲染](https://blog.csdn.net/weixin_42298415/article/details/117871213) 仿QQ+html5的聊天界面 HTML5手机微信聊天界面代码 [基于H5技术实现的在线聊天室APP](https://github.com/helpcode/chat-room)
 
 qq空间发美女图片把人家的脸要挡住 或者要把脸换了 或者直接使用live2d three.js 甚至3d的渲染模型来把脸给它挡住
 
