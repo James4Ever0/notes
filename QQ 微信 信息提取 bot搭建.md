@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-14T16:53:46.904Z'
+modified: '2022-08-14T17:03:49.336Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -11,6 +11,7 @@ qq聊天记录导出 qq消息导出
 [微信聊天记录导出](https://github.com/ppwwyyxx/wechat-dump)
 
 聊天记录渲染成图片 render chat record to picture
+conclusion so far: people like to use vue to recreate popular interfaces, and you may grab some interface from it.
 [vue-wechat](https://github.com/useryangtao/vue-wechat)
 [🔥 基于Vue2.0高仿微信App的单页应用](https://github.com/zhaohaodang/vue-WeChat)
 [vue-qq](https://github.com/lensh/vue-qq)
