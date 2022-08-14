@@ -1,7 +1,7 @@
 ---
-title: tweening for object focus, zoom to object, zoom to video ROI
-created: 2022-08-08T14:44:24+08:00
-modified: 2022-08-08T20:49:34+08:00
+title: 'tweening for object focus, zoom to object, zoom to video ROI'
+created: '2022-08-08T06:44:24.000Z'
+modified: '2022-08-14T16:55:48.142Z'
 ---
 
 # tweening for object focus, zoom to object, zoom to video ROI
@@ -9,7 +9,7 @@ modified: 2022-08-08T20:49:34+08:00
 focus on person only, crop video and leave only human region untouched:
 https://github.com/ConceptCodes/portal-zoomer
 
-focus/zoom on given object using pytweening.
+focus/zoom on given object using [pytweening, a easing/tweening function collection](https://pypi.org/project/pytweening/).
 
 or just use ffmpeg.
 
