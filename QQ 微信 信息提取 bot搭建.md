@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-14T15:50:37.457Z'
+modified: '2022-08-14T15:52:58.111Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -13,7 +13,7 @@ qq聊天记录导出 qq消息导出
 聊天记录渲染成图片
 [html css渲染](https://blog.csdn.net/weixin_42298415/article/details/117871213)
 仿QQ+html5的聊天界面
-HTML5手机微信聊天界面代码
+[HTML5手机微信聊天界面代码](https://blog.csdn.net/weixin_30745553/article/details/98240195)
 [基于H5技术实现的在线聊天室APP](https://github.com/helpcode/chat-room)
 [Simple chatbot exercise using only JavaScript, HTML, CSS](https://github.com/sylviapap/chatbot)
 [Multi-Room Chat Application](https://github.com/uditalias/chat-nodejs)
