@@ -1,10 +1,13 @@
 ---
 title: Video Database
-created: 2022-05-05T09:13:55+08:00
-modified: 2022-08-13T14:27:20+08:00
+created: '2022-05-05T01:13:55.000Z'
+modified: '2022-08-14T16:12:42.037Z'
 ---
 
 # Video Database For Video Generation
+
+A fastai/PyTorch package for unpaired image-to-image translation.
+https://github.com/tmabraham/UPIT?auto_subscribed=false&email_source=explore
 
 视听分割 视频注意力机制
 only segment video objects that make sounds, video/audio combined segmentation:
