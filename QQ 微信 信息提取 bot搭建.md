@@ -1,10 +1,17 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-03T03:25:45.232Z'
+modified: '2022-08-14T15:39:40.322Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
+
+qq聊天记录导出 qq消息导出
+
+微信聊天记录导出 微信聊天记录渲染成图片
+
+聊天记录渲染成图片 html css渲染
+https://blog.csdn.net/weixin_42298415/article/details/117871213
 
 qq空间发美女图片把人家的脸要挡住 或者要把脸换了
 
