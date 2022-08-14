@@ -1,7 +1,7 @@
 ---
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-14T16:05:32.444Z'
+modified: '2022-08-14T16:05:54.718Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
@@ -20,7 +20,7 @@ qq聊天记录导出 qq消息导出
 [Simple chatbot exercise using only JavaScript, HTML, CSS](https://github.com/sylviapap/chatbot)
 [Multi-Room Chat Application](https://github.com/uditalias/chat-nodejs)
 [一个基于AngularJS、NodeJS、Express、socket.io搭建的在线聊天室。](https://github.com/sheila1227/ChatRoom-AngularJS)
-[https://github.com/shaadomanthra/facebook-like-chat](https://github.com/shaadomanthra/facebook-like-chat)
+[facebook like chatroom](https://github.com/shaadomanthra/facebook-like-chat)
 
 qq空间发美女图片把人家的脸要挡住 或者要把脸换了 或者直接使用live2d three.js 甚至3d的渲染模型来把脸给它挡住
 
