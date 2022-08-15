@@ -1,6 +1,7 @@
 ---
-created: 2022-07-10T19:01:14+08:00
-modified: 2022-07-11T00:47:34+08:00
+title: Video Editors
+created: '2022-07-10T11:01:14.000Z'
+modified: '2022-08-15T07:39:15.977Z'
 ---
 
 # Video Editors
@@ -10,6 +11,9 @@ https://github.com/Zulko/moviepy
 javascript video editor:
 https://github.com/mifi/lossless-cut
 https://github.com/mifi/editly
+```bash
+npm i -g editly
+```
 
 vidpy based on mltframework, shotcut
 
