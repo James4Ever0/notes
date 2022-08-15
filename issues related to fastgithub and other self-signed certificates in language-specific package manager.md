@@ -1,10 +1,10 @@
 ---
-title: issues related to fastgithub and other self-signed certificates in package manager
+title: issues related to fastgithub and other self-signed certificates in language-specific package manager
 created: '2022-08-15T07:44:43.828Z'
-modified: '2022-08-15T08:24:25.749Z'
+modified: '2022-08-15T08:55:08.647Z'
 ---
 
-# issues related to fastgithub and other self-signed certificates in package manager
+# issues related to fastgithub and other self-signed certificates in language-specific package manager
 
 ## npm
 
