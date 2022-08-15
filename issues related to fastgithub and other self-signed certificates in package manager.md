@@ -1,7 +1,7 @@
 ---
 title: issues related to fastgithub and other self-signed certificates in package manager
 created: '2022-08-15T07:44:43.828Z'
-modified: '2022-08-15T08:23:22.927Z'
+modified: '2022-08-15T08:24:25.749Z'
 ---
 
 # issues related to fastgithub and other self-signed certificates in package manager
@@ -23,6 +23,14 @@ npm i -g cnpm
 ```
 
 set some binary distribution file mirror to `https://registry.npmmirror.com` in `~/.npmrc`:
-```bash
+```config
+canvas_binary_host_mirror=https://registry.npmmirror.com/-/binary/canvas/
+sass_binary_site=https://registry.npmmirror.com/-/binary/node-sass
+nodejs_org_mirror=https://registry.npmmirror.com/-/binary/node/
+electron_mirror=https://registry.npmmirror.com/-/binary/electron/
+electron_builder_binaries_mirror=https://registry.npmmirror.com/-/binary/electron-builder-binaries/
+chromedriver_cdnurl=https://registry.npmmirror.com/-/binary/chromedriver/
+
+registry=https://registry.npmmirror.com
 
 ```
