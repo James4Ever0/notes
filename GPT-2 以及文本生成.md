@@ -1,14 +1,14 @@
 ---
 title: GPT-2 以及文本生成
 created: '2022-05-03T10:24:18.000Z'
-modified: '2022-08-15T14:15:21.491Z'
+modified: '2022-08-15T14:16:01.085Z'
 ---
 
 # GPT-2 以及文本生成
 
 免费gpt文本生成：彩云小梦 以及小梦海外版
 
-
+彩云小梦现在有虚拟情侣 文字对话 还有语音闲聊（在线版本）
 
 对话生成
 https://huggingface.co/thu-coai/CDial-GPT_LCCC-large/tree/main
