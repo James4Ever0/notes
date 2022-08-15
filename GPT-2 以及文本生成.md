@@ -1,9 +1,11 @@
 ---
 created: 2022-05-03T18:24:18+08:00
-modified: 2022-05-31T13:55:47+08:00
+modified: 2022-08-15T21:32:15+08:00
 ---
 
 # GPT-2 以及文本生成
+
+免费gpt文本生成：彩云小梦 以及小梦海外版
 
 对话生成
 https://huggingface.co/thu-coai/CDial-GPT_LCCC-large/tree/main
