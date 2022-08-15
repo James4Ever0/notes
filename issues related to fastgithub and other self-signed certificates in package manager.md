@@ -1,7 +1,7 @@
 ---
 title: issues related to fastgithub and other self-signed certificates in package manager
 created: '2022-08-15T07:44:43.828Z'
-modified: '2022-08-15T07:45:47.882Z'
+modified: '2022-08-15T08:19:46.519Z'
 ---
 
 # issues related to fastgithub and other self-signed certificates in package manager
@@ -14,3 +14,7 @@ modified: '2022-08-15T07:45:47.882Z'
 npm config set strict-ssl false
 npm config set ca=""
 ```
+
+npm download binary files from github will raise error since the download speed is low.
+
+set some binary distribution file mirror to `https://registry.npmmirror.org`:
