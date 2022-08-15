@@ -1,7 +1,7 @@
 ---
 title: issues related to fastgithub and other self-signed certificates in language-specific package managers
 created: '2022-08-15T07:44:43.828Z'
-modified: '2022-08-15T08:55:16.182Z'
+modified: '2022-08-15T08:55:43.142Z'
 ---
 
 # issues related to fastgithub and other self-signed certificates in language-specific package managers
@@ -22,7 +22,7 @@ use `cnpm` instead, since it will route all github binary requests to mirrored c
 npm i -g cnpm
 ```
 
-set some binary distribution file mirror to `https://registry.npmmirror.com` in `~/.npmrc`:
+set some binary distribution file mirror to `https://registry.npmmirror.com` in `~/.npmrc` and `~/.yarnrc`:
 ```config
 canvas_binary_host_mirror=https://registry.npmmirror.com/-/binary/canvas/
 sass_binary_site=https://registry.npmmirror.com/-/binary/node-sass
