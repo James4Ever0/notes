@@ -1,7 +1,7 @@
 ---
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-15T07:39:15.977Z'
+modified: '2022-08-15T12:04:38.174Z'
 ---
 
 # Video Editors
@@ -14,7 +14,7 @@ https://github.com/mifi/editly
 ```bash
 npm i -g editly
 ```
-
+<a id="anchor"></a>
 vidpy based on mltframework, shotcut
 
 auto video editor by audio loudness:
