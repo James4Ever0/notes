@@ -1,12 +1,14 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: 2022-08-07T02:25:22+08:00
-modified: 2022-08-16T18:30:32+08:00
+modified: 2022-08-17T02:18:16+08:00
 ---
 
 # Deeplearning on MacOS M-series Processors
 
 ## run coreml with swift on linux
+
+if want to install darling on kali, you must outsource all deeplearning models to other disks, and collect all other big files to somewhere else or trash them. use systemwide user broadcast method to warn me if any of the disk is missing. use automatic symlink change method to adapt the external disk mountpoint changes.
 
 darling can [install xcode commandline tools with macos sdk](https://github.com/darlinghq/darling-docs/blob/master/src/installing-software.md#:~:text=To%20install%20command-line%20developer%20tools%20such%20as%20the,install%20only%20command-line%20tools%20from%20Apple%20by%20running), so maybe it can run coreml models with swift using cpu. gpu support is currently not known. maybe that requires metal support.
 
