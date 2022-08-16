@@ -1,9 +1,12 @@
 ---
-created: 2022-05-27T11:25:06+08:00
-modified: 2022-06-01T10:49:16+08:00
+title: 推荐系统 GNN
+created: '2022-05-27T03:25:06.000Z'
+modified: '2022-08-16T20:08:26.731Z'
 ---
 
 # 推荐系统 GNN
+
+[image recommendation system](https://medium.com/analytics-vidhya/how-create-image-recomendation-system-3dcc5edf1597)
 
 不同的人有不同喜好
 不同的人和不同的人说话
