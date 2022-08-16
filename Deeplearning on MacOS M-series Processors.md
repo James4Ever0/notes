@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
-created: '2022-08-06T18:25:22.471Z'
-modified: '2022-08-07T15:23:00.518Z'
+created: 2022-08-07T02:25:22+08:00
+modified: 2022-08-16T18:00:15+08:00
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -65,6 +65,8 @@ import CreateML
 CreateML is similar to any other [AutoML](https://www.automl.org/automl/) tools, like [AutoKeras](https://autokeras.com/), [AutoTrain by Huggingface](https://huggingface.co/autotrain) (works by training against a selected set of user-provided models)
 
 ## using CoreML
+
+[curated, lrgest coreml models collection](https://github.com/likedan/Awesome-CoreML-Models)
 
 CoreML models can be created by CreateML and some customization can be done via `protocol MLCustomLayer`.
 
@@ -400,4 +402,3 @@ Analyze sounds in audio using the built-in sound classifier or a custom Core ML 
 View API
 </p></details>
 []
-
