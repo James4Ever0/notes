@@ -1,10 +1,14 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-08-17T00:57:05+08:00
+modified: 2022-08-17T01:01:22+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+## vits变声
+https://github.com/w4123/vits
+
 
 ## tactron2 变声 训练
 
