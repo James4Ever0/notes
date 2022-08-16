@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: 2022-08-07T02:25:22+08:00
-modified: 2022-08-16T18:06:47+08:00
+modified: 2022-08-16T18:07:02+08:00
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -66,7 +66,7 @@ CreateML is similar to any other [AutoML](https://www.automl.org/automl/) tools,
 
 ## using CoreML
 
-[curated, lrgest coreml models collection](https://github.com/likedan/Awesome-CoreML-Models)
+[curated, largest coreml models collection](https://github.com/likedan/Awesome-CoreML-Models)
 
 CoreML models can be created by CreateML and some customization can be done via `protocol MLCustomLayer`.
 
