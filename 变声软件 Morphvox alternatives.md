@@ -1,10 +1,17 @@
 ---
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-08-10T15:03:41+08:00
+modified: 2022-08-17T00:56:37+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+## tactron2 变声 训练
+MoeTTS是一个Tacotron2/HifiGAN模型+编译好的GUI版本发布仓库。
+项目地址：https://github.com/luoyily/MoeTTS
+这次编译了CPU版本，大小仅为200m，有了更美观的GUI.
+这玩意折腾了一周多，还算是得到了满意的结果。
+欢迎去下载使用，期待你们的二创作品，记得Star~
 
 主要的vst变声插件：
 
