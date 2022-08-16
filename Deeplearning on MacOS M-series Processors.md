@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: 2022-08-07T02:25:22+08:00
-modified: 2022-08-16T18:00:15+08:00
+modified: 2022-08-16T18:06:47+08:00
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -90,6 +90,8 @@ convert into onnx first, then run on onnxruntime.
 paddlepaddle itself currently only supports running on M1 CPU only via rosetta 2.
 
 ## Links
+
+[Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering.](https://github.com/huggingface/swift-coreml-transformers)
 
 [train image classifier and text classifier](https://www.appcoda.com/create-ml/) in which `CreateMLUI` is deprecated (gone)
 
