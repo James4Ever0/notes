@@ -1,12 +1,12 @@
 ---
 title: Soul查看被拉黑之后对方的空间
-created: '2022-08-08T04:11:00.000Z'
-modified: '2022-08-16T09:17:53.024Z'
+created: 2022-08-08T12:11:00+08:00
+modified: 2022-08-16T17:19:24+08:00
 ---
 
 # Soul查看被拉黑之后对方的空间
 
-可以在被拉黑了之后快速点击右上角的分享链接 分享到其他人 其他群里面 或者点击生成链接 即可[在浏览器里面查看这个人的动态]() 但是不知道这个链接有没有时效性 现在看起来就是一堆乱码 app里面的分享也不知道有没有时效性
+可以在被拉黑了之后快速点击右上角的分享链接 分享到其他人 其他群里面 或者点击生成链接 即可[在浏览器里面查看这个人的动态](https://w12.soulsmile.cn/activity/#/web/user?targetUserIdEcpt=V2tDVVBvMVVuQlBWVlgvZUh1NEExdz09&userIdEcpt=V2tDVVBvMVVuQlBWVlgvZUh1NEExdz09&shareUserId=dlh1V3ZDbVBsQ2JWVlgvZUh1NEExdz09&titleNum=2&sec=B6QhUWMfVN9d1gb0vEoLCLaY7UPvMN5m) 但是不知道这个链接有没有时效性 现在看起来就是一堆乱码 app里面的分享也不知道有没有时效性
 
 不知道能不能搜索或者遍历 如果不能的话只能黑进去了 不过那样的话出来的数据肯定更多
 
