@@ -1,10 +1,12 @@
 ---
 title: Royalty Free Video/Picture/Audio Sources
-created: '2022-08-04T03:43:26.443Z'
-modified: '2022-08-17T07:28:26.784Z'
+created: 2022-08-04T11:43:26+08:00
+modified: 2022-08-17T17:46:16+08:00
 ---
 
 # Royalty Free Video/Picture/Audio Sources
+
+目标追踪使用bytetrack
 
 如果有动态水印 实际上就是一个目标追踪的任务 识别出来水印的位置 以及里面的文字 确定可信度 然后用目标跟踪算法套上去 一直跟踪直到目标消失为止
 
