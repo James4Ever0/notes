@@ -1,9 +1,9 @@
 ---
 created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-18T03:06:37+08:00
+modified: 2022-08-18T03:07:04+08:00
 ---
 
-# pyjom schedules
+# pyjom dev schedules
 
 ## dog/cat video generation
 - [ ] make render engine runnable
