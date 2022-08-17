@@ -1,7 +1,7 @@
 ---
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-08-17T05:00:25.605Z'
+modified: '2022-08-17T15:57:16.655Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -11,6 +11,8 @@ modified: '2022-08-17T05:00:25.605Z'
 it is used for coreml inference, not training
 
 ## run coreml with swift on linux
+
+visit [here]() to install darling from source (maybe that's the only way)
 
 if want to install darling on kali, you must outsource all deeplearning models to other disks, and collect all other big files to somewhere else or trash them. use systemwide user broadcast method to warn me if any of the disk is missing. use automatic symlink change method to adapt the external disk mountpoint changes.
 
