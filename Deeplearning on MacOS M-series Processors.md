@@ -1,10 +1,14 @@
 ---
 title: Deeplearning on MacOS M-series Processors
-created: 2022-08-07T02:25:22+08:00
-modified: 2022-08-17T02:18:16+08:00
+created: '2022-08-06T18:25:22.000Z'
+modified: '2022-08-17T05:00:25.605Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
+
+## neural engine
+
+it is used for coreml inference, not training
 
 ## run coreml with swift on linux
 
