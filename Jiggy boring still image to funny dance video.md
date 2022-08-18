@@ -1,8 +1,8 @@
 ---
-tags: [dancing]
+tags: [dancing, stub, video generator]
 title: Jiggy boring still image to funny dance video
 created: '2022-05-31T03:44:18.000Z'
-modified: '2022-08-18T15:32:48.748Z'
+modified: '2022-08-18T15:32:52.174Z'
 ---
 
 # Jiggy boring still image to funny dance video
