@@ -1,8 +1,8 @@
 ---
-tags: [freelancer]
+tags: [credential, freelancer]
 title: The Exam
 created: '2021-12-23T05:48:37.000Z'
-modified: '2022-08-18T16:27:40.871Z'
+modified: '2022-08-18T16:27:45.652Z'
 ---
 
 # The Exam
