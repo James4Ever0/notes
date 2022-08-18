@@ -1,8 +1,8 @@
 ---
-tags: [cloud IDE, sync]
+tags: [agile editing, cloud IDE, sync]
 title: 'Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE'
 created: '2022-07-21T14:02:12.000Z'
-modified: '2022-08-18T14:14:10.003Z'
+modified: '2022-08-18T14:14:17.597Z'
 ---
 
 # Cloud based Github Web IDE, VSCode auto commit and lightweight terminal IDE
