@@ -1,6 +1,8 @@
 ---
-created: 2022-06-04T10:39:33+08:00
-modified: 2022-06-04T10:40:29+08:00
+tags: [credentials]
+title: QQ password
+created: '2022-06-04T02:39:33.000Z'
+modified: '2022-08-18T14:03:59.272Z'
 ---
 
 # QQ password
