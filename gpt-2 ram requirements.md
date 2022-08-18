@@ -1,8 +1,8 @@
 ---
-tags: [hardware specs]
+tags: [big model training, hardware specs]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2022-08-18T07:32:47.906Z'
+modified: '2022-08-18T07:32:56.708Z'
 ---
 
 # gpt-2 ram requirements
