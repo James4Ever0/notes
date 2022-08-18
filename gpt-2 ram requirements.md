@@ -1,7 +1,8 @@
 ---
+tags: [hardware specs]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2022-08-15T07:35:20.280Z'
+modified: '2022-08-18T07:32:47.906Z'
 ---
 
 # gpt-2 ram requirements
