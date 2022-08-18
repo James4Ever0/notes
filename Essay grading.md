@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T16:11:58+08:00
-modified: 2022-05-29T16:13:49+08:00
+tags: [grading, text analysis]
+title: Essay grading
+created: '2022-05-29T08:11:58.000Z'
+modified: '2022-08-18T14:48:11.992Z'
 ---
 
 # Essay grading
