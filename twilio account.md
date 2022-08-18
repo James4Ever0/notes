@@ -1,8 +1,8 @@
 ---
-tags: [credential]
+tags: [advertising, credential]
 title: twilio account
 created: '2022-07-14T18:43:17.000Z'
-modified: '2022-08-18T16:30:07.721Z'
+modified: '2022-08-18T16:30:11.105Z'
 ---
 
 # twilio account
