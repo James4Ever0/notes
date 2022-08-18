@@ -1,6 +1,8 @@
 ---
-created: 2022-03-04T23:13:13+08:00
-modified: 2022-03-06T16:58:33+08:00
+tags: [remote control]
+title: Worth Trying Remote Computer Connection
+created: '2022-03-04T15:13:13.000Z'
+modified: '2022-08-18T16:35:25.510Z'
 ---
 
 # Worth Trying Remote Computer Connection
