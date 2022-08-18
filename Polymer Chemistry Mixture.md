@@ -1,8 +1,8 @@
 ---
-tags: [cheminformatics]
+tags: [cheminformatics, chemistry]
 title: Polymer Chemistry Mixture
 created: '2022-01-28T23:49:12.000Z'
-modified: '2022-08-18T16:17:44.384Z'
+modified: '2022-08-18T16:17:46.345Z'
 ---
 
 # Polymer Chemistry Mixture
