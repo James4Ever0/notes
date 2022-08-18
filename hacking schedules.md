@@ -2,7 +2,7 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-18T02:54:38.758Z'
+modified: '2022-08-18T02:58:59.514Z'
 ---
 
 # hacking schedules
