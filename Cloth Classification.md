@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T15:49:34+08:00
-modified: 2022-05-29T15:50:21+08:00
+tags: [image classification]
+title: Cloth Classification
+created: '2022-05-29T07:49:34.000Z'
+modified: '2022-08-18T14:07:05.779Z'
 ---
 
 # Cloth Classification
