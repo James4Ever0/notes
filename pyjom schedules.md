@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T04:18:35.441Z'
+modified: '2022-08-18T05:29:53.595Z'
 ---
 
 # pyjom dev schedules
@@ -12,8 +12,22 @@ modified: '2022-08-18T04:18:35.441Z'
 
 ## topic acquiring
 ### trending topics
+- [ ] baidu trending
+- [ ] sogou trending
+- [ ] bilibili trending
+- [ ] wechat trending
+- [ ] toutiao trending
+- [ ] tencent trending
+- [ ] netease trending
+- [ ] youtube trending
+- [ ] reddit trending
+- [ ] twitch trending
 ### popular topics
+- [ ] bilibili popular topics
+- [ ] douyin popular topics
 ### personal/customized topics
+- [ ] tencent qq customized
+- [ ] wechat customized
 
 ## dog/cat video generation
 - [ ] make render engine runnable
