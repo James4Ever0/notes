@@ -1,8 +1,8 @@
 ---
-tags: [credentials]
+tags: [credentials, qq]
 title: QQ password
 created: '2022-06-04T02:39:33.000Z'
-modified: '2022-08-18T14:03:59.272Z'
+modified: '2022-08-18T14:04:00.441Z'
 ---
 
 # QQ password
