@@ -1,6 +1,6 @@
 ---
 created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-18T10:10:32+08:00
+modified: 2022-08-18T10:31:17+08:00
 ---
 
 # pyjom dev schedules
@@ -29,6 +29,7 @@ modified: 2022-08-18T10:10:32+08:00
 
 ## 直播 live streaming
 - [ ] source the video
+如果是同一个站的 尽量放一个月以前的视频 半个月以前的音频
 - [ ] source the audio
 - [ ] automatic interactions
 - [ ] handle the vtuber model's actions
