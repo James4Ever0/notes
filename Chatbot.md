@@ -1,8 +1,8 @@
 ---
-tags: [chatbot]
+tags: [chatbot, model zoo]
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-08-18T07:59:56.809Z'
+modified: '2022-08-18T08:00:04.386Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
