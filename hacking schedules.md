@@ -2,7 +2,7 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-18T07:16:43.531Z'
+modified: '2022-08-18T07:16:51.646Z'
 ---
 
 # hacking schedules
@@ -22,7 +22,7 @@ modified: '2022-08-18T07:16:43.531Z'
 ## general hacking and tool learning
 ### study popular kali tools
 - [ ] nmap script to find nearby hosts in same router
-- [ ] metasplot script to scan vulnerable hosts
+- [ ] metasploit script to scan vulnerable hosts
 ### solve ctf challenges
 ### study hacking posts
 ### find hacking tutorial on darkweb
