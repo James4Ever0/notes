@@ -1,8 +1,8 @@
 ---
-tags: [video editor]
+tags: [video editor, video extractor]
 title: Media repurpose tool
 created: '2022-02-16T12:55:38.000Z'
-modified: '2022-08-18T15:23:49.069Z'
+modified: '2022-08-18T15:23:54.051Z'
 ---
 
 # Media repurpose tool
