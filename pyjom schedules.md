@@ -1,6 +1,6 @@
 ---
 created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-18T03:42:48+08:00
+modified: 2022-08-18T10:00:28+08:00
 ---
 
 # pyjom dev schedules
@@ -19,3 +19,12 @@ modified: 2022-08-18T03:42:48+08:00
 - [ ] post relative video link relative to group topic
 
 ## personal info collecting and email/sms bulk sending
+
+## voice changer
+- [ ] vst based voice change3
+- [ ]
+
+## 直播 live streaming
+- [ ] source the video
+- [ ] source the audio
+- [ ] automatic interactions
