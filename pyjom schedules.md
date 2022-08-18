@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T07:20:50.424Z'
+modified: '2022-08-18T07:21:06.751Z'
 ---
 
 # pyjom dev schedules
@@ -66,7 +66,7 @@ modified: '2022-08-18T07:20:50.424Z'
 ## 直播 live streaming
 - [ ] source the video
 如果是同一个站的 尽量放一个月以前的视频 半个月以前的音频
-- [ ] prepare some space for storing live streaming data
+- [ ] prepare some space (10T) for storing live streaming data
 - [ ] source the audio
 - [ ] automatic interactions
 - [ ] handle the vtuber model's actions
