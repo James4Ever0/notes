@@ -1,8 +1,8 @@
 ---
-tags: [history]
+tags: [browsing history, history]
 title: Bookmark Browsing History Collection
 created: '2022-06-01T03:25:15.000Z'
-modified: '2022-08-18T13:58:28.098Z'
+modified: '2022-08-18T13:58:37.907Z'
 ---
 
 # Bookmark Browsing Directory Tree Browsing History Collection
