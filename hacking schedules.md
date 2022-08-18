@@ -2,7 +2,7 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-18T03:35:43.874Z'
+modified: '2022-08-18T03:36:04.573Z'
 ---
 
 # hacking schedules
@@ -23,3 +23,4 @@ modified: '2022-08-18T03:35:43.874Z'
 ### study popular kali tools
 ### solve ctf challenges
 ### study hacking posts
+### find hacking tutorial on darkweb
