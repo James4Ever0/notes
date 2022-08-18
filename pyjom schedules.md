@@ -2,10 +2,12 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T03:24:55.709Z'
+modified: '2022-08-18T03:36:49.290Z'
 ---
 
 # pyjom dev schedules
+
+## topic acquiring
 
 ## dog/cat video generation
 - [ ] make render engine runnable
