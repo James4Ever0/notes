@@ -1,8 +1,8 @@
 ---
-tags: [network, online]
+tags: [network, online, 白嫖]
 title: Automatic CMCC network switching
 created: '2022-08-12T16:27:39.348Z'
-modified: '2022-08-18T07:41:21.260Z'
+modified: '2022-08-18T07:41:30.011Z'
 ---
 
 # Automatic CMCC network switching
