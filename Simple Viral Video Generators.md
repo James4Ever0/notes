@@ -1,8 +1,8 @@
 ---
-tags: [popular video]
+tags: [popular video, video generator]
 title: Simple Viral Video Generators
 created: '2022-07-10T10:57:52.000Z'
-modified: '2022-08-18T16:25:00.474Z'
+modified: '2022-08-18T16:25:03.780Z'
 ---
 
 # Simple Viral Video Generators
