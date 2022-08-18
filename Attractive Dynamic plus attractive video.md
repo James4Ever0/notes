@@ -1,6 +1,8 @@
 ---
-created: 2022-05-13T23:26:30+08:00
-modified: 2022-05-13T23:32:00+08:00
+tags: [policy]
+title: Attractive Dynamic plus attractive video
+created: '2022-05-13T15:26:30.000Z'
+modified: '2022-08-18T12:03:42.267Z'
 ---
 
 # Attractive Dynamic plus attractive video
