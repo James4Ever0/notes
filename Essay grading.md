@@ -1,8 +1,8 @@
 ---
-tags: [grading, scoring, text analysis]
+tags: [grading, scoring, sentiment, text analysis]
 title: Essay grading
 created: '2022-05-29T08:11:58.000Z'
-modified: '2022-08-18T14:48:13.950Z'
+modified: '2022-08-18T14:48:18.856Z'
 ---
 
 # Essay grading
