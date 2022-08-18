@@ -1,6 +1,8 @@
 ---
-created: 2022-06-13T18:27:30+08:00
-modified: 2022-06-13T18:29:03+08:00
+tags: [video analysis]
+title: video picture in picture detection
+created: '2022-06-13T10:27:30.000Z'
+modified: '2022-08-18T16:33:42.557Z'
 ---
 
 # video picture in picture detection
