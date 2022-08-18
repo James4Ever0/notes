@@ -1,6 +1,8 @@
 ---
-created: 2022-04-14T22:23:27+08:00
-modified: 2022-06-01T11:08:13+08:00
+tags: [ideas]
+title: Emotion manipulation
+created: '2022-04-14T14:23:27.000Z'
+modified: '2022-08-18T14:46:14.170Z'
 ---
 
 # Emotion manipulation
