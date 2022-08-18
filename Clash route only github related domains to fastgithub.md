@@ -1,8 +1,8 @@
 ---
-tags: [circumvention, network]
+tags: [circumvention, github, network]
 title: Clash route only github related domains to fastgithub
 created: '2022-07-27T16:45:37.000Z'
-modified: '2022-08-18T14:13:53.961Z'
+modified: '2022-08-18T14:13:56.778Z'
 ---
 
 # Clash route only github related domains to fastgithub
