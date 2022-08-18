@@ -1,6 +1,8 @@
 ---
-created: 2022-03-30T15:13:54+08:00
-modified: 2022-03-30T15:14:22+08:00
+tags: [stub]
+title: vscode extension create publisher
+created: '2022-03-30T07:13:54.000Z'
+modified: '2022-08-18T16:34:39.858Z'
 ---
 
 # vscode extension create publisher
