@@ -1,5 +1,5 @@
 ---
-tags: [android, system manage, tweaks, ]
+tags: [android, system manage, tweaks, clipboard, sync]
 created: 2022-02-21T19:44:30+08:00
 modified: 2022-02-21T21:23:52+08:00
 ---
