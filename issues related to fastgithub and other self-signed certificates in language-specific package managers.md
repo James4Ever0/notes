@@ -1,8 +1,8 @@
 ---
-tags: [self-signed certificate]
+tags: [package manager, self-signed certificate]
 title: issues related to fastgithub and other self-signed certificates in language-specific package managers
 created: '2022-08-15T07:44:43.828Z'
-modified: '2022-08-18T07:39:56.344Z'
+modified: '2022-08-18T07:40:01.132Z'
 ---
 
 # issues related to fastgithub and other self-signed certificates in language-specific package managers
