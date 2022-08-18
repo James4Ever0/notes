@@ -1,8 +1,8 @@
 ---
-tags: [AI, image generation, sketch]
+tags: [AI, animation, image generation, sketch]
 title: Sketch based applications
 created: '2022-05-31T06:49:53.000Z'
-modified: '2022-08-18T16:26:01.960Z'
+modified: '2022-08-18T16:26:08.401Z'
 ---
 
 # Sketch based applications
