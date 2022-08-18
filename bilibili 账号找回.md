@@ -1,9 +1,11 @@
 ---
 tags: [account retrieval, bilibili, schedule, stub]
-title: 联系了客服娘 人工找回的
+title: bilibili 账号找回
 created: '2022-07-31T15:45:35.578Z'
-modified: '2022-08-18T12:09:30.221Z'
+modified: '2022-08-18T12:11:05.668Z'
 ---
+
+# bilibili 账号找回
 
 联系了客服娘 人工找回的
 
