@@ -1,8 +1,8 @@
 ---
-tags: [network]
+tags: [network, 白嫖]
 title: DNS Proxy for Campus Network
 created: '2022-05-05T07:06:08.000Z'
-modified: '2022-08-18T14:43:02.846Z'
+modified: '2022-08-18T14:43:06.848Z'
 ---
 
 # DNS Proxy for Campus Network
