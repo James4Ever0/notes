@@ -1,8 +1,8 @@
 ---
-tags: [picture generator, stub, video generator]
+tags: [picture generator, stub, text to picture, video generator]
 title: dosco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2022-08-18T14:43:41.631Z'
+modified: '2022-08-18T14:43:46.511Z'
 ---
 
 # disco diffusion and ai art
