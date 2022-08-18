@@ -1,8 +1,8 @@
 ---
-tags: [lip sync, motion driven video, talking head, video generator]
+tags: [lip sync, motion driven video, talking head, video generator, wombo.ai]
 title: the singing bot
 created: '2022-05-13T13:50:48.000Z'
-modified: '2022-08-18T16:28:17.215Z'
+modified: '2022-08-18T16:28:33.687Z'
 ---
 
 # the still image to singing face bot, lip-sync video generation
