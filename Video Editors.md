@@ -1,7 +1,8 @@
 ---
+tags: [video edit]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-15T12:04:38.174Z'
+modified: '2022-08-18T07:30:30.378Z'
 ---
 
 # Video Editors
