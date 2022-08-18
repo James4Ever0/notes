@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T05:30:54.294Z'
+modified: '2022-08-18T07:15:27.886Z'
 ---
 
 # pyjom dev schedules
@@ -57,6 +57,7 @@ modified: '2022-08-18T05:30:54.294Z'
 
 ## personal info collecting and email/sms bulk sending
 - [ ] avoid mail being trashed or turned into junk
+- [ ] collect and make mail templates for mail posting
 
 ## voice changer
 - [ ] vst based voice changer
