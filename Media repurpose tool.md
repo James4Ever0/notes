@@ -1,8 +1,8 @@
 ---
-tags: [dialog extractor, speech recognization, video editor, video extractor]
+tags: [dialog extractor, ideas, speech recognization, video editor, video extractor]
 title: Media repurpose tool
 created: '2022-02-16T12:55:38.000Z'
-modified: '2022-08-18T15:24:05.634Z'
+modified: '2022-08-18T15:24:07.549Z'
 ---
 
 # Media repurpose tool
