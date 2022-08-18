@@ -1,7 +1,8 @@
 ---
+tags: [platform]
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-07T18:15:46.268Z'
+modified: '2022-08-18T07:56:20.261Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
