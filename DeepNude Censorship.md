@@ -1,7 +1,8 @@
 ---
+tags: [NSFW]
 title: DeepNude Censorship
 created: '2022-05-31T04:00:06.000Z'
-modified: '2022-07-16T08:25:51.155Z'
+modified: '2022-08-18T14:42:23.151Z'
 ---
 
 # DeepNude Censorship NSFW
