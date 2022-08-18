@@ -1,8 +1,8 @@
 ---
-tags: [graph database]
+tags: [graph database, neo4j]
 title: Neo4j Refcard
 created: '2022-06-03T08:03:26.000Z'
-modified: '2022-08-18T16:13:38.585Z'
+modified: '2022-08-18T16:13:42.541Z'
 ---
 
 # Neo4j Refcard Cheatsheet Reference Card
