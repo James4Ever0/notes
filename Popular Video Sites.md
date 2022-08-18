@@ -2,11 +2,11 @@
 tags: [information gathering, scraping, video sources]
 title: Popular Video Sites
 created: '2022-08-03T15:48:53.798Z'
-modified: '2022-08-18T14:04:25.809Z'
+modified: '2022-08-18T16:12:34.919Z'
 ---
 
 # Popular Video Sites
-
+twitch
 https://netflix.com
 https://www.ted.com
 https://www.youtube.com
