@@ -2,7 +2,7 @@
 tags: [schedule]
 title: self-learning schedules
 created: '2022-08-17T19:15:16.000Z'
-modified: '2022-08-18T03:30:33.200Z'
+modified: '2022-08-18T03:31:25.550Z'
 ---
 
 # self-learning schedules
@@ -18,3 +18,4 @@ modified: '2022-08-18T03:30:33.200Z'
 - [ ] design and complete one regression test offline
 
 ## artificial general intelligence
+- [ ] design a program automatically execute commands in shell
