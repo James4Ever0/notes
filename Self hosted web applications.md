@@ -1,6 +1,8 @@
 ---
-created: 2022-07-11T23:49:38+08:00
-modified: 2022-07-11T23:50:28+08:00
+tags: [stub]
+title: Self hosted web applications
+created: '2022-07-11T15:49:38.000Z'
+modified: '2022-08-18T16:23:40.113Z'
 ---
 
 # Self hosted web applications
