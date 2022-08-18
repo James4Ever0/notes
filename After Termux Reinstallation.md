@@ -2,7 +2,7 @@
 tags: [android, brightness, bug, reinstall, system manage, termux]
 title: After Termux Reinstallation
 created: '2021-12-20T09:04:08.000Z'
-modified: '2022-08-18T12:29:14.651Z'
+modified: '2022-08-18T12:29:26.544Z'
 ---
 
 # After Termux Reinstallation
@@ -23,6 +23,6 @@ the brightness bug is solved by uninstalling the unintended settings app. i don'
 
 to remove termux banner/ termux welcome message:
 ```bash
-
-```
 cd .. && cd usr/etc && rm -rf motd
+```
+
