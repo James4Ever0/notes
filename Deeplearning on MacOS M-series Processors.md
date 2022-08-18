@@ -1,8 +1,8 @@
 ---
-tags: [CoreML, Swift]
+tags: [CoreML, paddlepaddle, Swift]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-08-18T07:25:59.128Z'
+modified: '2022-08-18T07:26:12.269Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
