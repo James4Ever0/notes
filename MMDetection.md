@@ -1,6 +1,8 @@
 ---
-created: 2022-04-22T01:58:04+08:00
-modified: 2022-07-10T18:56:55+08:00
+tags: [video generator]
+title: MMDetection
+created: '2022-04-21T17:58:04.000Z'
+modified: '2022-08-18T07:44:58.021Z'
 ---
 
 # MMDetection/MMD
