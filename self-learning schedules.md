@@ -2,13 +2,13 @@
 tags: [schedule]
 title: self-learning schedules
 created: '2022-08-17T19:15:16.000Z'
-modified: '2022-08-18T07:24:13.997Z'
+modified: '2022-08-18T17:45:07.245Z'
 ---
 
 # self-learning schedules
 
 ## review previous notes and fill blanks, list blanks below, better with direct link to it
-- [ ] tag all notes, especially mark out those stub, incomplete ones
+- [x] tag all notes, especially mark out those stub, incomplete ones
 - [ ] review and complete bilibili courses, reorder, rename and split them if necessary
 - [ ] 传播学导论把笔记做完
 
