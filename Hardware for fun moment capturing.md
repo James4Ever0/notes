@@ -1,8 +1,8 @@
 ---
-tags: [hardware, video capturing]
+tags: [hardware, instant capturing, video capturing]
 title: Hardware for fun moment capturing
 created: '2022-06-07T03:55:41.000Z'
-modified: '2022-08-18T14:55:38.504Z'
+modified: '2022-08-18T14:55:45.735Z'
 ---
 
 # Hardware for fun moment capturing
