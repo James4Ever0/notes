@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T12:33:45+08:00
-modified: 2022-05-31T12:34:46+08:00
+tags: [video generator]
+title: TypeMonkey 字说 OSS alternative
+created: '2022-05-31T04:33:45.000Z'
+modified: '2022-08-18T16:03:13.095Z'
 ---
 
 # TypeMonkey 字说 OSS alternative
