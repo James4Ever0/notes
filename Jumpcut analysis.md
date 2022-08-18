@@ -1,6 +1,8 @@
 ---
-created: 2022-06-10T00:22:06+08:00
-modified: 2022-06-10T00:56:31+08:00
+tags: [courses]
+title: Jumpcut analysis
+created: '2022-06-09T16:22:06.000Z'
+modified: '2022-08-18T15:30:25.987Z'
 ---
 
 # Jumpcut analysis
