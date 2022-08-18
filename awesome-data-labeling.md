@@ -1,8 +1,8 @@
 ---
-tags: [supervised]
+tags: [ML, supervised]
 title: awesome-data-labeling
 created: '2022-08-09T17:43:49.626Z'
-modified: '2022-08-18T12:04:45.580Z'
+modified: '2022-08-18T12:04:47.511Z'
 ---
 
 # awesome-data-labeling
