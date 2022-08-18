@@ -1,8 +1,8 @@
 ---
-tags: [stub]
+tags: [remote control, stub]
 title: ZeroTier Addresses and more
 created: '2022-08-13T18:08:44.828Z'
-modified: '2022-08-18T07:36:11.128Z'
+modified: '2022-08-18T07:36:14.335Z'
 ---
 
 # ZeroTier Addresses and more
