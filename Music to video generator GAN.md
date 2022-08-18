@@ -1,8 +1,8 @@
 ---
-tags: [dance video generator, text to video, video generation]
+tags: [dance video generator, music to video, text to video, video generation]
 title: Music to video generator GAN
 created: '2022-05-31T04:47:47.000Z'
-modified: '2022-08-18T15:54:53.503Z'
+modified: '2022-08-18T15:54:59.959Z'
 ---
 
 # Text to Video/Music to video generator GAN
