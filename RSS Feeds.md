@@ -1,8 +1,8 @@
 ---
-tags: [rss, text sources]
+tags: [rss, subscription, text sources]
 title: RSS Feeds
 created: '2022-04-17T03:43:37.000Z'
-modified: '2022-08-18T16:22:23.475Z'
+modified: '2022-08-18T16:22:28.699Z'
 ---
 
 # RSS Feeds
