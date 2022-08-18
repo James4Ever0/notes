@@ -1,8 +1,8 @@
 ---
-tags: [health, lifestyle]
+tags: [health, lifestyle, rest]
 title: Yoga & TaiChi
 created: '2022-01-12T23:06:34.000Z'
-modified: '2022-08-18T16:35:54.655Z'
+modified: '2022-08-18T16:35:57.912Z'
 ---
 
 # Yoga & TaiChi
