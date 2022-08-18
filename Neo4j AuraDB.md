@@ -1,8 +1,8 @@
 ---
-tags: [credentials]
+tags: [credentials, neo4j]
 title: Neo4j AuraDB
 created: '2022-06-03T00:41:20.000Z'
-modified: '2022-08-18T14:10:35.404Z'
+modified: '2022-08-18T14:10:37.559Z'
 ---
 
 # Neo4j AuraDB & Neo4j Kali
