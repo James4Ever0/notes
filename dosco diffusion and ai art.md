@@ -1,6 +1,8 @@
 ---
-created: 2022-08-08T20:52:28+08:00
-modified: 2022-08-08T20:59:59+08:00
+tags: [picture generator]
+title: dosco diffusion and ai art
+created: '2022-08-08T12:52:28.000Z'
+modified: '2022-08-18T14:43:33.734Z'
 ---
 
 # disco diffusion and ai art
