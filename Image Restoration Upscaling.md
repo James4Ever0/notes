@@ -1,8 +1,8 @@
 ---
-tags: [image upscaling, super resolution]
+tags: [image processing, image upscaling, super resolution]
 title: Image Restoration Upscaling
 created: '2022-05-31T06:17:59.000Z'
-modified: '2022-08-18T15:31:02.935Z'
+modified: '2022-08-18T15:31:09.275Z'
 ---
 
 # Image Restoration Upscaling Inpainting 图像修复 超分辨率
