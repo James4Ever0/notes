@@ -1,6 +1,8 @@
 ---
-created: 2021-12-30T18:13:26+08:00
-modified: 2022-01-01T17:03:55+08:00
+tags: [freelancer]
+title: Kafka Data Query
+created: '2021-12-30T10:13:26.000Z'
+modified: '2022-08-18T15:34:41.836Z'
 ---
 
 # Kafka Data Query
