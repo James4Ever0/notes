@@ -1,7 +1,8 @@
 ---
+tags: [video generator]
 title: PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
 created: '2022-07-13T15:16:54.000Z'
-modified: '2022-08-10T08:11:23.118Z'
+modified: '2022-08-18T07:40:13.168Z'
 ---
 
 # PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
