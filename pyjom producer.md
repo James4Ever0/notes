@@ -1,6 +1,8 @@
 ---
-created: 2022-05-07T19:09:20+08:00
-modified: 2022-05-07T19:10:14+08:00
+tags: [ideas]
+title: pyjom producer
+created: '2022-05-07T11:09:20.000Z'
+modified: '2022-08-18T16:18:44.532Z'
 ---
 
 # pyjom producer
