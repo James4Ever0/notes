@@ -1,8 +1,8 @@
 ---
-tags: [hardware, thermal]
+tags: [hardware, linux, thermal]
 title: CPU Overheating (temperature too high)
 created: '2022-07-25T09:04:54.170Z'
-modified: '2022-08-18T14:25:34.751Z'
+modified: '2022-08-18T14:25:37.359Z'
 ---
 
 # CPU Overheating (temperature too high)
