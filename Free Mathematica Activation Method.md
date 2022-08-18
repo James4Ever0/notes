@@ -1,8 +1,8 @@
 ---
-tags: [activation]
+tags: [activation, mathematica]
 title: Free Mathematica Activation Method
 created: '2022-08-03T10:38:01.912Z'
-modified: '2022-08-18T14:53:30.176Z'
+modified: '2022-08-18T14:53:32.929Z'
 ---
 
 # Free Mathematica Activation Method
