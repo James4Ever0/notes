@@ -1,5 +1,5 @@
 ---
-tags: [AI, ML, supervised learning, ]
+tags: [AI, ML, supervised learning, dataset creatiion]
 title: AI训练集标注工具
 created: '2022-05-24T05:18:21.000Z'
 modified: '2022-08-08T07:01:38.167Z'
