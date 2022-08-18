@@ -1,8 +1,8 @@
 ---
-tags: [information gathering, pet video, pyjom, video generator, video sources]
+tags: [information gathering, pet video, pyjom, scraping, video generator, video sources]
 title: Cats video with lyrics_2
 created: '2021-12-19T12:53:06.000Z'
-modified: '2022-08-18T14:12:11.672Z'
+modified: '2022-08-18T14:12:15.461Z'
 ---
 
 # Cats video with lyrics (Algorithm)
