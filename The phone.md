@@ -1,6 +1,8 @@
 ---
-created: 2021-12-28T20:46:15+08:00
-modified: 2021-12-28T20:48:09+08:00
+tags: [hardware]
+title: The phone
+created: '2021-12-28T12:46:15.000Z'
+modified: '2022-08-18T07:45:52.701Z'
 ---
 
 # The phone
