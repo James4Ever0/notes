@@ -1,6 +1,8 @@
 ---
-created: 2022-04-26T04:54:07+08:00
-modified: 2022-04-26T05:24:50+08:00
+tags: [information gathering]
+title: Userscript and info_data collection
+created: '2022-04-25T20:54:07.000Z'
+modified: '2022-08-18T16:30:57.883Z'
 ---
 
 # Userscript and info/data collection
