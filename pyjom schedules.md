@@ -1,6 +1,6 @@
 ---
 created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-18T10:02:01+08:00
+modified: 2022-08-18T10:03:37+08:00
 ---
 
 # pyjom dev schedules
@@ -11,6 +11,8 @@ modified: 2022-08-18T10:02:01+08:00
 - [ ] source video and audio, improve highlight algorithm
 - [ ] generate appropriate title, cover, info and tags
 - [ ] collect feedback after the post
+
+## text to video, template based video generator
 
 ## qq managing
 - [ ] source and send pictures to qzone
