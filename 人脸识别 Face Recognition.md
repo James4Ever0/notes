@@ -1,6 +1,8 @@
 ---
-created: 2022-07-14T00:47:12+08:00
-modified: 2022-07-14T00:48:09+08:00
+tags: [facial, facial recognization]
+title: 人脸识别 Face Recognition
+created: '2022-07-13T16:47:12.000Z'
+modified: '2022-08-18T14:09:06.997Z'
 ---
 
 # 人脸识别 Face Recognition
