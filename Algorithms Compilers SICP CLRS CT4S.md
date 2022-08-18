@@ -1,5 +1,5 @@
 ---
-tags: [self-study, al]
+tags: [self-study, algorithms]
 created: 2022-05-31T13:22:14+08:00
 modified: 2022-05-31T13:26:52+08:00
 ---
