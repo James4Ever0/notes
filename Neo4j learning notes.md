@@ -1,8 +1,8 @@
 ---
-tags: [graph database, self-learning, syntax]
+tags: [graph database, pyjom, self-learning, syntax]
 title: Neo4j learning notes
 created: '2022-06-03T02:05:00.000Z'
-modified: '2022-08-18T08:03:34.363Z'
+modified: '2022-08-18T08:03:43.211Z'
 ---
 
 # Neo4j learning notes
