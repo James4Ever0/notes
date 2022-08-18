@@ -1,8 +1,8 @@
 ---
-tags: [note taking, sync, system manage]
+tags: [journaling, note taking, sync, system manage]
 title: Setup Gitee SSH Keys for GitJournal
 created: '2022-01-10T19:21:38.000Z'
-modified: '2022-08-18T08:08:10.068Z'
+modified: '2022-08-18T08:08:15.347Z'
 ---
 
 # Setup Gitee SSH Keys for GitJournal
