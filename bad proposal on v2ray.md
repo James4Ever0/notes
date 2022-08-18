@@ -1,8 +1,8 @@
 ---
-tags: [anonymous, onion router, vpn]
+tags: [anonymous, onion router, v2ray, vpn]
 title: A good/bad proposal on v2ray
 created: '2022-08-18T11:50:18.938Z'
-modified: '2022-08-18T11:59:48.351Z'
+modified: '2022-08-18T11:59:54.141Z'
 ---
 
 
