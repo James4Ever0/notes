@@ -1,8 +1,8 @@
 ---
-tags: [model zoo]
+tags: [model zoo, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-08-18T07:27:26.134Z'
+modified: '2022-08-18T07:27:29.370Z'
 ---
 
 # Model Zoo
