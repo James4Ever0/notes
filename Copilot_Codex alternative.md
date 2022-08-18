@@ -1,6 +1,8 @@
 ---
-created: 2022-05-09T12:35:16+08:00
-modified: 2022-08-08T20:58:14+08:00
+tags: [code generation]
+title: Copilot_Codex alternative
+created: '2022-05-09T04:35:16.000Z'
+modified: '2022-08-18T14:21:36.895Z'
 ---
 
 # Copilot/Codex alternative
