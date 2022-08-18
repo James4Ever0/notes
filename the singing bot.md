@@ -1,8 +1,8 @@
 ---
-tags: [lip sync]
+tags: [lip sync, talking head]
 title: the singing bot
 created: '2022-05-13T13:50:48.000Z'
-modified: '2022-08-18T16:28:03.255Z'
+modified: '2022-08-18T16:28:08.457Z'
 ---
 
 # the still image to singing face bot, lip-sync video generation
