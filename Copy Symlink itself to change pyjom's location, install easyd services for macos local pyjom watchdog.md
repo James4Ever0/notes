@@ -1,8 +1,8 @@
 ---
-tags: [macos, relocation, system manage]
+tags: [macos, relocation, service, system manage]
 title: 'Copy Symlink itself to change pyjom''s location, install easyd services for macos local pyjom watchdog'
 created: '2022-08-11T06:41:13.000Z'
-modified: '2022-08-18T14:22:54.951Z'
+modified: '2022-08-18T14:22:57.419Z'
 ---
 
 # Copy Symlink itself to change pyjom's location, install easyd services for macos local pyjom watchdog
