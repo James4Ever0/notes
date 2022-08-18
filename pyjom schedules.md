@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T05:30:28.769Z'
+modified: '2022-08-18T05:30:54.294Z'
 ---
 
 # pyjom dev schedules
@@ -12,7 +12,7 @@ modified: '2022-08-18T05:30:28.769Z'
 
 ## topic acquiring
 ### trending topics
-- [ ] baidu trending
+- [ ] baidu search trending
 - [ ] sogou trending
 - [ ] bilibili trending
 - [ ] wechat trending
@@ -23,6 +23,7 @@ modified: '2022-08-18T05:30:28.769Z'
 - [ ] reddit trending
 - [ ] twitch trending
 ### popular topics
+- [ ] baijiahao popular topics
 - [ ] bilibili popular topics
 - [ ] douyin popular topics
 ### personal/customized topics
