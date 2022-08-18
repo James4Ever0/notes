@@ -1,8 +1,8 @@
 ---
-tags: [recovery]
+tags: [recovery, remedy]
 title: NTFS recovery tool for bilibili cookie under AutoUP
 created: '2022-07-17T19:09:33.000Z'
-modified: '2022-08-18T16:01:35.687Z'
+modified: '2022-08-18T16:01:37.129Z'
 ---
 
 # NTFS recovery tool for bilibili cookie under AutoUP
