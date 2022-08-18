@@ -1,6 +1,8 @@
 ---
-created: 2022-06-07T11:55:41+08:00
-modified: 2022-06-07T11:59:12+08:00
+tags: [hardware]
+title: Hardware for fun moment capturing
+created: '2022-06-07T03:55:41.000Z'
+modified: '2022-08-18T14:55:32.403Z'
 ---
 
 # Hardware for fun moment capturing
