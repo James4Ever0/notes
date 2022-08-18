@@ -1,6 +1,8 @@
 ---
-created: 2022-06-03T16:10:32+08:00
-modified: 2022-06-03T16:10:41+08:00
+tags: [mysql]
+title: MySQL Cheatsheet
+created: '2022-06-03T08:10:32.000Z'
+modified: '2022-08-18T16:14:01.917Z'
 ---
 
 # MySQL Cheatsheet
