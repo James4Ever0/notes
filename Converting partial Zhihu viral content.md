@@ -1,8 +1,8 @@
 ---
-tags: [idea, information gathering, text sources]
+tags: [idea, information gathering, pyjom, text sources]
 title: Converting partial Zhihu viral content
 created: '2022-03-31T03:07:29.000Z'
-modified: '2022-08-18T14:17:26.922Z'
+modified: '2022-08-18T14:17:30.690Z'
 ---
 
 # Converting partial Zhihu viral content
