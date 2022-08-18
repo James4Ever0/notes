@@ -2,7 +2,7 @@
 tags: [schedule]
 title: self-learning schedules
 created: '2022-08-17T19:15:16.000Z'
-modified: '2022-08-18T03:33:29.545Z'
+modified: '2022-08-18T07:18:33.103Z'
 ---
 
 # self-learning schedules
@@ -21,5 +21,6 @@ modified: '2022-08-18T03:33:29.545Z'
 - [ ] design a program automatically execute commands in shell
 - [ ] design a program automatically click everywhere in GUI
 ### study nars
+- [ ] run python version of nars
 ### study opencog
 ### study he4o
