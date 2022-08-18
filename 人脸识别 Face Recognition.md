@@ -1,8 +1,8 @@
 ---
-tags: [facial, facial recognization]
+tags: [facial, facial recognization, image recognization]
 title: 人脸识别 Face Recognition
 created: '2022-07-13T16:47:12.000Z'
-modified: '2022-08-18T14:09:06.997Z'
+modified: '2022-08-18T14:09:12.120Z'
 ---
 
 # 人脸识别 Face Recognition
