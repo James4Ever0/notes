@@ -1,8 +1,8 @@
 ---
-tags: [psychological]
+tags: [MBTI, psychological]
 title: What experiences do ISTP people have?
 created: '2022-06-03T20:14:08.000Z'
-modified: '2022-08-18T15:26:30.276Z'
+modified: '2022-08-18T15:26:34.288Z'
 ---
 
 # What experiences do ISTP people have?
