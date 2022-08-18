@@ -1,6 +1,8 @@
 ---
-created: 2022-05-05T10:28:59+08:00
-modified: 2022-07-15T23:39:53+08:00
+tags: [singing]
+title: Singing Voice Generation and more
+created: '2022-05-05T02:28:59.000Z'
+modified: '2022-08-18T16:25:16.620Z'
 ---
 
 # Singing Voice Generation and more
