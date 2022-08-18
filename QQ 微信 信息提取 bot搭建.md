@@ -1,7 +1,8 @@
 ---
+tags: [information gathering]
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-14T17:03:49.336Z'
+modified: '2022-08-18T07:33:48.333Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
