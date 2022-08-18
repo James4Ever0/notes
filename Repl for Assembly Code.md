@@ -1,7 +1,8 @@
 ---
+tags: [repl]
 title: Repl for Assembly Code
 created: '2022-07-13T03:09:59.458Z'
-modified: '2022-07-13T03:11:08.937Z'
+modified: '2022-08-18T16:21:12.996Z'
 ---
 
 # Repl for Assembly Code
