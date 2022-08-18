@@ -1,6 +1,8 @@
 ---
-created: 2022-05-28T21:57:18+08:00
-modified: 2022-05-31T14:28:02+08:00
+tags: [programming language understanding]
+title: Code Batch Change Tool (the new sed)
+created: '2022-05-28T13:57:18.000Z'
+modified: '2022-08-18T14:15:30.966Z'
 ---
 
 # Code Batch Change Tool (the new sed)
