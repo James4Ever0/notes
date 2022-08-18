@@ -2,7 +2,7 @@
 tags: [schedule]
 title: self-learning schedules
 created: '2022-08-17T19:15:16.000Z'
-modified: '2022-08-18T03:31:25.550Z'
+modified: '2022-08-18T03:32:55.640Z'
 ---
 
 # self-learning schedules
@@ -19,3 +19,6 @@ modified: '2022-08-18T03:31:25.550Z'
 
 ## artificial general intelligence
 - [ ] design a program automatically execute commands in shell
+### study nars
+### study opencog
+### study he4o
