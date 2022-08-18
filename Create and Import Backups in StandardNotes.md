@@ -1,6 +1,8 @@
 ---
-created: 2022-07-12T00:02:26+08:00
-modified: 2022-07-12T00:02:44+08:00
+tags: [note]
+title: Create and Import Backups in StandardNotes
+created: '2022-07-11T16:02:26.000Z'
+modified: '2022-08-18T14:25:59.157Z'
 ---
 
 # Create and Import Backups in StandardNotes
