@@ -1,8 +1,8 @@
 ---
-tags: [effects, transition, video effects, video transition]
+tags: [effects, transition, video analysis, video effects, video transition]
 title: Video Effects Transitions
 created: '2022-07-10T16:08:15.000Z'
-modified: '2022-08-18T16:33:11.920Z'
+modified: '2022-08-18T16:33:26.452Z'
 ---
 
 # Video Effects Transitions
