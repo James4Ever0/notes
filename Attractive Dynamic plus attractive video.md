@@ -1,8 +1,8 @@
 ---
-tags: [policy]
+tags: [general idea, policy]
 title: Attractive Dynamic plus attractive video
 created: '2022-05-13T15:26:30.000Z'
-modified: '2022-08-18T12:03:42.267Z'
+modified: '2022-08-18T12:03:45.388Z'
 ---
 
 # Attractive Dynamic plus attractive video
