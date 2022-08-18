@@ -1,8 +1,8 @@
 ---
-tags: [network, self-hosted, stub]
+tags: [network, self-hosted, stub, webapp]
 title: Self hosted web applications
 created: '2022-07-11T15:49:38.000Z'
-modified: '2022-08-18T16:23:43.861Z'
+modified: '2022-08-18T16:23:47.308Z'
 ---
 
 # Self hosted web applications
