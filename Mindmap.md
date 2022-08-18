@@ -1,6 +1,8 @@
 ---
-created: 2022-02-22T15:55:23+08:00
-modified: 2022-02-22T15:55:35+08:00
+tags: [freelancer]
+title: Mindmap
+created: '2022-02-22T07:55:23.000Z'
+modified: '2022-08-18T15:24:17.139Z'
 ---
 
 # Mindmap
