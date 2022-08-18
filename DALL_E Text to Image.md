@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T11:41:31+08:00
-modified: 2022-06-09T14:42:04+08:00
+tags: [image generation]
+title: DALL_E Text to Image
+created: '2022-05-29T03:41:31.000Z'
+modified: '2022-08-18T14:40:08.921Z'
 ---
 
 # DALL_E Text to Image
