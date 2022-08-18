@@ -1,8 +1,8 @@
 ---
-tags: [mysql]
+tags: [mysql, reference]
 title: MySQL Cheatsheet
 created: '2022-06-03T08:10:32.000Z'
-modified: '2022-08-18T16:14:01.917Z'
+modified: '2022-08-18T16:14:04.581Z'
 ---
 
 # MySQL Cheatsheet
