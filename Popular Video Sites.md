@@ -1,8 +1,8 @@
 ---
-tags: [scraping, video sources]
+tags: [information gathering, scraping, video sources]
 title: Popular Video Sites
 created: '2022-08-03T15:48:53.798Z'
-modified: '2022-08-18T14:04:16.259Z'
+modified: '2022-08-18T14:04:25.809Z'
 ---
 
 # Popular Video Sites
