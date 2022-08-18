@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T07:15:27.886Z'
+modified: '2022-08-18T07:19:15.331Z'
 ---
 
 # pyjom dev schedules
@@ -27,7 +27,7 @@ modified: '2022-08-18T07:15:27.886Z'
 - [ ] bilibili popular topics
 - [ ] douyin popular topics
 ### personal/customized topics
-- [ ] tencent qq customized
+- [ ] tencent qq customized (can associate with mail)
 - [ ] wechat customized
 - [ ] bilibili per user customized
 
