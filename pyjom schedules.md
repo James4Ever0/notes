@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T03:37:16.804Z'
+modified: '2022-08-18T03:37:59.452Z'
 ---
 
 # pyjom dev schedules
@@ -10,6 +10,7 @@ modified: '2022-08-18T03:37:16.804Z'
 ## topic acquiring
 ### trending topics
 ### popular topics
+### personal/customized topics
 
 ## dog/cat video generation
 - [ ] make render engine runnable
