@@ -1,6 +1,8 @@
 ---
-created: 2022-04-22T01:28:01+08:00
-modified: 2022-04-22T01:28:37+08:00
+tags: [video generator]
+title: Articulated Animation
+created: '2022-04-21T17:28:01.000Z'
+modified: '2022-08-18T12:02:41.620Z'
 ---
 
 # Articulated Animation
