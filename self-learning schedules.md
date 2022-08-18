@@ -1,6 +1,8 @@
 ---
-created: 2022-08-18T03:15:16+08:00
-modified: 2022-08-18T03:34:35+08:00
+tags: [schedule]
+title: self-learning schedules
+created: '2022-08-17T19:15:16.000Z'
+modified: '2022-08-18T02:49:31.452Z'
 ---
 
 # self-learning schedules
