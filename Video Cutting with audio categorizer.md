@@ -1,6 +1,8 @@
 ---
-created: 2022-05-10T23:43:25+08:00
-modified: 2022-05-11T00:39:23+08:00
+tags: [video understanding]
+title: Video Cutting with audio categorizer
+created: '2022-05-10T15:43:25.000Z'
+modified: '2022-08-18T16:32:07.389Z'
 ---
 
 # Video Cutting with audio categorizer
