@@ -1,8 +1,8 @@
 ---
-tags: [project]
+tags: [dog video, project]
 title: Cut Music Scenes With Lyrics and BPM
 created: '2022-07-08T18:17:05.000Z'
-modified: '2022-08-18T14:40:32.575Z'
+modified: '2022-08-18T14:40:34.516Z'
 ---
 
 # Cut Music Segments With Lyrics and BPM
