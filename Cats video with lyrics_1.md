@@ -1,8 +1,8 @@
 ---
-tags: [audio source, lyric, music, pyjom]
+tags: [audio source, lyric, music, project, pyjom]
 title: Cats video with lyrics_1
 created: '2021-12-19T10:50:34.000Z'
-modified: '2022-08-18T14:02:11.730Z'
+modified: '2022-08-18T14:02:14.416Z'
 ---
 
 # Cats video with lyrics (Lyrics)
