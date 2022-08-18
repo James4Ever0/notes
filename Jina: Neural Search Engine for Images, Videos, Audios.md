@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T13:18:28+08:00
-modified: 2022-05-31T13:41:35+08:00
+tags: [search engine]
+title: 'Jina: Neural Search Engine for Images, Videos, Audios'
+created: '2022-05-29T05:18:28.000Z'
+modified: '2022-08-18T15:33:19.056Z'
 ---
 
 # Jina: Neural Search Engine for Images, Videos, Audios
