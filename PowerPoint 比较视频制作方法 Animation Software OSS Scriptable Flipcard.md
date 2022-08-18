@@ -1,8 +1,8 @@
 ---
-tags: [animation, animation framework, comparation video, video generator]
+tags: [animation, animation framework, comparation video, stub, video generator]
 title: PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
 created: '2022-07-13T15:16:54.000Z'
-modified: '2022-08-18T07:40:46.737Z'
+modified: '2022-08-18T07:42:30.605Z'
 ---
 
 # PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
