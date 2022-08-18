@@ -1,7 +1,8 @@
 ---
+tags: [color scheme, vim]
 title: Vim Custom color scheme
 created: '2022-07-24T17:17:40.000Z'
-modified: '2022-07-25T08:39:07.047Z'
+modified: '2022-08-18T16:34:26.518Z'
 ---
 
 # Vim Custom color scheme
