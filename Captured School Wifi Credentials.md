@@ -1,6 +1,8 @@
 ---
-created: 2022-06-06T09:15:29+08:00
-modified: 2022-06-07T08:31:26+08:00
+tags: [credential]
+title: Captured School Wifi Credentials
+created: '2022-06-06T01:15:29.000Z'
+modified: '2022-08-18T14:01:20.260Z'
 ---
 
 # Captured School Wifi Credentials
