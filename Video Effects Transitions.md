@@ -1,6 +1,8 @@
 ---
-created: 2022-07-11T00:08:15+08:00
-modified: 2022-07-11T00:19:02+08:00
+tags: [transition]
+title: Video Effects Transitions
+created: '2022-07-10T16:08:15.000Z'
+modified: '2022-08-18T16:33:04.102Z'
 ---
 
 # Video Effects Transitions
