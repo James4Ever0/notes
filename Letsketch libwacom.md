@@ -1,8 +1,8 @@
 ---
-tags: [hardware, tablet]
+tags: [driver, hardware, tablet]
 title: Letsketch libwacom
 created: '2022-05-06T11:59:22.000Z'
-modified: '2022-08-18T15:30:01.751Z'
+modified: '2022-08-18T15:30:02.868Z'
 ---
 
 # Letsketch libwacom
