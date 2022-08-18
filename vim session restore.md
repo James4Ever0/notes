@@ -1,6 +1,8 @@
 ---
-created: 2022-08-10T15:06:39+08:00
-modified: 2022-08-10T15:17:21+08:00
+tags: [editor]
+title: vim session restore
+created: '2022-08-10T07:06:39.000Z'
+modified: '2022-08-18T07:43:38.121Z'
 ---
 
 # vim session restore
