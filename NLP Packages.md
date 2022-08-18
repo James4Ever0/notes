@@ -1,8 +1,8 @@
 ---
-tags: [natural language, NLG, NLP, question generation]
+tags: [natural language, NLG, NLP, question answering, question generation]
 title: NLP Packages
 created: '2022-06-09T03:39:24.000Z'
-modified: '2022-08-18T16:13:05.831Z'
+modified: '2022-08-18T16:13:10.127Z'
 ---
 
 # NLP NLG Packages
