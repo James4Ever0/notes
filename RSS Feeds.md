@@ -1,6 +1,8 @@
 ---
-created: 2022-04-17T11:43:37+08:00
-modified: 2022-06-03T16:17:24+08:00
+tags: [text sources]
+title: RSS Feeds
+created: '2022-04-17T03:43:37.000Z'
+modified: '2022-08-18T16:22:21.095Z'
 ---
 
 # RSS Feeds
