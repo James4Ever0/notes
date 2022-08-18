@@ -2,7 +2,7 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-18T03:29:19.838Z'
+modified: '2022-08-18T03:34:43.252Z'
 ---
 
 # hacking schedules
@@ -16,5 +16,7 @@ modified: '2022-08-18T03:29:19.838Z'
 - [ ] create or reassure our monero wallet
 
 ## bilibili seo and hacking
+### study bilibili source code
+### study and learn some parameters/apis for faking data
 
 ## general hacking and tool learning
