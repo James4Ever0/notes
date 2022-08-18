@@ -1,8 +1,8 @@
 ---
-tags: [disk expansion, virtualbox, virtualization]
+tags: [disk expansion, system manage, virtualbox, virtualization]
 title: how to extend vmdk in oracle virtualbox
 created: '2022-07-05T13:56:23.000Z'
-modified: '2022-08-18T14:56:28.497Z'
+modified: '2022-08-18T14:56:30.456Z'
 ---
 
 # how to extend/resize vmdk in oracle virtualbox
