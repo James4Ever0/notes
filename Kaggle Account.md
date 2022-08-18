@@ -1,6 +1,8 @@
 ---
-created: 2022-04-20T17:18:45+08:00
-modified: 2022-04-20T17:19:12+08:00
+tags: [credential]
+title: Kaggle Account
+created: '2022-04-20T09:18:45.000Z'
+modified: '2022-08-18T15:30:19.314Z'
 ---
 
 # Kaggle Account
