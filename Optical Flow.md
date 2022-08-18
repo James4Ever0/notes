@@ -1,8 +1,8 @@
 ---
-tags: [video analysis]
+tags: [optical flow, video analysis, video feature extraction]
 title: Optical Flow
 created: '2022-05-31T04:30:10.000Z'
-modified: '2022-08-18T14:08:12.289Z'
+modified: '2022-08-18T14:08:18.926Z'
 ---
 
 # Optical Flow
