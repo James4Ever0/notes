@@ -1,6 +1,8 @@
 ---
-created: 2022-02-10T07:11:00+00:00
-modified: 2022-02-12T15:21:48+00:00
+tags: [idea]
+title: Python Media Automation
+created: '2022-02-10T07:11:00.000Z'
+modified: '2022-08-18T16:12:04.040Z'
 ---
 
 # Python Media Automation
