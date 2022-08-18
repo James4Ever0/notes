@@ -1,6 +1,8 @@
 ---
-created: 2022-01-12T20:32:45+00:00
-modified: 2022-01-12T20:33:44+00:00
+tags: [freelancer]
+title: Ecosim
+created: '2022-01-12T20:32:45.000Z'
+modified: '2022-08-18T14:46:08.032Z'
 ---
 
 # Ecosim
