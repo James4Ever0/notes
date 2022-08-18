@@ -2,7 +2,7 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-18T03:26:31.980Z'
+modified: '2022-08-18T03:27:34.873Z'
 ---
 
 # hacking schedules
@@ -10,6 +10,9 @@ modified: '2022-08-18T03:26:31.980Z'
 ## github coin mining
 - [ ] automatic captcha resolve by clash redirection to force the captcha not being too complex
 - [ ] automate the whole process unsupervised
+- [ ] find more ways to mine coins other than cirrus
+- [ ] hide our intention of coin mining
+- [ ] create or establish our monero wallet
 
 ## bilibili seo and hacking
 
