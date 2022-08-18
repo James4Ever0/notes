@@ -1,8 +1,8 @@
 ---
-tags: [API, chatbot, information gathering, MITM, scraping, social media]
+tags: [API, chatbot, information gathering, MITM, project, scraping, social media]
 title: IM MITM 聊天软件MITM
 created: '2022-05-28T16:15:24.000Z'
-modified: '2022-08-18T07:47:53.213Z'
+modified: '2022-08-18T07:48:00.588Z'
 ---
 
 # IM MITM 聊天软件 MITM
