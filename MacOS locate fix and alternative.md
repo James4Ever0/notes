@@ -1,8 +1,8 @@
 ---
-tags: [find file, locate file, macos]
+tags: [find file, locate file, macos, tips]
 title: MacOS locate fix and alternative
 created: '2022-08-07T05:34:18.266Z'
-modified: '2022-08-18T15:29:43.381Z'
+modified: '2022-08-18T15:29:47.800Z'
 ---
 
 # MacOS locate fix and alternative
