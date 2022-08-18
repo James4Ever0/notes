@@ -1,8 +1,8 @@
 ---
-tags: [framework, ML, model zoo, platform, probabilistic]
+tags: [framework, ML, model zoo, NLP, platform, probabilistic]
 title: 'opennlp, fastai and other machine learning platforms'
 created: '2022-08-07T13:57:11.364Z'
-modified: '2022-08-18T07:56:41.104Z'
+modified: '2022-08-18T07:56:51.297Z'
 ---
 
 # opennlp, fastai and other machine learning platforms
