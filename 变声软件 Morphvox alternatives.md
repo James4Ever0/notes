@@ -1,8 +1,8 @@
 ---
-tags: [voice changer, vst]
+tags: [pyjom, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-08-18T07:29:07.538Z'
+modified: '2022-08-18T07:55:11.918Z'
 ---
 
 # 变声软件 Morphvox alternatives
