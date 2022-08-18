@@ -1,6 +1,8 @@
 ---
-created: 2021-12-23T13:48:37+08:00
-modified: 2022-01-11T14:23:52+08:00
+tags: [freelancer]
+title: The Exam
+created: '2021-12-23T05:48:37.000Z'
+modified: '2022-08-18T16:27:40.871Z'
 ---
 
 # The Exam
