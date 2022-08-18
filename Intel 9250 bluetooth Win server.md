@@ -1,6 +1,8 @@
 ---
-created: 2022-03-24T00:41:23+08:00
-modified: 2022-03-24T00:49:39+08:00
+tags: [driver]
+title: Intel 9250 bluetooth Win server
+created: '2022-03-23T16:41:23.000Z'
+modified: '2022-08-18T15:31:47.765Z'
 ---
 
 # Intel 9250 bluetooth Win server
