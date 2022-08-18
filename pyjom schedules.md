@@ -1,6 +1,6 @@
 ---
 created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-18T10:01:49+08:00
+modified: 2022-08-18T10:02:01+08:00
 ---
 
 # pyjom dev schedules
@@ -22,7 +22,7 @@ modified: 2022-08-18T10:01:49+08:00
 
 ## voice changer
 - [ ] vst based voice change3
-- [ ] train or find a decent voice generator 御姐音语料库
+- [ ] train or find a decent voice generator 御姐音语料库 小受音语料库
 
 ## 直播 live streaming
 - [ ] source the video
