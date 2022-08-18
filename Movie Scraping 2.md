@@ -1,6 +1,8 @@
 ---
-created: 2022-02-20T04:21:00+00:00
-modified: 2022-02-20T20:34:43+00:00
+tags: [information gathering]
+title: Movie Scraping 2
+created: '2022-02-20T04:21:00.000Z'
+modified: '2022-08-18T15:51:44.863Z'
 ---
 
 # Movie Scraping 2
