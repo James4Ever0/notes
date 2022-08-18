@@ -1,7 +1,8 @@
 ---
+tags: [voice changer]
 title: 变声软件 Morphvox alternatives
-created: 2022-05-29T00:14:51+08:00
-modified: 2022-08-17T01:01:22+08:00
+created: '2022-05-28T16:14:51.000Z'
+modified: '2022-08-18T07:29:02.832Z'
 ---
 
 # 变声软件 Morphvox alternatives
