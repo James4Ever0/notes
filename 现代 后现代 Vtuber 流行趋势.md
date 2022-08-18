@@ -1,8 +1,8 @@
 ---
-tags: [social media, trends]
+tags: [idea, social media, trends]
 title: 现代 后现代 Vtuber 流行趋势
 created: '2022-06-11T03:39:31.000Z'
-modified: '2022-08-18T15:59:33.248Z'
+modified: '2022-08-18T15:59:36.075Z'
 ---
 
 # 现代 后现代 Vtuber 流行趋势
