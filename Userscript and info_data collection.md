@@ -1,8 +1,8 @@
 ---
-tags: [extension, image sources, information gathering, search engine, text sources, video sources]
+tags: [browser extension, extension, image sources, information gathering, search engine, text sources, video sources]
 title: Userscript and info_data collection
 created: '2022-04-25T20:54:07.000Z'
-modified: '2022-08-18T16:31:33.279Z'
+modified: '2022-08-18T16:31:38.494Z'
 ---
 
 # Userscript and info/data collection
