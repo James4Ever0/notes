@@ -1,8 +1,8 @@
 ---
-tags: [picture in picture, video analysis]
+tags: [crop the crap, picture in picture, video analysis]
 title: video picture in picture detection
 created: '2022-06-13T10:27:30.000Z'
-modified: '2022-08-18T16:33:47.281Z'
+modified: '2022-08-18T16:33:53.095Z'
 ---
 
 # video picture in picture detection
