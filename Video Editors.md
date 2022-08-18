@@ -2,12 +2,15 @@
 tags: [pyjom, video edit, video generator]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-18T17:10:22.925Z'
+modified: '2022-08-18T17:11:07.457Z'
 ---
 
 # Video Editors
 
 https://github.com/Zulko/moviepy
+
+video transitions:
+[opengl transitions](https://gl-transitions.com/)
 
 javascript video editor:
 [creating and rendering dynamic videos](https://github.com/pankod/canvas2video)
