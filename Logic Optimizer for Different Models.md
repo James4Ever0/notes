@@ -1,8 +1,8 @@
 ---
-tags: [model, optimization]
+tags: [model, optimization, trial and error]
 title: Logic Optimizer for Different Models
 created: '2022-03-30T18:10:00.000Z'
-modified: '2022-08-18T14:57:38.290Z'
+modified: '2022-08-18T14:57:42.790Z'
 ---
 
 # Logic Optimizer for Different Models
