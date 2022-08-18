@@ -1,8 +1,8 @@
 ---
-tags: [multi window manager, productivity, window manager]
+tags: [multi window manager, productivity, search window by name, window manager]
 title: Search and switch to window by title
 created: '2022-07-27T02:12:56.139Z'
-modified: '2022-08-18T16:23:04.479Z'
+modified: '2022-08-18T16:23:18.653Z'
 ---
 
 # Search and switch to window by title
