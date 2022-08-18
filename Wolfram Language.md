@@ -1,8 +1,8 @@
 ---
-tags: [video generator, video styles]
+tags: [plot, video generator, video styles]
 title: Interesting xkcd style plots and characters generator in Mathematica/Wolfram Language
 created: '2022-08-03T04:54:43.408Z'
-modified: '2022-08-18T14:56:48.762Z'
+modified: '2022-08-18T14:56:53.580Z'
 ---
 
 # Interesting xkcd style plots and characters generator in Mathematica/Wolfram Language
