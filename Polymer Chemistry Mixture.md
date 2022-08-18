@@ -1,6 +1,8 @@
 ---
-created: 2022-01-28T23:49:12+00:00
-modified: 2022-02-06T01:16:23+00:00
+tags: [cheminformatics]
+title: Polymer Chemistry Mixture
+created: '2022-01-28T23:49:12.000Z'
+modified: '2022-08-18T16:17:44.384Z'
 ---
 
 # Polymer Chemistry Mixture
