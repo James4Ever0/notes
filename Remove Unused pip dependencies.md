@@ -1,8 +1,8 @@
 ---
-tags: [python]
+tags: [python, remove unwanted]
 title: Remove Unused pip dependencies
 created: '2022-08-04T03:58:57.701Z'
-modified: '2022-08-18T16:20:50.976Z'
+modified: '2022-08-18T16:20:56.936Z'
 ---
 
 # Remove Unused pip dependencies
