@@ -1,6 +1,8 @@
 ---
-created: 2022-06-09T12:23:51+08:00
-modified: 2022-06-09T12:24:52+08:00
+tags: [bilibili]
+title: bilibili 生活区up 培训
+created: '2022-06-09T04:23:51.000Z'
+modified: '2022-08-18T13:51:26.297Z'
 ---
 
 # bilibili 生活区up 培训
