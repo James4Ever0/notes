@@ -1,6 +1,8 @@
 ---
-created: 2022-05-14T10:24:10+08:00
-modified: 2022-06-01T14:49:41+08:00
+tags: [tweening]
+title: cacani tweening_interpolating alternatives
+created: '2022-05-14T02:24:10.000Z'
+modified: '2022-08-18T14:00:31.685Z'
 ---
 
 # cacani tweening/interpolating alternatives animation tool animation generation
