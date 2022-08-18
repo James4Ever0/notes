@@ -1,8 +1,8 @@
 ---
-tags: [iOS]
+tags: [automatic software test, iOS]
 title: IOS airtest control windows
 created: '2022-02-24T13:46:29.000Z'
-modified: '2022-08-18T15:32:11.109Z'
+modified: '2022-08-18T15:32:25.216Z'
 ---
 
 # IOS airtest control windows
