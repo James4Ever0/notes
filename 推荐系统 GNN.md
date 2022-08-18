@@ -1,8 +1,8 @@
 ---
-tags: [advertising, chatbot, pyjom, recommendation]
+tags: [advertising, chatbot, graph database, pyjom, recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2022-08-18T07:49:58.842Z'
+modified: '2022-08-18T08:03:55.383Z'
 ---
 
 # 推荐系统 GNN
