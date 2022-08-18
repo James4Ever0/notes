@@ -1,8 +1,8 @@
 ---
-tags: [coding assist]
+tags: [coding assist, document provider]
 title: dash api docset reference search
 created: '2022-08-07T20:00:37.563Z'
-modified: '2022-08-18T14:41:46.849Z'
+modified: '2022-08-18T14:41:54.493Z'
 ---
 
 # dash api docset reference search
