@@ -1,6 +1,8 @@
 ---
-created: 2022-05-07T03:03:48+08:00
-modified: 2022-05-07T03:06:52+08:00
+tags: [system manage]
+title: Boot into Linux commandline (tty)
+created: '2022-05-06T19:03:48.000Z'
+modified: '2022-08-18T14:00:07.555Z'
 ---
 
 # Boot into Linux commandline (tty)
