@@ -1,8 +1,8 @@
 ---
-tags: [video understanding]
+tags: [audio analysis, video understanding]
 title: Video Cutting with audio categorizer
 created: '2022-05-10T15:43:25.000Z'
-modified: '2022-08-18T16:32:07.389Z'
+modified: '2022-08-18T16:32:12.886Z'
 ---
 
 # Video Cutting with audio categorizer
