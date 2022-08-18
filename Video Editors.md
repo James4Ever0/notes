@@ -2,7 +2,7 @@
 tags: [pyjom, video edit, video generator]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-18T17:09:20.518Z'
+modified: '2022-08-18T17:09:36.386Z'
 ---
 
 # Video Editors
@@ -17,7 +17,7 @@ javascript video editor:
 ```bash
 npm i -g editly
 ```
-[]()
+[concat videos with opengl transitions](https://github.com/transitive-bullshit/ffmpeg-concat)
 [complex react native animation engine, not open source](https://github.com/JonnyBurger/remotion)
 
 <a id="anchor"></a>
