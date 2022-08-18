@@ -1,8 +1,8 @@
 ---
-tags: [accessibility, GUI automation, GUI inspection, inspection, linux, RPA]
+tags: [accessibility, dogtail, GUI automation, GUI inspection, inspection, linux, RPA]
 title: Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 created: '2022-07-15T05:07:25.612Z'
-modified: '2022-08-18T16:18:25.756Z'
+modified: '2022-08-18T16:18:28.846Z'
 ---
 
 # Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
