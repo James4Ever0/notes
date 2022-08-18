@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T05:29:53.595Z'
+modified: '2022-08-18T05:30:28.769Z'
 ---
 
 # pyjom dev schedules
@@ -28,6 +28,7 @@ modified: '2022-08-18T05:29:53.595Z'
 ### personal/customized topics
 - [ ] tencent qq customized
 - [ ] wechat customized
+- [ ] bilibili per user customized
 
 ## dog/cat video generation
 - [ ] make render engine runnable
