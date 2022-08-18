@@ -1,8 +1,8 @@
 ---
-tags: [chatbot, pyjom, qq, reverse engineering, stub]
+tags: [chatbot, chatbot framework, pyjom, qq, reverse engineering, stub]
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.000Z'
-modified: '2022-08-18T07:51:38.062Z'
+modified: '2022-08-18T07:52:01.930Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
