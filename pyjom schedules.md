@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T03:24:19.927Z'
+modified: '2022-08-18T03:24:40.933Z'
 ---
 
 # pyjom dev schedules
@@ -13,7 +13,7 @@ modified: '2022-08-18T03:24:19.927Z'
 - [ ] source video and audio, improve highlight algorithm
 - [ ] generate appropriate title, cover, info and tags
 - [ ] collect feedback after the post
-- [ ] find some shocking fonts
+- [ ] find some shocking fonts for cover and subtitle
 - [ ] make that karaoke effect/beautify the lyrics
 
 ## text to video, template based video generator
