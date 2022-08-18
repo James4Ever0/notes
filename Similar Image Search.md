@@ -1,8 +1,8 @@
 ---
-tags: [image search, information gathering, search engine]
+tags: [image search, information gathering, scraping, search engine]
 title: Similar Image Search
 created: '2022-05-28T11:26:34.000Z'
-modified: '2022-08-18T16:24:29.954Z'
+modified: '2022-08-18T16:24:34.927Z'
 ---
 
 # Similar Image Search
