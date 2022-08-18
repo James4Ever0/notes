@@ -1,8 +1,8 @@
 ---
-tags: [cloth classification, image classification]
+tags: [cloth classification, image classification, stub]
 title: Cloth Classification
 created: '2022-05-29T07:49:34.000Z'
-modified: '2022-08-18T14:07:10.942Z'
+modified: '2022-08-18T14:07:12.315Z'
 ---
 
 # Cloth Classification
