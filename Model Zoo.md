@@ -1,8 +1,8 @@
 ---
-tags: [model zoo, stub]
+tags: [model zoo, pyjom, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-08-18T07:27:29.370Z'
+modified: '2022-08-18T07:50:24.511Z'
 ---
 
 # Model Zoo
