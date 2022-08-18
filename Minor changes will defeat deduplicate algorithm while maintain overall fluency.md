@@ -1,6 +1,8 @@
 ---
-created: 2022-04-10T03:39:01+08:00
-modified: 2022-04-10T03:42:35+08:00
+tags: [circumvention]
+title: Minor changes will defeat deduplicate algorithm while maintain overall fluency
+created: '2022-04-09T19:39:01.000Z'
+modified: '2022-08-18T15:47:55.634Z'
 ---
 
 # Minor changes will defeat deduplicate algorithm while maintain overall fluency
