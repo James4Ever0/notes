@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T03:16:53.364Z'
+modified: '2022-08-18T03:18:42.798Z'
 ---
 
 # pyjom dev schedules
@@ -31,7 +31,7 @@ modified: '2022-08-18T03:16:53.364Z'
 - [ ] avoid mail being trashed or turned into junk
 
 ## voice changer
-- [ ] vst based voice change3
+- [ ] vst based voice changer
 - [ ] train or find a decent voice generator 御姐音语料库 小受音语料库
 
 ## 直播 live streaming
