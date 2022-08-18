@@ -1,8 +1,8 @@
 ---
-tags: [information gathering, movie scraping]
+tags: [freelancer, information gathering, movie scraping]
 title: Movie Scraping 2
 created: '2022-02-20T04:21:00.000Z'
-modified: '2022-08-18T15:51:48.855Z'
+modified: '2022-08-18T15:51:51.644Z'
 ---
 
 # Movie Scraping 2
