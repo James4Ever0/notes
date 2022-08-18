@@ -1,8 +1,8 @@
 ---
-tags: [general idea, policy, social media]
+tags: [advocates, general idea, policy, social media]
 title: Attractive Dynamic plus attractive video
 created: '2022-05-13T15:26:30.000Z'
-modified: '2022-08-18T12:03:49.110Z'
+modified: '2022-08-18T12:03:53.885Z'
 ---
 
 # Attractive Dynamic plus attractive video
