@@ -1,8 +1,8 @@
 ---
-tags: [洗稿]
+tags: [paraphraser, 洗稿]
 title: Translators for Casual usage
 created: '2022-04-29T15:03:52.000Z'
-modified: '2022-08-18T16:29:33.208Z'
+modified: '2022-08-18T16:29:39.496Z'
 ---
 
 # Translators/Paraphraser for casual usage
