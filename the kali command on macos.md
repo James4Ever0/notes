@@ -1,8 +1,8 @@
 ---
-tags: [remote control, system manage]
+tags: [remote control, service, system manage]
 title: the kali command on macos
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-18T08:00:54.815Z'
+modified: '2022-08-18T08:01:00.056Z'
 ---
 
 # the kali command on macos
