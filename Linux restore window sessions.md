@@ -1,8 +1,8 @@
 ---
-tags: [restore]
+tags: [restore, restore session]
 title: Linux restore window sessions
 created: '2022-07-27T00:06:40.000Z'
-modified: '2022-08-18T14:57:18.621Z'
+modified: '2022-08-18T14:57:22.947Z'
 ---
 
 # Linux restore window sessions
