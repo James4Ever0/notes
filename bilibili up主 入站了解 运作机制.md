@@ -1,6 +1,8 @@
 ---
-created: 2022-06-10T15:15:32+08:00
-modified: 2022-06-17T15:18:53+08:00
+tags: [bilibili]
+title: bilibili up主 入站了解 运作机制
+created: '2022-06-10T07:15:32.000Z'
+modified: '2022-08-18T13:44:57.115Z'
 ---
 
 # bilibili up主 入站了解 运作机制 开篇动画
