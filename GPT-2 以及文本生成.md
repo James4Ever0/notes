@@ -1,6 +1,8 @@
 ---
-created: 2022-05-03T18:24:18+08:00
-modified: 2022-08-15T21:33:06+08:00
+tags: [text generator]
+title: GPT-2 以及文本生成
+created: '2022-05-03T10:24:18.000Z'
+modified: '2022-08-18T07:31:50.414Z'
 ---
 
 # GPT-2 以及文本生成
