@@ -1,8 +1,8 @@
 ---
-tags: [image generation, text to image]
+tags: [AI, image generation, text to image]
 title: DALL_E Text to Image
 created: '2022-05-29T03:41:31.000Z'
-modified: '2022-08-18T14:40:14.110Z'
+modified: '2022-08-18T14:40:18.646Z'
 ---
 
 # DALL_E Text to Image
