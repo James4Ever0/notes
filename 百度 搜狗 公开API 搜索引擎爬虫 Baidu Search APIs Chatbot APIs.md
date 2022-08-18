@@ -1,8 +1,8 @@
 ---
-tags: [API, image gathering, information gathering, search engine]
+tags: [API, chatbot, image gathering, information gathering, search engine]
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 created: '2022-07-09T16:16:40.000Z'
-modified: '2022-08-18T16:42:19.712Z'
+modified: '2022-08-18T16:42:25.332Z'
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
