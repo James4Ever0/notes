@@ -2,7 +2,7 @@
 tags: [schedule]
 title: backup schedules
 created: '2022-08-18T03:56:00.101Z'
-modified: '2022-08-18T07:14:33.662Z'
+modified: '2022-08-18T07:14:43.428Z'
 ---
 
 # backup schedules
@@ -13,4 +13,4 @@ modified: '2022-08-18T07:14:33.662Z'
 
 ## online backup
 - [ ] send systemwide notification if aliyun disk token expires, with reacquiring method broadcasted
-- [ ] schedule pyjom on alpharetta backup to cloud every 12 hours
+- [ ] schedule pyjom on alpharetta backup to cloud disks every 12 hours
