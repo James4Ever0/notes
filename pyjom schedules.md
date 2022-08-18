@@ -2,12 +2,13 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T03:39:30.356Z'
+modified: '2022-08-18T03:40:48.293Z'
 ---
 
 # pyjom dev schedules
 
 ## recommendation
+- [ ] use txtai to do NLU and recommend things to people
 
 ## topic acquiring
 ### trending topics
