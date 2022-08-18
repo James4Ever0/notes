@@ -1,8 +1,8 @@
 ---
-tags: [host name resolve]
+tags: [host name resolve, network, nmap]
 title: Resolve Host Name Computer Name From IP
 created: '2022-08-05T18:47:51.182Z'
-modified: '2022-08-18T16:21:47.652Z'
+modified: '2022-08-18T16:21:51.021Z'
 ---
 
 # Resolve Host Name Computer Name From IP
