@@ -1,8 +1,8 @@
 ---
-tags: [anime]
+tags: [anime, video sources]
 title: Watch Anime Online
 created: '2022-05-29T07:32:37.000Z'
-modified: '2022-08-18T16:34:54.277Z'
+modified: '2022-08-18T16:34:56.766Z'
 ---
 
 # Watch Anime Online
