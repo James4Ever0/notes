@@ -1,7 +1,8 @@
 ---
+tags: [API]
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 created: '2022-07-09T16:16:40.000Z'
-modified: '2022-08-10T06:15:46.976Z'
+modified: '2022-08-18T16:42:08.342Z'
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
