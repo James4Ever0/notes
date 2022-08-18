@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T03:40:48.293Z'
+modified: '2022-08-18T04:18:35.441Z'
 ---
 
 # pyjom dev schedules
@@ -32,6 +32,8 @@ modified: '2022-08-18T03:40:48.293Z'
 - [ ] remove all hints that may lead to copyright issues
 
 ## qq managing
+- [ ] mitm chats in friends
+- [ ] mitm chats in groups
 - [ ] source and send pictures to qzone
 - [ ] source and send pictures to chat
 - [ ] reduce posting frequency by group size and feedback
