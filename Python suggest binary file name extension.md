@@ -1,8 +1,8 @@
 ---
-tags: [pyjom]
+tags: [media recognization, pyjom]
 title: Python suggest binary file name extension
 created: '2022-08-10T11:16:10.000Z'
-modified: '2022-08-18T16:19:24.162Z'
+modified: '2022-08-18T16:19:29.284Z'
 ---
 
 # Detect media file corruption, Python suggest binary file name extension
