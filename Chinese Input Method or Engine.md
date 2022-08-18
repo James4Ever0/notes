@@ -1,8 +1,8 @@
 ---
-tags: [IME, input method]
+tags: [chinese, IME, input method]
 title: Chinese Input Method or Engine
 created: '2022-05-29T08:05:24.000Z'
-modified: '2022-08-18T14:13:00.256Z'
+modified: '2022-08-18T14:13:07.295Z'
 ---
 
 # Chinese Input Method/Engine
