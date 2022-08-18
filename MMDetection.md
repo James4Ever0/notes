@@ -1,8 +1,8 @@
 ---
-tags: [3D model, dancing, MMD, pyjom, video generator]
+tags: [3D model, dancing, MMD, OpenMM, pyjom, video generator]
 title: MMDetection
 created: '2022-04-21T17:58:04.000Z'
-modified: '2022-08-18T07:48:25.344Z'
+modified: '2022-08-18T14:52:50.217Z'
 ---
 
 # MMDetection/MMD
