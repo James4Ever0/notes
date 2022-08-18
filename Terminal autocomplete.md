@@ -1,6 +1,8 @@
 ---
-created: 2022-07-11T23:46:51+08:00
-modified: 2022-07-11T23:47:31+08:00
+tags: [autocomplete, terminal]
+title: Terminal autocomplete
+created: '2022-07-11T15:46:51.000Z'
+modified: '2022-08-18T16:27:25.955Z'
 ---
 
 # Terminal autocomplete
