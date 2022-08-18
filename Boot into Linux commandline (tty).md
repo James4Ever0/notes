@@ -1,8 +1,8 @@
 ---
-tags: [system manage]
+tags: [emergency, kali, system manage]
 title: Boot into Linux commandline (tty)
 created: '2022-05-06T19:03:48.000Z'
-modified: '2022-08-18T14:00:07.555Z'
+modified: '2022-08-18T14:00:13.516Z'
 ---
 
 # Boot into Linux commandline (tty)
