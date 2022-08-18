@@ -1,6 +1,8 @@
 ---
-created: 2022-06-09T14:57:51+08:00
-modified: 2022-06-09T14:59:24+08:00
+tags: [source code understanding]
+title: Source code semantic search tool
+created: '2022-06-09T06:57:51.000Z'
+modified: '2022-08-18T16:27:01.115Z'
 ---
 
 # Source code semantic search tool audit tool
