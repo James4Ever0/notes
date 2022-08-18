@@ -1,6 +1,8 @@
 ---
-created: 2022-05-22T18:19:25+08:00
-modified: 2022-05-24T13:34:16+08:00
+tags: [crypto mining, github]
+title: github挖币
+created: '2022-05-22T10:19:25.000Z'
+modified: '2022-08-18T13:57:25.075Z'
 ---
 
 # github挖币 xmr xmrig Monero
