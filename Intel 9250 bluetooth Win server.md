@@ -1,8 +1,8 @@
 ---
-tags: [bluetooth, driver]
+tags: [alienware, bluetooth, driver, intel]
 title: Intel 9250 bluetooth Win server
 created: '2022-03-23T16:41:23.000Z'
-modified: '2022-08-18T15:31:51.759Z'
+modified: '2022-08-18T15:31:55.324Z'
 ---
 
 # Intel 9250 bluetooth Win server
