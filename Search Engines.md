@@ -1,8 +1,8 @@
 ---
-tags: [diy]
+tags: [diy, self-hosted]
 title: Search Engines
 created: '2022-06-08T13:57:58.000Z'
-modified: '2022-08-18T16:23:25.339Z'
+modified: '2022-08-18T16:23:28.402Z'
 ---
 
 # Search Engines DIY
