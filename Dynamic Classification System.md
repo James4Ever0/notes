@@ -1,8 +1,8 @@
 ---
-tags: [classification, information retrieval]
+tags: [AI, classification, information retrieval, stub]
 title: Dynamic Classification System
 created: '2022-01-30T18:26:56.000Z'
-modified: '2022-08-18T14:49:21.447Z'
+modified: '2022-08-18T14:49:25.216Z'
 ---
 
 # Dynamic Classification System
