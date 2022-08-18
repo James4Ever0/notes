@@ -1,6 +1,8 @@
 ---
-created: 2021-12-22T05:45:58+00:00
-modified: 2022-02-08T09:31:04+00:00
+tags: [freelancer]
+title: The Hack (Get password and tests)
+created: '2021-12-22T05:45:58.000Z'
+modified: '2022-08-18T16:03:59.210Z'
 ---
 
 # The Hack (Get password and tests)
