@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T22:11:14+08:00
-modified: 2022-05-29T22:12:35+08:00
+tags: [credential]
+title: Mi Account changes
+created: '2022-05-29T14:11:14.000Z'
+modified: '2022-08-18T15:36:32.147Z'
 ---
 
 # Mi Account changes
