@@ -1,7 +1,8 @@
 ---
+tags: [recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2022-08-16T20:08:26.731Z'
+modified: '2022-08-18T07:27:43.609Z'
 ---
 
 # 推荐系统 GNN
