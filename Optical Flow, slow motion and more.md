@@ -1,8 +1,8 @@
 ---
-tags: [frame interpolation, slow motion, video interpolation]
+tags: [frame interpolation, slow motion, video generator, video interpolation]
 title: 'Optical Flow, slow motion and more'
 created: '2022-04-19T08:50:32.000Z'
-modified: '2022-08-18T14:08:34.994Z'
+modified: '2022-08-18T14:08:41.547Z'
 ---
 
 # Optical Flow, slow motion and more
