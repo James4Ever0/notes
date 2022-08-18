@@ -1,11 +1,14 @@
 ---
-created: 2022-08-18T03:13:02+08:00
-modified: 2022-08-18T03:17:41+08:00
+tags: [schedule]
+title: hacking schedules
+created: '2022-08-17T19:13:02.000Z'
+modified: '2022-08-18T02:54:38.758Z'
 ---
 
 # hacking schedules
 
 ## github coin mining
+- [ ] automatic captcha resolve by clash redirection to force the captcha not being too complex
 
 ## bilibili seo and hacking
 

@@ -1,6 +1,8 @@
 ---
-created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-18T10:05:49+08:00
+tags: [schedule]
+title: pyjom schedules
+created: '2022-08-17T19:02:54.000Z'
+modified: '2022-08-18T02:53:13.430Z'
 ---
 
 # pyjom dev schedules
@@ -13,6 +15,11 @@ modified: 2022-08-18T10:05:49+08:00
 - [ ] collect feedback after the post
 
 ## text to video, template based video generator
+- [ ] analyze danmaku
+- [ ] cut the crap and understand each clip's meaning
+- [ ] process the video clips
+- [ ] process the audio clips
+- [ ] remove all hints that may lead to copyright issues
 
 ## qq managing
 - [ ] source and send pictures to qzone
