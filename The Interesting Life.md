@@ -1,6 +1,8 @@
 ---
-created: 2022-05-16T12:35:09+08:00
-modified: 2022-05-16T21:56:33+08:00
+tags: [idea]
+title: The Interesting Life
+created: '2022-05-16T04:35:09.000Z'
+modified: '2022-08-18T16:03:36.916Z'
 ---
 
 # The Interesting Life: Increase Video/Essay/Post Views
