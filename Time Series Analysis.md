@@ -1,8 +1,8 @@
 ---
-tags: [financial, forecasting, stock market, time series]
+tags: [data analysis, financial, forecasting, stock market, time series]
 title: Time Series Analysis
 created: '2022-06-01T02:50:42.000Z'
-modified: '2022-08-18T16:29:07.107Z'
+modified: '2022-08-18T16:29:12.523Z'
 ---
 
 # Time Series Analysis
