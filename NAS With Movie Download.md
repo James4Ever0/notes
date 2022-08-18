@@ -1,8 +1,8 @@
 ---
-tags: [hardwaer, storage]
+tags: [storage]
 title: NAS With Movie Download
 created: '2022-01-11T06:20:50.000Z'
-modified: '2022-08-18T16:14:55.396Z'
+modified: '2022-08-18T16:14:58.187Z'
 ---
 
 # NAS With Movie Download
