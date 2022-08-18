@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T11:44:18+08:00
-modified: 2022-05-31T11:48:23+08:00
+tags: [dancing]
+title: Jiggy boring still image to funny dance video
+created: '2022-05-31T03:44:18.000Z'
+modified: '2022-08-18T15:32:48.748Z'
 ---
 
 # Jiggy boring still image to funny dance video
