@@ -1,8 +1,8 @@
 ---
-tags: [anime, face landmark, facial, facial expression detection, image segmentation, smile]
+tags: [anime, face landmark, facial, facial expression detection, image segmentation, pyjom, smile]
 title: Anime smile detection_ segmentation
 created: '2022-05-11T03:48:39.000Z'
-modified: '2022-08-18T12:01:51.550Z'
+modified: '2022-08-18T12:02:59.407Z'
 ---
 
 # Anime smile detection/ segmentation
