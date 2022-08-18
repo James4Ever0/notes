@@ -1,8 +1,8 @@
 ---
-tags: [ideas, pyjom]
+tags: [ideas, producer, pyjom, structure]
 title: pyjom producer
 created: '2022-05-07T11:09:20.000Z'
-modified: '2022-08-18T16:18:46.456Z'
+modified: '2022-08-18T16:18:50.200Z'
 ---
 
 # pyjom producer
