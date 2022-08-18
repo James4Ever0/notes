@@ -1,8 +1,8 @@
 ---
-tags: [python, remove unwanted, system  manage]
+tags: [clean trash, python, remove unwanted, system  manage]
 title: Remove Unused pip dependencies
 created: '2022-08-04T03:58:57.701Z'
-modified: '2022-08-18T16:21:01.891Z'
+modified: '2022-08-18T16:21:08.007Z'
 ---
 
 # Remove Unused pip dependencies
