@@ -1,8 +1,11 @@
 ---
-created: 2022-03-05T23:14:55+08:00
-modified: 2022-03-05T23:15:09+08:00
+title: Android Emulators
+created: '2022-03-05T15:14:55.000Z'
+modified: '2022-08-18T12:00:47.910Z'
 ---
 
 # Android Emulators
 
 WayDroid
+
+anbox?
