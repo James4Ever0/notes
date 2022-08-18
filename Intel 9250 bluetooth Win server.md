@@ -1,8 +1,8 @@
 ---
-tags: [driver]
+tags: [bluetooth, driver]
 title: Intel 9250 bluetooth Win server
 created: '2022-03-23T16:41:23.000Z'
-modified: '2022-08-18T15:31:47.765Z'
+modified: '2022-08-18T15:31:51.759Z'
 ---
 
 # Intel 9250 bluetooth Win server
