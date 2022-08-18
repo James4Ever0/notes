@@ -2,7 +2,7 @@
 tags: [schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-18T03:09:11.380Z'
+modified: '2022-08-18T03:09:21.286Z'
 ---
 
 # pyjom dev schedules
@@ -28,7 +28,7 @@ modified: '2022-08-18T03:09:11.380Z'
 - [ ] post relative video link relative to group topic
 
 ## personal info collecting and email/sms bulk sending
-- [ ] avoid email turned into junk/trash 
+- [ ] avoid email turned into junk/trash
 
 ## voice changer
 - [ ] vst based voice change3
