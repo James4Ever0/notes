@@ -1,8 +1,8 @@
 ---
-tags: [system manage]
+tags: [ramfs, system manage]
 title: 'ramfs on macos, linux and windows'
 created: '2022-08-11T11:28:39.000Z'
-modified: '2022-08-18T07:37:29.569Z'
+modified: '2022-08-18T07:37:31.050Z'
 ---
 
 # ramfs on macos, linux and windows
