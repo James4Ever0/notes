@@ -1,6 +1,8 @@
 ---
-created: 2022-05-06T19:59:22+08:00
-modified: 2022-05-07T03:03:47+08:00
+tags: [tablet]
+title: Letsketch libwacom
+created: '2022-05-06T11:59:22.000Z'
+modified: '2022-08-18T15:29:58.407Z'
 ---
 
 # Letsketch libwacom
