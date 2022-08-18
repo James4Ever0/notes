@@ -1,8 +1,8 @@
 ---
-tags: [AI, search engine, self-hosted]
+tags: [AI, media search engine, search engine, self-hosted]
 title: 'Jina: Neural Search Engine for Images, Videos, Audios'
 created: '2022-05-29T05:18:28.000Z'
-modified: '2022-08-18T15:33:22.778Z'
+modified: '2022-08-18T15:33:29.281Z'
 ---
 
 # Jina: Neural Search Engine for Images, Videos, Audios
