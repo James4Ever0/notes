@@ -1,8 +1,8 @@
 ---
-tags: [telegram]
+tags: [chatbot, framework, telegram]
 title: Telegram Bot
 created: '2022-02-19T11:37:13.000Z'
-modified: '2022-08-18T16:04:17.543Z'
+modified: '2022-08-18T16:04:22.282Z'
 ---
 
 # Telegram Bot
