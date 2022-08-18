@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T14:34:54+08:00
-modified: 2022-05-31T14:35:25+08:00
+tags: [monitization]
+title: Youtube Monitization 油管变现
+created: '2022-05-31T06:34:54.000Z'
+modified: '2022-08-18T16:36:26.458Z'
 ---
 
 # Youtube Monitization 油管变现
