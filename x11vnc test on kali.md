@@ -1,7 +1,8 @@
 ---
+tags: [credential]
 title: x11vnc test on kali
 created: '2022-08-09T18:42:03.499Z'
-modified: '2022-08-09T18:47:48.879Z'
+modified: '2022-08-18T08:02:48.917Z'
 ---
 
 # x11vnc test on kali
