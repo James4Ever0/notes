@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T16:03:27+08:00
-modified: 2022-05-29T16:05:14+08:00
+tags: [backup, sync]
+title: Upload Model To Huggingface
+created: '2022-05-29T08:03:27.000Z'
+modified: '2022-08-18T16:30:19.601Z'
 ---
 
 # Upload Model To Huggingface
