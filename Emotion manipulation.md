@@ -1,8 +1,8 @@
 ---
-tags: [emotion, ideas]
+tags: [emotion, ideas, social media]
 title: Emotion manipulation
 created: '2022-04-14T14:23:27.000Z'
-modified: '2022-08-18T14:46:17.345Z'
+modified: '2022-08-18T14:46:21.648Z'
 ---
 
 # Emotion manipulation
