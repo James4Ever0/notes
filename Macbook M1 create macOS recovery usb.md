@@ -1,6 +1,8 @@
 ---
-created: 2022-07-27T08:12:15+08:00
-modified: 2022-07-27T08:12:55+08:00
+tags: [stub]
+title: Macbook M1 create macOS recovery usb
+created: '2022-07-27T00:12:15.000Z'
+modified: '2022-08-18T14:58:48.541Z'
 ---
 
 # Macbook M1 create macOS recovery usb
