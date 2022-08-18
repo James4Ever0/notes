@@ -1,8 +1,8 @@
 ---
-tags: [model training, pyjom, speech synthesis, voice changer, vst]
+tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-08-18T07:55:18.884Z'
+modified: '2022-08-18T07:55:22.447Z'
 ---
 
 # 变声软件 Morphvox alternatives
