@@ -1,7 +1,8 @@
 ---
+tags: [system manage]
 title: the kali command on macos
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-11T20:48:11.917Z'
+modified: '2022-08-18T08:00:51.404Z'
 ---
 
 # the kali command on macos
