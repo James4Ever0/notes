@@ -2,7 +2,7 @@
 tags: [pyjom, video edit, video generator]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-18T17:09:36.386Z'
+modified: '2022-08-18T17:10:22.925Z'
 ---
 
 # Video Editors
@@ -10,7 +10,7 @@ modified: '2022-08-18T17:09:36.386Z'
 https://github.com/Zulko/moviepy
 
 javascript video editor:
-[](https://github.com/pankod/canvas2video)
+[creating and rendering dynamic videos](https://github.com/pankod/canvas2video)
 [video slideshow creator](https://github.com/h2non/videoshow)
 [editly's gui](https://github.com/mifi/lossless-cut)
 [editly the slick video editor](https://github.com/mifi/editly)
