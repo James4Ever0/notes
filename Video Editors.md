@@ -2,7 +2,7 @@
 tags: [pyjom, video edit, video generator]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-18T17:07:50.742Z'
+modified: '2022-08-18T17:09:20.518Z'
 ---
 
 # Video Editors
@@ -10,15 +10,15 @@ modified: '2022-08-18T17:07:50.742Z'
 https://github.com/Zulko/moviepy
 
 javascript video editor:
-https://github.com/pankod/canvas2video
-https://github.com/mifi/lossless-cut
-https://github.com/mifi/editly
+[](https://github.com/pankod/canvas2video)
+[video slideshow creator](https://github.com/h2non/videoshow)
+[editly's gui](https://github.com/mifi/lossless-cut)
+[editly the slick video editor](https://github.com/mifi/editly)
 ```bash
 npm i -g editly
 ```
-
-complex react native animation engine:
-https://github.com/JonnyBurger/remotion
+[]()
+[complex react native animation engine, not open source](https://github.com/JonnyBurger/remotion)
 
 <a id="anchor"></a>
 vidpy based on mltframework, shotcut
