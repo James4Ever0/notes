@@ -1,8 +1,8 @@
 ---
-tags: [chatbot, conversation, model zoo, training data, 白嫖]
+tags: [chatbot, cloud, conversation, model zoo, training data, 白嫖]
 title: Chatbot
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-08-18T08:00:18.031Z'
+modified: '2022-08-18T08:00:25.173Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
