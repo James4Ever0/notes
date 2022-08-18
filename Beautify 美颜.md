@@ -1,8 +1,8 @@
 ---
-tags: [pyjom, video generator]
+tags: [pyjom, video generator, 美颜]
 title: Beautify 美颜
 created: '2022-07-10T10:59:49.000Z'
-modified: '2022-08-18T08:05:07.730Z'
+modified: '2022-08-18T08:05:15.329Z'
 ---
 
 # Beautify 美颜
