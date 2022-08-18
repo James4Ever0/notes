@@ -1,8 +1,8 @@
 ---
-tags: [remote control]
+tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: '2022-03-04T15:13:13.000Z'
-modified: '2022-08-18T16:35:25.510Z'
+modified: '2022-08-18T16:35:46.757Z'
 ---
 
 # Worth Trying Remote Computer Connection
