@@ -1,6 +1,8 @@
 ---
-created: 2022-03-15T17:12:55+08:00
-modified: 2022-03-27T23:38:05+08:00
+tags: [credentials]
+title: Mobile data China Unicom
+created: '2022-03-15T09:12:55.000Z'
+modified: '2022-08-18T15:47:32.314Z'
 ---
 
 # Mobile data China Unicom
