@@ -1,8 +1,8 @@
 ---
-tags: [editor]
+tags: [editor, restore session]
 title: vim session restore
 created: '2022-08-10T07:06:39.000Z'
-modified: '2022-08-18T07:43:38.121Z'
+modified: '2022-08-18T07:43:43.009Z'
 ---
 
 # vim session restore
