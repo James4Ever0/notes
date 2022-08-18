@@ -1,8 +1,8 @@
 ---
-tags: [cloud sync, git manage, sync, system manage]
+tags: [cloud sync, git manage, repo manage, sync, system manage]
 title: github Gitee 大文件大型repo如何上传
 created: '2022-07-16T10:40:40.000Z'
-modified: '2022-08-18T14:55:00.034Z'
+modified: '2022-08-18T14:55:04.232Z'
 ---
 
 # github Gitee 大文件大型repo如何上传
