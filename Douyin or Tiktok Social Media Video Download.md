@@ -1,8 +1,8 @@
 ---
-tags: [information gathering, scraping, video scraping, video source]
+tags: [douyin, information gathering, scraping, tiktok, video scraping, video source]
 title: Douyin or Tiktok Social Media Video Download
 created: '2022-05-05T02:23:53.000Z'
-modified: '2022-08-18T14:44:48.868Z'
+modified: '2022-08-18T14:44:53.232Z'
 ---
 
 # Douyin/Tiktok Social Media Video Download
