@@ -1,8 +1,8 @@
 ---
-tags: [information gathering]
+tags: [information gathering, video sources]
 title: Userscript and info_data collection
 created: '2022-04-25T20:54:07.000Z'
-modified: '2022-08-18T16:30:57.883Z'
+modified: '2022-08-18T16:31:01.698Z'
 ---
 
 # Userscript and info/data collection
