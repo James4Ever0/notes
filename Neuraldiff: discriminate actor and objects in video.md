@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T11:57:06+08:00
-modified: 2022-05-29T11:59:00+08:00
+tags: [video analysis]
+title: 'Neuraldiff: discriminate actor and objects in video'
+created: '2022-05-29T03:57:06.000Z'
+modified: '2022-08-18T16:02:05.558Z'
 ---
 
 # Neuraldiff: discriminate actor and objects in video
