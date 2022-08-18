@@ -1,8 +1,8 @@
 ---
-tags: [auto post, auto publishing, bot, stub]
+tags: [auto post, auto publishing, bot, media manage, stub]
 title: 自动内容发布 多平台发布 管理多个自媒体平台 automatic content posting in multiple platforms
 created: '2022-08-14T16:49:02.991Z'
-modified: '2022-08-18T07:39:22.870Z'
+modified: '2022-08-18T07:39:31.485Z'
 ---
 
 # 自动内容发布 多平台发布 管理多个自媒体平台 automatic content posting in multiple platforms
