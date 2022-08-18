@@ -2,7 +2,7 @@
 tags: [CoreML, paddlepaddle, Swift]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-08-18T09:08:19.330Z'
+modified: '2022-08-18T10:27:35.863Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -12,6 +12,8 @@ modified: '2022-08-18T09:08:19.330Z'
 it is used for coreml inference, not training
 
 ## run coreml with swift on linux
+
+darling is at its very premature stage, just like the wine. now it is testing something called "darlingserver" which is a full userspace implementation and is prone to tons of problems. swift repl is not working and installing xcode commandline tools 14 will hang this thing. i suggest you to do light model training on macbook air and convert it to onnx if want to use it everywhere.
 
 before reinstallation of darling, make sure you have removed all darling related files by checking `updatedb; locate darling | grep -v <compile directory>`
 
