@@ -2,7 +2,7 @@
 tags: [CoreML, paddlepaddle, Swift]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-08-18T10:27:35.863Z'
+modified: '2022-08-18T18:17:03.487Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -10,6 +10,13 @@ modified: '2022-08-18T10:27:35.863Z'
 ## neural engine
 
 it is used for coreml inference, not training
+
+## run coreml on hackintosh
+
+first, download macos montery using the mac.
+then, install it on hackintosh, with associated nvidia drivers.
+next test gpu avalibility via system info panel.
+then install xcode commandline tools and check coreml avalibility
 
 ## run coreml with swift on linux
 
