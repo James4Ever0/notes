@@ -1,6 +1,8 @@
 ---
-created: 2022-06-19T17:41:38+08:00
-modified: 2022-06-19T17:42:51+08:00
+tags: [playwright]
+title: playwright intercept request header cookie
+created: '2022-06-19T09:41:38.000Z'
+modified: '2022-08-18T16:17:06.208Z'
 ---
 
 # playwright intercept request header cookie
