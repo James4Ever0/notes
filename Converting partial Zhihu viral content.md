@@ -1,6 +1,8 @@
 ---
-created: 2022-03-31T11:07:29+08:00
-modified: 2022-03-31T11:08:19+08:00
+tags: [text sources]
+title: Converting partial Zhihu viral content
+created: '2022-03-31T03:07:29.000Z'
+modified: '2022-08-18T14:17:20.300Z'
 ---
 
 # Converting partial Zhihu viral content
