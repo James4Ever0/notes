@@ -1,8 +1,8 @@
 ---
-tags: [MMD, video generator]
+tags: [dancing, MMD, video generator]
 title: MMDetection
 created: '2022-04-21T17:58:04.000Z'
-modified: '2022-08-18T07:45:02.973Z'
+modified: '2022-08-18T07:45:05.620Z'
 ---
 
 # MMDetection/MMD
