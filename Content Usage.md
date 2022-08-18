@@ -1,8 +1,8 @@
 ---
-tags: [pyjom]
+tags: [idea, paraphraser, pyjom, text generation]
 title: Content Usage
 created: '2022-04-25T12:34:51.000Z'
-modified: '2022-08-18T14:16:41.353Z'
+modified: '2022-08-18T14:16:51.388Z'
 ---
 
 # Content Usage
