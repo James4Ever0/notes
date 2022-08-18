@@ -1,8 +1,8 @@
 ---
-tags: [credentials]
+tags: [credentials, freelancer]
 title: Korean Shop Boosting
 created: '2022-02-25T06:23:59.000Z'
-modified: '2022-08-18T15:35:00.349Z'
+modified: '2022-08-18T15:35:05.446Z'
 ---
 
 # Korean Shop Boosting
