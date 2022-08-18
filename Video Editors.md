@@ -1,8 +1,8 @@
 ---
-tags: [pyjom, video edit]
+tags: [pyjom, video edit, video generator]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-18T07:50:11.427Z'
+modified: '2022-08-18T07:50:16.943Z'
 ---
 
 # Video Editors
