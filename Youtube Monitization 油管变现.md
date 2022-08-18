@@ -1,8 +1,8 @@
 ---
-tags: [idea, monitization, stub]
+tags: [idea, monitization, stub, youtube]
 title: Youtube Monitization 油管变现
 created: '2022-05-31T06:34:54.000Z'
-modified: '2022-08-18T16:36:28.766Z'
+modified: '2022-08-18T16:36:35.539Z'
 ---
 
 # Youtube Monitization 油管变现
