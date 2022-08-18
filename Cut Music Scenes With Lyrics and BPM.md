@@ -1,8 +1,8 @@
 ---
-tags: [dog video, project, pyjom]
+tags: [audio analysis, dog video, project, pyjom]
 title: Cut Music Scenes With Lyrics and BPM
 created: '2022-07-08T18:17:05.000Z'
-modified: '2022-08-18T14:40:38.853Z'
+modified: '2022-08-18T14:40:42.162Z'
 ---
 
 # Cut Music Segments With Lyrics and BPM
