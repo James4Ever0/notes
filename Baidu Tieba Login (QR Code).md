@@ -2,7 +2,7 @@
 tags: [autologin, freelancer, reverse engineering, tieba]
 title: Baidu Tieba Login (QR Code)
 created: '2021-12-19T21:56:45.000Z'
-modified: '2022-08-18T07:35:48.558Z'
+modified: '2022-08-18T13:47:06.071Z'
 ---
 
 # Baidu Tieba Login (QR Code)
@@ -10,8 +10,8 @@ modified: '2022-08-18T07:35:48.558Z'
 Assigned a job.
 
 Cloud Phone:
-http://www.ddyun.com/sem/pcddybdyunkong/?bd_vid=7609174489837191328
-17756220843:fsfs5214
+`http://www.ddyun.com/sem/pcddybdyunkong/?bd_vid=7609174489837191328
+17756220843:fsfs5214`
 
 QR Link:
 https://wappass.baidu.com/wp/?qrlogin&t=1640006201&error=0&sign=v1_13fa5a31cf31fa864475cbf3fd2fc&cmd=login&lp=pc&tpl=tb&adapter=3&logPage=traceId%3Apc_loginv4_1640006201%2ClogPage%3Aloginv4&qrloginfrom=pc&local=%E5%8D%97%E4%BA%AC
