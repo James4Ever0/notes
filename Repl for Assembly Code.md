@@ -1,8 +1,8 @@
 ---
-tags: [asm, assembly, nasm, repl]
+tags: [asm, assembly, nasm, repl, self-learning]
 title: Repl for Assembly Code
 created: '2022-07-13T03:09:59.458Z'
-modified: '2022-08-18T16:21:23.013Z'
+modified: '2022-08-18T16:21:30.765Z'
 ---
 
 # Repl for Assembly Code
