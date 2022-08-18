@@ -1,6 +1,8 @@
 ---
-created: 2022-07-01T20:02:25+08:00
-modified: 2022-07-01T20:45:27+08:00
+tags: [remote control]
+title: Enable multiple concurrent RDP sessions on windows
+created: '2022-07-01T12:02:25.000Z'
+modified: '2022-08-18T14:51:11.805Z'
 ---
 
 # Enable multiple concurrent RDP sessions on windows
