@@ -1,8 +1,8 @@
 ---
-tags: [source code understanding]
+tags: [code analysis, source code understanding]
 title: Source code semantic search tool
 created: '2022-06-09T06:57:51.000Z'
-modified: '2022-08-18T16:27:01.115Z'
+modified: '2022-08-18T16:27:06.936Z'
 ---
 
 # Source code semantic search tool audit tool
