@@ -1,8 +1,8 @@
 ---
-tags: [SEO, topic analysis]
+tags: [SEO, topic analysis, trend analysis]
 title: SEO 蓝海词 竞争度
 created: '2022-07-14T02:40:43.000Z'
-modified: '2022-08-18T08:09:01.144Z'
+modified: '2022-08-18T08:09:10.867Z'
 ---
 
 # SEO 蓝海词 飙升词 竞争度 搜索人气 转化率 成交价（视频长度）
