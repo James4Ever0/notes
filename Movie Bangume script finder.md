@@ -1,8 +1,8 @@
 ---
-tags: [anime]
+tags: [anime, anime script]
 title: Movie Bangume script finder
 created: '2022-05-29T07:20:13.000Z'
-modified: '2022-08-18T15:52:26.665Z'
+modified: '2022-08-18T15:52:30.342Z'
 ---
 
 # Movie Bangume script finder
