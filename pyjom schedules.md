@@ -10,7 +10,7 @@ modified: '2022-08-18T07:21:18.051Z'
 ## recommendation
 - [ ] use txtai to do NLU and recommend things to people
 
-## topic acquiring
+## topic discovery/acquiring
 ### trending topics
 - [ ] baidu search trending
 - [ ] sogou trending
