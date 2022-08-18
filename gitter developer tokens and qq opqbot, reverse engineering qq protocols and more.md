@@ -1,8 +1,8 @@
 ---
-tags: [reverse engineering]
+tags: [chatbot, reverse engineering]
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.000Z'
-modified: '2022-08-18T07:51:24.978Z'
+modified: '2022-08-18T07:51:28.665Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
