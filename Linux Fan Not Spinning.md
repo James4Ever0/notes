@@ -1,8 +1,8 @@
 ---
-tags: [hardware, system manage]
+tags: [hardware, security, system manage]
 title: Linux Fan Not Spinning
 created: '2022-08-11T04:25:28.086Z'
-modified: '2022-08-18T07:41:59.817Z'
+modified: '2022-08-18T07:42:04.535Z'
 ---
 
 # Linux Fan Not Spinning
