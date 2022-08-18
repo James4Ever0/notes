@@ -2,7 +2,7 @@
 tags: [schedule]
 title: self-learning schedules
 created: '2022-08-17T19:15:16.000Z'
-modified: '2022-08-18T03:30:02.052Z'
+modified: '2022-08-18T03:30:33.200Z'
 ---
 
 # self-learning schedules
@@ -15,5 +15,6 @@ modified: '2022-08-18T03:30:02.052Z'
 
 ## finance and quantatitive trading
 - [ ] design a basic algorithm and complete regression test on joinquant
+- [ ] design and complete one regression test offline
 
 ## artificial general intelligence
