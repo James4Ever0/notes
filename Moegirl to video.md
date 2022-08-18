@@ -1,8 +1,8 @@
 ---
-tags: [wiki]
+tags: [text to video, wiki]
 title: Moegirl to video
 created: '2022-05-29T07:39:13.000Z'
-modified: '2022-08-18T15:50:18.067Z'
+modified: '2022-08-18T15:50:21.226Z'
 ---
 
 # Moegirl to video
