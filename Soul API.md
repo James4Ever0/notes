@@ -1,8 +1,8 @@
 ---
-tags: [API]
+tags: [API, soul]
 title: Soul API
 created: '2022-07-08T15:57:27.000Z'
-modified: '2022-08-18T16:11:26.549Z'
+modified: '2022-08-18T16:11:28.205Z'
 ---
 
 # Soul APIs
