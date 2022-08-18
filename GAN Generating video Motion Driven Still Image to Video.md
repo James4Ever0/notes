@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T11:52:26+08:00
-modified: 2022-08-14T22:30:26+08:00
+tags: [motion driven video]
+title: GAN Generating video Motion Driven Still Image to Video
+created: '2022-05-29T03:52:26.000Z'
+modified: '2022-08-18T14:53:58.316Z'
 ---
 
 # GAN Generating video Motion Driven Still Image to Video
