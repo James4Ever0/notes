@@ -1,8 +1,8 @@
 ---
-tags: [smile]
+tags: [facial, smile]
 title: Anime smile detection_ segmentation
 created: '2022-05-11T03:48:39.000Z'
-modified: '2022-08-18T12:01:23.425Z'
+modified: '2022-08-18T12:01:27.504Z'
 ---
 
 # Anime smile detection/ segmentation
