@@ -2,7 +2,7 @@
 tags: [idea, pyjom]
 title: Python Media Automation
 created: '2022-02-10T07:11:00.000Z'
-modified: '2022-08-18T16:12:05.488Z'
+modified: '2022-08-18T16:12:11.130Z'
 ---
 
 # Python Media Automation
