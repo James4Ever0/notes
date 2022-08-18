@@ -2,12 +2,12 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-18T07:17:30.974Z'
+modified: '2022-08-18T07:21:45.344Z'
 ---
 
 # hacking schedules
 
-## github coin mining
+## github coin (xmrig) mining
 - [ ] automatic captcha resolve by clash redirection to force the captcha not being too complex
 - [ ] create better labeling interface for spiral picture detection
 - [ ] automate the whole process unsupervised
