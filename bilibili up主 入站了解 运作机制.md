@@ -1,8 +1,8 @@
 ---
-tags: [bilibili, community rules, courses, creater's rules, rules]
+tags: [bilibili, community rules, courses, creater's rules, intro, rules]
 title: bilibili up主 入站了解 运作机制
 created: '2022-06-10T07:15:32.000Z'
-modified: '2022-08-18T13:45:15.631Z'
+modified: '2022-08-18T13:45:37.133Z'
 ---
 
 # bilibili up主 入站了解 运作机制 开篇动画
