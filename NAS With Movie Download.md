@@ -1,8 +1,8 @@
 ---
-tags: [hardware, remote connection, remote control, storage]
+tags: [hardware, remote connection, remote control, remote storage, storage]
 title: NAS With Movie Download
 created: '2022-01-11T06:20:50.000Z'
-modified: '2022-08-18T16:15:26.319Z'
+modified: '2022-08-18T16:15:29.248Z'
 ---
 
 # NAS With Movie Download
