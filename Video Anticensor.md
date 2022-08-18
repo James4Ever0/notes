@@ -1,6 +1,8 @@
 ---
-created: 2022-05-10T00:50:56+08:00
-modified: 2022-05-10T11:55:58+08:00
+tags: [video generator]
+title: Video Anticensor
+created: '2022-05-09T16:50:56.000Z'
+modified: '2022-08-18T16:02:53.037Z'
 ---
 
 # Video Anticensor For Bilibili Tarot
