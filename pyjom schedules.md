@@ -1,5 +1,5 @@
 ---
-tags: [schedule]
+tags: [schedule, ]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
 modified: '2022-08-18T07:21:18.051Z'
