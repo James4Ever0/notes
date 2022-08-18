@@ -1,8 +1,8 @@
 ---
-tags: [video generator]
+tags: [circumvention, video generator]
 title: Video Anticensor
 created: '2022-05-09T16:50:56.000Z'
-modified: '2022-08-18T16:02:53.037Z'
+modified: '2022-08-18T16:02:56.429Z'
 ---
 
 # Video Anticensor For Bilibili Tarot
