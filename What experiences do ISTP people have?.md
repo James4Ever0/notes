@@ -1,6 +1,8 @@
 ---
-created: 2022-06-04T04:14:08+08:00
-modified: 2022-06-04T04:49:27+08:00
+tags: [psychological]
+title: What experiences do ISTP people have?
+created: '2022-06-03T20:14:08.000Z'
+modified: '2022-08-18T15:26:30.276Z'
 ---
 
 # What experiences do ISTP people have?
