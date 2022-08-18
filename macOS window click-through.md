@@ -1,8 +1,8 @@
 ---
-tags: [macos]
+tags: [GUI, macos]
 title: macOS window click-through
 created: '2022-07-27T05:12:56.735Z'
-modified: '2022-08-18T15:28:40.286Z'
+modified: '2022-08-18T15:28:41.854Z'
 ---
 
 # macOS window click-through
