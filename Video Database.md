@@ -1,8 +1,8 @@
 ---
-tags: [information analysis]
+tags: [information analysis, video analysis]
 title: Video Database
 created: '2022-05-05T01:13:55.000Z'
-modified: '2022-08-18T07:44:05.324Z'
+modified: '2022-08-18T07:44:07.966Z'
 ---
 
 # Video Database For Video Generation
