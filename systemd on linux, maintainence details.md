@@ -1,7 +1,8 @@
 ---
+tags: [system manage]
 title: 'systemd on linux, maintainence details'
 created: '2022-08-09T05:51:57.121Z'
-modified: '2022-08-09T06:24:07.421Z'
+modified: '2022-08-18T07:38:49.116Z'
 ---
 
 # systemd on linux, maintainence details
