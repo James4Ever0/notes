@@ -1,8 +1,8 @@
 ---
-tags: [animation, easing, focus on object, intermediate, pyjom, tweening]
+tags: [animation, crop the crap, easing, focus on object, intermediate, pyjom, tweening]
 title: 'tweening for object focus, zoom to object, zoom to video ROI'
 created: '2022-08-08T06:44:24.000Z'
-modified: '2022-08-18T08:07:03.030Z'
+modified: '2022-08-18T08:07:08.515Z'
 ---
 
 # tweening for object focus, zoom to object, zoom to video ROI
