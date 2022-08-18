@@ -1,8 +1,8 @@
 ---
-tags: [chatbot, conversation, information gathering, scraping, video generator]
+tags: [chatbot, conversation, information gathering, pyjom, scraping, video generator]
 title: QQ 微信 信息提取 bot搭建
 created: '2022-05-24T05:30:47.000Z'
-modified: '2022-08-18T07:34:14.456Z'
+modified: '2022-08-18T07:49:16.823Z'
 ---
 
 # QQ 微信 信息提取 bot搭建
