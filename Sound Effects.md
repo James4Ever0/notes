@@ -1,6 +1,8 @@
 ---
-created: 2022-06-24T16:11:18+08:00
-modified: 2022-06-24T16:11:48+08:00
+tags: [music generation]
+title: Sound Effects
+created: '2022-06-24T08:11:18.000Z'
+modified: '2022-08-18T16:11:00.847Z'
 ---
 
 # Sound Effects
