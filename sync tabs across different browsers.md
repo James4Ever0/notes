@@ -1,8 +1,8 @@
 ---
-tags: [sync]
+tags: [sync, system manage]
 title: sync tabs across different browsers
 created: '2022-08-10T05:51:49.000Z'
-modified: '2022-08-18T07:55:35.179Z'
+modified: '2022-08-18T07:55:37.994Z'
 ---
 
 # sync tabs across different browsers
