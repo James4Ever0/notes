@@ -1,6 +1,8 @@
 ---
-created: 2022-01-20T06:50:17+00:00
-modified: 2022-01-20T16:22:12+00:00
+tags: [freelancer]
+title: DNA Cancer Prediction
+created: '2022-01-20T06:50:17.000Z'
+modified: '2022-08-18T14:42:36.943Z'
 ---
 
 # DNA Cancer Prediction
