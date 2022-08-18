@@ -1,5 +1,5 @@
 ---
-tags: [termux, reinstall, system manage, bug]
+tags: [termux, reinstall, system manage, bug, brihg]
 created: 2021-12-20T17:04:08+08:00
 modified: 2022-05-31T12:32:57+08:00
 ---
