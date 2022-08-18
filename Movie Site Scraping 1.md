@@ -1,6 +1,8 @@
 ---
-created: 2022-02-17T16:27:21+00:00
-modified: 2022-02-18T01:46:17+00:00
+tags: [movie scraping]
+title: Movie Site Scraping 1
+created: '2022-02-17T16:27:21.000Z'
+modified: '2022-08-18T15:51:59.998Z'
 ---
 
 # Movie Site Scraping 1
