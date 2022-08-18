@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T11:54:32+08:00
-modified: 2022-05-31T12:00:04+08:00
+tags: [face changer, video generator]
+title: Deepfake face swap
+created: '2022-05-31T03:54:32.000Z'
+modified: '2022-08-18T14:42:16.329Z'
 ---
 
 # Deepfake face swap
