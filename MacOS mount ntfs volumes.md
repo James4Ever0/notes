@@ -1,8 +1,8 @@
 ---
-tags: [macos, system manage]
+tags: [macos, ntfs, system manage]
 title: MacOS mount ntfs volumes
 created: '2022-08-08T05:19:14.354Z'
-modified: '2022-08-18T07:36:50.005Z'
+modified: '2022-08-18T07:36:55.165Z'
 ---
 
 # MacOS mount ntfs volumes
