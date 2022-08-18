@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T14:49:53+08:00
-modified: 2022-05-31T14:52:26+08:00
+tags: [AI]
+title: Sketch based applications
+created: '2022-05-31T06:49:53.000Z'
+modified: '2022-08-18T16:25:56.508Z'
 ---
 
 # Sketch based applications
