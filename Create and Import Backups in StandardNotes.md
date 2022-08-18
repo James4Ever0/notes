@@ -1,8 +1,8 @@
 ---
-tags: [note]
+tags: [export, note, stub]
 title: Create and Import Backups in StandardNotes
 created: '2022-07-11T16:02:26.000Z'
-modified: '2022-08-18T14:25:59.157Z'
+modified: '2022-08-18T14:26:02.881Z'
 ---
 
 # Create and Import Backups in StandardNotes
