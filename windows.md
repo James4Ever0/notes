@@ -1,7 +1,8 @@
 ---
+tags: [backup]
 title: Time Machine Alternative for linux/windows
 created: '2022-08-10T08:12:46.237Z'
-modified: '2022-08-10T08:21:21.051Z'
+modified: '2022-08-18T16:28:42.638Z'
 ---
 
 # Time Machine Alternative for linux/windows
