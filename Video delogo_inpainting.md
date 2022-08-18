@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T14:13:58+08:00
-modified: 2022-05-31T14:16:26+08:00
+tags: [dewatermark]
+title: Video delogo_inpainting
+created: '2022-05-31T06:13:58.000Z'
+modified: '2022-08-18T16:32:42.327Z'
 ---
 
 # Video delogo/inpainting
