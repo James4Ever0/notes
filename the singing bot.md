@@ -1,6 +1,8 @@
 ---
-created: 2022-05-13T21:50:48+08:00
-modified: 2022-05-31T12:47:31+08:00
+tags: [lip sync]
+title: the singing bot
+created: '2022-05-13T13:50:48.000Z'
+modified: '2022-08-18T16:28:03.255Z'
 ---
 
 # the still image to singing face bot, lip-sync video generation
