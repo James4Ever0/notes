@@ -2,7 +2,7 @@
 tags: [CoreML, Swift]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-08-18T07:25:33.697Z'
+modified: '2022-08-18T07:25:59.128Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -416,4 +416,4 @@ Analyze sounds in audio using the built-in sound classifier or a custom Core ML 
 
 View API
 </p></details>
-[]
+
