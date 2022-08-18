@@ -2,7 +2,7 @@
 tags: [CoreML, paddlepaddle, Swift]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-08-18T07:26:12.269Z'
+modified: '2022-08-18T09:08:19.330Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -12,6 +12,8 @@ modified: '2022-08-18T07:26:12.269Z'
 it is used for coreml inference, not training
 
 ## run coreml with swift on linux
+
+before reinstallation of darling, make sure you have removed all darling related files by checking `updatedb; locate darling | grep -v <compile directory>`
 
 visit [here](https://docs.darlinghq.org/build-instructions.html) to install darling from source (maybe that's the only way)
 
