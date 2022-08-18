@@ -1,6 +1,8 @@
 ---
-created: 2022-06-01T10:50:42+08:00
-modified: 2022-06-01T10:52:26+08:00
+tags: [stock market]
+title: Time Series Analysis
+created: '2022-06-01T02:50:42.000Z'
+modified: '2022-08-18T16:28:57.771Z'
 ---
 
 # Time Series Analysis
