@@ -1,8 +1,8 @@
 ---
-tags: [courses]
+tags: [courses, social media]
 title: Jumpcut analysis
 created: '2022-06-09T16:22:06.000Z'
-modified: '2022-08-18T15:30:25.987Z'
+modified: '2022-08-18T15:30:29.459Z'
 ---
 
 # Jumpcut analysis
