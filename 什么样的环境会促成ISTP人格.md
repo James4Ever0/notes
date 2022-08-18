@@ -1,8 +1,8 @@
 ---
-tags: [idea, MBTI, psychological]
+tags: [idea, MBTI, personal experience, psychological]
 title: 什么样的环境会促成ISTP人格
 created: '2022-06-03T19:04:42.000Z'
-modified: '2022-08-18T14:09:27.206Z'
+modified: '2022-08-18T14:09:35.088Z'
 ---
 
 # 什么样的环境会促成ISTP人格
