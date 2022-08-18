@@ -1,8 +1,8 @@
 ---
-tags: [image search]
+tags: [image search, search engine]
 title: Similar Image Search
 created: '2022-05-28T11:26:34.000Z'
-modified: '2022-08-18T16:24:21.465Z'
+modified: '2022-08-18T16:24:23.801Z'
 ---
 
 # Similar Image Search
