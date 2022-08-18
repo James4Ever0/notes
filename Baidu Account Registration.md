@@ -1,8 +1,8 @@
 ---
-tags: [auto registration, baidu, credentials, freelancer, SMS]
+tags: [auto registration, automation, baidu, credentials, freelancer, SMS]
 title: Baidu Account Registration
 created: '2022-01-01T14:00:36.000Z'
-modified: '2022-08-18T12:06:10.726Z'
+modified: '2022-08-18T12:06:16.612Z'
 ---
 
 # Baidu Account Registration
