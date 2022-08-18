@@ -1,8 +1,8 @@
 ---
-tags: [credential, VNC]
+tags: [credential, remote control, test, VNC]
 title: x11vnc test on kali
 created: '2022-08-09T18:42:03.499Z'
-modified: '2022-08-18T08:02:51.713Z'
+modified: '2022-08-18T08:02:56.646Z'
 ---
 
 # x11vnc test on kali
