@@ -1,8 +1,8 @@
 ---
-tags: [information analysis, video analysis]
+tags: [information analysis, pyjom, video analysis]
 title: Video Database
 created: '2022-05-05T01:13:55.000Z'
-modified: '2022-08-18T07:44:07.966Z'
+modified: '2022-08-18T07:48:33.110Z'
 ---
 
 # Video Database For Video Generation
