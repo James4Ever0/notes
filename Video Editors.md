@@ -2,7 +2,7 @@
 tags: [pyjom, video edit, video generator]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-18T07:50:16.943Z'
+modified: '2022-08-18T17:07:22.500Z'
 ---
 
 # Video Editors
@@ -15,6 +15,10 @@ https://github.com/mifi/editly
 ```bash
 npm i -g editly
 ```
+
+complex react native animation engine:
+https://github.com/JonnyBurger/remotion
+
 <a id="anchor"></a>
 vidpy based on mltframework, shotcut
 
