@@ -2,10 +2,12 @@
 tags: [model, optimization, trial and error]
 title: Logic Optimizer for Different Models
 created: '2022-03-30T18:10:00.000Z'
-modified: '2022-08-18T14:57:42.790Z'
+modified: '2022-08-18T14:58:29.700Z'
 ---
 
 # Logic Optimizer for Different Models
+
+currently we can use hyperopt as the online optimizer. of course for offline optimization there's better option or prediction for it.
 
 For a sequence of models, use classic logic solver to find best logic combination.
 
