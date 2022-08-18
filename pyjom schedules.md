@@ -7,7 +7,7 @@ modified: '2022-08-18T07:21:18.051Z'
 
 # pyjom dev schedules
 
-## recommendation`
+## recommendation
 - [ ] use txtai to do NLU and recommend things to people
 
 ## topic discovery/acquiring
