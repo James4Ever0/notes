@@ -1,6 +1,8 @@
 ---
-created: 2022-04-09T12:33:40+08:00
-modified: 2022-04-09T12:35:15+08:00
+tags: [idea, voice source]
+title: Extract voice from professional sources
+created: '2022-04-09T04:33:40.000Z'
+modified: '2022-08-18T14:48:36.696Z'
 ---
 
 # Extract voice from professional sources
