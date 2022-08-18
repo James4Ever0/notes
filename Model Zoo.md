@@ -1,6 +1,8 @@
 ---
-created: 2022-08-17T17:48:18+08:00
-modified: 2022-08-17T17:50:47+08:00
+tags: [model zoo]
+title: Model Zoo
+created: '2022-08-17T09:48:18.000Z'
+modified: '2022-08-18T07:27:26.134Z'
 ---
 
 # Model Zoo
