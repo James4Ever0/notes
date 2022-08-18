@@ -1,8 +1,8 @@
 ---
-tags: [hardware]
+tags: [hardware, stub]
 title: The phone
 created: '2021-12-28T12:46:15.000Z'
-modified: '2022-08-18T07:45:52.701Z'
+modified: '2022-08-18T07:45:57.406Z'
 ---
 
 # The phone
