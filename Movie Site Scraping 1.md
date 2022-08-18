@@ -1,8 +1,8 @@
 ---
-tags: [movie scraping]
+tags: [freelancer, movie scraping]
 title: Movie Site Scraping 1
 created: '2022-02-17T16:27:21.000Z'
-modified: '2022-08-18T15:51:59.998Z'
+modified: '2022-08-18T15:52:05.173Z'
 ---
 
 # Movie Site Scraping 1
