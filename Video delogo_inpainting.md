@@ -1,8 +1,8 @@
 ---
-tags: [dewatermark, remove watermark, stub]
+tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-08-18T16:32:47.955Z'
+modified: '2022-08-18T16:32:52.197Z'
 ---
 
 # Video delogo/inpainting
