@@ -1,6 +1,8 @@
 ---
-created: 2022-03-31T02:10:00+08:00
-modified: 2022-03-31T02:19:43+08:00
+tags: [model, optimization]
+title: Logic Optimizer for Different Models
+created: '2022-03-30T18:10:00.000Z'
+modified: '2022-08-18T14:57:38.290Z'
 ---
 
 # Logic Optimizer for Different Models
