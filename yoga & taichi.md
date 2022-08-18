@@ -1,6 +1,4 @@
 ---
-tags: [health, lifestyle, work style, relax]
-title: yoga & taichi
 created: 2022-01-13T07:06:34+08:00
 modified: 2022-01-14T01:28:24+08:00
 ---
