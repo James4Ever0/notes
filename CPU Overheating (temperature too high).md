@@ -1,8 +1,8 @@
 ---
-tags: [fan, hardware, linux, thermal]
+tags: [fan, hardware, linux, thermal, throttle]
 title: CPU Overheating (temperature too high)
 created: '2022-07-25T09:04:54.170Z'
-modified: '2022-08-18T14:25:38.978Z'
+modified: '2022-08-18T14:25:41.621Z'
 ---
 
 # CPU Overheating (temperature too high)
