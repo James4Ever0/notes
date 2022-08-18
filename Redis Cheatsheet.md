@@ -1,8 +1,8 @@
 ---
-tags: [redis]
+tags: [database, redis]
 title: Redis Cheatsheet
 created: '2022-06-03T08:07:10.000Z'
-modified: '2022-08-18T16:20:22.872Z'
+modified: '2022-08-18T16:20:25.868Z'
 ---
 
 # Redis Cheatsheet
