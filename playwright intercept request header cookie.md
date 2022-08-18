@@ -1,8 +1,8 @@
 ---
-tags: [information gathering, playwright, scraping, stub, tips]
+tags: [cookie, information gathering, playwright, scraping, stub, tips]
 title: playwright intercept request header cookie
 created: '2022-06-19T09:41:38.000Z'
-modified: '2022-08-18T16:17:26.634Z'
+modified: '2022-08-18T16:17:30.595Z'
 ---
 
 # playwright intercept request header cookie
