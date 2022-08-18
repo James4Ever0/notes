@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T14:20:30+08:00
-modified: 2022-07-15T01:29:20+08:00
+tags: [information gathering]
+title: 程序员笑话 可当文案 jokes about programmers
+created: '2022-05-31T06:20:30.000Z'
+modified: '2022-08-18T15:25:52.360Z'
 ---
 
 # 程序员笑话 可当文案 jokes about programmers
