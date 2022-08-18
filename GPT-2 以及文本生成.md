@@ -1,8 +1,8 @@
 ---
-tags: [text generator]
+tags: [conversation, text generator]
 title: GPT-2 以及文本生成
 created: '2022-05-03T10:24:18.000Z'
-modified: '2022-08-18T07:31:50.414Z'
+modified: '2022-08-18T07:31:53.223Z'
 ---
 
 # GPT-2 以及文本生成
