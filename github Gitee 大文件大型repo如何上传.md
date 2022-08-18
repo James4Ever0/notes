@@ -1,7 +1,8 @@
 ---
+tags: [git manage]
 title: github Gitee 大文件大型repo如何上传
-created: 2022-07-16T18:40:40+08:00
-modified: 2022-07-23T00:47:43+08:00
+created: '2022-07-16T10:40:40.000Z'
+modified: '2022-08-18T14:54:51.907Z'
 ---
 
 # github Gitee 大文件大型repo如何上传
