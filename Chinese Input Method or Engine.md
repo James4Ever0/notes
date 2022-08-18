@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T16:05:24+08:00
-modified: 2022-05-29T16:08:08+08:00
+tags: [IME]
+title: Chinese Input Method or Engine
+created: '2022-05-29T08:05:24.000Z'
+modified: '2022-08-18T14:12:57.609Z'
 ---
 
 # Chinese Input Method/Engine
