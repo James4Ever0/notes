@@ -1,7 +1,8 @@
 ---
+tags: [chatbot]
 title: Chatbot
-created: 2022-07-14T22:19:56+08:00
-modified: 2022-07-16T17:44:34+08:00
+created: '2022-07-14T14:19:56.000Z'
+modified: '2022-08-18T07:59:56.809Z'
 ---
 
 # Chatbot Self-hosted Model Cloud Deploy
