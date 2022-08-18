@@ -1,7 +1,8 @@
 ---
+tags: [ignore exception]
 title: Python ignore all exceptions and continue execute next line in given section of code
-created: 2022-07-11T22:57:00+08:00
-modified: 2022-07-13T01:39:03+08:00
+created: '2022-07-11T14:57:00.000Z'
+modified: '2022-08-18T16:19:00.547Z'
 ---
 
 # Python ignore all exceptions and continue execute next line in given section of code
