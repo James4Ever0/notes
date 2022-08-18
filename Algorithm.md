@@ -1,6 +1,8 @@
 ---
-created: 2022-01-21T11:51:07+08:00
-modified: 2022-01-21T11:51:24+08:00
+tags: [freelancer]
+title: Algorithm
+created: '2022-01-21T03:51:07.000Z'
+modified: '2022-08-18T08:04:18.420Z'
 ---
 
 # Algorithm Python
