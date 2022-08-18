@@ -2,7 +2,7 @@
 tags: [bilibili, courses, funny]
 title: bilibili 搞笑区up 培训
 created: '2022-06-09T04:24:53.000Z'
-modified: '2022-08-18T13:51:13.265Z'
+modified: '2022-08-18T13:51:17.940Z'
 ---
 
 # bilibili 搞笑区up 培训 1
