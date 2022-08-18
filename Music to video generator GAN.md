@@ -1,6 +1,8 @@
 ---
-created: 2022-05-31T12:47:47+08:00
-modified: 2022-05-31T13:48:55+08:00
+tags: [video generation]
+title: Music to video generator GAN
+created: '2022-05-31T04:47:47.000Z'
+modified: '2022-08-18T15:54:00.661Z'
 ---
 
 # Text to Video/Music to video generator GAN
