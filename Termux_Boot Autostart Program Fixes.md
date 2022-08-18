@@ -1,6 +1,8 @@
 ---
-created: 2022-08-07T02:38:53+08:00
-modified: 2022-08-07T02:47:54+08:00
+tags: [termux]
+title: Termux_Boot Autostart Program Fixes
+created: '2022-08-06T18:38:53.000Z'
+modified: '2022-08-18T16:04:08.052Z'
 ---
 
 # Termux:Boot Autostart Program Fixes
