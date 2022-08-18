@@ -1,8 +1,8 @@
 ---
-tags: [chatbot, conversation, model zoo, text generator, voice chat]
+tags: [chatbot, conversation, model zoo, stub, text generator, voice chat]
 title: GPT-2 以及文本生成
 created: '2022-05-03T10:24:18.000Z'
-modified: '2022-08-18T07:32:05.189Z'
+modified: '2022-08-18T07:32:20.264Z'
 ---
 
 # GPT-2 以及文本生成
