@@ -1,11 +1,11 @@
 ---
 tags: [schedule]
-title: Backup schedules
+title: backup schedules
 created: '2022-08-18T03:56:00.101Z'
-modified: '2022-08-18T05:33:52.712Z'
+modified: '2022-08-18T05:34:13.686Z'
 ---
 
-# Backup schedules
+# backup schedules
 
 ## offline backup
 - [ ] schedule pyjom on alpharetta backup to disk every 12 hours
