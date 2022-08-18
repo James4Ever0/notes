@@ -1,7 +1,8 @@
 ---
+tags: [backup]
 title: Time Machine NAS macOS
 created: '2022-07-28T12:59:47.101Z'
-modified: '2022-08-01T04:32:45.459Z'
+modified: '2022-08-18T08:02:07.201Z'
 ---
 
 # Time Machine NAS macOS
