@@ -1,8 +1,8 @@
 ---
-tags: [midi generation, music analysis, music generation, singing]
+tags: [midi generation, music analysis, music generation, singing, track spliting]
 title: 'Music to MIDI Music generation, Music Audio Tracks Separation'
 created: '2022-05-29T04:27:55.000Z'
-modified: '2022-08-18T15:53:26.532Z'
+modified: '2022-08-18T15:53:48.014Z'
 ---
 
 ai唱歌 歌声合成 ai singing voice generation
