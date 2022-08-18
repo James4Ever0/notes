@@ -1,8 +1,8 @@
 ---
-tags: [credential]
+tags: [credential, wifi]
 title: Captured School Wifi Credentials
 created: '2022-06-06T01:15:29.000Z'
-modified: '2022-08-18T14:01:20.260Z'
+modified: '2022-08-18T14:01:21.839Z'
 ---
 
 # Captured School Wifi Credentials
