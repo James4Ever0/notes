@@ -1,8 +1,8 @@
 ---
-tags: [platforms]
+tags: [platforms, social media]
 title: Social Media Platforms
 created: '2022-06-02T00:36:07.000Z'
-modified: '2022-08-18T16:26:32.483Z'
+modified: '2022-08-18T16:26:35.804Z'
 ---
 
 # Social Media Platforms
