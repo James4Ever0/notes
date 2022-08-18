@@ -1,8 +1,8 @@
 ---
-tags: [information gathering, stub]
+tags: [information gathering, scraping, stub]
 title: Soul查看被拉黑之后对方的空间
 created: '2022-08-08T04:11:00.000Z'
-modified: '2022-08-18T07:30:59.444Z'
+modified: '2022-08-18T07:31:20.955Z'
 ---
 
 # Soul查看被拉黑之后对方的空间
