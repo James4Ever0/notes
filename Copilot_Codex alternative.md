@@ -1,8 +1,8 @@
 ---
-tags: [code generation]
+tags: [code generation, programming assistant]
 title: Copilot_Codex alternative
 created: '2022-05-09T04:35:16.000Z'
-modified: '2022-08-18T14:21:36.895Z'
+modified: '2022-08-18T14:21:45.077Z'
 ---
 
 # Copilot/Codex alternative
