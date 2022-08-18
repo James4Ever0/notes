@@ -1,6 +1,8 @@
 ---
-created: 2022-04-05T12:07:30+08:00
-modified: 2022-05-29T16:19:21+08:00
+tags: [video analysis]
+title: Fall detection can be used for media filtering
+created: '2022-04-05T04:07:30.000Z'
+modified: '2022-08-18T14:52:08.898Z'
 ---
 
 # Fall detection can be used for media filtering
