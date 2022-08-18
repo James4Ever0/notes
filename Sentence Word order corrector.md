@@ -1,8 +1,8 @@
 ---
-tags: [NLP]
+tags: [NLP, text corrector]
 title: Sentence Word order corrector
 created: '2022-07-18T03:45:56.000Z'
-modified: '2022-08-18T16:23:54.787Z'
+modified: '2022-08-18T16:23:59.606Z'
 ---
 
 # Sentence Word order corrector
