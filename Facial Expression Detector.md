@@ -1,8 +1,8 @@
 ---
-tags: [facial expression]
+tags: [emotion detection, facial expression]
 title: Facial Expression Detector
 created: '2022-05-29T07:13:46.000Z'
-modified: '2022-08-18T14:51:33.394Z'
+modified: '2022-08-18T14:51:40.681Z'
 ---
 
 # Facial Expression Detector
