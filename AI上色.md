@@ -1,5 +1,5 @@
 ---
-tags: [circumention, video processing, video generation, censorship, NSFW, decolorization, hue tweaks, coloring]
+tags: [circumention, video processing, video generation, censorship, NSFW, decolorization, hue tweaks, color]
 created: 2022-05-28T16:12:37+08:00
 modified: 2022-05-31T14:26:48+08:00
 ---
