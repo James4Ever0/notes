@@ -1,6 +1,6 @@
 ---
 created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-18T10:03:37+08:00
+modified: 2022-08-18T10:05:49+08:00
 ---
 
 # pyjom dev schedules
@@ -30,3 +30,4 @@ modified: 2022-08-18T10:03:37+08:00
 - [ ] source the video
 - [ ] source the audio
 - [ ] automatic interactions
+- [ ] handle the vtuber model's actions
