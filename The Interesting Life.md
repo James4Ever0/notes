@@ -1,8 +1,8 @@
 ---
-tags: [idea]
+tags: [idea, interesting]
 title: The Interesting Life
 created: '2022-05-16T04:35:09.000Z'
-modified: '2022-08-18T16:03:36.916Z'
+modified: '2022-08-18T16:03:39.829Z'
 ---
 
 # The Interesting Life: Increase Video/Essay/Post Views
