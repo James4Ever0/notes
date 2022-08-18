@@ -1,8 +1,8 @@
 ---
-tags: [topic discovery]
+tags: [text classification, topic discovery]
 title: Topic Generation 话题发现 趋势发现 热点发现
 created: '2022-07-13T16:25:04.000Z'
-modified: '2022-08-18T07:38:11.339Z'
+modified: '2022-08-18T07:38:21.276Z'
 ---
 
 # Topic Generation 话题发现 趋势发现 热点发现 文本分类
