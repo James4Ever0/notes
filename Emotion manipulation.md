@@ -2,7 +2,7 @@
 tags: [emotion, ideas, social media]
 title: Emotion manipulation
 created: '2022-04-14T14:23:27.000Z'
-modified: '2022-08-18T14:46:21.648Z'
+modified: '2022-08-18T14:46:37.620Z'
 ---
 
 # Emotion manipulation
@@ -15,4 +15,4 @@ Syncing is hard. With database, it's not.
 Analyze the conversation with emotional/keyword frequency indicator, do some feature extraction.
 Accelerate part of the video to be more expressive
 
-emotion recognization mhltimodalhttps://github.com/maelfabien/Multimodal-Emotion-Recognition
+[emotion recognization multi modal](https://github.com/maelfabien/Multimodal-Emotion-Recognition)
