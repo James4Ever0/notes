@@ -1,8 +1,8 @@
 ---
-tags: [paraphraser, text generation, 洗稿]
+tags: [paraphraser, rephrase, text generation, 洗稿]
 title: Translators for Casual usage
 created: '2022-04-29T15:03:52.000Z'
-modified: '2022-08-18T16:29:45.049Z'
+modified: '2022-08-18T16:29:49.999Z'
 ---
 
 # Translators/Paraphraser for casual usage
