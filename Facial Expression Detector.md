@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T15:13:46+08:00
-modified: 2022-05-29T15:18:47+08:00
+tags: [facial expression]
+title: Facial Expression Detector
+created: '2022-05-29T07:13:46.000Z'
+modified: '2022-08-18T14:51:33.394Z'
 ---
 
 # Facial Expression Detector
