@@ -1,8 +1,8 @@
 ---
-tags: [pty, ssh, system manage, terminal]
+tags: [pty, ssh, system manage, terminal, tmux]
 title: force pty allocation when spinning up tmux over ssh
 created: '2022-08-13T06:09:37.706Z'
-modified: '2022-08-18T07:41:05.623Z'
+modified: '2022-08-18T07:41:07.898Z'
 ---
 
 # force pty allocation when spinning up tmux over ssh
