@@ -1,7 +1,8 @@
 ---
+tags: [CoreML]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-08-17T16:01:24.829Z'
+modified: '2022-08-18T07:25:04.201Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
