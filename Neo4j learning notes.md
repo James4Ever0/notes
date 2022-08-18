@@ -1,6 +1,8 @@
 ---
-created: 2022-06-03T10:05:00+08:00
-modified: 2022-08-10T15:26:11+08:00
+tags: [self-learning]
+title: Neo4j learning notes
+created: '2022-06-03T02:05:00.000Z'
+modified: '2022-08-18T08:03:07.661Z'
 ---
 
 # Neo4j learning notes
