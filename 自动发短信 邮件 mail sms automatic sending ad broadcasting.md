@@ -1,6 +1,8 @@
 ---
-created: 2022-07-04T20:47:02+08:00
-modified: 2022-07-15T02:58:43+08:00
+tags: [mail sending]
+title: 自动发短信 邮件 mail sms automatic sending ad broadcasting
+created: '2022-07-04T12:47:02.000Z'
+modified: '2022-08-18T16:00:42.596Z'
 ---
 
 # 自动发短信 邮件 mail sms automatic sending ad broadcasting
