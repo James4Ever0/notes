@@ -1,8 +1,8 @@
 ---
-tags: [anonymity, free access, internet, onion router, tor]
+tags: [anonymity, free access, internet, onion router, tor, vpn]
 title: Anonymity and open access to internet
 created: '2022-04-07T11:19:58.000Z'
-modified: '2022-08-18T12:02:15.025Z'
+modified: '2022-08-18T12:02:16.895Z'
 ---
 
 # Anonymity and open access to internet
