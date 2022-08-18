@@ -1,8 +1,8 @@
 ---
-tags: [NLP, text classification, topic discovery]
+tags: [NLP, NLU, text classification, topic discovery]
 title: Topic Generation 话题发现 趋势发现 热点发现
 created: '2022-07-13T16:25:04.000Z'
-modified: '2022-08-18T07:38:36.931Z'
+modified: '2022-08-18T07:38:38.649Z'
 ---
 
 # Topic Generation 话题发现 趋势发现 热点发现 文本分类
