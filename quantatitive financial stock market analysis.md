@@ -1,7 +1,8 @@
 ---
+tags: [RL]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-13T15:24:22.218Z'
+modified: '2022-08-18T08:01:33.103Z'
 ---
 
 # quantative financial stock market analysis
