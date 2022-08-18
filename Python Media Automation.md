@@ -1,8 +1,8 @@
 ---
-tags: [idea, pyjom]
+tags: [foundation, idea, pyjom]
 title: Python Media Automation
 created: '2022-02-10T07:11:00.000Z'
-modified: '2022-08-18T16:12:11.130Z'
+modified: '2022-08-18T16:12:14.169Z'
 ---
 
 # Python Media Automation
