@@ -1,7 +1,8 @@
 ---
+tags: [NLP]
 title: NLP Packages
 created: '2022-06-09T03:39:24.000Z'
-modified: '2022-07-13T14:52:05.925Z'
+modified: '2022-08-18T16:12:50.132Z'
 ---
 
 # NLP NLG Packages
