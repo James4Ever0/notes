@@ -1,8 +1,8 @@
 ---
-tags: [API, stub]
+tags: [API, information gathering, stub]
 title: 开放api 信息来源
 created: '2022-05-24T05:34:38.000Z'
-modified: '2022-08-18T16:39:28.790Z'
+modified: '2022-08-18T16:39:33.727Z'
 ---
 
 # 开放api 信息来源
