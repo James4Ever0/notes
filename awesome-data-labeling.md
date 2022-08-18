@@ -1,8 +1,8 @@
 ---
-tags: [AI, data labeling, dataset creation, ML, supervised]
+tags: [AI, data labeling, dataset creation, ML, pyjom, supervised]
 title: awesome-data-labeling
 created: '2022-08-09T17:43:49.626Z'
-modified: '2022-08-18T12:05:04.102Z'
+modified: '2022-08-18T12:06:27.511Z'
 ---
 
 # awesome-data-labeling
