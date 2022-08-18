@@ -1,6 +1,8 @@
 ---
-created: 2022-05-29T15:20:13+08:00
-modified: 2022-05-29T15:38:55+08:00
+tags: [anime]
+title: Movie Bangume script finder
+created: '2022-05-29T07:20:13.000Z'
+modified: '2022-08-18T15:52:26.665Z'
 ---
 
 # Movie Bangume script finder
