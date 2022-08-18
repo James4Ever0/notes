@@ -1,8 +1,8 @@
 ---
-tags: [API, information gathering, scraping, soul]
+tags: [API, information gathering, scraping, soul, text source]
 title: Soul API
 created: '2022-07-08T15:57:27.000Z'
-modified: '2022-08-18T16:11:37.486Z'
+modified: '2022-08-18T16:11:42.986Z'
 ---
 
 # Soul APIs
