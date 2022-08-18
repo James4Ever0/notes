@@ -1,6 +1,8 @@
 ---
-created: 2022-05-05T15:06:08+08:00
-modified: 2022-05-16T21:56:50+08:00
+tags: [network]
+title: DNS Proxy for Campus Network
+created: '2022-05-05T07:06:08.000Z'
+modified: '2022-08-18T14:43:02.846Z'
 ---
 
 # DNS Proxy for Campus Network
