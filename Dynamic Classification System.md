@@ -1,6 +1,8 @@
 ---
-created: 2022-01-31T02:26:56+08:00
-modified: 2022-02-02T11:13:41+08:00
+tags: [information retrieval]
+title: Dynamic Classification System
+created: '2022-01-30T18:26:56.000Z'
+modified: '2022-08-18T14:49:15.054Z'
 ---
 
 # Dynamic Classification System
