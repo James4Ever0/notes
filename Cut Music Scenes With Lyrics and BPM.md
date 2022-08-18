@@ -1,6 +1,8 @@
 ---
-created: 2022-07-09T02:17:05+08:00
-modified: 2022-07-09T22:25:59+08:00
+tags: [project]
+title: Cut Music Scenes With Lyrics and BPM
+created: '2022-07-08T18:17:05.000Z'
+modified: '2022-08-18T14:40:32.575Z'
 ---
 
 # Cut Music Segments With Lyrics and BPM
