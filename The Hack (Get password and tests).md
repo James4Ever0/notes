@@ -1,8 +1,8 @@
 ---
-tags: [freelancer]
+tags: [freelancer, hack]
 title: The Hack (Get password and tests)
 created: '2021-12-22T05:45:58.000Z'
-modified: '2022-08-18T16:03:59.210Z'
+modified: '2022-08-18T16:04:01.502Z'
 ---
 
 # The Hack (Get password and tests)
