@@ -1,5 +1,5 @@
 ---
-tags: [karaoke, video generator, video effects, subtitle, lyric]
+tags: [karaoke, video generator, video effects, subtitle, lyric effects,]
 created: 2022-07-10T23:56:16+08:00
 modified: 2022-08-10T15:23:25+08:00
 ---
