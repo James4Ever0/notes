@@ -1,7 +1,8 @@
 ---
+tags: [macos]
 title: MacOS locate fix and alternative
 created: '2022-08-07T05:34:18.266Z'
-modified: '2022-08-07T05:38:21.915Z'
+modified: '2022-08-18T15:29:32.607Z'
 ---
 
 # MacOS locate fix and alternative
