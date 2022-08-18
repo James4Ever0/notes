@@ -1,8 +1,8 @@
 ---
-tags: [image segmentation, video analysis, video processing, video segmentation]
+tags: [image segmentation, video analysis, video processing, video segmentation, video understanding]
 title: 'Neuraldiff: discriminate actor and objects in video'
 created: '2022-05-29T03:57:06.000Z'
-modified: '2022-08-18T16:16:34.406Z'
+modified: '2022-08-18T16:16:43.141Z'
 ---
 
 # Neuraldiff: discriminate actor and objects in video
