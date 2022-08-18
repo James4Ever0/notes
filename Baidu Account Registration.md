@@ -1,6 +1,8 @@
 ---
-created: 2022-01-01T22:00:36+08:00
-modified: 2022-01-20T17:11:18+08:00
+tags: [freelancer]
+title: Baidu Account Registration
+created: '2022-01-01T14:00:36.000Z'
+modified: '2022-08-18T12:05:53.293Z'
 ---
 
 # Baidu Account Registration
