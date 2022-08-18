@@ -1,7 +1,8 @@
 ---
-title: Music to MIDI Music generation, Music Audio Tracks Separation
-created: 2022-05-29T12:27:55+08:00
-modified: 2022-08-17T00:53:14+08:00
+tags: [singing]
+title: 'Music to MIDI Music generation, Music Audio Tracks Separation'
+created: '2022-05-29T04:27:55.000Z'
+modified: '2022-08-18T15:53:11.971Z'
 ---
 
 ai唱歌 歌声合成 ai singing voice generation
