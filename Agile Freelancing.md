@@ -1,8 +1,8 @@
 ---
-tags: [earn money, freelancer, platforms]
+tags: [earn money, freelancer, platforms, stub]
 title: Agile Freelancing
 created: '2022-01-10T18:42:04.000Z'
-modified: '2022-08-18T07:46:27.799Z'
+modified: '2022-08-18T07:46:32.377Z'
 ---
 
 # Agile Freelancing
