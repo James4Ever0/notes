@@ -1,8 +1,8 @@
 ---
-tags: [graph databse, self-learning]
+tags: [self-learning]
 title: Neo4j learning notes
 created: '2022-06-03T02:05:00.000Z'
-modified: '2022-08-18T08:03:11.082Z'
+modified: '2022-08-18T08:03:12.755Z'
 ---
 
 # Neo4j learning notes
