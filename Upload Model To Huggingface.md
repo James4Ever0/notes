@@ -1,8 +1,8 @@
 ---
-tags: [backup, huggingface, sync]
+tags: [backup, git, huggingface, model, sync]
 title: Upload Model To Huggingface
 created: '2022-05-29T08:03:27.000Z'
-modified: '2022-08-18T16:30:21.996Z'
+modified: '2022-08-18T16:30:24.797Z'
 ---
 
 # Upload Model To Huggingface
