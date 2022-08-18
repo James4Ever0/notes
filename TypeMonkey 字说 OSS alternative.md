@@ -1,8 +1,8 @@
 ---
-tags: [text to video, video generator]
+tags: [stub, text to video, video generator]
 title: TypeMonkey 字说 OSS alternative
 created: '2022-05-31T04:33:45.000Z'
-modified: '2022-08-18T16:03:15.920Z'
+modified: '2022-08-18T16:03:18.380Z'
 ---
 
 # TypeMonkey 字说 OSS alternative
