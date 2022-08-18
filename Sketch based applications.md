@@ -1,8 +1,8 @@
 ---
-tags: [AI]
+tags: [AI, sketch]
 title: Sketch based applications
 created: '2022-05-31T06:49:53.000Z'
-modified: '2022-08-18T16:25:56.508Z'
+modified: '2022-08-18T16:25:58.873Z'
 ---
 
 # Sketch based applications
