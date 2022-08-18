@@ -1,8 +1,8 @@
 ---
-tags: [animation, interpolation, tweening]
+tags: [animation, animation tool, interpolation, tweening]
 title: cacani tweening_interpolating alternatives
 created: '2022-05-14T02:24:10.000Z'
-modified: '2022-08-18T14:00:39.378Z'
+modified: '2022-08-18T14:00:48.993Z'
 ---
 
 # cacani tweening/interpolating alternatives animation tool animation generation
