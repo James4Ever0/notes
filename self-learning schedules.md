@@ -1,8 +1,8 @@
 ---
-tags: [schedule]
+tags: [schedule, stock]
 title: self-learning schedules
 created: '2022-08-17T19:15:16.000Z'
-modified: '2022-08-18T17:45:07.245Z'
+modified: '2022-08-19T09:24:45.588Z'
 ---
 
 # self-learning schedules
