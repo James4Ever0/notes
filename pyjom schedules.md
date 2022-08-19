@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-19T17:41:49.362Z'
+modified: '2022-08-19T17:42:00.370Z'
 ---
 
 # pyjom dev schedules
@@ -39,6 +39,7 @@ fix issues:
 - [ ] video too repetitive (small corpus?)
 - [ ] do not remove subtitle and crop active region (reviewer's resource not used?)
 - [ ] do not have minimum motion threshold (reviewer's fault?)
+
 
 
 - [ ] remove all watermarks, subtitles and crop video boundaries accordingly
