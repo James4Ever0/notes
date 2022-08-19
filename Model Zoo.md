@@ -2,7 +2,7 @@
 tags: [model zoo, pyjom, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-08-18T07:50:24.511Z'
+modified: '2022-08-19T02:49:25.032Z'
 ---
 
 # Model Zoo
@@ -20,3 +20,5 @@ paddle模型库
 pytorch模型库
 
 TensorFlow模型库
+
+[graphcore model zoo for IPU](https://www.graphcore.ai/resources/model-garden)
