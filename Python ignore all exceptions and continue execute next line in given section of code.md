@@ -1,8 +1,8 @@
 ---
-tags: [fault tolerance, hack, ignore exception, python]
+tags: [fault tolerance, hack, ignore error, ignore exception, python]
 title: Python ignore all exceptions and continue execute next line in given section of code
 created: '2022-07-11T14:57:00.000Z'
-modified: '2022-08-18T16:19:14.802Z'
+modified: '2022-08-19T03:56:06.840Z'
 ---
 
 # Python ignore all exceptions and continue execute next line in given section of code
