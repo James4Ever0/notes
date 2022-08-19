@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-19T17:42:41.705Z'
+modified: '2022-08-19T17:45:37.962Z'
 ---
 
 # pyjom dev schedules
@@ -37,8 +37,8 @@ issues:
 - [ ] video length too long (10 mins)
 - [ ] bgm somehow not in sync (too broad bpm ranges?)
 - [ ] video too repetitive (small corpus?)
-- [ ] do not remove subtitle and crop active region (reviewer's resource not used?)
-- [ ] do not have minimum motion threshold (reviewer's fault?)
+- [ ] do not remove subtitle and crop active region (reviewer's resource not used? but i rather advise you to do it directly since it requires less computational power)
+- [ ] do not have minimum motion threshold (reviewer's fault? also recommend you to do this in producer)
 -----------------
 - [ ] remove all watermarks, subtitles and crop video boundaries accordingly
 - [ ] source video and audio, improve highlight algorithm
