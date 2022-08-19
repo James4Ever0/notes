@@ -1,8 +1,8 @@
 ---
-tags: [life style]
+tags: [health, life style, work]
 title: macbook air usage notes
 created: '2022-08-19T02:37:23.331Z'
-modified: '2022-08-19T02:42:05.372Z'
+modified: '2022-08-19T02:42:10.162Z'
 ---
 
 # macbook air usage notes
