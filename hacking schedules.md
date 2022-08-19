@@ -2,7 +2,7 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-18T07:21:45.344Z'
+modified: '2022-08-19T09:27:53.233Z'
 ---
 
 # hacking schedules
@@ -20,6 +20,10 @@ modified: '2022-08-18T07:21:45.344Z'
 ### study and learn some parameters/apis for faking data
 
 ## general hacking and tool learning
+### study popular tools
+## frida
+## cutter
+## radare2
 ### study popular kali tools
 - [ ] nmap script to find nearby hosts in same router
 - [ ] metasploit script to scan vulnerable hosts
