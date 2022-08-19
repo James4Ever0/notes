@@ -1,7 +1,8 @@
 ---
-tags: [android, system manage, tweaks, clipboard, sync]
-created: 2022-02-21T19:44:30+08:00
-modified: 2022-02-21T21:23:52+08:00
+tags: [android, clipboard, sync, system manage, tweaks]
+title: Android 10 clipboard issue for scrcpy
+created: '2022-02-21T11:44:30.000Z'
+modified: '2022-08-19T02:22:54.246Z'
 ---
 
 # Android 10 clipboard issue for scrcpy
@@ -21,7 +22,7 @@ script.sh:
 scrcpy -K -S 2>&1 | python3 reader.py
 
 reader.py:
-
+```python
 import os
 import subprocess
 import re
@@ -70,3 +71,5 @@ while True:
             setClipboard(data)
 #        with open("target.out","wb"
 #        os.system(fetch_clipboard)
+```
+
