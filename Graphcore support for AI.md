@@ -1,6 +1,8 @@
 ---
-created: 2022-04-21T11:33:07+08:00
-modified: 2022-04-21T12:05:03+08:00
+tags: [graphcore]
+title: Graphcore support for AI
+created: '2022-04-21T03:33:07.000Z'
+modified: '2022-08-19T02:34:46.799Z'
 ---
 
 # Graphcore support for AI
