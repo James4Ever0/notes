@@ -2,7 +2,7 @@
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
 title: Python ignore all exceptions and continue execute next line in given section of code
 created: '2022-07-11T14:57:00.000Z'
-modified: '2022-08-19T04:34:20.799Z'
+modified: '2022-08-19T04:36:03.270Z'
 ---
 
 # Python ignore all exceptions and continue execute next line in given section of code
@@ -10,43 +10,42 @@ modified: '2022-08-19T04:34:20.799Z'
 contextlib usage detail, to make customized "with" statements:
 
 ```python
-# from contextlib import AbstractContextManager
+from contextlib import AbstractContextManager
 
+class suppress2(AbstractContextManager):
+    """Context manager to suppress specified exceptions
 
-# class suppress2(AbstractContextManager):
-#     """Context manager to suppress specified exceptions
+    After the exception is suppressed, execution proceeds with the next
+    statement following the with statement.
 
-#     After the exception is suppressed, execution proceeds with the next
-#     statement following the with statement.
+         with suppress(FileNotFoundError):
+             os.remove(somefile)
+         # Execution still resumes here if the file was already removed
+    """
 
-#          with suppress(FileNotFoundError):
-#              os.remove(somefile)
-#          # Execution still resumes here if the file was already removed
-#     """
+    def __init__(self, *exceptions):
+        self._exceptions = exceptions
 
-#     def __init__(self, *exceptions):
-#         self._exceptions = exceptions
+    def __enter__(self):
+        print(dir(self))
+        pass
 
-#     def __enter__(self):
-#         print(dir(self))
-#         pass
-
-#     def __exit__(self, exctype, excinst, exctb):
-#         # Unlike isinstance and issubclass, CPython exception handling
-#         # currently only looks at the concrete type hierarchy (ignoring
-#         # the instance and subclass checking hooks). While Guido considers
-#         # that a bug rather than a feature, it's a fairly hard one to fix
-#         # due to various internal implementation details. suppress provides
-#         # the simpler issubclass based semantics, rather than trying to
-#         # exactly reproduce the limitations of the CPython interpreter.
-#         #
-#         # See http://bugs.python.org/issue12029 for more details
-#         print("EXCTYPE", exctype)
-#         print("EXCINST", excinst)
-#         print("EXCTB",exctb) # exception
-#         print(dir(exctb))
-#         breakpoint()
-#         return exctype is not None and issubclass(exctype, self._exceptions)
+    def __exit__(self, exctype, excinst, exctb):
+        # Unlike isinstance and issubclass, CPython exception handling
+        # currently only looks at the concrete type hierarchy (ignoring
+        # the instance and subclass checking hooks). While Guido considers
+        # that a bug rather than a feature, it's a fairly hard one to fix
+        # due to various internal implementation details. suppress provides
+        # the simpler issubclass based semantics, rather than trying to
+        # exactly reproduce the limitations of the CPython interpreter.
+        #
+        # See http://bugs.python.org/issue12029 for more details
+        print("EXCTYPE", exctype)
+        print("EXCINST", excinst)
+        print("EXCTB",exctb) # exception
+        print(dir(exctb))
+        breakpoint()
+        return exctype is not None and issubclass(exctype, self._exceptions)
 ```
 
 python grammar sugar: brackets
