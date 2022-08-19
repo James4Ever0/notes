@@ -2,7 +2,7 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-08-19T09:28:06.632Z'
+modified: '2022-08-19T16:21:22.867Z'
 ---
 
 # hacking schedules
@@ -30,4 +30,4 @@ modified: '2022-08-19T09:28:06.632Z'
 ### solve ctf challenges
 ### study hacking posts
 ### study hacking tutorial on darkweb
-- [ ] find a free tutorial on darkweb
+- [ ] find a free hacking tutorial on darkweb
