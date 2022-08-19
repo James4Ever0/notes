@@ -1,10 +1,14 @@
 ---
 title: macbook air usage notes
 created: '2022-08-19T02:37:23.331Z'
-modified: '2022-08-19T02:40:36.254Z'
+modified: '2022-08-19T02:41:39.513Z'
 ---
 
 # macbook air usage notes
+
+## notes on macbook air
+
+this damn thing sucks, in every aspect. i am getting tired of it.
 
 ## the body position of using this thing
 
