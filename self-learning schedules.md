@@ -1,8 +1,8 @@
 ---
-tags: [finance, financial, quantatitive trading, schedule, stock]
+tags: [AGI, finance, financial, quantatitive trading, schedule, stock]
 title: self-learning schedules
 created: '2022-08-17T19:15:16.000Z'
-modified: '2022-08-19T09:25:00.401Z'
+modified: '2022-08-19T09:25:15.855Z'
 ---
 
 # self-learning schedules
