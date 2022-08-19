@@ -1,0 +1,13 @@
+---
+title: macbook air usage notes
+created: '2022-08-19T02:37:23.331Z'
+modified: '2022-08-19T02:40:36.254Z'
+---
+
+# macbook air usage notes
+
+## the body position of using this thing
+
+raise my legs with multiple pillows, put this thing on my hip and lean on a triangular shaped pile of pillows.
+
+still not ideal but pretty close. in order to make this laptop not sliping down my hip i need to fill the gap between laptop and my belly with clothes. need to support my arms with some toys.
