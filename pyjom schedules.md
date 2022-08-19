@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-19T17:47:53.049Z'
+modified: '2022-08-19T17:48:46.337Z'
 ---
 
 # pyjom dev schedules
@@ -36,7 +36,7 @@ modified: '2022-08-19T17:47:53.049Z'
 issues:
 - [ ] video length too long (10 mins)
 - [ ] bgm somehow not in sync (too broad bpm/clip ranges?)
-- [ ] place video on loudest points, abrupt changes detected by talib?
+- [ ] place video on loudest points, abrupt changes detected by talib or just take direvative and gaussian average
 - [ ] video too repetitive (small corpus?)
 - [ ] do not remove subtitle and crop active region (reviewer's resource not used? but i rather advise you to do it directly since it requires less computational power)
 - [ ] do not have minimum motion threshold (reviewer's fault? also recommend you to do this in producer)
