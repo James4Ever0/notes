@@ -1,8 +1,8 @@
 ---
-tags: [AI, gpu alternative, graphcore, hardware]
+tags: [acceleration, AI, gpu alternative, graphcore, hardware]
 title: Graphcore support for AI
 created: '2022-04-21T03:33:07.000Z'
-modified: '2022-08-19T02:34:56.981Z'
+modified: '2022-08-19T02:35:20.563Z'
 ---
 
 # Graphcore support for AI
