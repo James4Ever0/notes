@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-19T17:42:00.370Z'
+modified: '2022-08-19T17:42:28.949Z'
 ---
 
 # pyjom dev schedules
@@ -33,13 +33,13 @@ modified: '2022-08-19T17:42:00.370Z'
 
 ## dog/cat video generation
 ### make render engine runnable
-fix issues:
+issues:
 - [ ] video length too long (10 mins)
 - [ ] bgm somehow not in sync (too broad bpm ranges?)
 - [ ] video too repetitive (small corpus?)
 - [ ] do not remove subtitle and crop active region (reviewer's resource not used?)
 - [ ] do not have minimum motion threshold (reviewer's fault?)
-
+-----------------
 
 
 - [ ] remove all watermarks, subtitles and crop video boundaries accordingly
