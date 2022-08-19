@@ -2,7 +2,7 @@
 tags: [android, clipboard, sync, system manage, tweaks]
 title: Android 10 clipboard issue for scrcpy
 created: '2022-02-21T11:44:30.000Z'
-modified: '2022-08-19T02:22:54.246Z'
+modified: '2022-08-19T02:23:21.542Z'
 ---
 
 # Android 10 clipboard issue for scrcpy
@@ -18,8 +18,9 @@ https://github.com/Kr328/Riru-ClipboardWhitelist
 https://t.me/kr328_riru_modules
 
 script.sh:
-
+```bash
 scrcpy -K -S 2>&1 | python3 reader.py
+```
 
 reader.py:
 ```python
