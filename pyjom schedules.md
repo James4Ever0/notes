@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-20T18:44:04.548Z'
+modified: '2022-08-20T18:44:37.850Z'
 ---
 
 # pyjom dev schedules
@@ -39,6 +39,17 @@ issues:
 - [ ] to analyze the peaks (abrupt changes) in bgm and grab louder peaks using `pyloudnorm` (getting audio volume)
 ```bash
 pip3 install pyloudnorm
+```
+
+```python
+import soundfile as sf
+import pyloudnorm as pyln
+
+data, rate = sf.read("0055014.wav") # load audio (with shape (samples, channels))
+print(data.shape)
+meter = pyln.Meter(rate) # create BS.1770 meter
+loudness = meter.integrated_loudness(data) # measure loudness
+print(loudness)
 ```
 - [ ] place video on loudest points, abrupt changes detected by talib or just take direvative and gaussian average
 - [ ] video too repetitive (small corpus?)
