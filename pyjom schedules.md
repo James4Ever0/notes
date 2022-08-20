@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-20T18:41:42.896Z'
+modified: '2022-08-20T18:44:04.548Z'
 ---
 
 # pyjom dev schedules
@@ -36,7 +36,10 @@ modified: '2022-08-20T18:41:42.896Z'
 issues:
 - [ ] video length too long (10 mins)
 - [ ] bgm somehow not in sync (too broad bpm/clip ranges?)
-- [ ] to analyze the peaks (abrupt changes) in bgm and grab louder peaks
+- [ ] to analyze the peaks (abrupt changes) in bgm and grab louder peaks using `pyloudnorm` (getting audio volume)
+```bash
+pip3 install pyloudnorm
+```
 - [ ] place video on loudest points, abrupt changes detected by talib or just take direvative and gaussian average
 - [ ] video too repetitive (small corpus?)
 - [ ] do not remove subtitle and crop active region (reviewer's resource not used? but i rather advise you to do it directly since it requires less computational power)
