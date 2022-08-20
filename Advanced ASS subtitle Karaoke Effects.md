@@ -2,7 +2,7 @@
 tags: [dog video, karaoke, lyric effects, music video, pets video, project, pyjom, subtitle, video effects, video generator, video with bgm]
 title: Advanced ASS subtitle Karaoke Effects
 created: '2022-07-10T15:56:16.000Z'
-modified: '2022-08-20T16:10:16.423Z'
+modified: '2022-08-20T16:10:39.823Z'
 ---
 
 # Advanced ASS Subtitle Karaoke Effects
@@ -23,9 +23,9 @@ groups act as time separators. no two group share the same time. also group have
 [all ass file tags, for custom karaoke effects creation](https://web.archive.org/web/20200722050630/http://docs.aegisub.org/3.2/ASS_Tags/)
 
 my karaoke effect:
-```json
+```
 {\k-50\K400}
-{\k-<initial offset>\K400}
+{\k-<initial offset>\K<total duration>}
 ```
 
 play ass file with mpv on demo video, full screen, no audio:
