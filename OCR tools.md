@@ -1,7 +1,8 @@
 ---
+tags: [ocr]
 title: OCR tools
 created: '2022-08-20T17:55:19.273Z'
-modified: '2022-08-20T18:23:46.276Z'
+modified: '2022-08-20T18:27:19.370Z'
 ---
 
 # OCR tools
