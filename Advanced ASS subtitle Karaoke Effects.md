@@ -1,8 +1,8 @@
 ---
-tags: [dog video, karaoke, lyric effects, pets video, project, pyjom, subtitle, video effects, video generator, video with bgm]
+tags: [dog video, karaoke, lyric effects, music video, pets video, project, pyjom, subtitle, video effects, video generator, video with bgm]
 title: Advanced ASS subtitle Karaoke Effects
 created: '2022-07-10T15:56:16.000Z'
-modified: '2022-08-20T11:33:22.135Z'
+modified: '2022-08-20T11:36:33.906Z'
 ---
 
 # Advanced ASS Subtitle Karaoke Effects
