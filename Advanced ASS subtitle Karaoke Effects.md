@@ -2,14 +2,15 @@
 tags: [dog video, karaoke, lyric effects, music video, pets video, project, pyjom, subtitle, video effects, video generator, video with bgm]
 title: Advanced ASS subtitle Karaoke Effects
 created: '2022-07-10T15:56:16.000Z'
-modified: '2022-08-20T11:52:29.528Z'
+modified: '2022-08-20T11:53:34.573Z'
 ---
 
 # Advanced ASS Subtitle Karaoke Effects
 
-play ass file with mpv on demo video, full screen:
+play ass file with mpv on demo video, full screen, no audio:
 ```bash
-
+rootpath=/Users/jamesbrown/desktop/works/pyjom_remote/
+mpv --fs --no-audio --sub-file="$rootpath/tests/karaoke_effects/pyonfx_test/examples/2 - Beginner/Output.ass" "$rootpath/samples/video/karaoke_effects_source.mp4"
 ```
 
 create karaoke effects
