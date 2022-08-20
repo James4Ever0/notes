@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-20T18:44:37.850Z'
+modified: '2022-08-20T19:37:59.298Z'
 ---
 
 # pyjom dev schedules
@@ -34,7 +34,7 @@ modified: '2022-08-20T18:44:37.850Z'
 ## dog/cat video generation
 ### make render engine runnable
 issues:
-- [ ] video length too long (10 mins)
+- [x] video length too long (10 mins)
 - [ ] bgm somehow not in sync (too broad bpm/clip ranges?)
 - [ ] to analyze the peaks (abrupt changes) in bgm and grab louder peaks using `pyloudnorm` (getting audio volume)
 ```bash
