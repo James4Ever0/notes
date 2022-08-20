@@ -2,7 +2,7 @@
 tags: [dog video, karaoke, lyric effects, music video, pets video, project, pyjom, subtitle, video effects, video generator, video with bgm]
 title: Advanced ASS subtitle Karaoke Effects
 created: '2022-07-10T15:56:16.000Z'
-modified: '2022-08-20T16:17:51.923Z'
+modified: '2022-08-20T16:18:49.616Z'
 ---
 
 # Advanced ASS Subtitle Karaoke Effects
@@ -18,7 +18,9 @@ skip empty lines?
 lrc files only have start time but no end time.
 we group parallel lyrics by time, if they are close enough we make it into a group.
 
-groups act as time separators. no two group share the same time. also group have maximum span time, minimum span time calculated by content, and group should always in bound.
+groups act as time separators. no two group share the same time. **also group have maximum span time, minimum span time calculated by content**, and group should always in bound.
+
+**should apply the same min-max rule when selecting my video clips**
 
 [all ass file tags, for custom karaoke effects creation](https://web.archive.org/web/20200722050630/http://docs.aegisub.org/3.2/ASS_Tags/)
 
