@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-20T16:24:27.856Z'
+modified: '2022-08-20T16:24:38.947Z'
 ---
 
 # pyjom dev schedules
@@ -46,7 +46,7 @@ issues:
 - [ ] generate appropriate title, cover, info and tags
 - [ ] collect feedback after the post
 - [ ] find some shocking fonts for cover and subtitle, english and chinese
-- [ ] make that karaoke effect/beautify the lyrics
+- [x] make that karaoke effect/beautify the lyrics
 - [ ] make lyrics sync logic fluent, according to what have learned from karaoke effects
 - [ ] make selected video clips fluent, no abrupt cuts, maybe we need pyscenedetect?
 
