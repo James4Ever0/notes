@@ -2,10 +2,17 @@
 tags: [dog video, karaoke, lyric effects, music video, pets video, project, pyjom, subtitle, video effects, video generator, video with bgm]
 title: Advanced ASS subtitle Karaoke Effects
 created: '2022-07-10T15:56:16.000Z'
-modified: '2022-08-20T12:20:55.613Z'
+modified: '2022-08-20T15:20:05.313Z'
 ---
 
 # Advanced ASS Subtitle Karaoke Effects
+
+## lrc files
+
+lrc files only have start time but no end time.
+we group parallel lyrics by time, if they are close enough we make it into a group.
+
+groups act as time separators.
 
 [all ass file tags, for custom karaoke effects creation](https://web.archive.org/web/20200722050630/http://docs.aegisub.org/3.2/ASS_Tags/)
 
