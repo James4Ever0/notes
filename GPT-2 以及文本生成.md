@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, model zoo, pyjom, stub, text generator, voice chat]
 title: GPT-2 以及文本生成
 created: 2022-05-03T18:24:18+08:00
-modified: 2022-08-21T23:33:35+08:00
+modified: 2022-08-21T23:33:48+08:00
 ---
 
 # GPT-2 以及文本生成
@@ -22,7 +22,6 @@ https://github.com/gdemos01/TwitterInfluencerAI
 清华130b大模型
 测试地址：https://huggingface.co/spaces/THUDM/GLM-130B
 模型仓库：https://github.com/THUDM/GLM-130B
-论文地址：https://aclanthology.org/2022.acl-long.26.pdf
 
 https://github.com/Morizeyao/GPT2-Chinese
 https://zhuanlan.zhihu.com/p/352028922
