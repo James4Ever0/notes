@@ -1,11 +1,19 @@
 ---
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
-created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-18T08:01:56.784Z'
+created: 2022-06-09T14:38:29+08:00
+modified: 2022-08-21T11:34:20+08:00
 ---
 
 # quantative financial stock market analysis
+
+## 实盘接口
+
+joinquant
+
+easytrader
+
+## models and frameworks
 
 general reinforcement learning:
 https://github.com/DLR-RM/stable-baselines3
