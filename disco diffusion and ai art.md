@@ -1,8 +1,8 @@
 ---
 tags: [picture generator, stub, text to picture, video generator]
 title: dosco diffusion and ai art
-created: '2022-08-08T12:52:28.000Z'
-modified: '2022-08-18T14:43:46.511Z'
+created: 2022-08-08T20:52:28+08:00
+modified: 2022-08-21T23:44:58+08:00
 ---
 
 # disco diffusion and ai art
@@ -10,6 +10,8 @@ modified: '2022-08-18T14:43:46.511Z'
 https://github.com/jina-ai/discoart
 
 dalle-2
+
+[stable diffusion as dalle2 alternative](https://github.com/CompVis/stable-diffusion)
 
 nvidia provided ai paint tool
 
