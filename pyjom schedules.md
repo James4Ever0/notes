@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-20T19:38:28.510Z'
+modified: '2022-08-21T18:05:37.767Z'
 ---
 
 # pyjom dev schedules
@@ -88,6 +88,7 @@ print(loudness)
 ## voice changer
 - [ ] vst based voice changer
 - [ ] train or find a decent voice generator 御姐音语料库 小受音语料库
+请在b站或者qq群里面寻找 或者什么其他的有关的地方寻找 谢谢
 
 ## 直播 live streaming
 - [ ] source the video
