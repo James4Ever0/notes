@@ -2,7 +2,7 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-08-21T17:08:44.247Z'
+modified: '2022-08-21T17:09:48.234Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -16,7 +16,7 @@ https://github.com/w4123/vits
 
 [米游社 原神语音包](https://bbs.mihoyo.com/ys/search/4?keyword=%E8%AF%AD%E9%9F%B3%E5%8C%85)
 
-[genshin voice scraper with text](https://github.com/CSUSTers/mys-voice-genshin)
+[genshin voice scraper with text, also have scraped voice and text inside](https://github.com/CSUSTers/mys-voice-genshin)
 
 
 ## tactron2 变声 训练
