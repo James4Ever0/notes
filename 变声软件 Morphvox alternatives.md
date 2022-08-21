@@ -2,7 +2,7 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-08-21T23:27:28+08:00
+modified: 2022-08-21T23:50:14+08:00
 ---
 
 # 变声软件 Morphvox alternatives
@@ -15,7 +15,7 @@ https://github.com/w4123/vits
 
 ## tactron2 变声 训练
 
-MoeTTS是一个Tacotron2/HifiGAN模型+编译好的GUI版本发布仓库。声音是Atri
+MoeTTS是一个Tacotron2/HifiGAN模型+编译好的GUI版本发布仓库 有多个语音包
 项目地址：https://github.com/luoyily/MoeTTS
 
 主要的vst变声插件：
