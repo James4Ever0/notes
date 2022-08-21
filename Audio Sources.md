@@ -2,7 +2,7 @@
 tags: [dewatermark, media sources, object tracking, stub]
 title: Royalty Free Video/Picture/Audio Sources
 created: '2022-08-04T03:43:26.000Z'
-modified: '2022-08-18T07:33:18.430Z'
+modified: '2022-08-21T17:54:57.698Z'
 ---
 
 # Royalty Free Video/Picture/Audio Sources
@@ -16,6 +16,8 @@ modified: '2022-08-18T07:33:18.430Z'
 静态的就用[dewatermark算法](https://github.com/rohitrango/automatic-watermark-detection)就好了
 
 视频素材 影视素材 音频素材 图片素材 无水印获取
+
+use bing wallpaper
 
 gettyimages scraped by github provided scrapers
 https://github.com/chuanenlin/shutterscrape
