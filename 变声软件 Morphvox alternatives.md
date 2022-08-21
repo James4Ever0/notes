@@ -2,7 +2,7 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-08-21T23:50:14+08:00
+modified: 2022-08-21T23:59:30+08:00
 ---
 
 # 变声软件 Morphvox alternatives
@@ -11,6 +11,8 @@ modified: 2022-08-21T23:50:14+08:00
 https://github.com/w4123/vits
 
 [白嫖原神语音 有对如何训练原神语音作出的修改](https://github.com/w4123/vits) 想白嫖[访问demo的api](http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=派蒙)
+
+[原神语音包解压](https://github.com/Vextil/Wwise-Unpacker/releases)
 
 
 ## tactron2 变声 训练
