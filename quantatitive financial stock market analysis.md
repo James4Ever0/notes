@@ -2,7 +2,7 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: 2022-06-09T14:38:29+08:00
-modified: 2022-08-21T11:52:03+08:00
+modified: 2022-08-21T23:22:40+08:00
 ---
 
 # quantative financial stock market analysis
@@ -12,6 +12,14 @@ modified: 2022-08-21T11:52:03+08:00
 joinquant
 
 [easytrader](https://github.com/shidenggui/easytrader)
+
+[实盘易 支持多个客户端](http://www.iguuu.com/e)
+
+## tools
+
+[mytt 通达信公式转换器](https://github.com/mpquant/MyTT)
+
+[funcat 通达信公式转换器](https://github.com/cedricporter/funcat)
 
 ## models and frameworks
 
