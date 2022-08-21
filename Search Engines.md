@@ -2,12 +2,12 @@
 tags: [diy, search engine, self-hosted]
 title: Search Engines
 created: 2022-06-08T21:57:58+08:00
-modified: 2022-08-22T00:13:20+08:00
+modified: 2022-08-22T00:17:46+08:00
 ---
 
 # Search Engines DIY
 
-[zinc search](https://github.com/zinclabs/zinc)
+[zinc search, go implementation of elastic search alternative](https://github.com/zinclabs/zinc)
 
 I bet there are many many alternatives. even for a relational database or graph database it can be a search engine by its nature.
 
