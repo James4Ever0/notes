@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-22T19:18:40.449Z'
+modified: '2022-08-22T19:19:04.803Z'
 ---
 
 # pyjom dev schedules
@@ -72,11 +72,20 @@ print(loudness)
 - [ ] analyze danmaku
 - [ ] paraphrase the script
 - [ ] cut the crap and understand each clip's meaning
+________________________
+
 ### process the video clips, like changing the human figure, changing face, stylish the video, adding 2d to 3d effects
+________________________
+
 ### process the audio clips, like changing voice, adding sound effects, separating audio/music tracks, ducking
+________________________
 - [ ] remove all hints from image, video, audio and script that may lead to copyright issues
 ### index, retrieve and align video and audio content according to our collected database
+________________________
+
 ### retrieve and align video and audio according to our smart search agent (keyword extractor, related words) and do live compilation
+________________________
+
 ## qq managing
 - [ ] mitm chats in friends
 - [ ] mitm chats in groups
