@@ -1,7 +1,8 @@
 ---
+tags: [hardware]
 title: Hardware Simulator
 created: '2022-08-22T16:12:00.989Z'
-modified: '2022-08-22T16:28:22.255Z'
+modified: '2022-08-22T16:28:45.657Z'
 ---
 
 # Hardware Simulator
