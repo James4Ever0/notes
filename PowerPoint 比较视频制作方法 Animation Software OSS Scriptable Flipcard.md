@@ -2,12 +2,12 @@
 tags: [animation, animation framework, comparation video, pyjom, stub, video generator]
 title: PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
 created: 2022-07-13T23:16:54+08:00
-modified: 2022-08-22T22:42:25+08:00
+modified: 2022-08-22T22:42:35+08:00
 ---
 
 # PowerPoint 比较视频制作方法 Animation Software OSS Scriptable Flipcard
 
-看看别人的数据来源是什么
+- [ ] 看看别人的数据来源是什么
 
 知乎神回答 知乎同类回答 排行榜 github排行榜 同类内容
 
