@@ -1,18 +1,20 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom]
 title: 复读机 Chatbot
-created: '2022-07-14T15:35:31.000Z'
-modified: '2022-08-18T07:49:45.472Z'
+created: 2022-07-14T23:35:31+08:00
+modified: 2022-08-22T21:40:52+08:00
 ---
 
 # 复读机 Chatbot
+
+自动骂人
+https://github.com/liuke-wuhan/ZuAnBot
 
 添加一个FileLock在gpt2 main server里面 不要让多个对话同时进行处理
 
 在人多的群里面少说话 具体表现为每次说话的时间间隔变长 次数变少 同时要注意 聊天内容过于严肃 专业的群尽量不要水
 
 [dialogpt documentation](https://huggingface.co/docs/transformers/model_doc/dialogpt)
-
 
 闲聊chitchat dialog bot training framework by facebook:
 https://github.com/facebookresearch/ParlAI
