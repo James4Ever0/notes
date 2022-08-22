@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-21T18:07:12.757Z'
+modified: '2022-08-22T19:17:52.509Z'
 ---
 
 # pyjom dev schedules
@@ -68,12 +68,15 @@ print(loudness)
 - [ ] make selected video clips fluent, no abrupt cuts, maybe we need pyscenedetect?
 
 ## text to video, template based video generator
+### analyze the media content and metadata, relationships
 - [ ] analyze danmaku
+- [ ] paraphrase the script
 - [ ] cut the crap and understand each clip's meaning
-- [ ] process the video clips
-- [ ] process the audio clips
+### process the video clips, like changing the human figure, changing face, stylish the video, adding 2d to 3d effects
+### process the audio clips, like changing voice, adding sound effects, separating audio/music tracks, ducking
 - [ ] remove all hints that may lead to copyright issues
-
+### index, retrieve and align video and audio content according to our collected database
+### retrieve and align video and audio according to our smart search agent (keyword extractor, related words) and do live compilation
 ## qq managing
 - [ ] mitm chats in friends
 - [ ] mitm chats in groups
