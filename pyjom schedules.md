@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-22T19:25:03.342Z'
+modified: '2022-08-22T19:26:15.682Z'
 ---
 
 # pyjom dev schedules
@@ -68,7 +68,10 @@ print(loudness)
 - [ ] make selected video clips fluent, no abrupt cuts, maybe we need pyscenedetect?
 
 ## text to video, template based video generator (this is perhaps the most complex video generator ever. do it with caution, it might also includes the flipcard, narrator and slideshow based generators)
-### generator models subarchitecture
+### generator models subarchitecture (subcategories of template based generators)
+#### flipcard
+#### slideshow (video and audio, might also include the dog&cat video!)
+#### narrator
 ________________________
 ### policy evasion, NSFW filters
 - [ ] remove all hints from image, video, audio and script that may lead to copyright issues
