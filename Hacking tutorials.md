@@ -1,7 +1,8 @@
 ---
+tags: [virus]
 title: Hacking tutorials
-created: 2022-07-11T23:43:20+08:00
-modified: 2022-08-22T22:38:47+08:00
+created: '2022-07-11T15:43:20.000Z'
+modified: '2022-08-22T16:28:52.898Z'
 ---
 
 # virus, botnet
