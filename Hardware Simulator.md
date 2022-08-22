@@ -1,9 +1,9 @@
 ---
 title: Hardware Simulator
 created: '2022-08-22T16:12:00.989Z'
-modified: '2022-08-22T16:13:19.238Z'
+modified: '2022-08-22T16:28:22.255Z'
 ---
 
 # Hardware Simulator
 
-[pyspice](https://pypi.org/project/PySpice/) uses [ngspice](https://ngspice.sourceforge.io/extras.html) and [xyce](https://xyce.sandia.gov/) as backend
+[pyspice](https://pypi.org/project/PySpice/) uses [ngspice](https://ngspice.sourceforge.io/extras.html) and [xyce](https://xyce.sandia.gov/) as backend, capable of simulating MOS, JFET, diode and more
