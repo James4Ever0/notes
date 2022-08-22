@@ -1,8 +1,12 @@
 ---
 title: Hacking tutorials
 created: 2022-07-11T23:43:20+08:00
-modified: 2022-07-15T00:57:49+08:00
+modified: 2022-08-22T22:38:47+08:00
 ---
+
+# virus, botnet
+
+[botnet with super escalation system for linux and windows, automatically spread the virus out](https://github.com/ThrillQuks/Pitraix)
 
 # Hacking tutorials
 
