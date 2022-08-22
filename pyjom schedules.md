@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-22T19:26:15.682Z'
+modified: '2022-08-22T19:26:56.825Z'
 ---
 
 # pyjom dev schedules
@@ -72,6 +72,7 @@ print(loudness)
 #### flipcard
 #### slideshow (video and audio, might also include the dog&cat video!)
 #### narrator
+#### summarized video
 ________________________
 ### policy evasion, NSFW filters
 - [ ] remove all hints from image, video, audio and script that may lead to copyright issues
