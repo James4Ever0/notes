@@ -2,12 +2,12 @@
 tags: [popular topic discovery, pyjom, SEO, text analysis, topic analysis, trend analysis]
 title: SEO 蓝海词 竞争度
 created: '2022-07-14T02:40:43.000Z'
-modified: '2022-08-23T07:01:22.009Z'
+modified: '2022-08-23T07:02:02.269Z'
 ---
 
 # SEO 蓝海词 飙升词 竞争度 搜索人气 转化率 成交价（视频长度）
 
-可以用分析股价的方法分析搜索关键词 其中股价对应搜索频率（实时） 播放量对应成交量（实时）
+可以用分析股价的方法分析搜索关键词 其中股价对应搜索频率（实时） 播放量对应成交量（实时）也可能不对 反正这个模型肯定要先收集数据然后再建模 画k线
 
 寻找潜在爆款话题 标签
 
