@@ -2,11 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-08-23T03:16:17.930Z'
+modified: '2022-08-23T03:17:44.088Z'
 ---
 
 # 复读机 Chatbot
 
+- [ ] 用txtai或者其他information retrieval (semantic search, smart search)工具来代替levenshtein的history based reply logic
 
 自动骂人
 https://github.com/liuke-wuhan/ZuAnBot
