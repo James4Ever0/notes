@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-08-23T03:24:57.763Z'
+modified: '2022-08-23T03:26:17.903Z'
 ---
 
 # 复读机 Chatbot
@@ -86,7 +86,9 @@ reply according to individual description and group description
 
 拆分大句子为小句子 依次放入 注意要过滤掉广告 一般广告比较长 有链接？
 
-输出内容的时候不能有违禁词语 放进来的可以违禁 或者用拼音或者拆字转换这些违禁词语 保证上下文一致性 文本审查
+- [ ] 输入的内容不能有违禁词否则不回答
+
+- [ ] 输出内容的时候不能有违禁词语 放进来的可以违禁 或者用拼音或者拆字转换这些违禁词语 保证上下文一致性 文本审查
 
 bad chinese -> letter(pinyin initials) -> leetspeek
 
