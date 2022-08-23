@@ -2,12 +2,14 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-08-23T03:17:44.088Z'
+modified: '2022-08-23T03:20:19.312Z'
 ---
 
 # 复读机 Chatbot
 
-- [ ] 用txtai或者其他information retrieval (semantic search, smart search)工具来代替levenshtein的history based reply logic
+- [ ] 根据实时群聊数据训练gpt2
+- [ ] 根据离线群聊数据训练gpt2
+
 
 自动骂人
 https://github.com/liuke-wuhan/ZuAnBot
@@ -31,6 +33,7 @@ reply according to individual description and group description
 
 增加反馈功能 根据发言之后群里面的回复来确定发言是否有益
 
+- [ ] 用txtai或者其他information retrieval (semantic search, smart search)工具来代替levenshtein的history based reply logic
 增加语义查找功能 txtai 替换levenshtein 查找时要包括上下文
 
 复读机不能使得死群活起来 但是主动推送可以 推送长的 自言自语的对话到群里面 不能是同一个群 主题要相关 filter out too negative ones
