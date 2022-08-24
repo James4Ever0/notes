@@ -2,14 +2,14 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-24T06:12:55.289Z'
+modified: '2022-08-24T06:16:12.399Z'
 ---
 
 # quantative financial stock market analysis
 
 ## 模型建立
 
-还原持仓的对象 每一个账户都要详细分析 分析每个账户什么时候买入 卖出 还有新的
+还原持仓的对象 每一个账户都要详细分析 分析每个账户什么时候买入 卖出 还有不买入 不卖出 观望的那些人 所有人都要还原
 
 ## 实盘接口
 
