@@ -2,7 +2,7 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-24T15:37:39.511Z'
+modified: '2022-08-24T15:49:38.760Z'
 ---
 
 # quantative financial stock market analysis
@@ -15,7 +15,7 @@ modified: '2022-08-24T15:37:39.511Z'
 
 [time series forcast](https://zhuanlan.zhihu.com/p/385094015)
 
-有类似的软件 我下载到windows上面过 (agent based simulation/agent based modeling)
+有类似的软件 我下载到windows上面过 (agent based simulation/agent based modeling) called [altreva adaptive modeler]()
 
 [fms](https://pythonhosted.org/fms/)
 
