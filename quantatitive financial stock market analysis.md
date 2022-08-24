@@ -2,14 +2,14 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-24T13:29:22.081Z'
+modified: '2022-08-24T15:31:22.803Z'
 ---
 
 # quantative financial stock market analysis
 
 ## 模型建立
 
-[pandas pipe]() for streamline processing of real time data
+[pandas pipe](https://sinyi-chou.github.io/python-pandas-pipe/#:~:text=Pipe%20is%20a%20method%20in%20pandas.DataFrame%20capable%20of,can%20be%20combined%20with%20method%20chaining%20without%20nesting.) for streamline processing of real time data
 
 [time series forcast](https://zhuanlan.zhihu.com/p/385094015)
 
