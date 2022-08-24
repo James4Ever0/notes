@@ -2,7 +2,7 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-24T07:39:45.563Z'
+modified: '2022-08-24T07:39:56.296Z'
 ---
 
 # quantative financial stock market analysis
@@ -11,7 +11,7 @@ modified: '2022-08-24T07:39:45.563Z'
 
 有类似的软件 我下载到windows上面过 (agent based simulation/agent based modeling)
 
-[fms]()
+[fms](https://pythonhosted.org/fms/)
 
 还原持仓的对象 每一个账户都要详细分析 分析每个账户什么时候买入 卖出 还有不买入 不卖出 观望的那些人 所有人都要还原
 
