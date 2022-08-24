@@ -2,12 +2,16 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-24T07:39:56.296Z'
+modified: '2022-08-24T13:07:33.468Z'
 ---
 
 # quantative financial stock market analysis
 
 ## 模型建立
+
+[pandas pipe]() for streamline processing of real time data
+
+[time series forcast]()
 
 有类似的软件 我下载到windows上面过 (agent based simulation/agent based modeling)
 
