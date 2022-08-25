@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
-created: 2022-08-25T00:02:15+08:00
-modified: 2022-08-25T17:22:01+08:00
+created: '2022-08-24T16:02:15.000Z'
+modified: '2022-08-25T09:57:46.808Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -22,7 +22,7 @@ ln -s /Library/Developer/CommandLineTools /Applications/Xcode.app/Contents/Devel
 
 ### image search libraries
 
-character level optical char segmentation
+character level optical char segmentation called [chargrid ocr]()
 
 [image match used for copyright violation detection, using phash algorithm](https://github.com/ProvenanceLabs/image-match)
 
