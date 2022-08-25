@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-25T05:00:32.537Z'
+modified: '2022-08-25T08:36:46.493Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -23,7 +23,7 @@ ln -s /Library/Developer/CommandLineTools /Applications/Xcode.app/Contents/Devel
 
 ### image search libraries
 
-[image match](https://github.com/ProvenanceLabs/image-match)
+[image match used for copyright violation detection](https://github.com/ProvenanceLabs/image-match)
 
 ## get the latex out
 
