@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
-created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-25T08:46:57.810Z'
+created: 2022-08-25T00:02:15+08:00
+modified: 2022-08-25T17:22:01+08:00
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -18,10 +18,11 @@ we need to do:
 ln -s /Library/Developer/CommandLineTools /Applications/Xcode.app/Contents/Developer
 ```
 
-
 ## search by image instead of cranking latex out
 
 ### image search libraries
+
+character level optical char segmentation
 
 [image match used for copyright violation detection, using phash algorithm](https://github.com/ProvenanceLabs/image-match)
 
