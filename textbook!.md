@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-25T04:51:39.016Z'
+modified: '2022-08-25T05:00:32.537Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -58,3 +58,5 @@ ln -s /Library/Developer/CommandLineTools /Applications/Xcode.app/Contents/Devel
 [formula search based on sympy](https://github.com/AzizAlqasem/FormulaLab)
 
 can we render latex to picture with sympy?
+
+[latex search engine](https://github.com/kerryz/latexsymbolsearch)
