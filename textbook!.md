@@ -1,10 +1,16 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-25T04:06:49.438Z'
+modified: '2022-08-25T04:19:35.187Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
+
+## search by image instead of cranking latex out
+
+### image search libraries
+
+[image match](https://github.com/ProvenanceLabs/image-match)
 
 ## get the latex out
 
