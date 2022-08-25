@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-24T16:02:17.460Z'
+modified: '2022-08-25T04:06:49.438Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -33,3 +33,9 @@ modified: '2022-08-24T16:02:17.460Z'
 ## mask latex area and get conventional things out
 
 [easyocr with pytorch support](https://github.com/JaidedAI/EasyOCR)
+
+## search the formula
+
+[formula search based on sympy](https://github.com/AzizAlqasem/FormulaLab)
+
+can we render latex to picture with sympy?
