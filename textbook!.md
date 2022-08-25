@@ -1,14 +1,14 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-25T04:46:00.593Z'
+modified: '2022-08-25T04:46:25.123Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
 
 ## kindly reminders
 
-when building without xcode, please add commandline header files like this:
+when building python c++ libraries without xcode, please add commandline header files like this:
 ```/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/Headers/Python.h```
 
 
