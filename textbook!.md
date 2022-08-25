@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-25T04:46:25.123Z'
+modified: '2022-08-25T04:51:39.016Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -9,7 +9,14 @@ modified: '2022-08-25T04:46:25.123Z'
 ## kindly reminders
 
 when building python c++ libraries without xcode, please add commandline header files like this:
+
+in order to have this during build:
 ```/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/Headers/Python.h```
+
+we need to do:
+```bash
+ln -s /Library/Developer/CommandLineTools /Applications/Xcode.app/Contents/Developer
+```
 
 
 ## search by image instead of cranking latex out
