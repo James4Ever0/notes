@@ -1,11 +1,13 @@
 ---
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
-created: 2022-08-08T20:52:28+08:00
-modified: 2022-08-21T23:45:07+08:00
+created: '2022-08-08T12:52:28.000Z'
+modified: '2022-08-25T00:44:47.685Z'
 ---
 
 # disco diffusion and ai art
+
+[text to image minimal example](https://github.com/AssemblyAI-Examples/MinImagen)
 
 https://github.com/jina-ai/discoart
 
