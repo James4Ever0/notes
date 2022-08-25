@@ -2,10 +2,16 @@
 tags: [image search, information gathering, scraping, search engine, video generator]
 title: Similar Image Search
 created: '2022-05-28T11:26:34.000Z'
-modified: '2022-08-18T16:24:48.698Z'
+modified: '2022-08-25T04:18:37.492Z'
 ---
 
 # Similar Image Search
+
+image local search by similarity:
+https://github.com/ProvenanceLabs/image-match
+
+anime image search by scene:
+https://github.com/soruly/trace.moe
 
 bing image search:
 https://cn.bing.com/visualsearch/Microsoft/SimilarImages
