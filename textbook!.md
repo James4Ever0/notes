@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-26T01:03:03.787Z'
+modified: '2022-08-26T01:04:36.186Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -10,7 +10,7 @@ modified: '2022-08-26T01:03:03.787Z'
 
 maybe you can document another great range of symbols by just enabling the system to search in greek?
 
-could also search among math symbols, do math ocr.
+could also search among math symbols, do [math ocr](https://github.com/chungkwong/MathOCR).
 
 ## kindly reminders
 
