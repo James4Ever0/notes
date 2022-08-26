@@ -1,12 +1,17 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-26T07:01:16.745Z'
+modified: '2022-08-26T07:01:56.052Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
 
-## non-max supp
+## non-max suppression in combining similar bounding boxes
+
+the lib:
+```python
+from imutils import non_max_suppression
+```
 
 ## basically greek letters
 
