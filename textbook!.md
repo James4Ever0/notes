@@ -1,10 +1,14 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-25T09:58:03.255Z'
+modified: '2022-08-26T01:02:19.343Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
+
+## basically greek letters
+
+maybe you can document another great range of symbols by just enabling the system to search in greek?
 
 ## kindly reminders
 
