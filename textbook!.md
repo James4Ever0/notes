@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-26T01:19:10.402Z'
+modified: '2022-08-26T02:21:12.416Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -45,6 +45,12 @@ character level optical char segmentation called [chargrid ocr](https://github.c
 [math expression detection](https://github.com/divya1211/math-expression-detection)
 
 ### next find the tool for picture to latex conversion
+
+[attention based math ocr](https://github.com/DexterLei/Math-OCR)
+
+[gui of image2latex](https://github.com/yixuanzhou/image2latex)
+
+[im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow)
 
 [im2markup with only nvidia support](https://github.com/harvardnlp/im2markup/)
 
