@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
 created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-26T02:21:12.416Z'
+modified: '2022-08-26T03:15:28.525Z'
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -52,7 +52,7 @@ character level optical char segmentation called [chargrid ocr](https://github.c
 
 [im2latex-tensorflow](https://github.com/ritheshkumar95/im2latex-tensorflow)
 
-[im2markup with only nvidia support](https://github.com/harvardnlp/im2markup/)
+[im2markup with only nvidia support, torch](https://github.com/harvardnlp/im2markup/), model for latex conversion can be found [here](https://im2markup.yuntiandeng.com/model/latex/final-model)
 
 [deeplearning picture to latex](https://github.com/kingyiusuen/image-to-latex)
 
