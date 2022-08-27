@@ -1,7 +1,7 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:25:53.706Z'
+modified: '2022-08-27T15:27:19.333Z'
 ---
 
 # on building the lua torch library
@@ -42,7 +42,7 @@ install tensorflow version below 1, and doing this can be far more easier on lin
 
 remember to activate torch enviorment by exporting the path to some shell script
 
-difference between cudamalloc and cudamallocasync
+difference between cudamalloc and cudamallocasync, and that's some copying and pasting about some generalized template of memory manager function
 
 qt4 uses CRLF so convert all text files using dos2unix
 
