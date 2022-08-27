@@ -2,10 +2,18 @@
 tags: [host discovery, remote control, service, system manage]
 title: the kali command on macos
 created: '2022-08-11T16:16:47.656Z'
-modified: '2022-08-18T08:01:03.922Z'
+modified: '2022-08-27T15:28:54.152Z'
 ---
 
 # the kali command on macos
+
+## debugging
+
+when kali is off, this mac will go crazy and hang everything.
+
+need to scan for kali existance on demand, not all the time.
+
+## developing
 
 should we use p2p networks to speed up remote connections like `n2n` or `tinc`?
 
