@@ -1,7 +1,7 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:22:47.837Z'
+modified: '2022-08-27T15:23:19.491Z'
 ---
 
 # on building the lua torch library
@@ -11,6 +11,8 @@ modified: '2022-08-27T15:22:47.837Z'
 visit [here](https://docs.conda.io/en/latest/miniconda.html) to get all miniconda installers
 
 to install on macos, download the installer [here](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg)
+
+some tutorial [here](https://blog.balasundar.com/install-older-versions-of-python-using-miniconda-on-mac-m1) about libmagic
 
 ```bash
 CONDA_SUBDIR=osx-64 conda create -n py27 python=2.7  # include other packages here
