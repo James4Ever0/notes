@@ -1,7 +1,7 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:20:57.736Z'
+modified: '2022-08-27T15:21:55.962Z'
 ---
 
 # on building the lua torch library
@@ -9,6 +9,12 @@ modified: '2022-08-27T15:20:57.736Z'
 ## install or run python2.7 to run [im2latex-tensorflow](https://github.com/ArminKaramzade/im2latex)
 
 to install on macos, download the installer [here](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg)
+
+after that, do this to get pip on python2.7 (rosetta2)
+```bash
+curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py
+python get-pip.py
+```
 
 install tensorflow version below 1, and doing this can be far more easier on linux. maybe we should do this in conda virtual enviorment to prevent conflicts.
 
