@@ -1,10 +1,10 @@
 ---
 title: on building the lua torch library
-created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:27:19.333Z'
+created: 2022-08-26T22:07:07+08:00
+modified: 2022-08-27T23:48:19+08:00
 ---
 
-# on building the lua torch library
+**#** on building the lua torch library
 
 ## install or run python2.7 to run [im2latex-tensorflow](https://github.com/ArminKaramzade/im2latex)
 
@@ -39,6 +39,8 @@ install tensorflow version below 1, and doing this can be far more easier on lin
 ## we are doing this for the original lua implementation of [im2markup](https://github.com/harvardnlp/im2markup)
 
 **it works!**
+
+download libcudnn5 for torch
 
 remember to activate torch enviorment by exporting the path to some shell script
 
