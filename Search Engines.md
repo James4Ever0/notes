@@ -2,12 +2,12 @@
 tags: [diy, search engine, self-hosted]
 title: Search Engines
 created: '2022-06-08T13:57:58.000Z'
-modified: '2022-08-27T07:10:26.466Z'
+modified: '2022-08-27T07:10:47.982Z'
 ---
 
 # Search Engines DIY
 
-[markuplm markup language model](https://huggingface.co/microsoft/markuplm-base) used for feature rich information extraction, [webqa](https://github.com/susht3/webQA_sequence_labelling_pytorch), [reading wikipedia to answer open domain questions]()
+[markuplm markup language model](https://huggingface.co/microsoft/markuplm-base) used for feature rich information extraction, [webqa](https://github.com/susht3/webQA_sequence_labelling_pytorch), arxiv paper: [reading wikipedia to answer open domain questions](https://arxiv.org/abs/1704.00051)
 
 [zinc search, go implementation of elastic search alternative](https://github.com/zinclabs/zinc)
 
