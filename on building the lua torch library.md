@@ -1,10 +1,16 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:16:59.056Z'
+modified: '2022-08-27T15:19:19.699Z'
 ---
 
 # on building the lua torch library
+
+## install or run python2.7 to run [im2latex-tensorflow]()
+
+to install on macos, download the installer [here]()
+
+## we are doing this for the original lua implementation of [im2markup]()
 
 remember to activate torch enviorment by exporting the path to some shell script
 
