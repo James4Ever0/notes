@@ -1,7 +1,7 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:19:34.650Z'
+modified: '2022-08-27T15:19:53.001Z'
 ---
 
 # on building the lua torch library
@@ -10,7 +10,7 @@ modified: '2022-08-27T15:19:34.650Z'
 
 to install on macos, download the installer [here](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg)
 
-## we are doing this for the original lua implementation of [im2markup]()
+## we are doing this for the original lua implementation of [im2markup](https://github.com/harvardnlp/im2markup)
 
 remember to activate torch enviorment by exporting the path to some shell script
 
