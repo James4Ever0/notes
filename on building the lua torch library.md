@@ -1,7 +1,7 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:25:19.440Z'
+modified: '2022-08-27T15:25:53.706Z'
 ---
 
 # on building the lua torch library
@@ -37,6 +37,8 @@ python get-pip.py
 install tensorflow version below 1, and doing this can be far more easier on linux. maybe we should do this in conda virtual enviorment to prevent conflicts.
 
 ## we are doing this for the original lua implementation of [im2markup](https://github.com/harvardnlp/im2markup)
+
+**it works!**
 
 remember to activate torch enviorment by exporting the path to some shell script
 
