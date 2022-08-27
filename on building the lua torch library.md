@@ -1,14 +1,16 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-27T15:19:53.001Z'
+modified: '2022-08-27T15:20:57.736Z'
 ---
 
 # on building the lua torch library
 
-## install or run python2.7 to run [im2latex-tensorflow]()
+## install or run python2.7 to run [im2latex-tensorflow](https://github.com/ArminKaramzade/im2latex)
 
 to install on macos, download the installer [here](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg)
+
+install tensorflow version below 1, and doing this can be far more easier on linux. maybe we should do this in conda virtual enviorment to prevent conflicts.
 
 ## we are doing this for the original lua implementation of [im2markup](https://github.com/harvardnlp/im2markup)
 
