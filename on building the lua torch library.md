@@ -1,10 +1,10 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-28T10:29:10.609Z'
+modified: '2022-08-28T14:23:29.295Z'
 ---
 
-**#** on building the lua torch library
+# on building the lua torch library
 ## im2latex-tensorflow sucks, looking for alternatives
 
 [harvard nlp showcase](http://nlp.seas.harvard.edu/code/)
