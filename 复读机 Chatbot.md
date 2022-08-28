@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-08-28T14:25:10.969Z'
+modified: '2022-08-28T14:25:56.179Z'
 ---
 
 # 复读机 Chatbot
@@ -30,6 +30,7 @@ debug the consecutive group reply thresholding protocol
 
 reply according to individual description and group description
 
+- [ ] 
 - [ ] 推广视频的时候可以加入别人的视频高赞评论 动态的GIF 音频 或者是短视频 然后再发送xml
 
 - [ ] 增加复读图片的功能 增加chatlocal返回图片的功能
