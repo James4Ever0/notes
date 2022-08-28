@@ -1,10 +1,17 @@
 ---
 title: on building the lua torch library
-created: 2022-08-26T22:07:07+08:00
-modified: 2022-08-27T23:48:19+08:00
+created: '2022-08-26T14:07:07.000Z'
+modified: '2022-08-28T09:45:45.150Z'
 ---
 
 **#** on building the lua torch library
+## im2latex-tensorflow sucks, looking for alternatives
+
+for those doesn't provide pretrained models:
+
+[im2latex](https://github.com/guillaumegenthial/im2latex) in tensorflow, with makefile support, run on tensorflow v1 and python3
+
+[]() in pytorch, more recent
 
 ## install or run python2.7 to run [im2latex-tensorflow](https://github.com/ArminKaramzade/im2latex)
 
