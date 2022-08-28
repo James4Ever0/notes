@@ -1,11 +1,13 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-28T10:24:37.087Z'
+modified: '2022-08-28T10:27:29.454Z'
 ---
 
 **#** on building the lua torch library
 ## im2latex-tensorflow sucks, looking for alternatives
+
+[harvard nlp showcase]()
 
 for those doesn't provide pretrained models:
 
