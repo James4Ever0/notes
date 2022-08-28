@@ -2,13 +2,13 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-08-28T14:23:49.779Z'
+modified: '2022-08-28T14:25:10.969Z'
 ---
 
 # 复读机 Chatbot
 
 
-- [ ] 
+- [ ] 白天聊天 收集数据 晚上离线训练 （此逻辑可以推广到任意的机器学习驱动的平台）
 - [ ] 把"汪汪"翻译成表情包 同时可以随机添加其他表情
 - [ ] 根据实时群聊数据训练gpt2
 - [ ] 根据离线群聊数据训练gpt2
