@@ -1,7 +1,7 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-28T09:45:45.150Z'
+modified: '2022-08-28T10:23:53.864Z'
 ---
 
 **#** on building the lua torch library
@@ -11,7 +11,7 @@ for those doesn't provide pretrained models:
 
 [im2latex](https://github.com/guillaumegenthial/im2latex) in tensorflow, with makefile support, run on tensorflow v1 and python3
 
-[]() in pytorch, more recent
+[]() in pytorch, more recent. the dataset has relocated to [here](https://zenodo.org/record/56198#.YwtB9PcRU5t) according to [official website]()
 
 ## install or run python2.7 to run [im2latex-tensorflow](https://github.com/ArminKaramzade/im2latex)
 
