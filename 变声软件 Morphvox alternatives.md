@@ -1,8 +1,8 @@
 ---
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
-created: '2022-05-28T16:14:51.000Z'
-modified: '2022-08-21T17:52:02.997Z'
+created: 2022-05-29T00:14:51+08:00
+modified: 2022-08-28T23:06:38+08:00
 ---
 
 # 变声软件 Morphvox alternatives
@@ -10,7 +10,7 @@ modified: '2022-08-21T17:52:02.997Z'
 ## vits变声
 https://github.com/w4123/vits
 
-[白嫖原神语音 有对如何训练原神语音作出的修改](https://github.com/w4123/vits) 想白嫖[访问demo的api](http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=派蒙) 这个模型读英语不行 可能需要原神英文语音包吧 当然也可以直接考虑变声器模型
+[白嫖原神语音 有对如何训练原神语音作出的修改](https://github.com/w4123/vits) 想白嫖[访问demo的api](http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=派蒙) 这个模型读英语不行 可能需要原神英文语音包吧 当然也可以直接考虑变声器模型 读阿拉伯数字也不可以 如何把非汉字内容变为可以读的内容
 
 [原神语音包解压](https://github.com/Vextil/Wwise-Unpacker/releases)
 
