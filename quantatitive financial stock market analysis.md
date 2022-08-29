@@ -2,7 +2,7 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-29T07:53:22.349Z'
+modified: '2022-08-29T07:53:32.247Z'
 ---
 
 # quantative financial stock market analysis
@@ -25,7 +25,7 @@ modified: '2022-08-29T07:53:22.349Z'
 
 **tools for high frequency trading** **low latency trading tool**
 
-**高频交易工具** ****
+**高频交易工具** **低延迟交易工具**
 
 要抢涨停板 网络必须要好 下单速度要快
 
