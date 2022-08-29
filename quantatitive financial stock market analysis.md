@@ -2,14 +2,14 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-08-29T08:09:56.217Z'
+modified: '2022-08-29T08:10:15.211Z'
 ---
 
 # quantative financial stock market analysis
 
 ## 数据来源
 
-
+`pandas_datareader`
 
 
 ## 模型建立
