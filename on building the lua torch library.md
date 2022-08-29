@@ -1,11 +1,13 @@
 ---
 title: on building the lua torch library
 created: '2022-08-26T14:07:07.000Z'
-modified: '2022-08-28T14:23:29.295Z'
+modified: '2022-08-29T03:35:48.580Z'
 ---
 
 # on building the lua torch library
 ## im2latex-tensorflow sucks, looking for alternatives
+
+**training on gpu is intensive and will occasionally burn hardware if not careful**
 
 [harvard nlp showcase](http://nlp.seas.harvard.edu/code/)
 
