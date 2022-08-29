@@ -2,7 +2,7 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2022-08-29T04:21:25.049Z'
+modified: '2022-08-29T04:21:28.886Z'
 ---
 
 # 变声软件 Morphvox alternatives
@@ -12,7 +12,7 @@ https://github.com/w4123/vits
 
 [白嫖原神语音 有对如何训练原神语音作出的修改](https://github.com/w4123/vits) 想白嫖[访问demo的api](http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=派蒙) 这个模型读英语不行 可能需要原神英文语音包吧 当然也可以直接考虑变声器模型 读阿拉伯数字也不可以 如何把非汉字内容变为可以读的内容
 
-[阿拉伯数字转汉字](https://github.com/Ailln/cn2an) 从funnlp看到的
+[阿拉伯数字转汉字](https://github.com/Ailln/cn2an) 从[funnlp](https://github.com/fighting41love/funNLP)看到的
 
 [原神语音包解压](https://github.com/Vextil/Wwise-Unpacker/releases)
 
