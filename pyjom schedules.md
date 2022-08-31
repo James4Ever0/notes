@@ -1,11 +1,14 @@
 ---
 tags: [pyjom, schedule]
 title: pyjom schedules
-created: '2022-08-17T19:02:54.000Z'
-modified: '2022-08-22T19:26:56.825Z'
+created: 2022-08-18T03:02:54+08:00
+modified: 2022-08-31T23:24:52+08:00
 ---
 
 # pyjom dev schedules
+
+## 整活
+- [ ] 应 急 诈 骗 食 品 (派蒙加Rick Ashley 如何混合？）
 
 ## recommendation
 - [ ] use txtai to do NLU and recommend things to people
