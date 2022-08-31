@@ -2,7 +2,7 @@
 tags: [fan, hardware, linux, security, system manage, thermal]
 title: 'Linux Fan Not Spinning, GPU Fan Not Spinning'
 created: '2022-08-11T04:25:28.086Z'
-modified: '2022-08-31T22:35:25.027Z'
+modified: '2022-08-31T22:35:38.800Z'
 ---
 
 # Linux Fan Not Spinning, GPU Fan Not Spinning
@@ -16,7 +16,8 @@ pwmconfig
 ```
 already have cpu frequency under control by running temp_throttle.sh
 
-notes: found controllers `dell-smm
+notes: found controllers `dell_smm-isa-0000`
+
 ```bash
 
 Found the following PWM controls:
