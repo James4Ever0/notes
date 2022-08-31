@@ -1,8 +1,8 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: 2022-07-14T23:35:31+08:00
-modified: 2022-08-29T07:47:07+08:00
+created: '2022-07-14T15:35:31.000Z'
+modified: '2022-08-31T12:57:01.776Z'
 ---
 
 # 复读机 Chatbot
@@ -10,6 +10,15 @@ modified: 2022-08-29T07:47:07+08:00
 按照老毛的思想 要一边造谣一边辟谣 一边承认一边否定 同样的话颠三倒四可以说无数遍 也可以选择不说 这样可以和很多的类似故事杂交
 
 - [ ] 白天聊天 收集数据 晚上离线训练 （此逻辑可以推广到任意的机器学习驱动的平台）
+schedule the training on minute basis first for complete test, then schedule it on fixed time per day.
+
+for qq client: dump 500 continual sentences when adding one new while holding the filelock, do not block or stop running if GPT not responding
+
+for gpt2 server: (where to train? how to prevent maching from burning? for how long?)
+rename the dataset while holding the filelock
+always keep the latest 2 models, remove those not readable first, then delete older ones.
+
+if train on CPU, still need to limit training time, sleep while doing so. GPU for sure we need sleep during training, and do not use VRAM for other applications.
 - [ ] 把"汪汪"翻译成表情包 同时可以随机添加其他表情
 - [ ] 根据实时群聊数据训练gpt2
 - [ ] 根据离线群聊数据训练gpt2
