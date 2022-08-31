@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-08-31T12:57:01.776Z'
+modified: '2022-08-31T12:57:08.008Z'
 ---
 
 # 复读机 Chatbot
@@ -10,6 +10,7 @@ modified: '2022-08-31T12:57:01.776Z'
 按照老毛的思想 要一边造谣一边辟谣 一边承认一边否定 同样的话颠三倒四可以说无数遍 也可以选择不说 这样可以和很多的类似故事杂交
 
 - [ ] 白天聊天 收集数据 晚上离线训练 （此逻辑可以推广到任意的机器学习驱动的平台）
+
 schedule the training on minute basis first for complete test, then schedule it on fixed time per day.
 
 for qq client: dump 500 continual sentences when adding one new while holding the filelock, do not block or stop running if GPT not responding
