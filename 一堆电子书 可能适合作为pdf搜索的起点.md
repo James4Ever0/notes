@@ -1,7 +1,7 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: 2022-08-31T21:43:50+08:00
-modified: 2022-09-02T00:19:26+08:00
+modified: 2022-09-02T00:20:15+08:00
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
@@ -10,7 +10,7 @@ modified: 2022-09-02T00:19:26+08:00
 
 make it into html and you may jump to specific line with hashtag!
 
-embed hidden/invisible text into pictures so you can search them!
+embed hidden/invisible text into pictures so you can copy them! or you may still ask the same engine for help
 
 notebook to html:
 ```bash
