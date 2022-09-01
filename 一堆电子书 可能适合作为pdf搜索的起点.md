@@ -1,14 +1,14 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: 2022-08-31T21:43:50+08:00
-modified: 2022-09-02T00:29:45+08:00
+modified: 2022-09-02T00:31:11+08:00
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
 
 如何在网页上面加载PDF PPT Word文档 jupyter notebook并翻到指定位置？可以修改 涂画么
 
-convert ppt word to odf first to ue in viewerjs
+convert ppt word to odf first to ue in [viewerjs](https://viewerjs.org/getit/)
 
 video can also be indexed, by means of text search
 
