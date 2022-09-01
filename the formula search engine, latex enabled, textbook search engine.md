@@ -1,9 +1,12 @@
 ---
-created: 2022-08-27T23:40:04+08:00
-modified: 2022-08-27T23:42:54+08:00
+title: 'the formula search engine, latex enabled, textbook search engine'
+created: '2022-08-27T15:40:04.000Z'
+modified: '2022-09-01T14:36:06.004Z'
 ---
 
 # the formula search engine, latex enabled, textbook search engine
+
+[latex2sympy](https://github.com/augustt198/latex2sympy)
 
 [mathpix]() has stunning accuracy but is not free. they offer timely licensed docker images.
 
