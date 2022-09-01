@@ -1,7 +1,7 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: '2022-08-31T13:43:50.000Z'
-modified: '2022-09-01T15:09:10.943Z'
+modified: '2022-09-01T15:19:25.334Z'
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
@@ -17,5 +17,5 @@ https://github.com/lTbgykio/Books-Free-Books
 https://github.com/Dujltqzv/Some-Many-Books
 
 书籍互助脚本
-
+https://greasyfork.org/zh-CN/scripts/420751-%E5%9B%BE%E4%B9%A6%E4%BA%92%E5%8A%A9
 
