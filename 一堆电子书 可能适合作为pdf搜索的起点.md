@@ -1,12 +1,17 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: 2022-08-31T21:43:50+08:00
-modified: 2022-09-02T00:20:15+08:00
+modified: 2022-09-02T00:21:35+08:00
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
 
 如何在网页上面加载PDF PPT Word文档 jupyter notebook并翻到指定位置？可以修改 涂画么
+
+embed pdf:
+```html
+<iframe src="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" width="100%" height="500px"
+```
 
 make it into html and you may jump to specific line with hashtag!
 
