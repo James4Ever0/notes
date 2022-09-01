@@ -2,13 +2,14 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-09-01T02:26:43+08:00
+modified: 2022-09-01T19:04:02+08:00
 ---
 
 # 复读机 Chatbot
 
 按照老毛的思想 要一边造谣一边辟谣 一边承认一边否定 同样的话颠三倒四可以说无数遍 也可以选择不说 这样可以和很多的类似故事杂交
 
+- [ ] 处理私聊信息 每回复一个人就清除他的所有历史发言 每隔一段时间处理其中的一个人 不会相互挤占
 - [ ] 白天聊天 收集数据 晚上离线训练 （此逻辑可以推广到任意的机器学习驱动的平台）要选取质量好有情感的聊天样本 长短适中 不要广告不要偏激违禁词 去掉表情包 去掉链接 清洗数据 同时模型用于对话的时候不要输入输出一些违禁词 可以通过话题建模进一步细分归类对话数据之间的联系
 
 schedule the training on minute basis first for complete test, then schedule it on fixed time per day.
