@@ -2,12 +2,12 @@
 tags: [advertising, chatbot, graph database, pyjom, recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2022-09-02T04:55:07.805Z'
+modified: '2022-09-02T04:55:17.905Z'
 ---
 
 # 推荐系统 GNN
 
-[image to text, text to image clip as image/text embeddings](https://github.com/jina-ai/clip-as-service)
+[image to text, text to image, clip as image/text embeddings](https://github.com/jina-ai/clip-as-service)
 
 [deep recommendation using tensorflow 1.15](https://awesomeopensource.com/project/alibaba/DeepRec)
 
