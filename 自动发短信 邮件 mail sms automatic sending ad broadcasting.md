@@ -2,12 +2,14 @@
 tags: [advertising, mail sending, SMS]
 title: 自动发短信 邮件 mail sms automatic sending ad broadcasting
 created: '2022-07-04T12:47:02.000Z'
-modified: '2022-09-02T04:27:14.676Z'
+modified: '2022-09-02T04:28:08.717Z'
 ---
 
 # 自动发短信 邮件 mail sms automatic sending ad broadcasting
 
 [email harvestor](https://awesomeopensource.com/project/laramies/theHarvester)
+
+[email collector](https://awesomeopensource.com/project/Taonn/EmailAll)
 
 发送短信 邮件 第一步是收集目标的邮箱和手机号码 收集目标ID 可从社工库中获取 可以根据社工的metadata决定推送内容类别
 
