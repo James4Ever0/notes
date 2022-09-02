@@ -1,10 +1,12 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: '2022-08-31T13:43:50.000Z'
-modified: '2022-09-02T02:33:50.509Z'
+modified: '2022-09-02T03:26:29.997Z'
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
+
+[xapian supported document formats](https://xapian.org/docs/omega/overview.html)
 
 search for `document search` on github
 
