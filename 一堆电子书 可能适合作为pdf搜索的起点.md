@@ -1,10 +1,12 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: '2022-08-31T13:43:50.000Z'
-modified: '2022-09-02T01:20:24.409Z'
+modified: '2022-09-02T02:33:50.509Z'
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
+
+search for `document search` on github
 
 实验性搜索数据地址：
 `/Users/jamesbrown/desktop/works/course_video_convert/sample/documentsAndFiles`
