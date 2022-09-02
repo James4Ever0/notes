@@ -1,10 +1,12 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: '2022-08-31T13:43:50.000Z'
-modified: '2022-09-02T04:09:22.805Z'
+modified: '2022-09-02T04:46:13.830Z'
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
+
+[pylucene](https://downloads.apache.org/lucene/pylucene/pylucene-8.11.0-src.tar.gz)
 
 jina cloud host jina search instances for free, currently
 
