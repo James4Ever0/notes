@@ -2,10 +2,12 @@
 tags: [advertising, chatbot, graph database, pyjom, recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2022-08-18T08:03:55.383Z'
+modified: '2022-09-02T04:30:46.897Z'
 ---
 
 # 推荐系统 GNN
+
+[deep recommendation using tensorflow 1.15](https://awesomeopensource.com/project/alibaba/DeepRec)
 
 [image recommendation system](https://medium.com/analytics-vidhya/how-create-image-recomendation-system-3dcc5edf1597)
 
