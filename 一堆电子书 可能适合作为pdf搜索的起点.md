@@ -1,10 +1,12 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: '2022-08-31T13:43:50.000Z'
-modified: '2022-09-02T04:04:19.206Z'
+modified: '2022-09-02T04:09:22.805Z'
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
+
+jina cloud host jina search instances for free, currently
 
 use apache tika for document parsing
 
