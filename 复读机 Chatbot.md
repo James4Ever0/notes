@@ -1,11 +1,13 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: 2022-07-14T23:35:31+08:00
-modified: 2022-09-01T19:04:42+08:00
+created: '2022-07-14T15:35:31.000Z'
+modified: '2022-09-02T02:47:51.284Z'
 ---
 
 # 复读机 Chatbot
+
+[个性化搜索推荐 elasticsearch](https://github.com/mtianyan/FunpySpiderSearchEngine)
 
 按照老毛的思想 要一边造谣一边辟谣 一边承认一边否定 同样的话颠三倒四可以说无数遍 也可以选择不说 这样可以和很多的类似故事杂交
 
