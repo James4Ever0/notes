@@ -2,14 +2,14 @@
 tags: [schedule]
 title: hacking schedules
 created: '2022-08-17T19:13:02.000Z'
-modified: '2022-09-02T02:46:19.092Z'
+modified: '2022-09-02T02:46:29.632Z'
 ---
 
 # hacking schedules
 
 ## indexing necessary tools, blogs, procedures, manuals, snippets and search them
 - [ ] indexing kali tools
-- [ ] use [hacker search engines](https://github.com/edoardottt/awesome-hacker-search-engines)
+- [ ] use [hacker's search engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 
 ## github coin (xmrig) mining
 - [ ] automatic captcha resolve by clash redirection to force the captcha not being too complex
