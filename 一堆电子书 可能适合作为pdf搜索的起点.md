@@ -1,12 +1,12 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
 created: '2022-08-31T13:43:50.000Z'
-modified: '2022-09-02T01:20:05.978Z'
+modified: '2022-09-02T01:20:24.409Z'
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
 
-实验性搜索地址：
+实验性搜索数据地址：
 `/Users/jamesbrown/desktop/works/course_video_convert/sample/documentsAndFiles`
 
 纸质书阅读效率极低 利用效率极低 不可以修改 不可以复制 不可以随时查看搜索 属于一种古老的信息储存和交换形式
