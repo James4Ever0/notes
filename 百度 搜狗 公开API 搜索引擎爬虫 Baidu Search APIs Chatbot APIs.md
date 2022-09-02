@@ -2,10 +2,12 @@
 tags: [API, chatbot, image gathering, information gathering, search engine]
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 created: '2022-07-09T16:16:40.000Z'
-modified: '2022-08-20T02:00:45.692Z'
+modified: '2022-09-02T04:32:07.920Z'
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
+
+[news search engine 新闻搜索](https://awesomeopensource.com/project/01joy/news-search-engine)
 
 百度微视（腾讯小视频）是可以搜索的
 
