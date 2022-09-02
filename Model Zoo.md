@@ -2,10 +2,12 @@
 tags: [model zoo, pyjom, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-08-19T02:49:25.032Z'
+modified: '2022-09-02T05:42:07.932Z'
 ---
 
 # Model Zoo
+
+[jina hub](https://hub.jina.ai/)
 
 [阿里巴巴模型库](https://modelscope.cn/#/models) 具有许多适用于商业 自媒体的模型供选择
 
