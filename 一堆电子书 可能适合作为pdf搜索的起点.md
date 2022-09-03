@@ -1,10 +1,12 @@
 ---
 title: 一堆电子书 可能适合作为pdf搜索的起点
-created: '2022-08-31T13:43:50.000Z'
-modified: '2022-09-02T05:29:28.078Z'
+created: 2022-08-31T21:43:50+08:00
+modified: 2022-09-04T02:09:04+08:00
 ---
 
 # 一堆电子书 可能适合作为pdf搜索的起点
+
+把电子书变成wiki 方便批注 网友协作
 
 [pylucene](https://downloads.apache.org/lucene/pylucene/pylucene-8.11.0-src.tar.gz)
 
@@ -32,5 +34,3 @@ https://github.com/Dujltqzv/Some-Many-Books
 书籍互助脚本
 https://greasyfork.org/zh-CN/scripts/420751-%E5%9B%BE%E4%B9%A6%E4%BA%92%E5%8A%A9
 https://greasyfork.org/zh-CN/scripts/432075-%E7%A7%80%E8%AF%BB%E5%9B%BE%E4%B9%A6%E4%BA%92%E5%8A%A9
-
-
