@@ -1,11 +1,13 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: '2022-07-14T15:35:31.000Z'
-modified: '2022-09-02T02:47:51.284Z'
+created: 2022-07-14T23:35:31+08:00
+modified: 2022-09-04T21:35:41+08:00
 ---
 
 # 复读机 Chatbot
+
+转发的图片 至少要在之前一小时以内没有被重复发送才行 同一个信息内也不能出现重复图片 否则不发送这个信息
 
 [个性化搜索推荐 elasticsearch](https://github.com/mtianyan/FunpySpiderSearchEngine)
 
