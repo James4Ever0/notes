@@ -2,12 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-09-04T21:35:52+08:00
+modified: 2022-09-04T21:36:21+08:00
 ---
 
 # 复读机 Chatbot
 
-转发的图片 至少要在之前一小时以内没有被重复发送才行 同一个信息内也不能出现重复图片 否则不发送这个信息（很有可能是广告）
+转发的图片 至少要在之前一小时以内或更长时间内没有被重复发送才行 同一个信息内也不能出现重复图片 否则不发送这个信息（很有可能是广告）
 
 [个性化搜索推荐 elasticsearch](https://github.com/mtianyan/FunpySpiderSearchEngine)
 
