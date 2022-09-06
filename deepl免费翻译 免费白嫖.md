@@ -1,7 +1,7 @@
 ---
 title: deepl免费翻译 免费白嫖
 created: '2022-09-06T08:52:42.837Z'
-modified: '2022-09-06T09:17:56.461Z'
+modified: '2022-09-06T09:18:07.210Z'
 ---
 
 # deepl免费翻译 免费白嫖
@@ -18,7 +18,7 @@ deepl的客户端的现在分为3类：
 
 zu1k本人下架了deepl的docker镜像 但是release现在居然还可以下载 只不过不可以直接访问页面罢了
 
-zu1k的[copy translator]()连接的应该就是他自己写的[deepl-rust服务器](https://deepl.zu1k.com/translate) 只不过现在没法访问了 (话说大佬没事翻译个啥又不是看不懂 hhh)
+zu1k的[copy translator](https://github.com/zu1k/copy-translator)连接的应该就是他自己写的[deepl-rust服务器](https://deepl.zu1k.com/translate) 只不过现在没法访问了 (话说大佬没事翻译个啥又不是看不懂 hhh)
 
 [deeplx](https://deeplx.herokuapp.com/)在 heroku上面运行 目前应该不能正常运行 它的ip感觉是被封了 [它的仓库]()用的是现在没法访问的deepl的docker镜像
 
