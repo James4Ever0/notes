@@ -1,7 +1,7 @@
 ---
 title: deepl免费翻译 免费白嫖
 created: '2022-09-06T08:52:42.837Z'
-modified: '2022-09-06T09:22:01.191Z'
+modified: '2022-09-06T09:32:09.672Z'
 ---
 
 # deepl免费翻译 免费白嫖
@@ -24,7 +24,7 @@ zu1k的[copy translator](https://github.com/zu1k/copy-translator)连接的应该
 
 [deeplx](https://deeplx.herokuapp.com/)在 heroku上面运行 目前应该不能正常运行 它的ip感觉是被封了 [它的仓库]()用的是现在没法访问的deepl的docker镜像
 
-有人（很可能就是zu1k）破解了deepl客户端的交互逻辑 应该是ipad的deepl协议 现在可以[看看是如何破解的](https://mp.weixin.qq.com/s?__biz=MzI3NTEwOTA4OQ==&mid=2649181781&idx=1&sn=3591257c389292ed139692637181e70a&chksm=f31a2bdbc46da2cdf4e01b9f663eae934b53fcdb256193b8db0662a41522a31c8af6bca034d3&scene=126&&sessionid=0)
+有人（很可能就是zu1k）破解了deepl客户端的交互逻辑 应该是windows的deepl协议（c#好破解 没加壳） 现在可以[看看是如何破解的](https://mp.weixin.qq.com/s?__biz=MzI3NTEwOTA4OQ==&mid=2649181781&idx=1&sn=3591257c389292ed139692637181e70a&chksm=f31a2bdbc46da2cdf4e01b9f663eae934b53fcdb256193b8db0662a41522a31c8af6bca034d3&scene=126&&sessionid=0)
 
 
 安全不仅仅是一门朴素的学问，更是一门权衡的艺术。有时一个简单的设计可以规避掉大多数攻击问题，下面分享一篇在网上看到的DeepL API的反爬设计。
