@@ -2,10 +2,12 @@
 tags: [chatbot, chatbot framework, opqbot, pyjom, qq, reverse engineering, stub]
 title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
 created: '2022-08-13T00:54:17.000Z'
-modified: '2022-08-18T13:57:44.376Z'
+modified: '2022-09-06T09:29:06.608Z'
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
+
+[how to reverse go binary, golang reverse](https://zu1k.com/posts/security/reverse/golang-reverse/)
 
 opqbot官方已经说了 登陆过程中会用到远程的服务器 这个服务器究竟在干什么不得而知 可能和登陆有关也可能没有关系 但是服务器维护期间是没法扫码登录的 如果有可以正常使用的secdata是可以直接启动服务的 不需要服务器 所以估计这个服务器很可能就是拿来解析cookie的
 
