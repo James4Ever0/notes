@@ -1,10 +1,12 @@
 ---
 title: deepl免费翻译 免费白嫖
 created: '2022-09-06T08:52:42.837Z'
-modified: '2022-09-06T09:20:50.884Z'
+modified: '2022-09-06T09:22:01.191Z'
 ---
 
 # deepl免费翻译 免费白嫖
+
+从[zu1k的文章](https://zu1k.com/posts/)来看 应该是搞安全的
 
 为了更准确的翻译， deepl的API是很重要的
 但是这个deepl却不让免费用 网页端的js复杂的要死
