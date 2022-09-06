@@ -1,10 +1,12 @@
 ---
 title: deepl免费翻译 免费白嫖
 created: '2022-09-06T08:52:42.837Z'
-modified: '2022-09-06T09:59:40.546Z'
+modified: '2022-09-06T10:05:20.032Z'
 ---
 
 # deepl免费翻译 免费白嫖
+
+RELEASES STILL VISIBLE [HERE](https://github.com/zu1k/removed-2022-07-12/releases/tag/0.1.2)
 
 you can google for it. maybe the internet archive has it.
 `https://github.com/zu1k/deepl-api-rs/releases/download/0.1.2/deepl-aarch64-unknown-linux-musl-0.1.2.gz`
