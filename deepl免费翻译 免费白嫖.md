@@ -1,7 +1,7 @@
 ---
 title: deepl免费翻译 免费白嫖
 created: '2022-09-06T08:52:42.837Z'
-modified: '2022-09-06T09:09:55.918Z'
+modified: '2022-09-06T09:10:38.297Z'
 ---
 
 # deepl免费翻译 免费白嫖
@@ -14,7 +14,7 @@ deepl的客户端的现在分为3类：
 - 付费 申请api
 - 免费 破解交互协议
 
-为了连续使用deepl以及其他可能会封ip的翻译软件 使用clash做代理是很关键的 如何找到好的代理 zu1k有[proxypool]()https://github.com/zu1k/proxypool可以自动爬取代理 同时推荐大佬的[proxypool]() 据说是专业爬虫架构
+为了连续使用deepl以及其他可能会封ip的翻译软件 使用clash做代理是很关键的 如何找到好的代理 zu1k有[proxypool](https://github.com/zu1k/proxypool)可以自动爬取代理 同时推荐大佬的[proxypool]() 据说是专业爬虫架构
 
 zu1k本人下架了deepl的docker镜像 但是release现在居然还可以下载 只不过不可以直接访问页面罢了
 
