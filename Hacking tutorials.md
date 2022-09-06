@@ -2,12 +2,13 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-08-22T16:29:04.713Z'
+modified: '2022-09-06T09:30:00.891Z'
 ---
 
 # virus, botnet
 
 [botnet with super escalation system for linux and windows, automatically spread the virus out](https://github.com/ThrillQuks/Pitraix)
+[webshell 免杀](https://zu1k.com/posts/security/web-security/hide-your-webshell/)
 
 # Hacking tutorials
 
