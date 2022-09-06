@@ -1,10 +1,15 @@
 ---
 title: deepl免费翻译 免费白嫖
 created: '2022-09-06T08:52:42.837Z'
-modified: '2022-09-06T09:33:11.671Z'
+modified: '2022-09-06T09:37:27.294Z'
 ---
 
 # deepl免费翻译 免费白嫖
+
+you can google for it. maybe the internet archive has it.
+`https://github.com/zu1k/deepl-api-rs/releases/download/0.1.2/deepl-aarch64-unknown-linux-musl-0.1.2.gz`
+`https://github.com/zu1k/deepl-api-rs/releases/download/0.1.2/deepl-x86_64-unknown-linux-musl-0.1.2.gz`
+for other triplets i am not so familiar so i cannot guess that out.
 
 从[zu1k的文章](https://zu1k.com/posts/)来看 应该是搞安全的
 
