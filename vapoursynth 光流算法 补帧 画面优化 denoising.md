@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T15:02:12.055Z'
+modified: '2022-09-07T15:03:21.709Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
@@ -12,7 +12,32 @@ it is much easier to do this on windows since we need quick evaluation. might ru
 
 brew compatible, macos compatible vapoursynth prebuilt plugin provider: [homebrew-vsplugins](https://github.com/Bl4Cc4t/homebrew-vsplugins) does not provide all plugins avaliable for windows, requires additional linking
 
-[tutorial](https://forum.doom9.org/showthread.php?t=175522) on how to configure it:
+[tutorial](https://forum.doom9.org/showthread.php?t=175522) on how to configure it: (is it intel only?)
+
+Alternative VapourSynth Install Method (Brew):
+IMPORTANT: Brew users will need to create and set the autoload folder prior to installing VapourSynth! Simply run the following commands:
+Code:
+
+```bash
+mkdir -p /usr/local/lib/vapoursynth
+mkdir -p "$HOME/Library/Application Support/VapourSynth"
+touch "$HOME/Library/Application Support/VapourSynth/vapoursynth.conf"
+echo UserPluginDir=/usr/local/lib/vapoursynth >> "$HOME/Library/Application Support/VapourSynth/vapoursynth.conf"
+echo SystemPluginDir=/usr/local/lib/vapoursynth >> "$HOME/Library/Application Support/VapourSynth/vapoursynth.conf"
+```
+(Optional) Create desktop shortcuts for the plugins and scripts folders. Run the following commands in terminal:
+Code:
+```bash
+mkdir $HOME/Desktop/VapourSynth
+ln -s /usr/local/lib/vapoursynth $HOME/Desktop/VapourSynth/Plugins
+ln -s /usr/local/lib/python3.9/site-packages $HOME/Desktop/VapourSynth/Scripts
+```
+Use brew command:
+Code:
+```bash
+brew install vapoursynth
+
+```
 
 [bm3d denoising using cuda](https://github.com/WolframRhodium/VapourSynth-BM3DCUDA)
 
