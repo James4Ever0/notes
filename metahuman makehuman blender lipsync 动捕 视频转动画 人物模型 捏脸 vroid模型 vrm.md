@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:38:44.916Z'
+modified: '2022-09-07T08:39:54.837Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -24,7 +24,7 @@ live2d models from facerig
 
 ## mocap libraries
 
-[BlendArMocap](https://github.com/cgtinker/BlendArMocap) is a Blender add-on to preform Hand, Face and Pose Detection in Blender using just a Webcam built upon Google's Mediapipe. The detected data can be easily transferred to rifigy rigs. 
+[BlendArMocap](https://github.com/cgtinker/BlendArMocap) by [cgtinker](https://cgtinker.com/) is a Blender add-on to preform Hand, Face and Pose Detection in Blender using just a Webcam built upon Google's Mediapipe. The detected data can be easily transferred to rifigy rigs. 
 
 [freemocap](https://github.com/freemocap/freemocap#readme) [FAQ wiki](https://github.com/freemocap/freemocap/wiki/FAQ#does-freemocap-work-on-pre-recorded-videos)
 
