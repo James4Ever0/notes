@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T15:07:59.553Z'
+modified: '2022-09-07T15:08:27.575Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
@@ -12,7 +12,7 @@ it is much easier to do this on windows since we need quick evaluation. might ru
 
 [build scripts](https://github.com/Bl4Cc4t/homebrew-vsplugins/tree/master/Formula) on how to build plugins for macos, including how to configure the installation prefix.
 
-brew compatible, macos compatible vapoursynth plugin build script provider: [homebrew-vsplugins](https://github.com/Bl4Cc4t/homebrew-vsplugins) does not provide build scripts for all plugins avaliable for windows, and it requires additional linking
+brew compatible, macos compatible vapoursynth plugin build script provider: [homebrew-vsplugins](https://github.com/Bl4Cc4t/homebrew-vsplugins) does not provide build scripts for all plugins avaliable for windows, and it requires [additional linking](https://github.com/Bl4Cc4t/homebrew-vsplugins/blob/master/linkvsp.sh)
 
 [tutorial](https://forum.doom9.org/showthread.php?t=175522) on how to configure it: (is it intel only?)
 
