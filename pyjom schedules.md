@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-09-07T17:27:05.357Z'
+modified: '2022-09-07T17:27:25.522Z'
 ---
 
 # pyjom dev schedules
@@ -60,7 +60,7 @@ print(loudness)
 - [x] do not remove subtitle and crop active region (reviewer's resource not used? but i rather advise you to do it directly since it requires less computational power)
 - [ ] do not have minimum motion threshold (reviewer's fault? also recommend you to do this in producer)
 -----------------
-- [ ] remove all watermarks, subtitles and crop video boundaries accordingly
+- [x] remove all watermarks, subtitles and crop video boundaries accordingly
 - [ ] source video and audio, improve highlight algorithm
 - [ ] generate appropriate title, cover, info and tags
 - [ ] collect feedback after the post
