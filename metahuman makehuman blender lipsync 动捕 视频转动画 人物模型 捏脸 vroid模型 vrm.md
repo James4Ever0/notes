@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:41:12.938Z'
+modified: '2022-09-07T08:42:39.409Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -24,7 +24,9 @@ live2d models from facerig
 
 ## lipsync libraries
 
-[rhubarb lip sync](https://github.com/DanielSWolf/rhubarb-lip-sync) is a command-line tool that automatically creates 2D mouth animation from voice recordings.
+[rhubarb lip sync](https://github.com/DanielSWolf/rhubarb-lip-sync) is a command-line tool that automatically creates 2D mouth animation from voice recordings
+
+[blender addon for rhubarb lip sync](https://github.com/scaredyfish/blender-rhubarb-lipsync)
 
 ## mocap libraries
 
