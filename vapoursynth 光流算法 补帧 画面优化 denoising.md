@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T14:50:32.753Z'
+modified: '2022-09-07T14:51:27.355Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
@@ -22,7 +22,7 @@ modified: '2022-09-07T14:50:32.753Z'
 
 [vapoursynth get started (official doc)](http://www.vapoursynth.com/doc/gettingstarted.html)
 
-[vapoursynth plugin database](http://vsdb.top/)
+[vapoursynth plugin database](http://vsdb.top/) only provide prebuilt binaries for windows while the plugin source code might work with linux and macos (if it has the source code)
 
 [VSRepo plugin manager](https://github.com/vapoursynth/vsrepo) installing vapoursynth plugin via commandline tool and vsrepo is only supported on windows, for other platforms we need to compile plugins manually. 
 
