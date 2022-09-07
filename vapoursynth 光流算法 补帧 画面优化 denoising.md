@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T10:26:40.728Z'
+modified: '2022-09-07T14:50:32.753Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
@@ -24,7 +24,7 @@ modified: '2022-09-07T10:26:40.728Z'
 
 [vapoursynth plugin database](http://vsdb.top/)
 
-[VSRepo plugin manager](https://github.com/vapoursynth/vsrepo) installing vapoursynth plugin via commandline tool 
+[VSRepo plugin manager](https://github.com/vapoursynth/vsrepo) installing vapoursynth plugin via commandline tool and vsrepo is only supported on windows, for other platforms we need to compile plugins manually. 
 
 [nazorip vapoursynth blogs](https://www.nazorip.site/category/Tutorials/)
 
