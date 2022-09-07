@@ -1,12 +1,12 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T15:38:10.482Z'
+modified: '2022-09-07T15:39:50.861Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
 
-[mpv](https://github.com/stax76/mpv.net) is a media player with VapourSynth built-in, and that's how vapoursynth gets in my mac via brew dependency manager
+[mpv](https://github.com/stax76/mpv.net) is a media player with VapourSynth built-in, and that's probably how vapoursynth gets in my mac via brew dependency manager
 
 svp is [free on linux](https://www.svp-team.com/zh/get/#), offering [plugin for vlc](https://www.svp-team.com/wiki/SVP:VLC#Using_SVP_in_VLC) while vlc cannot be run as root
 
