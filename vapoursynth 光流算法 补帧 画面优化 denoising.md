@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T15:00:24.643Z'
+modified: '2022-09-07T15:02:12.055Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
@@ -11,6 +11,8 @@ modified: '2022-09-07T15:00:24.643Z'
 it is much easier to do this on windows since we need quick evaluation. might run this on virtualbox?
 
 brew compatible, macos compatible vapoursynth prebuilt plugin provider: [homebrew-vsplugins](https://github.com/Bl4Cc4t/homebrew-vsplugins) does not provide all plugins avaliable for windows, requires additional linking
+
+[tutorial](https://forum.doom9.org/showthread.php?t=175522) on how to configure it:
 
 [bm3d denoising using cuda](https://github.com/WolframRhodium/VapourSynth-BM3DCUDA)
 
