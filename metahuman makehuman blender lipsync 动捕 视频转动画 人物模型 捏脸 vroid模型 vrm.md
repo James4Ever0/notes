@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:48:43.961Z'
+modified: '2022-09-07T08:48:57.902Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -36,7 +36,7 @@ live2d models from facerig
 
 ## mocap libraries
 
-[FrankMocap](https://github.com/facebookresearch/frankmocap) 
+[FrankMocap](https://github.com/facebookresearch/frankmocap) A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator
 
 [EasyMocap](https://github.com/zju3dv/EasyMocap) is an open-source toolbox for markerless human motion capture.
 
