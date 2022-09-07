@@ -1,16 +1,18 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:24:31.179Z'
+modified: '2022-09-07T08:25:37.170Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 
-## 3d models and model makers
+## 3d models, live2d models and model makers
 
 [makehuman](https://github.com/makehumancommunity/makehuman) as model maker
 
 [avatar sample e](https://vroid.pixiv.help/hc/en-us/articles/360014900273-AvatarSample-E) a cute girl
+
+live2d models from facerig
 
 ## blender adapters
 
