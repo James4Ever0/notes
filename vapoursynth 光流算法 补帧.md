@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T08:05:36.063Z'
+modified: '2022-09-07T08:06:42.148Z'
 ---
 
 # vapoursynth 光流算法 补帧
@@ -12,7 +12,7 @@ modified: '2022-09-07T08:05:36.063Z'
 
 [openmmlab mmflow](https://github.com/open-mmlab/mmflow)
 
-[]()
+[google research: frame interpolation](https://github.com/google-research/frame-interpolation)
 
 [vapoursynth get started (official doc)](http://www.vapoursynth.com/doc/gettingstarted.html)
 
