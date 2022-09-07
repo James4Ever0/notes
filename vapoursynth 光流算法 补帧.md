@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T04:38:31.493Z'
+modified: '2022-09-07T04:38:42.679Z'
 ---
 
 # vapoursynth 光流算法 补帧
@@ -14,4 +14,4 @@ modified: '2022-09-07T04:38:31.493Z'
 
 [vapoursynth plugin database](http://vsdb.top/)
 
-[installing vapoursynth plugin via commandline tool called 'VSRepo plugin manager']()
+[installing vapoursynth plugin via commandline tool called 'VSRepo plugin manager'](https://github.com/vapoursynth/vsrepo)
