@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-09-07T17:26:26.416Z'
+modified: '2022-09-07T17:27:05.357Z'
 ---
 
 # pyjom dev schedules
@@ -39,7 +39,7 @@ modified: '2022-09-07T17:26:26.416Z'
 issues:
 - [x] video length too long (10 mins)
 it was the speed calculation error.
-- [ ] bgm somehow not in sync (too broad bpm/clip ranges?)
+- [x] bgm somehow not in sync (too broad bpm/clip ranges?)
 - [ ] to analyze the peaks (abrupt changes) in bgm and grab louder peaks using `pyloudnorm` (getting audio volume)
 ```bash
 pip3 install pyloudnorm
