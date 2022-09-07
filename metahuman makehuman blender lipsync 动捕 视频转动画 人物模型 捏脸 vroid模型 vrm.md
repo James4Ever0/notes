@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:45:17.885Z'
+modified: '2022-09-07T08:48:23.242Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -22,19 +22,23 @@ live2d models from facerig
 
 [blender's 'make it pretty' button for vrm models](https://github.com/cmd410/VRoidBones)
 
+[makehuman plugin for blender](https://github.com/makehumancommunity/makehuman-plugin-for-blender)
+
+[blender addon for rhubarb lip sync](https://github.com/scaredyfish/blender-rhubarb-lipsync)
+
+[BlendArMocap](https://github.com/cgtinker/BlendArMocap) by [cgtinker](https://cgtinker.com/) is a Blender add-on to preform Hand, Face and Pose Detection in Blender using just a Webcam built upon Google's Mediapipe. The detected data can be easily transferred to rifigy rigs. 
+
 ## lipsync libraries
 
 [rhubarb lip sync](https://github.com/DanielSWolf/rhubarb-lip-sync) is a command-line tool that automatically creates 2D mouth animation from voice recordings
-
-[blender addon for rhubarb lip sync](https://github.com/scaredyfish/blender-rhubarb-lipsync)
 
 [wav2lip](https://github.com/Rudrabha/Wav2Lip)
 
 ## mocap libraries
 
-[EasyMocap](https://github.com/zju3dv/EasyMocap) is an open-source toolbox for markerless human motion capture.
+[FrankMocap]()
 
-[BlendArMocap](https://github.com/cgtinker/BlendArMocap) by [cgtinker](https://cgtinker.com/) is a Blender add-on to preform Hand, Face and Pose Detection in Blender using just a Webcam built upon Google's Mediapipe. The detected data can be easily transferred to rifigy rigs. 
+[EasyMocap](https://github.com/zju3dv/EasyMocap) is an open-source toolbox for markerless human motion capture.
 
 [freemocap](https://github.com/freemocap/freemocap#readme) [FAQ wiki](https://github.com/freemocap/freemocap/wiki/FAQ#does-freemocap-work-on-pre-recorded-videos)
 
