@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:12:11.673Z'
+modified: '2022-09-07T08:13:02.739Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -10,4 +10,4 @@ modified: '2022-09-07T08:12:11.673Z'
 
 [blender's 'make it pretty' button for vrm models](https://github.com/cmd410/VRoidBones)
 
-
+[PARE: Part Attention Regressor for 3D Human Body Estimation]()
