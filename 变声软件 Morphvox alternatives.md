@@ -2,10 +2,15 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-09-05T00:55:38+08:00
+modified: 2022-09-07T23:14:48+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+派蒙在COLAB上面训练的notebook：
+派蒙语音合成地址：
+https://colab.research.google.com/drive/1HDV84t3N-yUEBXN8dDIDSv6CzEJykCLw#scrollTo=oiPvCIJ_MHot
+请注意不要输入英文标点符号（忘记改了）[脱单doge]。切勿商用或进行18+、暴力、血腥内容传播
 
 b站有这些插件如何下载的教程
 宿主：Studio One 5
