@@ -1,8 +1,8 @@
 ---
 tags: [pyjom, schedule]
 title: pyjom schedules
-created: 2022-08-18T03:02:54+08:00
-modified: 2022-08-31T23:24:52+08:00
+created: '2022-08-17T19:02:54.000Z'
+modified: '2022-09-07T17:26:26.416Z'
 ---
 
 # pyjom dev schedules
@@ -57,7 +57,7 @@ print(loudness)
 ```
 - [ ] place video on loudest points, abrupt changes detected by talib or just take direvative and gaussian average
 - [ ] video too repetitive (small corpus?)
-- [ ] do not remove subtitle and crop active region (reviewer's resource not used? but i rather advise you to do it directly since it requires less computational power)
+- [x] do not remove subtitle and crop active region (reviewer's resource not used? but i rather advise you to do it directly since it requires less computational power)
 - [ ] do not have minimum motion threshold (reviewer's fault? also recommend you to do this in producer)
 -----------------
 - [ ] remove all watermarks, subtitles and crop video boundaries accordingly
