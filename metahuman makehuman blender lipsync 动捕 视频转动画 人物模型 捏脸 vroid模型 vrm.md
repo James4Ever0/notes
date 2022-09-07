@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:25:37.170Z'
+modified: '2022-09-07T08:31:19.805Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -26,7 +26,7 @@ live2d models from facerig
 
 ## mocap libraries
 
-[freemocap]()
+[freemocap](https://github.com/freemocap/freemocap#readme)
 
 [PARE: Part Attention Regressor for 3D Human Body Estimation](https://github.com/mkocabas/PARE)
 
