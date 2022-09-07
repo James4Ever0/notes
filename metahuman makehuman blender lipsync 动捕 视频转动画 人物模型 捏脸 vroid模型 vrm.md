@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:50:23.600Z'
+modified: '2022-09-07T08:57:45.132Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -42,7 +42,7 @@ live2d models from facerig
 
 [EasyMocap](https://github.com/zju3dv/EasyMocap) is an open-source toolbox for markerless human motion capture.
 
-[freemocap](https://github.com/freemocap/freemocap#readme) [FAQ wiki](https://github.com/freemocap/freemocap/wiki/FAQ#does-freemocap-work-on-pre-recorded-videos)
+[freemocap](https://github.com/freemocap/freemocap#readme) and its [FAQ wiki](https://github.com/freemocap/freemocap/wiki/FAQ#does-freemocap-work-on-pre-recorded-videos)
 
 FreeMoCap on pre-recorded videos:
 
