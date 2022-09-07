@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T08:02:15.781Z'
+modified: '2022-09-07T08:02:46.832Z'
 ---
 
 # vapoursynth 光流算法 补帧
@@ -20,4 +20,6 @@ modified: '2022-09-07T08:02:15.781Z'
 
 [nazorip bezier curve](https://nazorip.site/archives/32/)
 
-[nazorip ]()
+[nazorip gamma curve and convolution](https://nazorip.site/archives/56/)
+
+
