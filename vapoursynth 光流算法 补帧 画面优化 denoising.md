@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T10:13:25.301Z'
+modified: '2022-09-07T10:25:41.960Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
@@ -13,6 +13,8 @@ modified: '2022-09-07T10:13:25.301Z'
 [fft3d denoising](https://vsdb.top/plugins/fft3dfilter)
 
 [python opencv 光流算法详解](https://learnopencv.com/optical-flow-in-opencv/) 分为sparse和dense两种 某种程度上都可以计算场景的变换激烈程度
+
+[]
 
 [openmmlab mmflow](https://github.com/open-mmlab/mmflow)
 
