@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T10:25:55.236Z'
+modified: '2022-09-07T10:26:40.728Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
@@ -14,7 +14,7 @@ modified: '2022-09-07T10:25:55.236Z'
 
 [python opencv 光流算法详解](https://learnopencv.com/optical-flow-in-opencv/) 分为sparse和dense两种 某种程度上都可以计算场景的变换激烈程度
 
-[frame interpolation using optical flow](https://github.com/vineeths96/Video-Interpolation-using-Deep-Optical-Flow)
+[frame interpolation using deep optical flow](https://github.com/vineeths96/Video-Interpolation-using-Deep-Optical-Flow)
 
 [openmmlab mmflow](https://github.com/open-mmlab/mmflow)
 
