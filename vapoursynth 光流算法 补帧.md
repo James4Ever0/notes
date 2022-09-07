@@ -1,7 +1,7 @@
 ---
 title: vapoursynth 光流算法 补帧
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T08:02:46.832Z'
+modified: '2022-09-07T08:04:06.532Z'
 ---
 
 # vapoursynth 光流算法 补帧
@@ -22,4 +22,4 @@ modified: '2022-09-07T08:02:46.832Z'
 
 [nazorip gamma curve and convolution](https://nazorip.site/archives/56/)
 
-
+[flowpy: tool for visualizing and processing image with optical flow](https://nazorip.site/archives/56/)
