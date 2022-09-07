@@ -1,7 +1,7 @@
 ---
 title: metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 created: '2022-09-06T16:11:07.645Z'
-modified: '2022-09-07T08:20:09.103Z'
+modified: '2022-09-07T08:20:43.583Z'
 ---
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
@@ -9,6 +9,8 @@ modified: '2022-09-07T08:20:09.103Z'
 ## 3d models and model makers
 
 [makehuman](https://github.com/makehumancommunity/makehuman) as model maker
+
+[avatar sample e](https://vroid.pixiv.help/hc/en-us/articles/360014900273-AvatarSample-E)
 
 ## blender adapters
 
