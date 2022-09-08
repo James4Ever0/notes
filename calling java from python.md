@@ -1,12 +1,12 @@
 ---
 title: calling java from python
 created: '2022-09-08T12:48:25.580Z'
-modified: '2022-09-08T13:40:58.540Z'
+modified: '2022-09-08T14:27:10.041Z'
 ---
 
 # calling java from python
 
-using [jpype](https://jpype.readthedocs.io/en/latest/userguide.html?highlight=jar#class-paths)
+using [jpype](https://jpype.readthedocs.io/en/latest/userguide.html?highlight=jar#class-paths) or [pyjnius]()
 
 sample code for jpype:
 
@@ -36,4 +36,23 @@ import math
 
 print("CALLING MATH: %d" % math.sqrt(4))
 shutdownJVM()
+```
+
+sample for pyjnius:
+
+```python
+import jnius_config
+# jnius_config.add_options('-Xrs', '-Xmx4096')
+jnius_config.set_classpath('.', "/root/Desktop/works/pyjom/tests/karaoke_effects/classpath/lingua.jar")
+import jnius
+jnius.autoclass('java.lang.System').out.println('Hello world')
+detector = jnius.autoclass('com.github.pemistahl.lingua.api.LanguageDetectorBuilder').fromAllLanguages().build()
+
+sample = 'hello world'
+
+result = detector.detectLanguageOf(sample)
+print(result, type(result))
+# breakpoint()
+strResult = result.toString()
+print(strResult, type(strResult))
 ```
