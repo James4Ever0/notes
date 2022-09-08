@@ -2,11 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2022-09-08T14:00:11.167Z'
+modified: '2022-09-08T14:06:20.114Z'
 ---
 
 # disco diffusion and ai art
 
+[dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 
 [中文版DALL-E](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG) is not open sourced (yet). it provides api for evaluation
 
