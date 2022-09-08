@@ -2,12 +2,14 @@
 tags: [fan, hardware, linux, security, system manage, thermal]
 title: 'Linux Fan Not Spinning, GPU Fan Not Spinning'
 created: '2022-08-11T04:25:28.086Z'
-modified: '2022-09-08T19:07:56.114Z'
+modified: '2022-09-08T19:10:16.161Z'
 ---
 
 # Linux Fan Not Spinning, GPU Fan Not Spinning
 
 everytime the fucking machine restarts, it fails devastatingly.
+
+the word: `Giving the fans some time to reach full speed...`
 
 hope this shit works?
 ```bash
