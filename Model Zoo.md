@@ -2,7 +2,7 @@
 tags: [model zoo, pyjom, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-09-02T05:42:07.932Z'
+modified: '2022-09-08T13:42:32.216Z'
 ---
 
 # Model Zoo
@@ -17,7 +17,7 @@ huggingface
 
 CoreML第三方模型库
 
-paddle模型库
+paddle模型库 [paddlehub]()
 
 pytorch模型库
 
