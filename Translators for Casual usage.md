@@ -2,10 +2,12 @@
 tags: [paraphraser, rephrase, text generation, translator, 洗稿]
 title: Translators for Casual usage
 created: '2022-04-29T15:03:52.000Z'
-modified: '2022-08-18T16:29:55.677Z'
+modified: '2022-09-08T14:03:45.270Z'
 ---
 
 # Translators/Paraphraser for casual usage
+
+[baidu translator](https://github.com/PaddlePaddle/PaddleHub/blob/e03d11260b86a2f49f896e733d68e82edb0d9286/modules/text/machine_translation/baidu_translate/module.py) provided by paddlehub
 
 text style transfer:
 
