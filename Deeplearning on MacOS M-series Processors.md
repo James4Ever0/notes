@@ -2,12 +2,12 @@
 tags: [CoreML, darling, hackintosh, paddlepaddle, Swift]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2022-09-08T15:30:33.831Z'
+modified: '2022-09-08T15:33:00.093Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
 
-calling python code from swift:
+calling python code from swift using pythonkit:
 ```swift
     func downloadVideo(link: String){
         let sys = Python.import("sys")
