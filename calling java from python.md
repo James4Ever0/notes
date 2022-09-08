@@ -1,12 +1,12 @@
 ---
 title: calling java from python
 created: '2022-09-08T12:48:25.580Z'
-modified: '2022-09-08T14:27:10.041Z'
+modified: '2022-09-08T14:27:18.781Z'
 ---
 
 # calling java from python
 
-using [jpype](https://jpype.readthedocs.io/en/latest/userguide.html?highlight=jar#class-paths) or [pyjnius]()
+using [jpype](https://jpype.readthedocs.io/en/latest/userguide.html?highlight=jar#class-paths) or [pyjnius](https://github.com/kivy/pyjnius)
 
 sample code for jpype:
 
