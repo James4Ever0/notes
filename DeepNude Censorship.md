@@ -2,10 +2,12 @@
 tags: [censorship, NSFW]
 title: DeepNude Censorship
 created: '2022-05-31T04:00:06.000Z'
-modified: '2022-08-18T14:42:27.334Z'
+modified: '2022-09-08T15:28:02.484Z'
 ---
 
 # DeepNude Censorship NSFW
+
+[nsfw createml imageclassifier](https://github.com/anupamchugh/iowncode/tree/master/NSFWCreateMLImageClassifier/NSFWCreateMLImageClassifier) with pretrained model
 
 敏感词过滤器 also need a high speed censor engine using trie, also in diffferent language(like english or japanese)
 
