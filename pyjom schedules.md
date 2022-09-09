@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-09-07T17:27:25.522Z'
+modified: '2022-09-09T16:42:28.769Z'
 ---
 
 # pyjom dev schedules
@@ -66,7 +66,7 @@ print(loudness)
 - [ ] collect feedback after the post
 - [ ] find some shocking fonts for cover and subtitle, english and chinese
 - [x] make that karaoke effect
-- [ ] make ass with karaoke effect with lrc files
+- [x] make ass with karaoke effect with lrc files
 - [ ] make lyrics sync logic fluent, according to what have learned from karaoke effects
 - [ ] make selected video clips fluent, no abrupt cuts, maybe we need pyscenedetect?
 
