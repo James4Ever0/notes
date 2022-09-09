@@ -2,10 +2,21 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-09-10T00:02:25+08:00
+modified: 2022-09-10T00:02:59+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+基于StarGANv2-VC的声音转换模型
+声音质量当然赶不上VITS这种基于TTS的VC，但效果已经挺不错的了。转换后的语音噪音大应该不是StarGAN的问题i，而是
+后面接的vocoder（用的ParallelWaveGAN）。本来想使用HiFi-GAN的，但找到的预训练模型都和StarGAN不适配，我也不想
+自己从头训一个HiFi-GAN……
+
+Colab Demo: 
+https://colab.research.google.com/drive/1Xpn9yKBuJD59llXNJOrdUpFuiQNkwDqo?usp=sharing
+
+Github：
+https://github.com/Francis-Komizu/StarGANv2-VC
 
 vits可以模仿声优的声线
 
