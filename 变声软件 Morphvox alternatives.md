@@ -2,10 +2,19 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-09-10T00:00:14+08:00
+modified: 2022-09-10T00:02:25+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+vits可以模仿声优的声线
+
+softvc vits联合模型
+Colab demo:
+https://colab.research.google.com/drive/1OjfH2zpRkLFRp92aU6jAGhqZNopfZMjC?usp=sharing
+
+项目代码：
+https://github.com/Francis-Komizu/Sovits
 
 歌曲变声 男的需要提高八度再变声 softvc Vits
 [猫雷歌曲变声器](https://huggingface.co/spaces/innnky/soft-vits-singingvc) singingvoiceconversion
