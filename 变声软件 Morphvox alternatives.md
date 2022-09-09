@@ -2,10 +2,25 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-09-10T00:02:59+08:00
+modified: 2022-09-10T00:10:34+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+项目地址：https://github.com/luoyily/MoeTTS
+MoeTTS V1.2.1 Update
+适配Windows DPI缩放
+加入中文g2p工具
+加入FFmepg 音频转换工具
+支持批量合成
+支持自定义文件名
+支持VITS语速调节
+修复日语g2p gbk错误
+支持主题切换
+GUI设计优化：
+弃用原项目中的text模块，重写了text to sequence，使用无需再替换symbols，无需替换cleaners 实现模型解压即用
+加入专用配置文件，目前仅用于指定模型symbols
+（另外我这莫得中文模型，去隔壁CjangCjengh那边薅了一个来为视频配音
 
 基于StarGANv2-VC的声音转换模型
 声音质量当然赶不上VITS这种基于TTS的VC，但效果已经挺不错的了。转换后的语音噪音大应该不是StarGAN的问题i，而是
