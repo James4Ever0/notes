@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: '2022-08-17T19:02:54.000Z'
-modified: '2022-09-09T16:42:28.769Z'
+modified: '2022-09-09T16:42:38.690Z'
 ---
 
 # pyjom dev schedules
@@ -67,7 +67,7 @@ print(loudness)
 - [ ] find some shocking fonts for cover and subtitle, english and chinese
 - [x] make that karaoke effect
 - [x] make ass with karaoke effect with lrc files
-- [ ] make lyrics sync logic fluent, according to what have learned from karaoke effects
+- [x] make lyrics sync logic fluent, according to what have learned from karaoke effects
 - [ ] make selected video clips fluent, no abrupt cuts, maybe we need pyscenedetect?
 
 ## text to video, template based video generator (this is perhaps the most complex video generator ever. do it with caution, it might also includes the flipcard, narrator and slideshow based generators)
