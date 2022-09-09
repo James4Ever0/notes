@@ -2,7 +2,7 @@
 tags: [fan, hardware, linux, security, system manage, thermal]
 title: 'Linux Fan Not Spinning, GPU Fan Not Spinning'
 created: '2022-08-11T04:25:28.086Z'
-modified: '2022-09-08T19:10:16.161Z'
+modified: '2022-09-09T01:02:34.270Z'
 ---
 
 # Linux Fan Not Spinning, GPU Fan Not Spinning
@@ -10,6 +10,17 @@ modified: '2022-09-08T19:10:16.161Z'
 everytime the fucking machine restarts, it fails devastatingly.
 
 the word: `Giving the fans some time to reach full speed...`
+
+the script:
+
+```bash
+#!/usr/bin/expect
+spawn pwmconfig
+#expect "Giving the fans some time to reach full speed..."
+expect "If you do not want to do this hit control-C now!!!"
+send "\03"
+expect eof
+```
 
 hope this shit works?
 ```bash
