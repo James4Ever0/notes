@@ -1,11 +1,14 @@
 ---
 created: 2022-07-10T00:16:55+08:00
-modified: 2022-07-14T22:39:53+08:00
+modified: 2022-09-10T20:17:39+08:00
 ---
 
 # GIF Websites Funny Video Sources
 
 https://giphy.com
+
+video dataset:
+youtube8m by google
 
 giphy gif apis:
 https://github.com/Giphy/giphy-js
