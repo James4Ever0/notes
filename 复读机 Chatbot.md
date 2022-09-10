@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-09-10T10:44:22.104Z'
+modified: '2022-09-10T10:46:01.324Z'
 ---
 
 # 复读机 Chatbot
@@ -18,6 +18,7 @@ modified: '2022-09-10T10:44:22.104Z'
 
 - [ ] 处理私聊信息 每回复一个人就清除他的所有历史发言 每隔一段时间处理其中的一个人 不会相互挤占 只有在不闲聊的时候处理私聊信息 特定的人不能进行私聊
 - [x] 白天聊天 收集数据 晚上离线训练 （此逻辑可以推广到任意的机器学习驱动的平台）
+- [ ] 占用系统显卡训练的时候 需要专门acquire一个filelock 表示大量资源被占用 系统忙
 - [ ] 选取质量好有情感的聊天样本 长短适中 不要广告不要偏激违禁词 去掉表情包 去掉链接 清洗数据 同时模型用于对话的时候不要输入输出一些违禁词 可以通过话题建模进一步细分归类对话数据之间的联系
 
 schedule the training on minute basis first for complete test, then schedule it on fixed time per day.
