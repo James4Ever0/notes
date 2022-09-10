@@ -1,13 +1,14 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: Hacking tutorials, tools
-created: 2022-07-11T23:43:20+08:00
-modified: 2022-09-06T19:16:35+08:00
+title: 'Hacking tutorials, tools'
+created: '2022-07-11T15:43:20.000Z'
+modified: '2022-09-10T13:07:27.198Z'
 ---
 
 # information gathering
 
 [uncover](https://github.com/projectdiscovery/uncover) quickly discover hosts using multiple search engines
+[dirsearch](https://github.com/maurosoria/dirsearch) scan web paths
 
 # virus, botnet
 
