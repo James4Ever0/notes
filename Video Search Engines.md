@@ -2,12 +2,16 @@
 tags: [platforms, search engine, video search, video sources]
 title: Video Search Engines
 created: '2022-05-29T07:42:34.000Z'
-modified: '2022-08-18T16:34:18.211Z'
+modified: '2022-09-10T14:09:23.083Z'
 ---
 
 # Video Search Engines
 
-AI VIDEO SEARCH ENGINE:
+[youtube search python](https://github.com/alexmercerind/youtube-search-python)
+
+[search youtube using urllib](https://codefather.tech/blog/youtube-search-python/)
+
+AI VIDEO SEARCH ENGINE (self hosted):
 Jina
 
 search video by subtitle or generated subtitle:
