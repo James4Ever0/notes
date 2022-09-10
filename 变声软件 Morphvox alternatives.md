@@ -2,10 +2,13 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-09-10T00:10:34+08:00
+modified: 2022-09-10T14:47:42+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+多种语言混合tts
+[multilingual tts dl models](https://github.com/coqui-ai/TTS)
 
 项目地址：https://github.com/luoyily/MoeTTS
 MoeTTS V1.2.1 Update
