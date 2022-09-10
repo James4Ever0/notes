@@ -1,8 +1,8 @@
 ---
 tags: [pyjom, schedule]
 title: pyjom schedules
-created: '2022-08-17T19:02:54.000Z'
-modified: '2022-09-09T16:42:38.690Z'
+created: 2022-08-18T03:02:54+08:00
+modified: 2022-09-10T19:15:04+08:00
 ---
 
 # pyjom dev schedules
@@ -61,7 +61,7 @@ print(loudness)
 - [ ] do not have minimum motion threshold (reviewer's fault? also recommend you to do this in producer)
 -----------------
 - [x] remove all watermarks, subtitles and crop video boundaries accordingly
-- [ ] source video and audio, improve highlight algorithm
+- [ ] source video and audio (infinite, basic test is to find 500 sources at once without duplicate, second test is to find 500 second is to find 500 without duplicate twice), improve highlight algorithm
 - [ ] generate appropriate title, cover, info and tags
 - [ ] collect feedback after the post
 - [ ] find some shocking fonts for cover and subtitle, english and chinese
