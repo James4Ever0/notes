@@ -2,7 +2,7 @@
 tags: [pyjom, schedule]
 title: pyjom schedules
 created: 2022-08-18T03:02:54+08:00
-modified: 2022-09-10T19:15:04+08:00
+modified: 2022-09-10T19:17:53+08:00
 ---
 
 # pyjom dev schedules
@@ -62,6 +62,10 @@ print(loudness)
 -----------------
 - [x] remove all watermarks, subtitles and crop video boundaries accordingly
 - [ ] source video and audio (infinite, basic test is to find 500 sources at once without duplicate, second test is to find 500 second is to find 500 without duplicate twice), improve highlight algorithm
+- [ ] find 500 songs without duplicate at once
+- [ ] find 500 songs no duplicate twice
+- [ ] find 500 animal videos without duplicate
+- [ ] find 500 animal videos no duplicate twice
 - [ ] generate appropriate title, cover, info and tags
 - [ ] collect feedback after the post
 - [ ] find some shocking fonts for cover and subtitle, english and chinese
