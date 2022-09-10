@@ -1,7 +1,7 @@
 ---
 title: 'gfw circumvention, download youtube videos, scrape banned websites'
 created: '2022-09-10T14:22:21.619Z'
-modified: '2022-09-10T14:36:39.454Z'
+modified: '2022-09-10T14:38:20.942Z'
 ---
 
 # gfw circumvention, download youtube videos, scrape banned websites
@@ -15,3 +15,5 @@ apart from kaggle, you can also use github actions, devops and more, if only we 
 [github actions api: download artifact](https://docs.github.com/en/rest/actions/artifacts#download-an-artifact)
 
 [circleci: artifact](https://circleci.com/docs/api/v1/index.html#artifacts)
+
+[azure pipelines: artifacts](https://docs.microsoft.com/en-us/rest/api/azure/devops/pipelines/artifacts?view=azure-devops-rest-6.0)
