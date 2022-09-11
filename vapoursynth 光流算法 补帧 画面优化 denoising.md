@@ -1,10 +1,12 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-11T10:10:13.680Z'
+modified: '2022-09-11T10:16:35.918Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
+
+[ffmpeg super resolution filter](https://ffmpeg.org/ffmpeg-filters.html#sr)
 
 [VESPCN: real-time super resolution](https://github.com/HighVoltageRocknRoll/sr)
 
