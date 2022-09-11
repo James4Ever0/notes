@@ -1,12 +1,13 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-11T12:03:11.856Z'
+modified: '2022-09-11T12:06:17.978Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
 
-[ffmpeg super resolution filter](https://ffmpeg.org/ffmpeg-filters.html#sr) could get faster if run on gpu with [libtensorflow]()
+[ffmpeg super resolution filter](https://ffmpeg.org/ffmpeg-filters.html#sr) could get faster if run on gpu with [libtensorflow](https://www.tensorflow.org/install/lang_c)
+
 [VESPCN: real-time super resolution](https://github.com/HighVoltageRocknRoll/sr)
 
 [mpv](https://github.com/stax76/mpv.net) is a media player with VapourSynth built-in, and that's probably how vapoursynth gets in my mac via brew dependency manager
