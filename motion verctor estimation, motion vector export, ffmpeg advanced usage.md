@@ -1,14 +1,14 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:48:22.452Z'
+modified: '2022-09-11T17:48:53.350Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
 
-## remove slience
+## remove/detect slience
 
-a
+
 
 ## frame interpolate
 
