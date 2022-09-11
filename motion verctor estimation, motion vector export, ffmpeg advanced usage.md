@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:25:50.877Z'
+modified: '2022-09-11T17:25:58.945Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -21,7 +21,7 @@ dctdnoiz fftdnoiz hqdn3d nlmeans owdenoise removegrain vaguedenoiser nlmeans_ope
 
 ## super-resolution, resampling:
 
-## deeplearning model, tensorflow
+### deeplearning model, tensorflow
 ```bash
 env LD_LIBRARY_PATH=/root/anaconda3/pkgs/cudatoolkit-10.0.130-0/lib/:/root/anaconda3/pkgs/cudnn-7.6.5-cuda10.0_0/lib/:$LD_LIBRARY_PATH ffmpeg -i "/root/Desktop/works/pyjom/samples/video/LiEIfnsvn.mp4" -y -vf "sr=dnn_backend=tensorflow:model=./sr/espcn.pb,yaepblur"  supertest.mp4
 ```
