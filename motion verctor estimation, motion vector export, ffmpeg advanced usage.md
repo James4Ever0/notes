@@ -1,10 +1,16 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:31:07.894Z'
+modified: '2022-09-11T17:33:54.686Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
+
+## scene change detection
+
+```bash
+
+```
 
 ## extract motion vectors
 
