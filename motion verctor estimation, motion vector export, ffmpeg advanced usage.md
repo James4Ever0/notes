@@ -1,10 +1,15 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:39:08.614Z'
+modified: '2022-09-11T17:40:07.811Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
+
+## get help on filter:
+```bash
+ffmpeg -h filter=showspectrumpic
+```
 
 ## crop detection, picture in picture (PIP) detection
 
