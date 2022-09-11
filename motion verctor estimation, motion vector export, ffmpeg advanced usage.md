@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:28:10.669Z'
+modified: '2022-09-11T17:30:55.011Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -11,6 +11,10 @@ modified: '2022-09-11T17:28:10.669Z'
 ffmpeg can produce motion vector estimation but it is not exportable, only for internal use.
 
 mp4 format provides motion vector information thus maybe we need not to use GPU to get those 'optical flow' data.
+
+### extract by using ffmpeg apis
+
+[mv-extractor](https://github.com/LukasBommes/mv-extractor)
 
 ### extract from mp4 file
 
