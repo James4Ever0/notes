@@ -1,7 +1,7 @@
 ---
 title: random giphy gifs
 created: '2022-09-11T04:28:27.713Z'
-modified: '2022-09-11T05:14:03.252Z'
+modified: '2022-09-11T05:55:23.509Z'
 ---
 
 # random giphy gifs
@@ -40,6 +40,7 @@ lTRWAEGHjB1AkfO0sk2XTdujaPB5aH7X
 
 sdk keys:
 6esYBEm9OG3wAifbBFZ2mA0Ml6Ic0rvy
+sXpGFDGZs0Dv1mmNFvYaGUvYwKX0PWIh
 
 to use api:
 https://github.com/austinkelleher/giphy-api
