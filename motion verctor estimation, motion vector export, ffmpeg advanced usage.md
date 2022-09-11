@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:22:40.973Z'
+modified: '2022-09-11T17:24:31.611Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -23,3 +23,12 @@ super-resolution, resampling:
 ```bash
 env LD_LIBRARY_PATH=/root/anaconda3/pkgs/cudatoolkit-10.0.130-0/lib/:/root/anaconda3/pkgs/cudnn-7.6.5-cuda10.0_0/lib/:$LD_LIBRARY_PATH ffmpeg -i "/root/Desktop/works/pyjom/samples/video/LiEIfnsvn.mp4" -y -vf "sr=dnn_backend=tensorflow:model=./sr/espcn.pb,yaepblur"  supertest.mp4
 ```
+
+use standard scale method:
+```bash
+ffmpeg -y -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" -vf "minterpolate,scale=w=iw*2:h=ih*2:flags=lanczos,hqdn3d" -r 60 ffmpeg_samoyed.mp4
+```
+
+options:
+
+
