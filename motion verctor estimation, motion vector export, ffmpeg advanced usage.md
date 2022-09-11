@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:44:29.457Z'
+modified: '2022-09-11T17:44:40.418Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -19,7 +19,9 @@ ffmpeg -y -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" \
 to get mosaic motion vectors and visualize:
 
 ```bash
-ffmpeg -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" -vf "mestimate=epzs:mb_size=16:search_param=7, codecview=mv=pf+bf+bb"  mestimate_output.mp4 -y
+ffmpeg -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" \
+ -vf "mestimate=epzs:mb_size=16:search_param=7, codecview=mv=pf+bf+bb"  \
+ mestimate_output.mp4 -y
 ```
 
 ## get help
