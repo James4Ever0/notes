@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:24:31.611Z'
+modified: '2022-09-11T17:25:00.541Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -31,4 +31,50 @@ ffmpeg -y -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" -vf
 
 options:
 
+‘fast_bilinear’
+Select fast bilinear scaling algorithm.
 
+‘bilinear’
+Select bilinear scaling algorithm.
+
+‘bicubic’
+Select bicubic scaling algorithm.
+
+‘experimental’
+Select experimental scaling algorithm.
+
+‘neighbor’
+Select nearest neighbor rescaling algorithm.
+
+‘area’
+Select averaging area rescaling algorithm.
+
+‘bicublin’
+Select bicubic scaling algorithm for the luma component, bilinear for chroma components.
+
+‘gauss’
+Select Gaussian rescaling algorithm.
+
+‘sinc’
+Select sinc rescaling algorithm.
+
+‘lanczos’
+Select Lanczos rescaling algorithm. The default width (alpha) is 3 and can be changed by setting param0.
+
+‘spline’
+Select natural bicubic spline rescaling algorithm.
+
+‘print_info’
+Enable printing/debug logging.
+
+‘accurate_rnd’
+Enable accurate rounding.
+
+‘full_chroma_int’
+Enable full chroma interpolation.
+
+‘full_chroma_inp’
+Select full chroma input.
+
+‘bitexact’
+Enable bitexact output.
