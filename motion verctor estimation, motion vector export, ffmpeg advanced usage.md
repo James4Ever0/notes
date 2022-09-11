@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:27:38.555Z'
+modified: '2022-09-11T17:27:53.012Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -15,6 +15,7 @@ mp4 format provides motion vector information thus maybe we need not to use GPU 
 ### extract from mp4 file
 
 [mpegflow](https://github.com/vadimkantorov/mpegflow) for easy extraction of motion vectors stored in video files
+[mv-]
 
 ## [take screenshot at time:](https://write.corbpie.com/taking-screenshot-with-ffmpeg/#:~:text=To%20take%20a%20screenshot%20or%20save%20a%20frame,means%20the%20frame%20number%20at%20the%20time%20specified.)
 ```bash
