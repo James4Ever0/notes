@@ -1,10 +1,16 @@
 ---
 title: random giphy gifs
 created: '2022-09-11T04:28:27.713Z'
-modified: '2022-09-11T04:43:17.863Z'
+modified: '2022-09-11T05:09:58.613Z'
 ---
 
 # random giphy gifs
+
+## gif ratings
+
+[official doc](https://support.giphy.com/hc/en-us/articles/360058840971-Content-Rating)
+
+## implementation
 
 giphy has many extensible apis. i guess most media platforms are all the same (complex enough), but we have to start somewhere though...
 
