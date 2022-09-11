@@ -1,7 +1,7 @@
 ---
 title: random giphy gifs
 created: '2022-09-11T04:28:27.713Z'
-modified: '2022-09-11T05:55:23.509Z'
+modified: '2022-09-11T07:15:47.520Z'
 ---
 
 # random giphy gifs
@@ -33,6 +33,9 @@ this public beta key is trashed.
 ```javascript
 var PUBLIC_BETA_API_KEY = 'dc6zaTOxFJmzC';
 ```
+
+is this public api key?
+Gc7131jiJuvI7IdN0HZ1D7nh0ow5BU6g
 
 api keys:
 IoJVsWoxDPKBr6gOcCgOPWAB25773hqP
