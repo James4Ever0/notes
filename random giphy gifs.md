@@ -1,7 +1,7 @@
 ---
 title: random giphy gifs
 created: '2022-09-11T04:28:27.713Z'
-modified: '2022-09-11T05:13:53.572Z'
+modified: '2022-09-11T05:14:03.252Z'
 ---
 
 # random giphy gifs
@@ -14,7 +14,7 @@ vulgar rate:
 
 r > pg-13 > pg > g
 
-while 'y' means accepting all shits, not 'youth'
+while 'y' means accepting all shits, not 'youth' nor 'young'
 
 ## implementation
 
