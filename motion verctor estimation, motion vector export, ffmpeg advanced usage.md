@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:44:40.418Z'
+modified: '2022-09-11T17:45:18.853Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -37,14 +37,17 @@ ffmpeg --filters
 ## crop detection, picture in picture (PIP) detection
 
 ```bash
-ffmpeg -i "/root/Desktop/works/pyjom/samples/video/LiEIfnsvn.mp4" -vf "mestimate,cropdetect=mode=mvedges,metadata=mode=print" -f null -
+ffmpeg -i "/root/Desktop/works/pyjom/samples/video/LiEIfnsvn.mp4" \
+-vf "mestimate,cropdetect=mode=mvedges,metadata=mode=print" \
+-f null -
 ```
 
 ## [scene change detection](https://brontosaurusrex.github.io/2019/03/11/ffmpeg-scene-detection/)
 
 ```bash
 ffmpeg -hide_banner -i "$file" -an \
--filter:v "select='gt(scene,0.2)',showinfo" \
+-filter:v \
+"select='gt(scene,0.2)',showinfo" \
 -f null \
 - 2>&1
 ```
@@ -78,12 +81,18 @@ dctdnoiz fftdnoiz hqdn3d nlmeans owdenoise removegrain vaguedenoiser nlmeans_ope
 
 ### deeplearning model, tensorflow
 ```bash
-env LD_LIBRARY_PATH=/root/anaconda3/pkgs/cudatoolkit-10.0.130-0/lib/:/root/anaconda3/pkgs/cudnn-7.6.5-cuda10.0_0/lib/:$LD_LIBRARY_PATH ffmpeg -i "/root/Desktop/works/pyjom/samples/video/LiEIfnsvn.mp4" -y -vf "sr=dnn_backend=tensorflow:model=./sr/espcn.pb,yaepblur"  supertest.mp4
+env LD_LIBRARY_PATH=/root/anaconda3/pkgs/cudatoolkit-10.0.130-0/lib/:/root/anaconda3/pkgs/cudnn-7.6.5-cuda10.0_0/lib/:$LD_LIBRARY_PATH \
+ffmpeg -i "/root/Desktop/works/pyjom/samples/video/LiEIfnsvn.mp4" \
+-y -vf \
+"sr=dnn_backend=tensorflow:model=./sr/espcn.pb,yaepblur" \
+ supertest.mp4
 ```
 
 ### use standard scale method:
 ```bash
-ffmpeg -y -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" -vf "minterpolate,scale=w=iw*2:h=ih*2:flags=lanczos,hqdn3d" -r 60 ffmpeg_samoyed.mp4
+ffmpeg -y -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif"\
+ -vf "minterpolate,scale=w=iw*2:h=ih*2:flags=lanczos,hqdn3d" \
+ -r 60 ffmpeg_samoyed.mp4
 ```
 
 ### options:
