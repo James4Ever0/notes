@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:38:16.542Z'
+modified: '2022-09-11T17:39:08.614Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -9,7 +9,7 @@ modified: '2022-09-11T17:38:16.542Z'
 ## crop detection, picture in picture (PIP) detection
 
 ```bash
-
+ffmpeg -i "/root/Desktop/works/pyjom/samples/video/LiEIfnsvn.mp4" -vf "mestimate,cropdetect=mode=mvedges,metadata=mode=print" -f null -
 ```
 
 ## [scene change detection](https://brontosaurusrex.github.io/2019/03/11/ffmpeg-scene-detection/)
