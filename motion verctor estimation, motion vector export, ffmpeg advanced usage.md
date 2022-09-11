@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:18:52.562Z'
+modified: '2022-09-11T17:19:01.219Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -17,4 +17,4 @@ ffmpeg -ss 01:10:35 -i invideo.mp4 -vframes 1 -q:v 3 screenshot.jpg
 ```
 
 video denoise filters:
-
+dctdnoiz 
