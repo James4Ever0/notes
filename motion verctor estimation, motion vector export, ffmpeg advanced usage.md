@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:34:12.045Z'
+modified: '2022-09-11T17:34:17.997Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -9,7 +9,10 @@ modified: '2022-09-11T17:34:12.045Z'
 ## [scene change detection](https://brontosaurusrex.github.io/2019/03/11/ffmpeg-scene-detection/)
 
 ```bash
-
+ffmpeg -hide_banner -i "$file" -an \
+-filter:v "select='gt(scene,0.2)',showinfo" \
+-f null \
+- 2>&1
 ```
 
 ## extract motion vectors
