@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:44:14.172Z'
+modified: '2022-09-11T17:44:29.457Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -9,7 +9,9 @@ modified: '2022-09-11T17:44:14.172Z'
 ## frame interpolate
 
 ```bash
-ffmpeg -y -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" -vf "minterpolate,scale=w=iw*2:h=ih*2:flags=lanczos,hqdn3d" -r 60 ffmpeg_samoyed.mp4
+ffmpeg -y -i "/root/Desktop/works/pyjom/tests/random_giphy_gifs/samoyed.gif" \
+ -vf "minterpolate,scale=w=iw*2:h=ih*2:flags=lanczos,hqdn3d" \
+ -r 60 ffmpeg_samoyed.mp4
 ```
 
 ## motion estimation
