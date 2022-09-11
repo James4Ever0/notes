@@ -1,7 +1,7 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:30:55.011Z'
+modified: '2022-09-11T17:31:07.894Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -14,7 +14,7 @@ mp4 format provides motion vector information thus maybe we need not to use GPU 
 
 ### extract by using ffmpeg apis
 
-[mv-extractor](https://github.com/LukasBommes/mv-extractor)
+[mv-extractor](https://github.com/LukasBommes/mv-extractor) Extract frames and motion vectors from H.264 and MPEG-4 encoded video.
 
 ### extract from mp4 file
 
