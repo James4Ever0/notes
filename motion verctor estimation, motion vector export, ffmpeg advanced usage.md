@@ -1,10 +1,14 @@
 ---
 title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
 created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-11T17:45:18.853Z'
+modified: '2022-09-11T17:48:22.452Z'
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
+
+## remove slience
+
+a
 
 ## frame interpolate
 
@@ -31,7 +35,7 @@ ffmpeg -h filter=showspectrumpic
 ```
 ### on all filters:
 ```bash
-ffmpeg --filters
+ffmpeg -filters
 ```
 
 ## crop detection, picture in picture (PIP) detection
