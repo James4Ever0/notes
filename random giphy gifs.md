@@ -1,7 +1,7 @@
 ---
 title: random giphy gifs
 created: '2022-09-11T04:28:27.713Z'
-modified: '2022-09-11T04:43:00.496Z'
+modified: '2022-09-11T04:43:17.863Z'
 ---
 
 # random giphy gifs
@@ -14,7 +14,7 @@ beta key limitations:
 
 1000 requests per day, 42 requests per hour
 
-or just use the public beta key? does that subject to the rate limit?
+~~or just use the public beta key? does that subject to the rate limit?~~
 
 this public beta key is trashed.
 
