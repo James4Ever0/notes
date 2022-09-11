@@ -1,10 +1,12 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-07T15:53:51.484Z'
+modified: '2022-09-11T10:09:58.465Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
+
+[real-time super resolution](https://github.com/HighVoltageRocknRoll/sr)
 
 [mpv](https://github.com/stax76/mpv.net) is a media player with VapourSynth built-in, and that's probably how vapoursynth gets in my mac via brew dependency manager
 
