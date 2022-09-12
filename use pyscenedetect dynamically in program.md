@@ -1,12 +1,14 @@
 ---
 title: use pyscenedetect dynamically in program
 created: '2022-09-12T12:56:17.556Z'
-modified: '2022-09-12T13:24:42.647Z'
+modified: '2022-09-12T13:27:20.914Z'
 ---
 
 # use pyscenedetect dynamically in program
 
 对于单纯拼接起来的视频 这个算法就如同手术刀一样精准
+
+有可能有一两帧看起来不太对 但是可以通过调节start和end来修正
 
 当然对于有渐变 转场的视频 可能需要用其他的检测方法
 
