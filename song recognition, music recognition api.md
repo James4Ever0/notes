@@ -1,7 +1,7 @@
 ---
 title: 'song recognition, music recognition api'
 created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T16:43:21.341Z'
+modified: '2022-09-12T16:44:17.219Z'
 ---
 
 # song recognition, music recognition api
@@ -21,6 +21,8 @@ modified: '2022-09-12T16:43:21.341Z'
 [nowspinning](https://github.com/ChristopherCarignan/NowSpinning/blob/master/NowSpinning.py) get song info and cover art
 
 ## shazam
+
+[shazamio](https://github.com/dotX12/ShazamIO) reverse engineered shazam api with many supported functions
 
 [audiorec](https://github.com/marin-m/SongRec) shazam client for linux, with cli support
 
