@@ -1,10 +1,13 @@
 ---
 title: use pyscenedetect dynamically in program
 created: '2022-09-12T12:56:17.556Z'
-modified: '2022-09-12T12:56:36.812Z'
+modified: '2022-09-12T13:23:28.106Z'
 ---
 
 # use pyscenedetect dynamically in program
+
+对于混剪的视频 这个算法就如同手术刀一样精准
+
 ```python
 from scenedetect import open_video, SceneManager, split_video_ffmpeg
 from scenedetect.detectors import ContentDetector
