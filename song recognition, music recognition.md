@@ -1,7 +1,7 @@
 ---
 title: 'song recognition, music recognition'
 created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T15:52:24.305Z'
+modified: '2022-09-12T15:52:39.141Z'
 ---
 
 # song recognition, music recognition
@@ -17,3 +17,5 @@ some lib for midomi found over [here](https://github.com/Azarattum/AmadeusCore/b
 houndify also have api for that, but requires credit
 
 free credits per day: 100
+
+soundhound now requires 1 credit
