@@ -1,7 +1,7 @@
 ---
-title: motion verctor estimation, motion vector export, ffmpeg advanced usage
+title: motion vector estimation, motion vector export, ffmpeg advanced usage
 created: 2022-09-11T23:44:52+08:00
-modified: 2022-09-13T02:16:46+08:00
+modified: 2022-09-13T02:20:37+08:00
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
