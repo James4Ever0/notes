@@ -2,12 +2,12 @@
 tags: [dewatermark, media sources, object tracking, stub]
 title: Royalty Free Video/Picture/Audio Sources
 created: '2022-08-04T03:43:26.000Z'
-modified: '2022-09-12T06:16:26.286Z'
+modified: '2022-09-12T06:16:35.451Z'
 ---
 
 # Royalty Free Video/Picture/Audio Sources
 
-[]
+[download video without watermark](https://github.com/wxy2077/video_spider)
 
 目标追踪使用[bytetrack](https://github.com/ifzhang/ByteTrack)
 
