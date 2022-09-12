@@ -1,10 +1,10 @@
 ---
-title: 'song recognition, music recognition api'
+title: 'song recognition, music recognition api, music discovery'
 created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T16:44:17.219Z'
+modified: '2022-09-12T16:45:36.763Z'
 ---
 
-# song recognition, music recognition api
+# song recognition, music recognition api, music discovery
 
 ## self-hosted
 
