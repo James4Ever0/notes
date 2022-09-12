@@ -2,12 +2,12 @@
 tags: [advertising, mail sending, SMS]
 title: 自动发短信 邮件 mail sms automatic sending ad broadcasting
 created: '2022-07-04T12:47:02.000Z'
-modified: '2022-09-02T04:29:50.341Z'
+modified: '2022-09-12T10:11:28.852Z'
 ---
 
 # 自动发短信 邮件 mail sms automatic sending ad broadcasting
 
-[email harvestor](https://awesomeopensource.com/project/laramies/theHarvester)
+[theharvestor: email harvestor](https://awesomeopensource.com/project/laramies/theHarvester)
 
 [email collector](https://awesomeopensource.com/project/Taonn/EmailAll)
 
