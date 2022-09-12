@@ -1,10 +1,20 @@
 ---
 title: song recognition, music recognition api, music discovery
 created: 2022-09-12T23:40:57+08:00
-modified: 2022-09-13T01:23:01+08:00
+modified: 2022-09-13T01:43:24+08:00
 ---
 
 # song recognition, music recognition api, music discovery
+
+## music discovery
+
+[find music by combining choices of experts](https://github.com/shijithpk/music-discovery)
+
+[build recommendation engine using spotify api](https://github.com/darkfire5900/Find-The-Beat)
+
+[use machine learning to predict and recommend music](https://github.com/adidottxt/spotify-music-discovery)
+
+[similar song matching using last.fm or spotify](https://github.com/schollz/playlistfromsong)
 
 ## netease 网易云听歌识曲
 
@@ -13,6 +23,10 @@ modified: 2022-09-13T01:23:01+08:00
 ## self-hosted
 
 [shazam](https://github.com/bmoquist/Shazam) algorithm
+
+[blog: create your on shazam](https://ourcodeworld.com/articles/read/973/creating-your-own-shazam-identify-songs-with-python-through-audio-fingerprinting-in-ubuntu-18-04#:~:text=To%20start%20recognizing%2C%20simply%20run%20the%20python%20script,the%20algorithm%20will%20surely%20recognize%20the%20correct%20song.)
+
+[findit](https://github.com/methi1999/Findit) another shazam clone
 
 ## audiotag.info
 
