@@ -1,7 +1,7 @@
 ---
 title: 'song recognition, music recognition api'
 created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T16:31:08.658Z'
+modified: '2022-09-12T16:32:02.666Z'
 ---
 
 # song recognition, music recognition api
@@ -13,6 +13,8 @@ modified: '2022-09-12T16:31:08.658Z'
 [wav_to_info.py](https://github.com/whuds/song-classifier/blob/7c6771312e45a0f72f966a77506317d5cc98212a/metadata/code/wav_to_info.py)
 
 [audio identifier](https://github.com/jndrf/audioidentifier/tree/b110ff7ce25b1a2d758b1b9baac2d809ae928e4e)
+
+[nowspinning](https://github.com/ChristopherCarignan/NowSpinning/blob/master/NowSpinning.py) get song info and cover art
 
 ## 
 
