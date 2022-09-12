@@ -1,7 +1,7 @@
 ---
 title: 'song recognition, music recognition api'
 created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T16:42:45.385Z'
+modified: '2022-09-12T16:43:21.341Z'
 ---
 
 # song recognition, music recognition api
@@ -11,6 +11,8 @@ modified: '2022-09-12T16:42:45.385Z'
 [shazam](https://github.com/bmoquist/Shazam) algorithm
 
 ## audiotag.info
+
+[portify](https://github.com/adbcode/portify) recognize local music and add them to spotify playlist
 
 [wav_to_info.py](https://github.com/whuds/song-classifier/blob/7c6771312e45a0f72f966a77506317d5cc98212a/metadata/code/wav_to_info.py)
 
