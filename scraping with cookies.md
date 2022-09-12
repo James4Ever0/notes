@@ -1,7 +1,7 @@
 ---
 title: 'elinks/lynx with python: how to speed up headless website browsing/parsing/scraping with cookies'
-created: '2022-09-12T07:24:30.355Z'
-modified: '2022-09-12T07:35:05.332Z'
+created: 2022-09-12T15:24:30+08:00
+modified: 2022-09-12T16:27:52+08:00
 ---
 
 # elinks/lynx with python: how to speed up headless website browsing/parsing/scraping with cookies
@@ -12,3 +12,10 @@ even better, we can chain it with some customized headless puppeteer/phantomjs (
 
 to test if the recommendation bar shows up:
 `https://v.qq.com/x/page/m0847y71q98.html`
+
+to make web page more readable:
+https://github.com/luin/readability
+
+load webpage headlessly:
+https://github.com/jsdom/jsdom
+https://github.com/ryanpetrello/python-zombie
