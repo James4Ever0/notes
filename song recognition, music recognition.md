@@ -1,7 +1,7 @@
 ---
 title: 'song recognition, music recognition'
 created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T15:46:42.034Z'
+modified: '2022-09-12T15:48:17.171Z'
 ---
 
 # song recognition, music recognition
@@ -12,4 +12,4 @@ https://www.midomi.com/api/track?trackID=100282107076607645
 the houndify music recognition api:
 wss://houndify.midomi.com/
 
-some lib found over [here](https://github.com/Azarattum/AmadeusCore/blob/3bbb39e4d92508f036dd7be68b66681013866cba/src/components/app/models/recognizers/midomi.recognizer.ts)
+some lib for midomi found over [here](https://github.com/Azarattum/AmadeusCore/blob/3bbb39e4d92508f036dd7be68b66681013866cba/src/components/app/models/recognizers/midomi.recognizer.ts) it can also bridge yandex music recognition api
