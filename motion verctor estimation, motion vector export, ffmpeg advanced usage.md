@@ -1,10 +1,14 @@
 ---
-title: 'motion verctor estimation, motion vector export, ffmpeg advanced usage'
-created: '2022-09-11T15:44:52.749Z'
-modified: '2022-09-12T11:49:13.024Z'
+title: motion verctor estimation, motion vector export, ffmpeg advanced usage
+created: 2022-09-11T23:44:52+08:00
+modified: 2022-09-13T02:16:00+08:00
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
+
+## use cases
+
+to detect hard-coded subtitles, crop the region and detect sudden changes
 
 ## pyav
 
