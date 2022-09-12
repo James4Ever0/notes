@@ -1,12 +1,14 @@
 ---
 title: 'song recognition, music recognition api'
 created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T16:32:02.666Z'
+modified: '2022-09-12T16:42:12.136Z'
 ---
 
 # song recognition, music recognition api
 
 ## self-hosted
+
+[shazam](https://github.com/bmoquist/Shazam) algorithm
 
 ## audiotag.info
 
