@@ -1,10 +1,14 @@
 ---
-title: 'song recognition, music recognition api, music discovery'
-created: '2022-09-12T15:40:57.656Z'
-modified: '2022-09-12T16:45:36.763Z'
+title: song recognition, music recognition api, music discovery
+created: 2022-09-12T23:40:57+08:00
+modified: 2022-09-13T01:23:01+08:00
 ---
 
 # song recognition, music recognition api, music discovery
+
+## netease 网易云听歌识曲
+
+[demo](https://github.com/userZheng686/wyySongIdentify)
 
 ## self-hosted
 
