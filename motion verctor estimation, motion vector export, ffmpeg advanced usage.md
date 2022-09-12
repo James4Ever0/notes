@@ -1,7 +1,7 @@
 ---
 title: motion verctor estimation, motion vector export, ffmpeg advanced usage
 created: 2022-09-11T23:44:52+08:00
-modified: 2022-09-13T02:16:00+08:00
+modified: 2022-09-13T02:16:46+08:00
 ---
 
 # motion verctor estimation, motion vector export, ffmpeg advanced usage
@@ -9,6 +9,8 @@ modified: 2022-09-13T02:16:00+08:00
 ## use cases
 
 to detect hard-coded subtitles, crop the region and detect sudden changes
+
+can also use pyscenedetect to do the job
 
 ## pyav
 
