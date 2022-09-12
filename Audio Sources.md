@@ -2,12 +2,13 @@
 tags: [dewatermark, media sources, object tracking, stub]
 title: Royalty Free Video/Picture/Audio Sources
 created: '2022-08-04T03:43:26.000Z'
-modified: '2022-09-12T06:16:35.451Z'
+modified: '2022-09-12T06:16:43.707Z'
 ---
 
 # Royalty Free Video/Picture/Audio Sources
 
-[download video without watermark](https://github.com/wxy2077/video_spider)
+[download video without watermark](https://github.com/wxy2077/video_spider) 😛 源视频mp4链接获取: toutiao今日头条app视频;🍉xigua西瓜视频; 🐧tencent腾讯视频; 🎼douyin抖音分享短链接解析，获取无水印播放链接
+
 
 目标追踪使用[bytetrack](https://github.com/ifzhang/ByteTrack)
 
