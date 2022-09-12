@@ -2,10 +2,12 @@
 tags: [audio analysis, audio classification, auto edit, transcription, video auto edit, video understanding]
 title: Video Cutting with audio categorizer
 created: '2022-05-10T15:43:25.000Z'
-modified: '2022-08-18T16:32:34.080Z'
+modified: '2022-09-12T16:34:21.141Z'
 ---
 
 # Video Cutting with audio categorizer
+
+[audio tagger](https://github.com/AlexUserForVA/AudioTagger) visualize how audio classifier works
 
 need to identify sounds like dog bark and gun shots, sobs, laughs. Open sourced.
 
