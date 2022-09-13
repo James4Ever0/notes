@@ -1,14 +1,14 @@
 ---
 title: paddlepaddle applications
 created: '2022-09-13T09:50:47.767Z'
-modified: '2022-09-13T13:25:44.239Z'
+modified: '2022-09-13T13:26:16.898Z'
 ---
 
 # paddlepaddle applications
 
 ## tips
 
-you can find solutions from kaggle notebooks or aistudio notebooks, but you cannot query them conveniently in one api.
+you can find solutions from kaggle notebooks or aistudio notebooks. you may consider to query them conveniently in one api.
 
 ## repo location (all source code can be found there)
 
