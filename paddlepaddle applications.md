@@ -1,10 +1,16 @@
 ---
 title: paddlepaddle applications
 created: '2022-09-13T09:50:47.767Z'
-modified: '2022-09-13T09:54:37.507Z'
+modified: '2022-09-13T12:49:19.587Z'
 ---
 
 # paddlepaddle applications
+
+## repo location (all source code can be found there)
+
+[archive zip](https://ghproxy.com/https://github.com/PaddlePaddle/awesome-DeepLearning/archive/refs/heads/master.zip)
+
+[git repo](https://github.com/PaddlePaddle/awesome-DeepLearning)
 
 ## 🎉全新发布
 
