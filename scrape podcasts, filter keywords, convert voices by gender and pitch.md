@@ -1,7 +1,7 @@
 ---
 title: 'scrape podcasts, filter keywords, convert voices by gender and pitch'
 created: '2022-09-13T16:35:47.327Z'
-modified: '2022-09-13T17:02:26.233Z'
+modified: '2022-09-13T17:03:58.980Z'
 ---
 
 # scrape podcasts, filter keywords, convert voices by gender and pitch
@@ -14,7 +14,7 @@ sort by review and feedback
 
 enhance audio and skip slience, just like what apple voice memo app does
 
-split voice from music
+split voice from music, be extremely cautious to music podcasts, don't know what to do with them unless with hands on experience
 
 ## 喜马拉雅fm
 
