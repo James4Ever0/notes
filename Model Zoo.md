@@ -2,10 +2,12 @@
 tags: [model zoo, pyjom, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-09-08T13:49:45.153Z'
+modified: '2022-09-13T09:46:38.352Z'
 ---
 
 # Model Zoo
+
+[百度总结的 比较全面的深度学习应用](https://github.com/datawhalechina/awesome-DeepLearning) deeplearning applications
 
 [jina hub](https://hub.jina.ai/)
 
