@@ -1,18 +1,18 @@
 ---
 title: 'scrape podcasts, filter keywords, convert voices by gender and pitch'
 created: '2022-09-13T16:35:47.327Z'
-modified: '2022-09-13T16:48:06.132Z'
+modified: '2022-09-13T16:48:53.154Z'
 ---
 
 # scrape podcasts, filter keywords, convert voices by gender and pitch
+
+filter out the name of the podcast volume
 
 ## 喜马拉雅fm
 
 ## apple podcasts
 
 apple podcasts are for free.
-
-filter out podcast name
 
 summarize the podcast or use the keywords extracted from podcast for advanced search
 
