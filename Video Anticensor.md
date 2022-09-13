@@ -2,10 +2,14 @@
 tags: [censorship, circumvention, video generator]
 title: Video Anticensor
 created: '2022-05-09T16:50:56.000Z'
-modified: '2022-08-18T16:02:59.234Z'
+modified: '2022-09-13T09:47:56.090Z'
 ---
 
 # Video Anticensor For Bilibili Tarot
+
+paddlegan
+
+https://aistudio.baidu.com/aistudio/projectdetail/1161285?channelType=0&channel=0
 
 could use p5 to do part of the job.
 
