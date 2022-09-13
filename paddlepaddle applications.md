@@ -1,7 +1,7 @@
 ---
 title: paddlepaddle applications
 created: '2022-09-13T09:50:47.767Z'
-modified: '2022-09-13T09:52:42.664Z'
+modified: '2022-09-13T09:54:37.507Z'
 ---
 
 # paddlepaddle applications
@@ -20,8 +20,6 @@ modified: '2022-09-13T09:52:42.664Z'
 **此外，还有交通、能源、金融、通信、互联网、零售及教育等等各个行业的精彩范例，大家拭目以待～**
 
 欢迎报名直播课加入交流群，如需更多技术交流与合作可扫描下面二维码：
-
-<center><img src='./bmimg/AR.jpg', width='50%'</center>
 
 -----
 
@@ -91,12 +89,9 @@ modified: '2022-09-13T09:52:42.664Z'
   - **AI Studio在线课程：[《零基础实践深度学习》](https://aistudio.baidu.com/aistudio/course/introduce/1297
     )**：理论和代码结合、实践与平台结合，包含20小时视频课程，由百度杰出架构师、飞桨产品负责人和资深研发人员共同打造。
 
-    <center><img src="./docs/images/cover/0_cover.png"/></center><br></br>
-
 
   - **《零基础实践深度学习》书籍**：本课程配套书籍，由清华出版社2020年底发行，京东/当当等电商均有销售。
 
-    <center><img src="https://github.com/ZhangHandi/images-for-paddledocs/blob/main/images/readme/book.png?raw=true"/></center><br></br>
 
 ## <span id ='3'>特色课 - Transformer系列</span>
 
@@ -138,9 +133,6 @@ modified: '2022-09-13T09:52:42.664Z'
 
 本项目面向对深度学习感兴趣，尤其是想使用PaddlePaddle进行深度学习的童鞋。本项目并不要求你有任何深度学习或者机器学习的背景知识，你只需了解基础的数学和编程，如基础的线性代数、微分和概率，以及基础的Python编程。
 
-<div align=center>
-<img width="500" src="./Dive-into-DL-paddlepaddle/docs/img/cover.jpg">
-</div>
 返回[:arrow_heading_up:](#0)
 
 
@@ -336,7 +328,6 @@ modified: '2022-09-13T09:52:42.664Z'
 
 非常感谢您使用本项目。您在使用过程中有任何建议或意见，可以在 **[Issue](https://github.com/PaddlePaddle/tutorials/issues)** 上反馈给我们，也可以通过扫描下方的二维码联系我们，飞桨的开发人员非常高兴能够帮助到您，并与您进行更深入的交流和技术探讨。
 
-<center><img src="https://github.com/ZhangHandi/images-for-paddledocs/blob/main/images/readme/qr_code.png?raw=true"/></center><br></br>
 
 # 四、许可证书
 
