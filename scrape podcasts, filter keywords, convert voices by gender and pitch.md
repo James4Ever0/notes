@@ -1,7 +1,7 @@
 ---
 title: 'scrape podcasts, filter keywords, convert voices by gender and pitch'
 created: '2022-09-13T16:35:47.327Z'
-modified: '2022-09-13T16:44:45.565Z'
+modified: '2022-09-13T16:45:13.825Z'
 ---
 
 # scrape podcasts, filter keywords, convert voices by gender and pitch
@@ -14,7 +14,7 @@ filter out podcast name
 
 summarize the podcast or use the keywords extracted from podcast for advanced search
 
-去除语气词
+去除语气词 tts与变声器混合
 
 [podcast review scraper](https://github.com/amirandalibi/apple-podcasts-review-scraper)
 
