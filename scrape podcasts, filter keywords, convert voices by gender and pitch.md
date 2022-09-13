@@ -1,12 +1,14 @@
 ---
 title: 'scrape podcasts, filter keywords, convert voices by gender and pitch'
 created: '2022-09-13T16:35:47.327Z'
-modified: '2022-09-13T16:49:02.638Z'
+modified: '2022-09-13T16:49:38.143Z'
 ---
 
 # scrape podcasts, filter keywords, convert voices by gender and pitch
 
 filter out the name of the podcast volume
+
+sort by review and feedback
 
 ## 喜马拉雅fm
 
