@@ -2,11 +2,12 @@
 tags: [advertising, chatbot, graph database, pyjom, recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2022-09-13T09:49:01.698Z'
+modified: '2022-09-13T09:57:42.751Z'
 ---
 
 # 推荐系统 GNN
 
+datawhale [fun-rec 推荐系统入门教程](https://github.com/datawhalechina/fun-rec)
 datawhale [rechub](https://github.com/datawhalechina/torch-rechub)
 
 [image to text, text to image, clip as image/text embeddings](https://github.com/jina-ai/clip-as-service)
