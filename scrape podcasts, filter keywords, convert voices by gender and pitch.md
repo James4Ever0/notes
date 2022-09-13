@@ -1,14 +1,14 @@
 ---
 title: 'scrape podcasts, filter keywords, convert voices by gender and pitch'
 created: '2022-09-13T16:35:47.327Z'
-modified: '2022-09-13T17:03:58.980Z'
+modified: '2022-09-13T17:06:40.073Z'
 ---
 
 # scrape podcasts, filter keywords, convert voices by gender and pitch
 
 some live streaming may come into the same category of podcasts
 
-filter out the name of the podcast volume
+filter out the name of the podcast volume, name of calling each others in the podcast
 
 sort by review and feedback
 
