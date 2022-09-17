@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:50:04.026Z'
+modified: '2022-09-17T11:50:29.517Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -11,6 +11,8 @@ modified: '2022-09-17T11:50:04.026Z'
 this one got lots of state-of-the-art implementations for close-sourced papers and also repos for AGI. stunning.
 
 ### AGI related
+
+[JEPA-pytorch](https://github.com/lucidrains/JEPA-pytorch)
 
 ### side projects
 
