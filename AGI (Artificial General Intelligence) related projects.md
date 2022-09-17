@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:56:05.409Z'
+modified: '2022-09-17T11:56:11.842Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -26,7 +26,7 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 
 ## [repos on github](https://github.com/topics/artificial-general-intelligence)
 
-[he4o]()
+[he4o](https://github.com/jiaxiaogang/he4o)
 
 [aixijs](https://www.aslanides.io/aixijs/) general reinforcement learning in browser [repo](https://github.com/aslanides/aixijs)
 
