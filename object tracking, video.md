@@ -1,7 +1,7 @@
 ---
 title: 'object tracking, video'
 created: '2022-09-17T06:41:49.010Z'
-modified: '2022-09-17T06:47:31.571Z'
+modified: '2022-09-17T06:47:49.917Z'
 ---
 
 # object tracking, video
@@ -17,4 +17,4 @@ if detection overlaps with object, then do not launch new tracking process.
 
 [OpenCV Optical Flow Algorithm for Object Tracking](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2021-12-10--opencv-optical-flow-tracking/2021-12-10)
 
-[OpenCV Object Detection and Tracking]()
+[OpenCV Object Detection and Tracking](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2021-12-07--opencv-detection-and-tracking/2021-12-07)
