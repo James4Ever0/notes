@@ -1,11 +1,15 @@
 ---
-created: 2022-09-15T12:46:21+08:00
-modified: 2022-09-15T13:21:23+08:00
+title: 'leaderboards, paperswithcode.com'
+created: '2022-09-15T04:46:21.000Z'
+modified: '2022-09-17T07:57:13.792Z'
 ---
 
 # leaderboards, paperswithcode.com
 
 provide tasks and give the best model for given task
+
+## scrapers
+[kaggle leaderboard](https://github.com/smbdsbrain/kaggle-leaderboard)
 
 ## platforms
 
