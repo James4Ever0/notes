@@ -1,12 +1,12 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:42:11.805Z'
+modified: '2022-09-17T11:42:32.336Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
 
-## [lucidrains]()
+## [lucidrains](https://github.com/lucidrains?tab=repositories) repositories
 
 this one got lots of state-of-the-art implementations for close-sourced papers and also repos for AGI. stunning.
 
