@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:48:10.677Z'
+modified: '2022-09-17T11:48:32.777Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -21,7 +21,7 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 
 [moses](https://wiki.opencog.org/w/Meta-Optimizing_Semantic_Evolutionary_Search) (supervised) for evolutionary program synthesis
 
-## repos in github
+## repos on github
 
 [awesome deep reinforcement learning (deep-rl)](https://github.com/tigerneil/awesome-deep-rl)
 
