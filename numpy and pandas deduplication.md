@@ -1,7 +1,7 @@
 ---
 title: numpy and pandas deduplication
 created: '2022-09-17T06:49:15.009Z'
-modified: '2022-09-17T07:33:08.222Z'
+modified: '2022-09-17T07:33:36.244Z'
 ---
 
 # numpy and pandas deduplication
@@ -14,3 +14,7 @@ pip install dupandas
 ```
 
 [pandas drop_duplicates](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop_duplicates.html)
+
+```python
+
+```
