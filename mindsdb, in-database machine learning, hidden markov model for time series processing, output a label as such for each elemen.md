@@ -1,7 +1,7 @@
 ---
 title: 'mindsdb, in-database machine learning, hidden markov model for time series processing, output a label as such for each element in the time series'
 created: '2022-09-17T08:09:19.437Z'
-modified: '2022-09-17T11:00:11.031Z'
+modified: '2022-09-17T11:01:58.281Z'
 ---
 
 # mindsdb, in-database machine learning, hidden markov model for time series processing, output a label as such for each element in the time series
@@ -26,6 +26,8 @@ training and inferring the hidden states
 ### seqlearn
 
 ### pomegranate (both supervised and unsupervised)
+
+https://pomegranate.readthedocs.io/en/latest/semisupervised.html
 
 While [probability Distributions](https://pomegranate.readthedocs.io/en/latest/Distributions.html#) are frequently used as components of more complex models such as mixtures and hidden Markov models, they can also be used by themselves. Many data science tasks require fitting a distribution to data or generating samples under a distribution. pomegranate has a large library of both univariate and multivariate distributions which can be used with an intuitive interface.
 
