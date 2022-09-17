@@ -1,7 +1,7 @@
 ---
 title: javascript python bridge
 created: '2022-09-17T07:58:20.916Z'
-modified: '2022-09-17T07:59:42.172Z'
+modified: '2022-09-17T07:59:52.002Z'
 ---
 
 # javascript python bridge
@@ -12,6 +12,15 @@ javascript in python:
 
 ```bash
 pip3 install javascript
+```
+
+```python
+from javascript import require, globalThis
+
+chalk, fs = require("chalk"), require("fs")
+
+print("Hello", chalk.red("world!"), "it's", globalThis.Date().toLocaleString())
+fs.writeFileSync("HelloWorld.txt", "hi!")
 ```
 
 access python from javascript:
