@@ -1,11 +1,13 @@
 ---
 tags: [audio analysis, audio classification, auto edit, transcription, video auto edit, video understanding]
-title: Video Cutting with audio categorizer
+title: 'Video Cutting with audio classifier, audio categorizer'
 created: '2022-05-10T15:43:25.000Z'
-modified: '2022-09-12T16:34:21.141Z'
+modified: '2022-09-17T06:48:39.764Z'
 ---
 
-# Video Cutting with audio categorizer
+# Video Cutting with audio classifier, audio categorizer
+
+[audio classifier tutorial](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2022-04-01-tensorflow-audio-classifier/2022-04-01/)
 
 [audio tagger](https://github.com/AlexUserForVA/AudioTagger) visualize how audio classifier works
 
