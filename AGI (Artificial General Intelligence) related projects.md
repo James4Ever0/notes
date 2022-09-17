@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:53:58.196Z'
+modified: '2022-09-17T11:54:19.958Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -35,5 +35,5 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 
 [awesome agicocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) exhausitive list of papers and repos for cognitive science and AGI
 
-[vague materials on AGI](https://github.com/guardians-of-life/awesome-artificial-general-intelligence)
+[introduction and links on AGI](https://github.com/guardians-of-life/awesome-artificial-general-intelligence)
 
