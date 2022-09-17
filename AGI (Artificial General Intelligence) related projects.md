@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:55:28.107Z'
+modified: '2022-09-17T11:56:05.409Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -24,7 +24,9 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 
 [moses](https://wiki.opencog.org/w/Meta-Optimizing_Semantic_Evolutionary_Search) (supervised) for evolutionary program synthesis
 
-## repos on github
+## [repos on github](https://github.com/topics/artificial-general-intelligence)
+
+[he4o]()
 
 [aixijs](https://www.aslanides.io/aixijs/) general reinforcement learning in browser [repo](https://github.com/aslanides/aixijs)
 
