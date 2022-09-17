@@ -2,7 +2,7 @@
 tags: [censorship, NSFW]
 title: DeepNude Censorship
 created: '2022-05-31T04:00:06.000Z'
-modified: '2022-09-08T15:28:02.484Z'
+modified: '2022-09-17T03:08:37.154Z'
 ---
 
 # DeepNude Censorship NSFW
@@ -42,7 +42,8 @@ https://github.com/Rayraegah/nsfw_japan
 https://github.com/fishsup/nsfw-image-classification
 https://github.com/yangbisheng2009/nsfw-resnet
 https://github.com/GantMan/nsfw_model
-https://github.com/devzwy/open_nsfw_androidhttps://github.com/infinitered/nsfwjs
+https://github.com/devzwy/open_nsfw_android
+https://github.com/infinitered/nsfwjs
 https://github.com/nsfw-filter/nsfw-filter
 
 nudity, violence and drug
