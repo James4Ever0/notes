@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:58:57.777Z'
+modified: '2022-09-17T11:59:02.919Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -36,7 +36,7 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 
 ## materials and links
 
-[DQfD: ](https://github.com/tigerneil/awesome-deep-rl/blob/master/DQfD.md) ([paper]())
+[DQfD: ](https://github.com/tigerneil/awesome-deep-rl/blob/master/DQfD.md) ([paper](https://arxiv.org/pdf/1704.03732.pdf))
 
 [mit class on AGI](https://github.com/pursh2002/MIT-6.S099-Artificial-General-Intelligence-)
 
