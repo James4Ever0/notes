@@ -1,10 +1,12 @@
 ---
 title: opencv corner detection
 created: '2022-09-17T07:54:53.425Z'
-modified: '2022-09-17T07:55:31.736Z'
+modified: '2022-09-17T07:56:22.317Z'
 ---
 
 # opencv corner detection
+
+[fast algorithm for corner detection](https://docs.opencv.org/4.x/df/d0c/tutorial_py_fast.html)
 
 ```python
 import numpy as np
