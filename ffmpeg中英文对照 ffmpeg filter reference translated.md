@@ -1,13 +1,14 @@
 ---
 title: ffmpeg中英文对照 ffmpeg filter reference translated
 created: '2022-09-17T06:50:26.207Z'
-modified: '2022-09-17T06:51:06.255Z'
+modified: '2022-09-17T06:51:38.886Z'
 ---
 
 # ffmpeg中英文对照 ffmpeg filter reference translated
 
 [source](https://blog.csdn.net/jackuylove/article/details/104895791/)
 
+```
 对这位仁兄的博客的基础上根据最新的ffmpeg进行了补充https://www.cnblogs.com/nlsoft/p/5195172.html
 Video Filters
 视频滤镜
@@ -466,3 +467,5 @@ device.                           将帧映射到系统内存或者另一个设�
                                   缓冲视频帧,并用于滤镜图的结束.
  ... fifo              V->V       Buffer input images and send them when they are requested.
                                   缓冲输入帧,若需要时.
+   
+```
