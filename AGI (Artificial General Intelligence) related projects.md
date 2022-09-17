@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:57:08.281Z'
+modified: '2022-09-17T11:57:39.956Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -35,6 +35,8 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 [brain simulator 2](https://github.com/FutureAIGuru/BrainSimII) on windows platform
 
 ## materials and links
+
+[mit class on AGI](https://github.com/pursh2002/MIT-6.S099-Artificial-General-Intelligence-)
 
 [jiaxiaogang's god-knows-what theory and training logs](https://github.com/jiaxiaogang/HELIX_THEORY)
 
