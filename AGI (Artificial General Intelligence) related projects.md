@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:52:45.974Z'
+modified: '2022-09-17T11:53:10.563Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -14,7 +14,7 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 
 [JEPA-pytorch](https://github.com/lucidrains/JEPA-pytorch) (WIP) yann lecun's version how agi will be built
 
-[PaLM](https://github.com/lucidrains/PaLM-pytorch)
+[PaLM](https://github.com/lucidrains/PaLM-pytorch) scaling language model with pathways
 
 ### side projects
 
