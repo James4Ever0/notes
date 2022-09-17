@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:54:19.958Z'
+modified: '2022-09-17T11:54:51.918Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -20,7 +20,6 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 
 [nuwa](https://github.com/lucidrains/nuwa-pytorch) text to video generation
 
-
 ## [opencog](https://wiki.opencog.org)
 
 [moses](https://wiki.opencog.org/w/Meta-Optimizing_Semantic_Evolutionary_Search) (supervised) for evolutionary program synthesis
@@ -28,6 +27,8 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 ## repos on github
 
 [aixijs](https://www.aslanides.io/aixijs/) general reinforcement learning in browser [repo](https://github.com/aslanides/aixijs)
+
+[opennars](https://github.com/opennars/opennars)
 
 ## materials and links
 
