@@ -1,7 +1,7 @@
 ---
 title: 'color transfer between images, histogram based style transfer'
 created: '2022-09-17T07:20:21.210Z'
-modified: '2022-09-17T07:23:30.462Z'
+modified: '2022-09-17T07:27:31.493Z'
 ---
 
 # color transfer between images, histogram based style transfer
@@ -13,5 +13,7 @@ modified: '2022-09-17T07:23:30.462Z'
 ```bash
 pip install color_transfer
 ```
+
+[official scikit-learn histogram matching](https://scikit-image.org/docs/dev/auto_examples/color_exposure/plot_histogram_matching.html)
 
 [histogram matching](https://pyimagesearch.com/2021/02/08/histogram-matching-with-opencv-scikit-image-and-python/)
