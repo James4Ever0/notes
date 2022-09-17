@@ -1,7 +1,7 @@
 ---
 title: 'mindsdb, in-database machine learning, hidden markov model for time series processing, output a label as such for each element in the time series'
 created: '2022-09-17T08:09:19.437Z'
-modified: '2022-09-17T11:02:21.631Z'
+modified: '2022-09-17T11:02:41.428Z'
 ---
 
 # mindsdb, in-database machine learning, hidden markov model for time series processing, output a label as such for each element in the time series
@@ -26,6 +26,8 @@ training and inferring the hidden states
 ### seqlearn
 
 ### pomegranate (both supervised and unsupervised)
+
+[documentation](https://pomegranate.readthedocs.io)
 
 All models that support labeled data support [semi-supervised learning](https://pomegranate.readthedocs.io/en/latest/semisupervised.html), including naive Bayes classifiers, general Bayes classifiers, and hidden Markov models. 
 
