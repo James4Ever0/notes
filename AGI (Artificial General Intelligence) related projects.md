@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:56:11.842Z'
+modified: '2022-09-17T11:56:43.198Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -35,6 +35,8 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 [brain simulator 2](https://github.com/FutureAIGuru/BrainSimII) on windows platform
 
 ## materials and links
+
+[jiaxiaogang's god-knows-what training logs]()
 
 [awesome deep reinforcement learning (deep-rl)](https://github.com/tigerneil/awesome-deep-rl)
 
