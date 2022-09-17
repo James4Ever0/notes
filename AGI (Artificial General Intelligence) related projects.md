@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:54:51.918Z'
+modified: '2022-09-17T11:55:28.107Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -29,6 +29,8 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 [aixijs](https://www.aslanides.io/aixijs/) general reinforcement learning in browser [repo](https://github.com/aslanides/aixijs)
 
 [opennars](https://github.com/opennars/opennars)
+
+[brain simulator 2](https://github.com/FutureAIGuru/BrainSimII) on windows platform
 
 ## materials and links
 
