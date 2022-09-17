@@ -1,7 +1,7 @@
 ---
 title: 'mindsdb, in-database machine learning, hidden markov model for time series processing, output a label as such for each element in the time series'
 created: '2022-09-17T08:09:19.437Z'
-modified: '2022-09-17T11:06:18.533Z'
+modified: '2022-09-17T11:07:05.657Z'
 ---
 
 # mindsdb, in-database machine learning, hidden markov model for time series processing, output a label as such for each element in the time series
@@ -43,3 +43,5 @@ While [probability Distributions](https://pomegranate.readthedocs.io/en/latest/D
 [Markov Chains](https://pomegranate.readthedocs.io/en/latest/MarkovChain.html)
 
 [Bayesian Networks](https://pomegranate.readthedocs.io/en/latest/BayesianNetwork.html)
+
+[Markov Networks]()
