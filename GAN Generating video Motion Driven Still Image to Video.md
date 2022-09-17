@@ -2,10 +2,12 @@
 tags: [motion driven video, music to video, video generator]
 title: GAN Generating video Motion Driven Still Image to Video
 created: '2022-05-29T03:52:26.000Z'
-modified: '2022-08-18T14:54:19.310Z'
+modified: '2022-09-17T11:33:37.205Z'
 ---
 
 # GAN Generating video Motion Driven Still Image to Video
+
+[thin plate spline motion model](https://github.com/yoyo-nb/thin-plate-spline-motion-model)
 
 video animation generation only using few character portraits: 根据角色设定图画出人物动画（有动画驱动器）
 https://github.com/megvii-research/CoNR
