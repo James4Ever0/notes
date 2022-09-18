@@ -1,11 +1,13 @@
 ---
 tags: [chatbot, chatbot framework, opqbot, pyjom, qq, reverse engineering, stub]
-title: 'gitter developer tokens and qq opqbot, reverse engineering qq protocols and more'
-created: '2022-08-13T00:54:17.000Z'
-modified: '2022-09-06T09:29:06.608Z'
+title: gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
+created: 2022-08-13T08:54:17+08:00
+modified: 2022-09-18T16:02:20+08:00
 ---
 
 # gitter developer tokens and qq opqbot, reverse engineering qq protocols and more
+
+qq seems to release mac qq with electron, great easier for reverse engineering
 
 [how to reverse go binary, golang reverse](https://zu1k.com/posts/security/reverse/golang-reverse/)
 
