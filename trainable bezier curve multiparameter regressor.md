@@ -1,7 +1,7 @@
 ---
 title: trainable bezier curve multiparameter regressor
 created: '2022-09-18T13:57:31.469Z'
-modified: '2022-09-18T15:58:07.327Z'
+modified: '2022-09-18T15:58:19.365Z'
 ---
 
 # trainable bezier curve multiparameter regressor
@@ -19,7 +19,12 @@ def bezierCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
   assert x_end >= input_value
   x_diff = x_end - x_start
   y_diff = y_end - y_start
-
+  nodes1 = np.asfortranarray(
+      [
+          [x_start, x_diff * (0.5 + skew), x_end],
+          [y_start, y_diff * (0.5 - skew), y_end],
+      ]
+  )
   return result
 
 ```
