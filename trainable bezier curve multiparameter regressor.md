@@ -1,15 +1,17 @@
 ---
 title: trainable bezier curve multiparameter regressor
 created: '2022-09-18T13:57:31.469Z'
-modified: '2022-09-18T14:16:29.947Z'
+modified: '2022-09-18T14:48:54.235Z'
 ---
 
 # trainable bezier curve multiparameter regressor
 
+[bezier](https://pypi.org/project/bezier/)
+
 first, we need a bezier curve connects (0,0) and (1,1)
 
 ```python
-def besizeCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
+def bezierCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
   input_start, output_start = start[0]
   input_end, output_end = end
   assert input_start <= input_value
