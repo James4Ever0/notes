@@ -2,12 +2,12 @@
 tags: [anonymity, circumvention, free access, internet, onion router, tor, vpn]
 title: Anonymity and open access to internet
 created: '2022-04-07T11:19:58.000Z'
-modified: '2022-09-18T09:52:20.742Z'
+modified: '2022-09-18T09:52:36.911Z'
 ---
 
 # Anonymity and open access to internet
 
-[bugmenot]() shared accounts, shared credentials, shared username/password
+[bugmenot](bugmenot.com) shared accounts, shared credentials, shared username/password
 
 use tor browser, tor daemon.
 still know nothing on torrc and the obfs4 bridges since none of these works, on linux.
