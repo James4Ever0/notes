@@ -1,12 +1,12 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-18T14:47:44.519Z'
+modified: '2022-09-18T14:48:23.408Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
 
-[nazobase](https://github.com/GoodManWEN/nazobase) NAZOrip basement, with cython dll
+[nazobase](https://github.com/GoodManWEN/nazobase) NAZOrip basement, with cython dll [docs](https://www.nazorip.site/archives/37/)
 
 [DBmbk](https://github.com/kewenyu/DBmbk) a debanding toolkit, for easier bezier curve generation
 
