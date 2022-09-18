@@ -1,7 +1,7 @@
 ---
 title: trainable bezier curve multiparameter regressor
 created: '2022-09-18T13:57:31.469Z'
-modified: '2022-09-18T16:01:10.745Z'
+modified: '2022-09-18T16:05:23.092Z'
 ---
 
 # trainable bezier curve multiparameter regressor
@@ -26,12 +26,16 @@ def bezierCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
       ]
   )
   curve1 = bezier.Curve(nodes1, degree=2)
+  curve_params = {'x_start':x_start, 'x_diff':x_diff}
+  return curve1, curve_params
+
+def evaluateBezierCurve(input_value,curve, curve_params)
   s = (input_value - x_start)/x_diff
-  points = curve1.evaluate(s)
+  points = curve.evaluate(s)
   # we only get the single point.
   point = points.T[0]
   x,y = point
-  result = 
+  result = y
   return result
 
 ```
@@ -39,7 +43,8 @@ def bezierCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
 then, we define our very recursive or flexible regressor:
 
 ```python
-def multiParameterExponentialNetwork(*args, input_bias=0.1, function=bezierCurve, function_kwargs = {'start':(0,0),'end':(1,1)'skew':0}):
+def multiParameterExponentialNetwork(*args, input_bias=0.1, curve_function=bezierCurve, function_kwargs = {'start':(0,0),'end':(1,1)'skew':0}):
+  curve = 
   value = function(input_bias,**function_kwargs)
   for index, input_value in enumerate(args):
     apply_list = [input_value]*(index+1)
