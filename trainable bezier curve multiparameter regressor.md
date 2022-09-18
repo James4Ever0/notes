@@ -1,7 +1,7 @@
 ---
 title: trainable bezier curve multiparameter regressor
 created: '2022-09-18T13:57:31.469Z'
-modified: '2022-09-18T16:00:28.887Z'
+modified: '2022-09-18T16:01:10.745Z'
 ---
 
 # trainable bezier curve multiparameter regressor
@@ -27,6 +27,11 @@ def bezierCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
   )
   curve1 = bezier.Curve(nodes1, degree=2)
   s = (input_value - x_start)/x_diff
+  points = curve1.evaluate(s)
+  # we only get the single point.
+  point = points.T[0]
+  x,y = point
+  result = 
   return result
 
 ```
