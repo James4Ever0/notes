@@ -1,12 +1,12 @@
 ---
 title: vapoursynth 光流算法 补帧 画面优化 denoising
 created: '2022-09-07T03:59:21.000Z'
-modified: '2022-09-18T14:25:55.755Z'
+modified: '2022-09-18T14:26:24.834Z'
 ---
 
 # vapoursynth 光流算法 补帧 画面优化 denoising
 
-[DBmbk]()
+[DBmbk](https://github.com/kewenyu/DBmbk) for easier bezier curve generation
 
 [ffmpeg super resolution filter](https://ffmpeg.org/ffmpeg-filters.html#sr) could get faster if run on gpu with [libtensorflow](https://www.tensorflow.org/install/lang_c)
 
