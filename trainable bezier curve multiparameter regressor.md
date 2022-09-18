@@ -1,7 +1,7 @@
 ---
 title: trainable bezier curve multiparameter regressor
 created: '2022-09-18T13:57:31.469Z'
-modified: '2022-09-18T14:48:54.235Z'
+modified: '2022-09-18T15:56:48.453Z'
 ---
 
 # trainable bezier curve multiparameter regressor
@@ -12,6 +12,7 @@ first, we need a bezier curve connects (0,0) and (1,1)
 
 ```python
 def bezierCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
+  # skew: (-0.5,0.5) otherwise this shit will look ugly.
   input_start, output_start = start[0]
   input_end, output_end = end
   assert input_start <= input_value
