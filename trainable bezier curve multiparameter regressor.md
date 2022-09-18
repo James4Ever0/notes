@@ -1,7 +1,7 @@
 ---
 title: trainable bezier curve multiparameter regressor
 created: '2022-09-18T13:57:31.469Z'
-modified: '2022-09-18T15:57:49.041Z'
+modified: '2022-09-18T15:58:07.327Z'
 ---
 
 # trainable bezier curve multiparameter regressor
@@ -17,6 +17,9 @@ def bezierCurve(input_value:float, start=(0,0), end=(1,1), skew=0):
   x_end, y_end = end
   assert x_start <= input_value
   assert x_end >= input_value
+  x_diff = x_end - x_start
+  y_diff = y_end - y_start
+
   return result
 
 ```
