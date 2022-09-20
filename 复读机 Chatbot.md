@@ -1,8 +1,8 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: 2022-07-14T23:35:31+08:00
-modified: 2022-09-19T22:08:28+08:00
+created: '2022-07-14T15:35:31.000Z'
+modified: '2022-09-20T15:59:28.908Z'
 ---
 
 # 复读机 Chatbot
@@ -34,7 +34,7 @@ always keep the latest 2 models, remove those not readable first, then delete ol
 
 if train on CPU, still need to limit training time, sleep while doing so. GPU for sure we need sleep during training, and do not use VRAM for other applications.
 - [ ] 把"汪汪"翻译成表情包 同时可以随机添加其他表情
-- [ ] 根据实时群聊数据训练gpt2
+- [x] 根据实时群聊数据训练gpt2
 - [ ] 根据离线群聊数据训练gpt2
 
 
