@@ -1,7 +1,7 @@
 ---
 title: 'image blur detection, image quality assessment'
 created: '2022-09-23T12:26:27.800Z'
-modified: '2022-09-23T12:27:47.219Z'
+modified: '2022-09-23T12:27:57.744Z'
 ---
 
 # image blur detection, image quality assessment
@@ -13,3 +13,4 @@ https://github.com/whdcumt/BlurDetection
 https://github.com/Utkarsh-Deshmukh/Spatially-Varying-Blur-Detection-python
 
 https://github.com/ILasya/Image-Quality-Detection
+https://github.com/RahulGopan0/Blur-Image-Detection-Using-CNN/blob/main/blurVsClear.ipynb
