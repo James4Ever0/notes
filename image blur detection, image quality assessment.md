@@ -1,7 +1,7 @@
 ---
 title: 'image blur detection, image quality assessment'
 created: '2022-09-23T12:26:27.800Z'
-modified: '2022-09-23T12:40:07.635Z'
+modified: '2022-09-23T12:40:23.024Z'
 ---
 
 # image blur detection, image quality assessment
@@ -18,5 +18,5 @@ modified: '2022-09-23T12:40:07.635Z'
 
 ### deeplearning blur image classification/scoring
 
-https://github.com/ILasya/Image-Quality-Detection
+[Image-Quality-Detection](https://github.com/ILasya/Image-Quality-Detection)
 [Blur-Image-Detection](https://github.com/RahulGopan0/Blur-Image-Detection-Using-CNN/blob/main/blurVsClear.ipynb)
