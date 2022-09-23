@@ -1,11 +1,13 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: '2022-07-14T15:35:31.000Z'
-modified: '2022-09-20T15:59:28.908Z'
+created: 2022-07-14T23:35:31+08:00
+modified: 2022-09-23T23:58:39+08:00
 ---
 
 # 复读机 Chatbot
+
+- [ ] 对接小冰
 
 - [ ] **管理员在的时候 或者管理员经常出现的群里面 不要冒泡 不然容易被封**
 
