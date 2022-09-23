@@ -1,7 +1,7 @@
 ---
 title: 'image blur detection, image quality assessment'
 created: '2022-09-23T12:26:27.800Z'
-modified: '2022-09-23T12:30:42.682Z'
+modified: '2022-09-23T12:31:26.524Z'
 ---
 
 # image blur detection, image quality assessment
@@ -12,7 +12,7 @@ modified: '2022-09-23T12:30:42.682Z'
 
 [using fourier transform](https://github.com/whdcumt/BlurDetection)
 
-https://github.com/Utkarsh-Deshmukh/Spatially-Varying-Blur-Detection-python
+[This project outputs regions in an image which are sharp and blurry. In order to perform "OUT-OF-FOCUS" blur estimation, please refer to this repo:https://github.com/Utkarsh-Deshmukh/Spatially-Varying-Blur-Detection-python
 
 https://github.com/ILasya/Image-Quality-Detection
 https://github.com/RahulGopan0/Blur-Image-Detection-Using-CNN/blob/main/blurVsClear.ipynb
