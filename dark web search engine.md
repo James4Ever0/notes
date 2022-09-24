@@ -1,6 +1,6 @@
 ---
 created: 2022-09-25T00:45:35+08:00
-modified: 2022-09-25T00:52:59+08:00
+modified: 2022-09-25T00:53:12+08:00
 ---
 
 # dark web search engine
@@ -17,6 +17,6 @@ modified: 2022-09-25T00:52:59+08:00
 
 [not evil](http://hss3uro2hsxfogfq.onion/)
 
-[haystack[(http://haystakvxad7wbk5.onion/) one of the biggest
+[haystack](http://haystakvxad7wbk5.onion/) one of the biggest
 
 [candle](http://gjobqjj7wyczbqie.onion/)
