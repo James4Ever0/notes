@@ -1,8 +1,8 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: 'Hacking tutorials, tools'
-created: '2022-07-11T15:43:20.000Z'
-modified: '2022-09-10T13:07:39.245Z'
+title: Hacking tutorials, tools
+created: 2022-07-11T23:43:20+08:00
+modified: 2022-09-25T01:38:30+08:00
 ---
 
 # information gathering
@@ -58,3 +58,14 @@ https://github.com/ctf-wiki/ctf-wiki
 https://github.com/apsdehal/awesome-ctf
 https://github.com/p4-team/ctf
 https://github.com/zardus/ctf-tools
+
+some other tools
+https://github.com/jopohl/urh
+https://github.com/sundowndev/hacker-roadmap
+https://github.com/Z4nzu/hackingtool
+https://github.com/edoardottt/awesome-hacker-search-engines
+https://github.com/jaykali/hackerpro
+https://github.com/b3-v3r/Hunner
+https://github.com/hacktoolspack/hack-tools
+https://github.com/hahwul/WebHackersWeapons
+https://github.com/jekil/awesome-hacking
