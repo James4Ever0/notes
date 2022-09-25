@@ -1,10 +1,16 @@
 ---
 title: 微软小冰 机器人 用requests库访问最好
 created: '2022-09-25T10:46:19.236Z'
-modified: '2022-09-25T10:48:47.756Z'
+modified: '2022-09-25T10:56:31.592Z'
 ---
 
 # 微软小冰 机器人 用requests库访问最好
+
+## notice
+
+when using this, first extract topic from recent chats or group name, then send message.
+
+or you just use the default topic. whatever.
 
 ## client
 ```python
