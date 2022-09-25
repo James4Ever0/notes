@@ -1,7 +1,7 @@
 ---
 title: 微软小冰 机器人 用requests库访问最好
 created: '2022-09-25T10:46:19.236Z'
-modified: '2022-09-25T10:47:41.451Z'
+modified: '2022-09-25T10:48:47.756Z'
 ---
 
 # 微软小冰 机器人 用requests库访问最好
@@ -15,6 +15,7 @@ modified: '2022-09-25T10:47:41.451Z'
 >>> exit()
 ```
 ## server
+location: `/root/Desktop/works/pyjom/tests/microsoft_xiaobing_conversation_bing/chat_with_session_id.js`
 ```javascript
 var request = require("request");
 // var mysqld = require("./mysql");
