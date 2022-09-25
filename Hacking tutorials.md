@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-09-25T02:35:03.140Z'
+modified: '2022-09-25T02:53:54.115Z'
 ---
 
 # information gathering
@@ -59,7 +59,7 @@ https://github.com/apsdehal/awesome-ctf
 https://github.com/p4-team/ctf
 https://github.com/zardus/ctf-tools
 
-some other tools
+some other tools and resources
 https://github.com/jopohl/urh
 https://github.com/sundowndev/hacker-roadmap
 [all in one hacking tool](https://github.com/Z4nzu/hackingtool) for kali linux
