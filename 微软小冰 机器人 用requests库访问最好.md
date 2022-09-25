@@ -1,12 +1,12 @@
 ---
 title: 微软小冰 机器人 用requests库访问最好
 created: '2022-09-25T10:46:19.236Z'
-modified: '2022-09-25T10:47:21.861Z'
+modified: '2022-09-25T10:47:41.451Z'
 ---
 
 # 微软小冰 机器人 用requests库访问最好
 
-test
+## client
 ```python
 >>> import requests
 >>> r = requests.get("http://localhost:8735/chat",params={"topic":"python","message":"吃了没有"})
@@ -14,7 +14,7 @@ test
 {'msg': 'success', 'reply': '你这么一说，我好像是有点饿'}
 >>> exit()
 ```
-
+## server
 ```javascript
 var request = require("request");
 // var mysqld = require("./mysql");
