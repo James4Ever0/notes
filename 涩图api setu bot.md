@@ -1,7 +1,7 @@
 ---
 title: 涩图api setu bot
 created: '2022-09-25T09:12:30.163Z'
-modified: '2022-09-25T09:19:39.015Z'
+modified: '2022-09-25T09:24:07.065Z'
 ---
 
 # 涩图api setu bot
@@ -11,7 +11,12 @@ modified: '2022-09-25T09:19:39.015Z'
 涩图分为二次元和三次元涩图 皆要控制尺度
 除了涩图之外，能够随时使用的番剧clip也是很重要的 如何获取“动漫名场面”呢
 
+## projects
+
+https://github.com/opq-osc/OPQ-SetuBot 直接搜索的pixiv
+
 ## 二次元涩图api
 https://api.lolicon.app/#/setu 注意不要r18的 要用nsfw检查一下至少
 
 ## 三次元涩图api
+
