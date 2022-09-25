@@ -2,10 +2,11 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T23:43:20+08:00
-modified: 2022-09-26T02:14:30+08:00
+modified: 2022-09-26T02:15:47+08:00
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
+
 [infocon](https://infocon.org) for software, code, wordlists
 
 # information gathering
