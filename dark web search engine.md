@@ -1,6 +1,6 @@
 ---
 created: 2022-09-25T00:45:35+08:00
-modified: 2022-09-25T00:53:12+08:00
+modified: 2022-09-26T01:27:39+08:00
 ---
 
 # dark web search engine
@@ -13,7 +13,7 @@ modified: 2022-09-25T00:53:12+08:00
 
 [parazite](http://kpynyvym6xqi7wz2.onion/)
 
-[torch](http://xmh57jrzrnw6insl.onion/)
+[torch](http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/)
 
 [not evil](http://hss3uro2hsxfogfq.onion/)
 
