@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-09-25T02:34:55.517Z'
+modified: '2022-09-25T02:35:03.140Z'
 ---
 
 # information gathering
@@ -65,7 +65,7 @@ https://github.com/sundowndev/hacker-roadmap
 [all in one hacking tool](https://github.com/Z4nzu/hackingtool) for kali linux
 https://github.com/edoardottt/awesome-hacker-search-engines
 [hacker pro](https://github.com/jaykali/hackerpro) hacktool for termux and linux, maybe macos?
-[sql/xxs scanner, dos, bruteforce ftp](https://github.com/b3-v3r/Hunner)
+[sql/xxs scanner, dos, bruteforce ftp/ssh/mail accounts](https://github.com/b3-v3r/Hunner)
 https://github.com/hacktoolspack/hack-tools
 https://github.com/hahwul/WebHackersWeapons
 https://github.com/jekil/awesome-hacking
