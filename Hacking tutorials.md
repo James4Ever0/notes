@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-09-25T02:31:49.830Z'
+modified: '2022-09-25T02:32:21.140Z'
 ---
 
 # information gathering
@@ -62,9 +62,9 @@ https://github.com/zardus/ctf-tools
 some other tools
 https://github.com/jopohl/urh
 https://github.com/sundowndev/hacker-roadmap
-https://github.com/Z4nzu/hackingtool
+[all in one hacking tool](https://github.com/Z4nzu/hackingtool) for kali linux
 https://github.com/edoardottt/awesome-hacker-search-engines
-[hacker pro](https://github.com/jaykali/hackerpro) hacktool for termux 
+[hacker pro](https://github.com/jaykali/hackerpro) hacktool for termux and linux, maybe macos?
 https://github.com/b3-v3r/Hunner
 https://github.com/hacktoolspack/hack-tools
 https://github.com/hahwul/WebHackersWeapons
