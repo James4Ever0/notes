@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T15:39:47.127Z'
+modified: '2022-09-26T15:40:42.733Z'
 ---
 
 # commandline search engine bridger
@@ -13,9 +13,10 @@ modified: '2022-09-26T15:39:47.127Z'
 rich
 
 
+
 ### ai assisted search engine libraries
 
-[jina-ai]() and docarray
+[jina-ai](https://github.com/jina-ai/jina) and docarray
 
 [txtai](https://github.com/neuml/txtai)
 
