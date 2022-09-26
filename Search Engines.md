@@ -1,11 +1,14 @@
 ---
 tags: [diy, search engine, self-hosted]
 title: Search Engines
-created: 2022-06-08T21:57:58+08:00
-modified: 2022-09-25T01:24:08+08:00
+created: '2022-06-08T13:57:58.000Z'
+modified: '2022-09-26T15:30:21.321Z'
 ---
 
 # Search Engines DIY
+
+search engine optimization
+[advertools](https://advertools.readthedocs.io/en/master/readme.html)
 
 [zinc search](https://github.com/zinclabs/zinc)
 
