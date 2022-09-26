@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T16:16:00.258Z'
+modified: '2022-09-26T16:16:12.985Z'
 ---
 
 # commandline search engine bridger
@@ -22,7 +22,7 @@ modified: '2022-09-26T16:16:00.258Z'
 
 [txtai](https://github.com/neuml/txtai)
 
-[typesense]()
+[typesense](https://github.com/typesense/typesense)
 
 [zinc](https://github.com/zinclabs/zinc) search
 
