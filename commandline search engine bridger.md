@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T16:13:25.552Z'
+modified: '2022-09-26T16:14:10.564Z'
 ---
 
 # commandline search engine bridger
@@ -14,7 +14,7 @@ modified: '2022-09-26T16:13:25.552Z'
 
 [urwid](https://github.com/urwid/urwid)
 
-[]
+[plie](https://plie.readthedocs.io/en/master/renderer.html)
 
 ### ai assisted search engine libraries
 
