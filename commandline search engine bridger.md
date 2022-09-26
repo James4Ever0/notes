@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T15:34:14.687Z'
+modified: '2022-09-26T15:35:14.236Z'
 ---
 
 # commandline search engine bridger
@@ -15,11 +15,15 @@ rich
 
 ### ai assisted search engine libraries
 
+[jina-ai]() and docarray
+
+[]()
+
 ### traditional search engine libraries
 
-[whoosh](https://pypi.org/project/Whoosh/)
+[whoosh](https://pypi.org/project/Whoosh/) with bm25 support
 
-[python-searchengine](https://github.com/bartdegoede/python-searchengine)
+[python-searchengine](https://github.com/bartdegoede/python-searchengine) and [the tutorial](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 
 ## online
 [surfraw](https://github.com/kisom/surfraw), or just [s](https://github.com/zquestz/s), is for some common parameter prefixes for searching on common websites. will open GUI browser or cli browser if configured with one.
