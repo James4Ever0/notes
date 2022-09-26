@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T16:14:10.564Z'
+modified: '2022-09-26T16:16:00.258Z'
 ---
 
 # commandline search engine bridger
@@ -24,7 +24,7 @@ modified: '2022-09-26T16:14:10.564Z'
 
 [typesense]()
 
-[zinc]() search
+[zinc](https://github.com/zinclabs/zinc) search
 
 [fuzzy search](https://pypi.org/project/fuzzy-search/)
 
