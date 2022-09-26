@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T23:43:20+08:00
-modified: 2022-09-26T02:15:47+08:00
+modified: 2022-09-26T21:52:53+08:00
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
@@ -12,6 +12,7 @@ modified: 2022-09-26T02:15:47+08:00
 # information gathering
 
 [uncover](https://github.com/projectdiscovery/uncover) quickly discover hosts using multiple search engines
+
 [dirsearch](https://github.com/maurosoria/dirsearch) scan web paths
 ```bash
 pip3 install dirsearch
@@ -64,12 +65,21 @@ https://github.com/p4-team/ctf
 https://github.com/zardus/ctf-tools
 
 some other tools and resources
+
 https://github.com/jopohl/urh
+
 https://github.com/sundowndev/hacker-roadmap
+
 [all in one hacking tool](https://github.com/Z4nzu/hackingtool) for kali linux
+
 https://github.com/edoardottt/awesome-hacker-search-engines
+
 [hacker pro](https://github.com/jaykali/hackerpro) hacktool for termux and linux, maybe macos?
+
 [sql/xxs scanner, dos, bruteforce ftp/ssh/mail accounts](https://github.com/b3-v3r/Hunner)
+
 https://github.com/hacktoolspack/hack-tools
+
 https://github.com/hahwul/WebHackersWeapons
+
 https://github.com/jekil/awesome-hacking
