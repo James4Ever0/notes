@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T15:49:05.243Z'
+modified: '2022-09-26T15:56:27.130Z'
 ---
 
 # commandline search engine bridger
@@ -23,6 +23,8 @@ modified: '2022-09-26T15:49:05.243Z'
 [typesense]()
 
 [zinc]() search
+
+[fuzzy search](https://pypi.org/project/fuzzy-search/)
 
 ### traditional search engine libraries
 
