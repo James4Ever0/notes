@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T16:11:36.945Z'
+modified: '2022-09-26T16:13:25.552Z'
 ---
 
 # commandline search engine bridger
@@ -12,7 +12,9 @@ modified: '2022-09-26T16:11:36.945Z'
 
 [rich](https://pypi.org/project/rich/) and [tutorial](https://python.plainenglish.io/build-your-own-search-engine-in-python-part-1-2-the-engine-3b060e49eb84)
 
-[]()
+[urwid](https://github.com/urwid/urwid)
+
+[]
 
 ### ai assisted search engine libraries
 
