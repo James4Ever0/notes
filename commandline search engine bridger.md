@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.681Z'
-modified: '2022-09-26T15:07:17.562Z'
+modified: '2022-09-26T15:09:48.857Z'
 ---
 
 # commandline search engine bridger
@@ -9,4 +9,137 @@ modified: '2022-09-26T15:07:17.562Z'
 ## online
 [surfraw](https://github.com/kisom/surfraw), or just [s](https://github.com/zquestz/s), is for some common parameter prefixes for searching on common websites. will open GUI browser or cli browser if configured with one.
 
+surfraw supported:
+
+```
+W               -- Activate Surfraw defined web-browser
+acronym         -- Look for acronyms definitions (www.acronymfinder.com)
+ads             -- Search SAO/NASA Astrophysics Data System
+alioth          -- Search Alioth (alioth.debian.org)
+amazon          -- Search the amazon.com bookstore
+archpkg         -- Search Arch Linux Packages (www.archlinux.org/packages/)
+archwiki        -- Search the Arch Linux Wiki
+arxiv           -- Search arXiv E-Print Archive for articles
+ask             -- Question the web using Ask Jeeves (www.ask.com)
+aur             -- Search aur.archlinux.org for PKGBUILDs
+austlii         -- Search Australian Law docs (www.austlii.edu.au)
+bbcnews         -- Search BBC News (news.bbc.co.uk)
+bing            -- Search the web using Microsoft's Bing (www.bing.com)
+bookfinder      -- Search for books using www.bookfinder.com
+bugmenot        -- Bypass compulsory web registration with bugmenot.com
+bugzilla        -- Search for bugs on Bugzilla bugtrackers
+cablesearch     -- search for leaked diplomatic communications
+cia             -- Search CIA documents at www.cia.gov
+cisco           -- Search Cisco documentation (www.cisco.com)
+cite            -- Search computer science papers (citeseerx.ist.psu.edu)
+cliki           -- Search the common lisp wiki
+cnn             -- Search on CNN (cnn.com)
+comlaw          -- Search Australian Law using Comlaw (www.comlaw.gov.au)
+commandlinefu   -- Search on www.commandlinefu.com
+ctan            -- Search the Comprehensive TeX Archive Network (ctan.org)
+currency        -- Convert currencies with the Universal Currency Converter (www.xe.net/ucc)
+cve             -- Search for CAN assignments in CVE
+debbugs         -- Search the debian BTS (bugs.debian.org)
+debcodesearch   -- Search debian source code
+debcontents     -- Search contents of debian/ubuntu packages (packages.debian.org/packages.ubuntu.com)
+deblists        -- Search debian mailing lists (lists.debian.org/search.html)
+deblogs         -- Show changelogs for a package in Debian main (changelogs.debian.net)
+debpackages     -- Search debian/ubuntu packages (packages.debian.org/packages.ubuntu.com)
+debpkghome      -- Visit the home page for a Debian package
+debpts          -- Search the Debian Package Tracking System (packages.qa.debian.org)
+debsec          -- Search the Debian Security Tracker for CVE ids or package names
+debvcsbrowse    -- Browse the VCS repository for a Debian package
+debwiki         -- Search the Debian Wikis (wiki.debian.org & women.debian.org/wiki)
+deja            -- Search usenet using Google Groups (groups.google.com)
+deli            -- Search Delicious bookmarks
+discogs         -- Search the Discogs database of music information (www.discogs.com)
+dmoz            -- Search the Open Directory Project web directory (dmoz.org)
+duckduckgo      -- Securely search the web using duckduckgo (www.duckduckgo.com)
+ebay            -- Search the Ebay auction site
+etym            -- Look up word origins at www.etymonline.com
+excite          -- Search on Excite (www.excite.com)
+f5              -- Search F5 related information (www.f5.com)
+finkpkg         -- Search Fink packages (pdb.finkproject.org)
+foldoc          -- The Free On-Line Dictionary Of Computing (foldoc.org)
+freebsd         -- Search FreeBSD related information (www.freebsd.org)
+freedb          -- Search for cd track listings in FreeDB (www.freedb.org)
+freshmeat       -- Search Freshmeat (www.freshmeat.net)
+fsfdir          -- Search the FSF/UNESCO Free Software Directory (directory.fsf.org)
+gcache          -- Search the web using Google cache (www.google.com)
+genbugs         -- Search the Gentoo bug tracker (bugs.gentoo.org)
+genportage      -- Search gentoo-portage.com for packages
+github          -- Search GitHub (https://github.com)
+gmane           -- Search mailing list with gmane (gmane.org)
+google          -- Search the web using Google (www.google.com)
+gutenberg       -- Search for books on Project Gutenberg (gutenberg.org)
+imdb            -- Search the Internet Movie Database (www.imdb.com)
+ixquick         -- Search the web using ixquick [HTTPS] (www.ixquick.com)
+jamendo         -- Search Jamendo: free music with Creative Commons licenses (www.jamendo.com)
+javasun         -- Search Java API docs (java.sun.com)
+jquery          -- Search the jQuery documentation (api.jquery.com)
+l1sp            -- Search lisp documentation
+lastfm          -- Search last.fm
+leodict         -- Search Leo's German <-> English dictionary (dict.leo.org)
+lsm             -- Search the Linux Software Map
+macports        -- Search macports packages (macports.org)
+mathworld       -- Search Wolfram MathWorld
+mdn             -- Search the mozilla developer network (developer.mozilla.org)
+mininova        -- Search the mininova bittorent source.
+musicbrainz     -- Search MusicBrainz (musicbrainz.org)
+mysqldoc        -- Search mysql documentation (dev.mysql.com)
+netbsd          -- Search NetBSD related information (www.netbsd.org)
+nlab            -- Search the nLab wiki (http://ncatlab.org)
+ntrs            -- Search the NASA Technical Report Server
+openbsd         -- Search OpenBSD related information (www.openbsd.org)
+openports       -- search openports for OpenBSD packages
+opensearch      -- Search an OpenSearch-enabled website
+oraclesearch    -- Search an OpenSearch-enabled website
+pasearch        -- Search the unofficial Penny Arcade archives (pipefour.org/pa)
+pgdoc           -- Search postgres documentation (www.pgdoc.com)
+pgpkeys         -- Search the PGP key database
+phpdoc          -- Search php documentation (php.net)
+pin             -- Search Pinboard bookmarks (http://pinboard.in)
+piratebay       -- Search The Pirate Bay (http://thepiratebay.org)
+priberam        -- Look up word in Priberam online dictionary (www.priberam.pt/dlpo)
+pubmed          -- Search medical/molbio databases (www.ncbi.nlm.nih.gov)
+rae             -- Busca en el diccionario de la Real Academia de la Lengua Española (Spanish Dictionary)
+rfc             -- Search RFCs (internet standards documents)
+rhyme           -- Search for rhymes et al using Lycos Rhyme (rhyme.lycos.com)
+rpmsearch       -- Search for RPMs in various distros
+scholar         -- Search Google Scholar (scholar.google.com)
+scicom          -- Search Scientific Commons
+scirus          -- Search for science using Scirus (scirus.com)
+scpan           -- Search the Comprehensive Perl Archive Network (search.cpan.org)
+searx           -- Search using searx metasearch engine instances (searx.me)
+slashdot        -- Search stories on Slashdot (www.slashdot.org)
+slinuxdoc       -- Search entries in LDP (www.linuxdoc.org)
+sourceforge     -- Search SourceForge (www.sourceforge.net)
+springer        -- Search Springer for Books and Articles
+stack           -- Search Stack Overflow
+stockquote      -- Get a single stock quote (multiple providers)
+thesaurus       -- Look up word in Merriam-Webster's Thesaurus (www.m-w.com)
+translate       -- Translate human languages
+urban           -- Search urbandictionary.com for a definition
+w3css           -- Validate a CSS URL with the w3c CSS validator (jigsaw.w3.org/css-validator)
+w3html          -- Validate a web page URL with the w3c validator (validator.w3.org)
+w3link          -- Check web page links with the w3c linkchecker (validator.w3.org/checklink)
+w3rdf           -- Validate a RDF URL with the w3c RDF validator (validator.w3.org)
+wayback         -- Search The Internet Archive's Wayback Machine for a URL (archive.org)
+webster         -- Look up word in Merriam-Webster's Dictionary (www.m-w.com)
+wetandwild      -- Real time weather information (many sources)
+wikipedia       -- Search the free encyclopedia wikipedia
+woffle          -- Search the web using Woffle (localhost:8080)
+wolfram         -- Ask questions of the computational knowledge engine
+worldwidescience -- Search for science with www.worldwidescience.org
+yacy            -- Search YaCy P2P search, including ScienceNet
+yahoo           -- Search Yahoo categories (www.yahoo.com)
+yandex          -- Search the web using Yandex (yandex.ru)
+youtube         -- Search YouTube (www.youtube.com)
+yubnub          -- Use the social command-line for the web (yubnub.org)
+```
+
+S supported:
+```
+
+```
 ## offline
