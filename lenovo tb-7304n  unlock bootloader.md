@@ -1,10 +1,11 @@
 ---
 title: lenovo tb-7304n  unlock bootloader
-created: '2022-09-27T08:09:16.000Z'
-modified: '2022-09-27T09:22:39.112Z'
+created: 2022-09-27T16:09:16+08:00
+modified: 2022-09-27T17:50:40+08:00
 ---
 
 # lenovo tb-7304n  unlock bootloader
+屏幕大小：7寸 相当于小米max的大小
 
 we need to send the info and demostrate our purpose to hucy4@lenovo.com
 
