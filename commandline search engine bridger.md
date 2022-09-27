@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: 2022-09-26T23:04:21+08:00
-modified: 2022-09-27T10:11:39+08:00
+modified: 2022-09-27T10:20:10+08:00
 ---
 
 # commandline search engine bridger
@@ -32,7 +32,7 @@ modified: 2022-09-27T10:11:39+08:00
 
 ### traditional search engine libraries
 
-[jq]() and [pyjq]() as json search engine
+[jq]() and [pyjq](https://pypi.org/project/pyjq/) as json search engine, [jqterm](https://jqterm.com/?query=.) as jq repl
 
 [a curated search engine list](https://medevel.com/os-fulltext-search-solutions/)
 
