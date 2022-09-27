@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: 2022-09-26T23:04:21+08:00
-modified: 2022-09-27T10:08:41+08:00
+modified: 2022-09-27T10:10:02+08:00
 ---
 
 # commandline search engine bridger
@@ -31,6 +31,8 @@ modified: 2022-09-27T10:08:41+08:00
 [fuzzy](https://pypi.org/project/Fuzzy/) phonic toolkit
 
 ### traditional search engine libraries
+
+[jq]() [pyjq]() as search engine
 
 [a curated search engine list](https://medevel.com/os-fulltext-search-solutions/)
 
