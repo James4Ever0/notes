@@ -1,6 +1,7 @@
 ---
-created: 2022-09-27T16:09:16+08:00
-modified: 2022-09-27T16:09:56+08:00
+title: lenovo tb-7304n  unlock bootloader
+created: '2022-09-27T08:09:16.000Z'
+modified: '2022-09-27T09:14:42.711Z'
 ---
 
 # lenovo tb-7304n  unlock bootloader
@@ -12,4 +13,5 @@ serial:
 HGCFWF7D
 
 website:
-https://m.zui.com/iunlock
+[mobile](https://m.zui.com/iunlock)
+[pc](https://www.zui.com/iunlock)
