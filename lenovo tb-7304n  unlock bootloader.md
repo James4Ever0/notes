@@ -1,10 +1,13 @@
 ---
 title: lenovo tb-7304n  unlock bootloader
-created: 2022-09-27T16:09:16+08:00
-modified: 2022-09-27T17:50:40+08:00
+created: '2022-09-27T08:09:16.000Z'
+modified: '2022-09-28T10:43:42.017Z'
 ---
 
 # lenovo tb-7304n  unlock bootloader
+
+for [mtkclient](https://github.com/bkerler/mtkclient) which bricked our device, we are tracking [this issue](https://github.com/bkerler/mtkclient/issues/494)
+
 屏幕大小：7寸 相当于小米max的大小
 
 we need to send the info and demostrate our purpose to hucy4@lenovo.com
