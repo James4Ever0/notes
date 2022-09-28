@@ -1,10 +1,12 @@
 ---
 title: lenovo tb-7304n  unlock bootloader
-created: '2022-09-27T08:09:16.000Z'
-modified: '2022-09-28T10:43:42.017Z'
+created: 2022-09-27T16:09:16+08:00
+modified: 2022-09-28T19:45:29+08:00
 ---
 
 # lenovo tb-7304n  unlock bootloader
+
+there used to be [mtk easy su](https://github.com/JunioJsv/mtk-easy-su) to get temporary sudo permission and magisk but that will not work for substratum since no modification to /system can be done.
 
 for [mtkclient](https://github.com/bkerler/mtkclient) which bricked our device, we are tracking [this issue](https://github.com/bkerler/mtkclient/issues/494)
 
