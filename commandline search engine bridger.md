@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: 2022-09-26T23:04:21+08:00
-modified: 2022-09-29T18:59:56+08:00
+modified: 2022-09-29T23:57:56+08:00
 ---
 
 # commandline search engine bridger
