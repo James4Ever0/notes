@@ -1,14 +1,14 @@
 ---
 title: commandline search engine bridger
 created: 2022-09-26T23:04:21+08:00
-modified: 2022-09-29T23:57:56+08:00
+modified: 2022-09-29T23:58:03+08:00
 ---
 
 # commandline search engine bridger
 
 ## problems
 
--- [ ] enable copy/pasting/selection in console
+- [ ] enable copy/pasting/selection in console
 
 - [ ] make reversible/auto-cleanup feature when copy and pasting
 
