@@ -1,14 +1,14 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-09-29T15:57:11.502Z'
+modified: '2022-09-29T15:57:14.211Z'
 ---
 
 # commandline search engine bridger
 
 ## problems
 
-- [x] enable copy/pasting/selection in console
+- [ ] enable copy/pasting/selection in console
 
 - [ ] make reversible/auto-cleanup feature when copy and pasting
 
