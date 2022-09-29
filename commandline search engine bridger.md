@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
-created: 2022-09-26T23:04:21+08:00
-modified: 2022-09-29T23:58:03+08:00
+created: '2022-09-26T15:04:21.000Z'
+modified: '2022-09-29T15:58:12.736Z'
 ---
 
 # commandline search engine bridger
@@ -16,7 +16,7 @@ modified: 2022-09-29T23:58:03+08:00
 
 - [ ] memory efficient embedding querying/storage via sql or binary format
 
-- [ ] make "complete" excerpt by looking ahead and backward to find the closest sentence start/stop and/or use gpt completion method instead? still need punctual or sentence start/stop index identification.
+- [x] make "complete" excerpt by looking ahead and backward to find the closest sentence start/stop and/or use gpt completion method instead? still need punctual or sentence start/stop index identification.
 
 ## offline
 
