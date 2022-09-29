@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-09-29T15:58:43.365Z'
+modified: '2022-09-29T15:58:45.952Z'
 ---
 
 # commandline search engine bridger
