@@ -1,10 +1,22 @@
 ---
 title: commandline search engine bridger
-created: '2022-09-26T15:04:21.000Z'
-modified: '2022-09-28T03:52:24.305Z'
+created: 2022-09-26T23:04:21+08:00
+modified: 2022-09-29T18:51:05+08:00
 ---
 
 # commandline search engine bridger
+
+## problems
+
+- [ ] enable copy/pasting/selection in console
+
+- [ ] make reversible/auto-cleanup feature when copy and pasting
+
+- [ ] reverse stemming and keywords highlighting
+
+- [ ] memory efficient embedding querying/storage via sql or binary format
+
+- [ ] make "complete" excerpt by looking ahead and backward to find the closest sentence start/stop and/or use gpt completion method instead? still need punctual or sentence start/stop index identification.
 
 ## offline
 
