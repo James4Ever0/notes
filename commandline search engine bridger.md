@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-09-29T15:59:08.436Z'
+modified: '2022-09-29T15:59:11.083Z'
 ---
 
 # commandline search engine bridger
@@ -12,7 +12,7 @@ modified: '2022-09-29T15:59:08.436Z'
 
 - [ ] make reversible/auto-cleanup feature when copy and pasting
 
-- [ ] reverse stemming and keywords highlighting
+- [x] reverse stemming and keywords highlighting
 
 - [ ] memory efficient embedding querying/storage via sql or binary format
 
