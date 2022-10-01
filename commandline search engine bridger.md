@@ -1,12 +1,12 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-01T07:32:39.214Z'
+modified: '2022-10-01T07:33:06.664Z'
 ---
 
 # commandline search engine bridger
 
-# sentence embeddings
+## sentence embeddings
 
 [top 4 sentence embedding techniques using python](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
 
@@ -15,6 +15,8 @@ modified: '2022-10-01T07:32:39.214Z'
 tutorial: [sentence vector word2vec](https://www.baeldung.com/cs/sentence-vectors-word2vec)
 
 [sentence2vec based on word2vec](https://github.com/stanleyfok/sentence2vec)
+
+## 
 
 ## problems
 
