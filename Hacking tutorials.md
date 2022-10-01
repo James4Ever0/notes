@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-10-01T07:46:30.878Z'
+modified: '2022-10-01T07:47:12.365Z'
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
@@ -16,6 +16,8 @@ modified: '2022-10-01T07:46:30.878Z'
 [top 5 recon/intelligence/information gathering tools](https://resources.infosecinstitute.com/topic/top-five-open-source-intelligence-osint-tools/)
 
 [search engine hacking, manual and automation](https://resources.infosecinstitute.com/topic/search-engine-hacking-manual-and-automation/)
+
+[best hacker search engines](https://dekisoft.com/best-hacker-search-engines-to-use/)
 
 ## scripting
 
