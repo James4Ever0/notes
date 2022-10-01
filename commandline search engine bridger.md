@@ -1,14 +1,14 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-01T07:32:10.285Z'
+modified: '2022-10-01T07:32:39.214Z'
 ---
 
 # commandline search engine bridger
 
 # sentence embeddings
 
-[top 4](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
+[top 4 sentence embedding techniques using python](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
 
 [sentence to vector](https://github.com/prabha88978/Sentence-To-Vector)
 
