@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-01T07:39:25.493Z'
+modified: '2022-10-01T07:39:40.115Z'
 ---
 
 # commandline search engine bridger
@@ -22,7 +22,7 @@ facebook [faiss](https://github.com/facebookresearch/faiss/watchers)
 
 [hnswlib](https://github.com/nmslib/hnswlib) Header-only C++/python library for fast approximate nearest neighbors
 
-
+spotify [annoy](https://github.com/spotify/annoy) 
 
 ## problems
 
