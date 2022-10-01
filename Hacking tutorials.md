@@ -1,19 +1,23 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: Hacking tutorials, tools
-created: 2022-07-11T23:43:20+08:00
-modified: 2022-09-26T22:20:09+08:00
+title: 'Hacking tutorials, tools'
+created: '2022-07-11T15:43:20.000Z'
+modified: '2022-10-01T07:41:42.064Z'
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
 
 [infocon](https://infocon.org) for software, code, wordlists
 
-# scripting
+## search engines
+
+[search engine collection]()
+
+## scripting
 
 [writing nmap scripts](https://www.cnblogs.com/bhlsheji/p/5175516.html)
 
-# information gathering
+## information gathering
 
 [uncover](https://github.com/projectdiscovery/uncover) quickly discover hosts using multiple search engines
 
@@ -22,12 +26,12 @@ modified: 2022-09-26T22:20:09+08:00
 pip3 install dirsearch
 ```
 
-# virus, botnet
+## virus, botnet
 
 [botnet with super escalation system for linux and windows, automatically spread the virus out](https://github.com/ThrillQuks/Pitraix)
 [webshell 免杀](https://zu1k.com/posts/security/web-security/hide-your-webshell/)
 
-# Hacking tutorials
+## Hacking tutorials
 
 maybe you should follow kali/parrot/blackarch tutorials first?
 
