@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-01T07:36:59.238Z'
+modified: '2022-10-01T07:37:04.762Z'
 ---
 
 # commandline search engine bridger
@@ -32,7 +32,7 @@ facebook [faiss](https://github.com/facebookresearch/faiss/watchers)
 
 - [ ] memory efficient embedding querying/storage via sql or binary format
 
-[]
+[] to sqlite
 
 - [ ] make "complete" excerpt by looking ahead and backward to find the closest sentence start/stop and/or use gpt completion method instead? still need punctual or sentence start/stop index identification.
 
