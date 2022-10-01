@@ -1,7 +1,7 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
-created: '2022-09-17T11:14:19.165Z'
-modified: '2022-09-17T11:59:15.412Z'
+created: 2022-09-17T19:14:19+08:00
+modified: 2022-10-02T01:35:41+08:00
 ---
 
 # AGI (Artificial General Intelligence) related projects
@@ -17,6 +17,8 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 [PaLM](https://github.com/lucidrains/PaLM-pytorch) scaling language model with pathways
 
 ### side projects
+
+[make a video](https://github.com/lucidrains/make-a-video-pytorch) text to video generation
 
 [nuwa](https://github.com/lucidrains/nuwa-pytorch) text to video generation
 
@@ -47,4 +49,3 @@ this one got lots of state-of-the-art implementations for close-sourced papers a
 [awesome agicocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) exhausitive list of papers and repos for cognitive science and AGI
 
 [introduction and links on AGI](https://github.com/guardians-of-life/awesome-artificial-general-intelligence)
-
