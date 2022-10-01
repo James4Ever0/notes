@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-01T07:37:33.366Z'
+modified: '2022-10-01T07:39:02.358Z'
 ---
 
 # commandline search engine bridger
@@ -20,7 +20,7 @@ tutorial: [sentence vector word2vec](https://www.baeldung.com/cs/sentence-vector
 
 facebook [faiss](https://github.com/facebookresearch/faiss/watchers)
 
-
+Header-only C++/python library for fast approximate nearest neighbors
 
 ## problems
 
