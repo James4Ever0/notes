@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-01T07:33:06.664Z'
+modified: '2022-10-01T07:33:41.428Z'
 ---
 
 # commandline search engine bridger
@@ -16,7 +16,9 @@ tutorial: [sentence vector word2vec](https://www.baeldung.com/cs/sentence-vector
 
 [sentence2vec based on word2vec](https://github.com/stanleyfok/sentence2vec)
 
-## 
+## similarity search and clustering
+
+facebook [faiss]()
 
 ## problems
 
