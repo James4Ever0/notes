@@ -1,10 +1,15 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-09-29T15:59:11.083Z'
+modified: '2022-10-01T07:30:51.158Z'
 ---
 
 # commandline search engine bridger
+
+# sentence embeddings
+
+[sentence to vector](https://github.com/prabha88978/Sentence-To-Vector)
+
 
 ## problems
 
