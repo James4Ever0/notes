@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-10-01T07:48:53.978Z'
+modified: '2022-10-01T07:50:52.299Z'
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
@@ -10,6 +10,8 @@ modified: '2022-10-01T07:48:53.978Z'
 [infocon](https://infocon.org) for software, code, wordlists
 
 ## search engines
+
+[youcode](https://you.com/code) search engine for coders, enter coding question to get result
 
 self-hosted recon intelligence tool: [osint](https://github.com/lockfale/osint-framework)
 
