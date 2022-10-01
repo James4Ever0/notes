@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-10-01T07:47:12.365Z'
+modified: '2022-10-01T07:47:48.218Z'
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
@@ -10,6 +10,8 @@ modified: '2022-10-01T07:47:12.365Z'
 [infocon](https://infocon.org) for software, code, wordlists
 
 ## search engines
+
+[publicwww: search for html/css/js source code in website](https://publicwww.com/)
 
 [search engine collection](https://hackernoon.com/searchpedia-a-list-of-250-search-engines-40198146adfc)
 
