@@ -1,14 +1,14 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-02T10:06:53.143Z'
+modified: '2022-10-02T10:07:06.284Z'
 ---
 
 # commandline search engine bridger
 
 ## sentence embeddings
 
-difference between 'symmetric' and 'asymmetric' retrieval questions from sbert.org:
+difference between 'symmetric' and 'asymmetric' retrieval questions from sbert.net:
 
 symmetric means similar, asymmetric usually means question to answer.
 
