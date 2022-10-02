@@ -2,10 +2,18 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: 2022-05-29T00:14:51+08:00
-modified: 2022-09-10T14:47:42+08:00
+modified: 2022-10-02T17:50:37+08:00
 ---
 
 # 变声软件 Morphvox alternatives
+
+猫雷唱歌
+在线使用demo（45秒限制）：https://huggingface.co/spaces/innnky/nyaru-svc2.0
+模型github链接：https://github.com/innnky/so-vits-svc
+自己训练数据集、离线使用、一键训练、一键合成：https://github.com/IceKyrin/sovits_guide
+本模型训练使用数据集：猫雷歌回1小时+杂谈回6小时；opencpop5小时 虚拟歌手云灏 半小时
+
+[moegoe](https://github.com/CjangCjengh/MoeGoe)
 
 多种语言混合tts
 [multilingual tts dl models](https://github.com/coqui-ai/TTS)
