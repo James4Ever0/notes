@@ -1,10 +1,14 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-02T10:07:06.284Z'
+modified: '2022-10-02T19:27:18.125Z'
 ---
 
 # commandline search engine bridger
+
+## reason to develop this:
+
+you are short of brain power.
 
 ## sentence embeddings
 
