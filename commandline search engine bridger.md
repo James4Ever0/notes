@@ -1,12 +1,16 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-01T07:39:46.243Z'
+modified: '2022-10-02T10:06:53.143Z'
 ---
 
 # commandline search engine bridger
 
 ## sentence embeddings
+
+difference between 'symmetric' and 'asymmetric' retrieval questions from sbert.org:
+
+symmetric means similar, asymmetric usually means question to answer.
 
 [top 4 sentence embedding techniques using python](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
 
