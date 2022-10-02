@@ -1,7 +1,7 @@
 ---
 title: scan this picture and index the whole video/document/ppt/textbook!
-created: '2022-08-24T16:02:15.000Z'
-modified: '2022-08-26T07:02:36.448Z'
+created: 2022-08-25T00:02:15+08:00
+modified: 2022-10-03T03:05:08+08:00
 ---
 
 # scan this picture and index the whole video/document/ppt/textbook!
@@ -52,6 +52,8 @@ character level optical char segmentation called [chargrid ocr](https://github.c
 [math expression detection](https://github.com/divya1211/math-expression-detection)
 
 ### next find the tool for picture to latex conversion
+
+新开源的Python工具——Pix2Text (P2T)，目标是 Mathpix 的Python开源替代品，现在可以识别截图中的数学公式并转换为Latex表示，也可以识别图片中的中英文文字。在线Demo： https://huggingface.co/spaces/breezedeus/pix2text 。 Github: https://github.com/breezedeus/pix2text ，Gitee: https://gitee.com/breezedeus/pix2text 。
 
 [attention based math ocr](https://github.com/DexterLei/Math-OCR)
 
