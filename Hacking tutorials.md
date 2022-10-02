@@ -1,13 +1,20 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: 'Hacking tutorials, tools'
-created: '2022-07-11T15:43:20.000Z'
-modified: '2022-10-01T07:51:15.121Z'
+title: Hacking tutorials, tools
+created: 2022-07-11T23:43:20+08:00
+modified: 2022-10-03T03:06:42+08:00
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
 
 [infocon](https://infocon.org) for software, code, wordlists
+
+几个觉得还不错的靶场
+封神台：https://hack.zkaq.cn/index
+Hack The Box ：https://www.hackthebox.com/
+邀请码获取方法：https://www.mad-coding.cn/2019/11/11/hackthebox%E5%88%9D%E6%8E%A2%E4%B9%8B%E8%8E%B7%E5%8F%96%E9%82%80%E8%AF%B7%E7%A0%81/#0x00-%E5%89%8D%E8%A8%80
+Vulhub：https://www.vulnhub.com/
+Pikachu：https://github.com/zhuifengshaonianhanlu/pikachu
 
 ## search engines
 
