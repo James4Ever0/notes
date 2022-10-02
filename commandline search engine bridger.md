@@ -1,14 +1,16 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-02T19:27:18.125Z'
+modified: '2022-10-02T19:28:46.573Z'
 ---
 
 # commandline search engine bridger
 
-## reason to develop this:
+## reason to develop this
 
 you are short of brain power.
+
+many platforms now have recommendation engines, but they do not have powerful semantic search tools. what a pity. maybe i am interested in some 'unseen' stuff, but i want to get the thing that i currently need! fail to do so will limit my productivity.
 
 ## sentence embeddings
 
