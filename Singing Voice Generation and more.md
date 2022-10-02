@@ -1,11 +1,14 @@
 ---
 tags: [lyric generation, music generation, singing, voice changer]
 title: Singing Voice Generation and more
-created: '2022-05-05T02:28:59.000Z'
-modified: '2022-08-18T16:25:37.169Z'
+created: 2022-05-05T10:28:59+08:00
+modified: 2022-10-03T03:05:52+08:00
 ---
 
 # Singing Voice Generation and more
+
+论文地址：https://arxiv.org/abs/2110.08813
+我的fork仓库：https://github.com/innnky/VISinger
 
 scoredraft in python:
 
