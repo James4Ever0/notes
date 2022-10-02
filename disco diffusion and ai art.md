@@ -2,10 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: 2022-08-08T20:52:28+08:00
-modified: 2022-10-02T18:53:33+08:00
+modified: 2022-10-03T03:04:09+08:00
 ---
 
 # disco diffusion and ai art
+
+https://huggingface.co/hakurei/waifu-diffusion，这个ai是可以本地部署的，电脑配置可以的朋友们试试
 
 imagen
 
