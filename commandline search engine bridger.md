@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
-created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T11:49:10.446Z'
+created: 2022-09-26T23:04:21+08:00
+modified: 2022-10-03T23:16:50+08:00
 ---
 
 # commandline search engine bridger
@@ -91,6 +91,8 @@ txtai store to sqlite: [Build an Embeddings index from a data source](https://gi
 [fuzzy](https://pypi.org/project/Fuzzy/) phonic toolkit
 
 ### traditional search engine libraries
+
+[luceneplusplus](https://github.com/luceneplusplus/LucenePlusPlus) lucene in c++
 
 [pythonql](https://github.com/pythonql/pythonql) as extension of python syntax, able to search data in python data structure.
 
