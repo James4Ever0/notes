@@ -1,14 +1,14 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:06:52.103Z'
+modified: '2022-10-03T10:07:18.848Z'
 ---
 
 # commandline search engine bridger
 
 ## nosql/nosqlite key-value json like document store databases
 
-[lsm-db]()
+[lsm-db](https://lsm-db.readthedocs.io/en/latest/) fast key-value store using sqlite 4
 
 [tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database
 
