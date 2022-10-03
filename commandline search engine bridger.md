@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:19:11.211Z'
+modified: '2022-10-03T10:20:14.244Z'
 ---
 
 # commandline search engine bridger
@@ -13,7 +13,6 @@ modified: '2022-10-03T10:19:11.211Z'
 [lsm-db](https://lsm-db.readthedocs.io/en/latest/) fast key-value store using sqlite 4
 
 [unqlite](https://github.com/coleifer/unqlite-python) Python bindings for the UnQLite embedded NoSQL database
-
 
 [tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database
 
@@ -86,6 +85,8 @@ txtai store to sqlite: [Build an Embeddings index from a data source](https://gi
 [fuzzy](https://pypi.org/project/Fuzzy/) phonic toolkit
 
 ### traditional search engine libraries
+
+[pythonql](https://github.com/pythonql/pythonql) as extension of python syntax, able to search data in python data structure.
 
 [jq]() and [pyjq](https://pypi.org/project/pyjq/) as json search engine, [jqterm](https://jqterm.com/?query=.) as jq repl
 
