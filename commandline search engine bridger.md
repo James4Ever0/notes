@@ -1,12 +1,12 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:40:19.879Z'
+modified: '2022-10-03T10:45:57.640Z'
 ---
 
 # commandline search engine bridger
 
-## nosql/nosqlite key-value json like document store databases
+## nosql/nosqlite key-value json like document store databases, sqlite high level wrappers
 
 [this guy](https://github.com/coleifer/) makes database related libraries.
 
@@ -17,6 +17,8 @@ modified: '2022-10-03T10:40:19.879Z'
 [tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database
 
 [litedb](https://github.com/JonathanVusich/litedb) NoSQL Python database written for ease of use/performance.
+
+[pylite](https://github.com/dariubs/pylite) sqlite3 lightweight wrapper
 
 ## reason to develop this
 
