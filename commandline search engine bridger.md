@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:05:10.160Z'
+modified: '2022-10-03T10:06:52.103Z'
 ---
 
 # commandline search engine bridger
@@ -10,7 +10,7 @@ modified: '2022-10-03T10:05:10.160Z'
 
 [lsm-db]()
 
-[]
+[tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database
 
 ## reason to develop this
 
