@@ -1,10 +1,16 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-02T19:29:30.442Z'
+modified: '2022-10-03T10:05:10.160Z'
 ---
 
 # commandline search engine bridger
+
+## nosql/nosqlite key-value json like document store databases
+
+[lsm-db]()
+
+[]
 
 ## reason to develop this
 
