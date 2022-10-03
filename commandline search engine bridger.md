@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:40:12.161Z'
+modified: '2022-10-03T10:40:19.879Z'
 ---
 
 # commandline search engine bridger
@@ -16,7 +16,7 @@ modified: '2022-10-03T10:40:12.161Z'
 
 [tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database
 
-[litedb](https://github.com/JonathanVusich/litedb) 
+[litedb](https://github.com/JonathanVusich/litedb) NoSQL Python database written for ease of use/performance.
 
 ## reason to develop this
 
