@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:20:14.244Z'
+modified: '2022-10-03T10:20:41.749Z'
 ---
 
 # commandline search engine bridger
@@ -88,7 +88,7 @@ txtai store to sqlite: [Build an Embeddings index from a data source](https://gi
 
 [pythonql](https://github.com/pythonql/pythonql) as extension of python syntax, able to search data in python data structure.
 
-[jq]() and [pyjq](https://pypi.org/project/pyjq/) as json search engine, [jqterm](https://jqterm.com/?query=.) as jq repl
+[jq](https://github.com/stedolan/jq) and [pyjq](https://pypi.org/project/pyjq/) as json search engine, [jqterm](https://jqterm.com/?query=.) as jq repl
 
 [a curated search engine list](https://medevel.com/os-fulltext-search-solutions/)
 
