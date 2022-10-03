@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:09:24.086Z'
+modified: '2022-10-03T10:09:37.129Z'
 ---
 
 # commandline search engine bridger
@@ -10,7 +10,9 @@ modified: '2022-10-03T10:09:24.086Z'
 
 [lsm-db](https://lsm-db.readthedocs.io/en/latest/) fast key-value store using sqlite 4
 
-[unqlite](https://github.com/coleifer/unqlite-python) 
+[unqlite](https://github.com/coleifer/unqlite-python) Python bindings for the UnQLite embedded NoSQL database
+
+
 
 [tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database
 
