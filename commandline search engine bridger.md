@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-03T10:45:57.640Z'
+modified: '2022-10-03T11:43:53.916Z'
 ---
 
 # commandline search engine bridger
@@ -14,7 +14,7 @@ modified: '2022-10-03T10:45:57.640Z'
 
 [unqlite](https://github.com/coleifer/unqlite-python) Python bindings for the UnQLite embedded NoSQL database
 
-[tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database
+[tinydb](https://github.com/msiemens/tinydb) json-oriented, mongo alike database, which is a in-memory database
 
 [litedb](https://github.com/JonathanVusich/litedb) NoSQL Python database written for ease of use/performance.
 
