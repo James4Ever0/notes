@@ -1,7 +1,7 @@
 ---
-title: 'mini server, portable server, itx, Mac studio'
-created: '2022-10-03T21:23:30.000Z'
-modified: '2022-10-04T17:55:05.657Z'
+title: mini server, portable server, itx, Mac studio
+created: 2022-10-04T05:23:30+08:00
+modified: 2022-10-05T02:15:00+08:00
 ---
 
 # mini server, portable server, itx, Mac studio
@@ -31,7 +31,13 @@ ASROCK X570D4I-2T
 AsRock Rack E3C246D4I-2T Mini-ITX Server Motherboard Intel LGA 1151 C246, (max ram: 128gb)
 
 ## thermo solutions
+
+gelerally you need to design case, thermo yourself, to make both side covered
+
 ### cpu
+
+corsair h5 sf (hydra)
 
 ### gpu
 
+a100 thermo mod for hydra
