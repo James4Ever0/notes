@@ -1,7 +1,7 @@
 ---
 title: mini server, portable server, itx, Mac studio
 created: 2022-10-04T05:23:30+08:00
-modified: 2022-10-05T02:16:21+08:00
+modified: 2022-10-05T02:17:57+08:00
 ---
 
 # mini server, portable server, itx, Mac studio
@@ -27,7 +27,9 @@ a16 64g (with self-designed thermal solution)
 ## mother boards
 
 Asrock X299e-itx using 4 mini ram slots
+
 ASROCK X570D4I-2T
+
 AsRock Rack E3C246D4I-2T Mini-ITX Server Motherboard Intel LGA 1151 C246, (max ram: 128gb)
 
 ## thermo solutions
