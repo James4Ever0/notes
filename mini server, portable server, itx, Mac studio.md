@@ -1,7 +1,7 @@
 ---
 title: 'mini server, portable server, itx, Mac studio'
 created: '2022-10-03T21:23:30.000Z'
-modified: '2022-10-04T17:48:59.938Z'
+modified: '2022-10-04T17:49:24.450Z'
 ---
 
 # mini server, portable server, itx, Mac studio
@@ -26,7 +26,7 @@ a16 64g (with self-designed thermal solution)
 
 ## mother boards
 
-Asrock X299e-itx
+Asrock X299e-itx using 4 mini ram slots
 
 ## thermo solutions
 
