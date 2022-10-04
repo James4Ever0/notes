@@ -1,7 +1,7 @@
 ---
 title: 'mini server, portable server, itx, Mac studio'
 created: '2022-10-03T21:23:30.000Z'
-modified: '2022-10-04T17:50:40.970Z'
+modified: '2022-10-04T17:52:41.309Z'
 ---
 
 # mini server, portable server, itx, Mac studio
@@ -30,4 +30,5 @@ Asrock X299e-itx using 4 mini ram slots
 ASROCK X570D4I-2T
 
 ## thermo solutions
-
+### cpu
+### gpu
