@@ -1,7 +1,7 @@
 ---
 title: 'mini server, portable server, itx, Mac studio'
 created: '2022-10-03T21:23:30.000Z'
-modified: '2022-10-04T17:54:13.133Z'
+modified: '2022-10-04T17:55:05.657Z'
 ---
 
 # mini server, portable server, itx, Mac studio
@@ -32,4 +32,6 @@ AsRock Rack E3C246D4I-2T Mini-ITX Server Motherboard Intel LGA 1151 C246, (max r
 
 ## thermo solutions
 ### cpu
+
 ### gpu
+
