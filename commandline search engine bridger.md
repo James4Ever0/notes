@@ -1,7 +1,7 @@
 ---
 title: commandline search engine bridger
 created: '2022-09-26T15:04:21.000Z'
-modified: '2022-10-06T10:06:08.646Z'
+modified: '2022-10-06T10:11:49.738Z'
 ---
 
 # commandline search engine bridger
@@ -13,6 +13,7 @@ man -k <keywords>
 apt search <keywords>
 brew search <keywords>
 npm search <keywords>
+searchsploit <keywords>
 ```
 
 
