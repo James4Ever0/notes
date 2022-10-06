@@ -1,10 +1,16 @@
 ---
 title: commandline search engine bridger
-created: 2022-09-26T23:04:21+08:00
-modified: 2022-10-03T23:16:50+08:00
+created: '2022-09-26T15:04:21.000Z'
+modified: '2022-10-06T09:58:13.832Z'
 ---
 
 # commandline search engine bridger
+
+## search commands on commandline
+
+```
+man -k <keywords>
+```
 
 ## nosql/nosqlite key-value json like document store databases, sqlite high level wrappers
 
