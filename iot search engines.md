@@ -1,7 +1,7 @@
 ---
 title: iot search engines
 created: '2022-10-06T10:20:32.035Z'
-modified: '2022-10-06T10:24:08.559Z'
+modified: '2022-10-06T10:24:18.554Z'
 ---
 
 # iot search engines
@@ -15,4 +15,4 @@ censys
 ## self hosted
 ivre
 [xray](https://github.com/evilsocket/xray)
-[infoga](https://github.com/m4ll0k/Infoga)
+[infoga](https://github.com/m4ll0k/Infoga) Infoga - Email OSINT
