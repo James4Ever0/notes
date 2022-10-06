@@ -1,7 +1,7 @@
 ---
 title: lazero search tool document preparation
 created: '2022-10-06T10:29:25.352Z'
-modified: '2022-10-06T10:38:06.222Z'
+modified: '2022-10-06T10:43:23.038Z'
 ---
 
 # lazero search tool document preparation
@@ -10,6 +10,8 @@ modified: '2022-10-06T10:38:06.222Z'
 use my notes
 
 man pages
+
+commandline tool helps
 
 **webpages to text, to markdown**
 
