@@ -1,12 +1,15 @@
 ---
 title: lazero search tool document preparation
 created: '2022-10-06T10:29:25.352Z'
-modified: '2022-10-06T10:43:23.038Z'
+modified: '2022-10-06T10:50:28.828Z'
 ---
 
 # lazero search tool document preparation
 
+because of the diversity of info sources, lazero is a meta search engine
+
 ## static sources
+
 use my notes
 
 man pages
