@@ -1,7 +1,7 @@
 ---
 title: lazero search tool document preparation
 created: '2022-10-06T10:29:25.352Z'
-modified: '2022-10-06T10:37:16.609Z'
+modified: '2022-10-06T10:37:46.425Z'
 ---
 
 # lazero search tool document preparation
@@ -18,6 +18,8 @@ pages from github repo, topic, search, paperswithcode, kaggle, aistudio, alterna
 ## dynamic sources
 
 rss feeds, recommendation, dynamic/interactive webpage/api
+
+social media, instant messaging
 
 online search engines
 
