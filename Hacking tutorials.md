@@ -2,12 +2,16 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T23:43:20+08:00
-modified: 2022-10-03T03:06:42+08:00
+modified: 2022-10-06T23:57:20+08:00
 ---
 
 [defcon](https://defcon.org) for news, intro, wiki
 
 [infocon](https://infocon.org) for software, code, wordlists
+
+## notes
+[pc微信hook 获取二维码](https://blog.csdn.net/a1165559068/article/details/110450166?app_version=5.9.0&code=app_1562916241&csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22110450166%22%2C%22source%22%3A%22a1165559068%22%7D&uLinkId=usr1mkqgl919blen&utm_source=app)
+[pc微信逆向](https://note.youdao.com/s/KRl8DIR0)
 
 几个觉得还不错的靶场
 封神台：https://hack.zkaq.cn/index
