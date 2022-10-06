@@ -1,7 +1,7 @@
 ---
 title: lazero search tool document preparation
 created: '2022-10-06T10:29:25.352Z'
-modified: '2022-10-06T10:37:46.425Z'
+modified: '2022-10-06T10:38:06.222Z'
 ---
 
 # lazero search tool document preparation
@@ -13,7 +13,7 @@ man pages
 
 **webpages to text, to markdown**
 
-pages from github repo, topic, search, paperswithcode, kaggle, aistudio, alternativeto, anything,
+pages from github repo, topic, search, paperswithcode, kaggle, aistudio, alternativeto, anything
 
 ## dynamic sources
 
