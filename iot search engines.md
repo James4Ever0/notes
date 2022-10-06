@@ -1,16 +1,17 @@
 ---
 title: iot search engines
 created: '2022-10-06T10:20:32.035Z'
-modified: '2022-10-06T10:24:18.554Z'
+modified: '2022-10-06T10:24:48.445Z'
 ---
 
 # iot search engines
 
 ## online
-shodan
-zoomeye
-fofa
-censys
+### shodan
+[awesome shodan queries](https://github.com/jakejarvis/awesome-shodan-queries)
+### zoomeye
+### fofa
+### censys
 
 ## self hosted
 ivre
