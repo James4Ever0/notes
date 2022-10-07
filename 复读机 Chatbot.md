@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T23:35:31+08:00
-modified: 2022-09-23T23:58:39+08:00
+modified: 2022-10-07T16:48:16+08:00
 ---
 
 # 复读机 Chatbot
+
+- [ ] 群聊的下一句话不一定是上一句话的回答 训练模型寻找句子相关性 计算相关度 以及句子顺序
 
 - [ ] 对接小冰
 
