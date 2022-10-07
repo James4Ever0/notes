@@ -1,0 +1,50 @@
+*
+!*/
+
+# whitelist .gitignore from https://www.howtogeek.com/devops/how-to-set-up-gitignore-as-a-whitelist/
+
+# programming languages
+!*.py
+!*.js
+!*.ts
+!*.mjs
+!*.mts
+!*.map
+!*.c
+!*.h
+!*.cpp
+!*.hpp
+!*.go
+!*.lua
+
+# data store
+!*.yml
+!*.yaml
+!*.json
+!*.mjson
+
+# templates
+!*.mdl
+!*.j2
+
+# text files
+!*.html
+!*.md
+!*.markdown
+!*.txt
+!*.rst
+!*.log
+!README # detection in lower case
+!readme
+
+# shell scripts
+!*.sh
+!*.cmd
+!*.ps1
+!*.xsh
+!*.xonsh
+
+# specials
+
+!.gitignore
+!.subModuleOrigin
