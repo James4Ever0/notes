@@ -1,7 +1,7 @@
 ---
 title: 'async requests with python, used for clash multiple proxy delays'
 created: '2022-10-07T20:15:11.586Z'
-modified: '2022-10-07T20:17:33.142Z'
+modified: '2022-10-07T20:19:54.263Z'
 ---
 
 # async requests with python, used for clash multiple proxy delays
@@ -9,4 +9,4 @@ modified: '2022-10-07T20:17:33.142Z'
 aiohttp
 aiohttp-requests
 requests-async
-http3 (requests-async predecessor)
+http3 (requests-async successor)
