@@ -2,7 +2,7 @@
 tags: [pyjom, video edit, video generator]
 title: Video Editors
 created: '2022-07-10T11:01:14.000Z'
-modified: '2022-08-18T17:16:35.311Z'
+modified: '2022-10-08T05:55:48.393Z'
 ---
 
 # Video Editors
@@ -15,6 +15,7 @@ video transitions:
 [ffmpeg filters for gl transitions, as ffmpeg commandline args](https://github.com/transitive-bullshit/ffmpeg-gl-transition)
 
 javascript video editor:
+[remotion]() edit video with react
 [creating and rendering dynamic videos](https://github.com/pankod/canvas2video)
 [video slideshow creator](https://github.com/h2non/videoshow)
 [editly's gui](https://github.com/mifi/lossless-cut)
