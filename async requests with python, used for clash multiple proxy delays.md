@@ -1,7 +1,7 @@
 ---
 title: 'async requests with python, used for clash multiple proxy delays'
 created: '2022-10-07T20:15:11.586Z'
-modified: '2022-10-08T05:53:37.496Z'
+modified: '2022-10-08T06:36:09.929Z'
 ---
 
 # async requests with python, used for clash multiple proxy delays
@@ -16,6 +16,7 @@ modified: '2022-10-08T05:53:37.496Z'
 [curequests](https://github.com/guyskk/curequests)
 [asks](https://github.com/theelous3/asks)
 [trip](https://github.com/littlecodersh/trip)
+[request-futures](https://github.com/ross/requests-futures)
 
 ## async non-blocking server
 [trequests](https://github.com/1stvamp/trequests)
