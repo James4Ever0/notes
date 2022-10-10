@@ -2,12 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-10-10T10:33:30.526Z'
+modified: '2022-10-10T10:40:59.419Z'
 ---
 
 # 复读机 Chatbot
 
-- [ ] 用sentence bert做search based dialog 替代levenshtein
+- [ ] 用sentence bert做search based dialog 替代levenshtein 最好是asymetrical semantic search
 - [x] 有人有测试红包外挂的红包 可能有“test”、“测试”、“别抢”、“不要”之类的字眼 这种红包不要抢 抢了飞机票
 
 - [ ] 群聊的下一句话不一定是上一句话的回答 训练模型寻找句子相关性 计算相关度 以及句子顺序
