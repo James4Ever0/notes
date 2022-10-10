@@ -2,10 +2,12 @@
 tags: [lyric generation, music generation, singing, voice changer]
 title: Singing Voice Generation and more
 created: 2022-05-05T10:28:59+08:00
-modified: 2022-10-03T03:05:52+08:00
+modified: 2022-10-10T21:19:18+08:00
 ---
 
 # Singing Voice Generation and more
+
+谷歌AI歌手震撼来袭！AudioLM简单听几秒，便能谱曲写歌 https://www.kuxai.com/article/398
 
 论文地址：https://arxiv.org/abs/2110.08813
 我的fork仓库：https://github.com/innnky/VISinger
