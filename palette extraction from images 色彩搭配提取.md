@@ -1,11 +1,12 @@
 ---
 title: palette extraction from images 色彩搭配提取
 created: '2022-10-11T10:57:34.735Z'
-modified: '2022-10-11T11:16:56.731Z'
+modified: '2022-10-11T11:18:01.562Z'
 ---
 
 # palette extraction from images 色彩搭配提取
 
+[haishoku](https://github.com/LanceGin/haishoku)
 ```bash
 pip3 install haishoku
 ```
@@ -20,5 +21,4 @@ python [gvcci](https://github.com/FabriceCastel/gvcci) color extraction to turn 
 
 [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) Extract prominent colors from an image, previous as [vibrant.js](https://github.com/jariz/vibrant.js)
 
-[ColorExtraction](https://github.com/codrops/ColorExtraction) 
-Creating a color palette from images in a fun way using CSS Filters and Vibrant.js
+[ColorExtraction](https://github.com/codrops/ColorExtraction) Creating a color palette from images in a fun way using CSS Filters and Vibrant.js
