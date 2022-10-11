@@ -1,7 +1,7 @@
 ---
 title: palette extraction from images 色彩搭配提取
 created: '2022-10-11T10:57:34.735Z'
-modified: '2022-10-11T11:49:28.877Z'
+modified: '2022-10-11T11:50:12.757Z'
 ---
 
 # palette extraction from images 色彩搭配提取
@@ -12,7 +12,7 @@ modified: '2022-10-11T11:49:28.877Z'
 
 ## extractive
 
-[haishoku](https://github.com/LanceGin/haishoku)
+[haishoku](https://github.com/LanceGin/haishoku) and [tutorial_1](https://zhuanlan.zhihu.com/p/452802876) [tutorial_2](https://zhuanlan.zhihu.com/p/421595862)
 ```bash
 pip3 install haishoku
 ```
