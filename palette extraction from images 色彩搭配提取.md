@@ -1,10 +1,16 @@
 ---
 title: palette extraction from images 色彩搭配提取
 created: '2022-10-11T10:57:34.735Z'
-modified: '2022-10-11T11:18:01.562Z'
+modified: '2022-10-11T11:49:28.877Z'
 ---
 
 # palette extraction from images 色彩搭配提取
+
+## generative
+
+[generate palette/color map from matplotlib colormaps](https://blog.csdn.net/Bit_Coders/article/details/121383126)
+
+## extractive
 
 [haishoku](https://github.com/LanceGin/haishoku)
 ```bash
