@@ -2,9 +2,9 @@
 attachments: [A6B2E19A-2E88-4EC6-85C7-94C2241E06DB_1_201_a.jpeg, A6B60599-029F-4556-953F-7561D06F0370_1_201_a.jpeg, BD5D0BAE-D08C-4728-874D-488DD24E0D45_1_201_a.jpeg, E487BE4D-07D7-4DD7-B4E5-D78BC6E66B9C_1_201_a.jpeg]
 title: my notes on paper
 created: '2022-10-11T10:26:59.143Z'
-modified: '2022-10-11T10:27:48.725Z'
+modified: '2022-10-11T10:28:07.217Z'
 ---
 
 # my notes on paper
 
-
+see attachments.
