@@ -1,12 +1,13 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: '2022-07-14T15:35:31.000Z'
-modified: '2022-10-10T17:00:23.694Z'
+created: 2022-07-14T15:35:31+00:00
+modified: 2022-10-12T11:57:52+08:00
 ---
 
 # 复读机 Chatbot
 
+- [ ] mitm Chatbot
 - [ ] 用sentence bert做search based dialog 替代levenshtein 最好是asymetrical semantic search
 - [x] 有人有测试红包外挂的红包 可能有“test”、“测试”、“别抢”、“不要”之类的字眼 这种红包不要抢 抢了飞机票
 
