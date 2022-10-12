@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-10-12T04:50:23.376Z'
+modified: '2022-10-12T04:51:06.288Z'
 ---
 
 # 复读机 Chatbot
@@ -10,6 +10,8 @@ modified: '2022-10-12T04:50:23.376Z'
 - [ ] mitm Chatbot
 
 chatbot frameworks:
+
+[omeglemiddleman](https://github.com/ash47/OmegleMiddleMan)
 
 [chatterbot](https://github.com/gunthercox/ChatterBot) able to learn while having conversation
 
