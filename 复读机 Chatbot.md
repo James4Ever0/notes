@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-10-12T04:40:27.608Z'
+modified: '2022-10-12T04:47:33.561Z'
 ---
 
 # 复读机 Chatbot
@@ -10,8 +10,13 @@ modified: '2022-10-12T04:40:27.608Z'
 - [ ] mitm Chatbot
 
 chatbot frameworks:
+
 [chatterbot](https://github.com/gunthercox/ChatterBot) able to learn while having conversation
+
 [qary: nlpia-bot](https://github.com/nlpia/nlpia-bot) a hybrid framework for developing chatbot by mannings
+
+[mitm-omegle](https://github.com/olegberman/mitm-omegle) watch strangers talk
+
 - [ ] 用sentence bert做search based dialog 替代levenshtein 最好是asymetrical semantic search
 - [x] 有人有测试红包外挂的红包 可能有“test”、“测试”、“别抢”、“不要”之类的字眼 这种红包不要抢 抢了飞机票
 
