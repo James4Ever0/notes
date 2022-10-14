@@ -2,10 +2,35 @@
 tags: [popular topic discovery, pyjom, SEO, text analysis, topic analysis, trend analysis]
 title: SEO 蓝海词 竞争度
 created: '2022-07-14T02:40:43.000Z'
-modified: '2022-09-26T16:19:40.844Z'
+modified: '2022-10-14T06:28:24.944Z'
 ---
 
 # SEO 蓝海词 飙升词 竞争度 搜索人气 转化率 成交价（视频长度）
+
+we need suggestion, related topics, also search results.
+can be used in title generation.
+
+title/message as query (-> keyword -> suggested query) -> search results -> extract response/title
+
+suggestion, trending topics/keywords
+
+black hat seo, https://www.blackhatworld.com/forums/black-hat-seo.28/
+
+paste your link 'elsewhere', submit your link to search engine somehow, visit your link from search engine somehow
+
+## seo without website
+
+write a blog on github?
+
+create short links and submit them to search engine
+
+get query count, perform n-gram analysis
+
+https://www.aeripret.com/ngrams-analysis-seo/
+
+https://www.pemavor.com/seo-keyword-clustering-with-python/
+
+i have bookmarked links for further use on macbook chrome.
 
 [advertools](https://advertools.readthedocs.io/en/master/readme.html) is a professional SEO library, productivity & analysis tools to scale your online marketing
 
