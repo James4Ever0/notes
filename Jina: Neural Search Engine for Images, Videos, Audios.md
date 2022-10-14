@@ -2,16 +2,16 @@
 tags: [AI, media search engine, search engine, self-hosted]
 title: 'Jina: Neural Search Engine for Images, Videos, Audios'
 created: '2022-05-29T05:18:28.000Z'
-modified: '2022-10-14T06:01:21.852Z'
+modified: '2022-10-14T06:01:43.740Z'
 ---
 
 # Jina: Neural Search Engine for Images, Videos, Audios
 
 [haystack]
 
-[towhee]
+[towhee](https://github.com/towhee-io/towhee)
 
-[milvus]
+[milvus](https://milvus.io/docs/v2.1.x/install_standalone-docker.md)
 
 visit [jina hub](https://docs.jina.ai/fundamentals/executor/hub/) to get multiple embedding models and workflows
 
