@@ -1,10 +1,12 @@
 ---
 title: 'android remote control, app automation'
 created: '2022-10-15T13:21:37.307Z'
-modified: '2022-10-15T13:22:04.645Z'
+modified: '2022-10-15T13:27:56.899Z'
 ---
 
 # android remote control, app automation
+
+run android in docker, run adb in docker
 
 device discovery, termux daemon, remote unlock
 
