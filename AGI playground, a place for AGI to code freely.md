@@ -1,12 +1,12 @@
 ---
 title: 'AGI playground, a place for AGI to code freely'
 created: '2022-10-16T14:30:53.634Z'
-modified: '2022-10-16T14:34:13.067Z'
+modified: '2022-10-16T14:35:34.442Z'
 ---
 
 # AGI playground, a place for AGI to code freely
 
-you must setup this playground then you begin to learn stuff and libraries of AGI. but once you have one, don't move around, stick to it!
+you must setup this playground then you begin to learn stuff and libraries of AGI. but once you have one, don't move around, stick to it! you need time to develop the general adaptor and make clear and achievable goals!
 
 terminal, GUI, program, API, network
 
