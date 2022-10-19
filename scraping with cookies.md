@@ -1,10 +1,12 @@
 ---
 title: 'elinks/lynx with python: how to speed up headless website browsing/parsing/scraping with cookies'
-created: 2022-09-12T15:24:30+08:00
-modified: 2022-09-12T16:27:52+08:00
+created: '2022-09-12T07:24:30.000Z'
+modified: '2022-10-19T09:54:08.811Z'
 ---
 
 # elinks/lynx with python: how to speed up headless website browsing/parsing/scraping with cookies
+
+[general news extractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor/) for extracting main content of news, articles
 
 first of all, set it up with a **normal** user agent
 
