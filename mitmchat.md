@@ -1,11 +1,37 @@
 ---
 created: 2022-10-14T19:09:39+08:00
-modified: 2022-10-14T19:17:39+08:00
+modified: 2022-10-19T12:54:09+08:00
 ---
 
 # mitmchat
 
-mitmchat with video and text how to get embedding?
+## additional notices, about delivery efficiency
+
+正在刷屏的群里面也不能发消息 不能确保对象是否收到消息
+
+Yukio 12:46:35
+今天mitm有个问题
+
+Yukio 12:46:43
+mitm的两个人
+
+Yukio 12:46:48
+都不能屏蔽我
+
+Yukio 12:46:53
+不然mitm失效
+
+Yukio 12:47:22
+但是我现在不知道这个怎么看别人屏蔽我没有
+
+Yukio 12:47:28
+可能以后就知道了
+
+Yukio 12:49:17
+我可以获取群禁言情况
+
+
+## mitmchat with video and text how to get embedding?
 
 Yukio 18:40:25
 mitmchat的定义
