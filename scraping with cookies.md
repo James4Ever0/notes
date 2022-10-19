@@ -1,12 +1,16 @@
 ---
 title: 'elinks/lynx with python: how to speed up headless website browsing/parsing/scraping with cookies'
 created: '2022-09-12T07:24:30.000Z'
-modified: '2022-10-19T09:54:08.811Z'
+modified: '2022-10-19T09:56:23.440Z'
 ---
 
 # elinks/lynx with python: how to speed up headless website browsing/parsing/scraping with cookies
 
 [general news extractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor/) for extracting main content of news, articles
+
+```bash
+pip3 install gne
+```
 
 first of all, set it up with a **normal** user agent
 
