@@ -1,10 +1,12 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.087Z'
-modified: '2022-10-21T14:19:17.343Z'
+modified: '2022-10-21T14:20:43.309Z'
 ---
 
 # 关于做直播 about live streaming
+
+"聚合直播"
 
 做直播最重要的就是互动性
 
