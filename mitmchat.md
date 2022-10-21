@@ -1,9 +1,20 @@
 ---
-created: 2022-10-14T19:09:39+08:00
-modified: 2022-10-19T12:54:09+08:00
+title: mitmchat
+created: '2022-10-14T11:09:39.000Z'
+modified: '2022-10-21T15:23:29.605Z'
 ---
 
 # mitmchat
+
+## chatterbot retrain issue
+
+train chatterbot with the recent knowledge
+
+sql schema:
+
+| end_of_list | content |
+_________________________
+
 
 ## additional notices, about delivery efficiency
 
