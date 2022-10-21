@@ -1,10 +1,12 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.087Z'
-modified: '2022-10-21T14:20:43.309Z'
+modified: '2022-10-21T14:22:20.118Z'
 ---
 
 # 关于做直播 about live streaming
+
+直播上传带宽要保证 延迟要低
 
 "聚合直播"
 
