@@ -1,10 +1,12 @@
 ---
 title: 关于做直播 about live streaming
-created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-21T22:58:52+08:00
+created: '2022-10-21T14:09:58.000Z'
+modified: '2022-10-21T15:25:24.345Z'
 ---
 
 # 关于做直播 about live streaming
+
+send the response to the most plausible group, likely to fit into the context.
 
 过滤群聊里面的广告内容 色情 暴恐 声音不对劲要去掉 合适的BGM
 
