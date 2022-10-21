@@ -1,7 +1,7 @@
 ---
 title: mitmchat
 created: '2022-10-14T11:09:39.000Z'
-modified: '2022-10-21T15:23:45.428Z'
+modified: '2022-10-21T15:32:01.840Z'
 ---
 
 # mitmchat
@@ -13,8 +13,10 @@ train chatterbot with the recent knowledge
 sql schema:
 
 | end_of_list | content |
--------------------------
-|             |         |
+|-------------|---------|
+|  false  |  some text content    |
+|----------|---------|
+|  true   |    2022-01-03 |
 
 ## additional notices, about delivery efficiency
 
