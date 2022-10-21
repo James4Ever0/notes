@@ -1,10 +1,12 @@
 ---
 title: 关于做直播 about live streaming
 created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-21T22:52:47+08:00
+modified: 2022-10-21T22:56:10+08:00
 ---
 
 # 关于做直播 about live streaming
+
+过滤群聊里面的广告内容 色情 暴恐
 
 直播上传带宽要保证 延迟要低
 
