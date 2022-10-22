@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T12:56:11.568Z'
+modified: '2022-10-22T13:01:16.566Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -33,9 +33,11 @@ print(stock_zh_a_spot_em_df)
 
 [baostock](http://baostock.com/baostock/index.php/A%E8%82%A1K%E7%BA%BF%E6%95%B0%E6%8D%AE)
 
-[pytdx](https://gitee.com/better319/pytdx/) and [docs](https://rainx.gitbooks.io/pytdx/content/pytdx_hq.html)
+[pytdx](https://gitee.com/better319/pytdx/) and [docs](https://rainx.gitbooks.io/pytdx/content/pytdx_hq.html), must connect to tdx server before operate
 
 [pytdx2](https://github.com/liewhite/pytdx2)
+
+[mootdx](https://github.com/TianShengBingFeiNiuRen/moo-tdx-api/tree/master/Lib/site-packages/mootdx/financial) actually using pytdx as backend
 
 计算涨速等数据
 
