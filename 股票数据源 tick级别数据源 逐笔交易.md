@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T11:25:09.906Z'
+modified: '2022-10-22T11:25:53.544Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -11,3 +11,5 @@ modified: '2022-10-22T11:25:09.906Z'
 [pysnowball](https://github.com/uname-yang/pysnowball)雪球数据源
 
 chromedriver based [xueqiu api](https://github.com/1dot75cm/xueqiu)
+
+[获取雪球cookie](https://blog.crackcreed.com/diy-xue-qiu-app-shu-ju-api/)
