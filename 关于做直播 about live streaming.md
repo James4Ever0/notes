@@ -1,24 +1,33 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-22T15:20:16.879Z'
+modified: '2022-10-22T15:22:45.319Z'
 ---
 
 # 关于做直播 about live streaming
 
 ## 用第三方软件推流 obs
 
-[b站官方开播页面 可以获取obs推流链接](https://link.bilibili.com/p/center/index#/my-room/start-live)
+[b站官方开播页面](https://link.bilibili.com/p/center/index#/my-room/start-live) 可以获取obs推流链接
 
 [哔哩哔哩 obs开播教程](https://www.bilibili.com/read/cv17849076)
 
 [Bilibili 一键直播助手](https://github.com/James4Ever0/Bilibili-OBS-Helper)
 
+## 直播监控 直播相关api
+
+[bilibili 直播api](https://nemo2011.github.io/bilibili-api/#/modules/live)
+
 ## 直播套娃
 
-[obs-bilibili]
+[obs-bilibili](https://github.com/virtio-project/obs-bilibili) 一个让你方便在obs里套别人直播间的工具
 
-## 渲染chat room使用的工具
+[obs-bilibili](https://github.com/James4Ever0/obs-bilibili) Bilibili plugins for OBS
+
+## 渲染chat room 渲染直播互动内容 使用的工具
+
+
+[blivechat](https://github.com/xfgryujk/blivechat) 用于OBS的仿YouTube风格的bilibili直播评论栏
 
 需要能够播放视频 放置图片素材 但是其实这个图片可以放到一边去 放到专门的broadcast里面
 
