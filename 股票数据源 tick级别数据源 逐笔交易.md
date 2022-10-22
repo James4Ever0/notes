@@ -1,14 +1,14 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T12:47:42.196Z'
+modified: '2022-10-22T12:51:20.661Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
 
 ## 交易接口
 
-[tdxtradeserver](https://github.com/rainx/TdxTradeServer)
+[tdxtradeserver](https://github.com/corefan/TdxTradeServer)
 
 ## 数据来源
 
