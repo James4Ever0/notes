@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-22T13:21:59.527Z'
+modified: '2022-10-22T13:22:56.759Z'
 ---
 
 # 关于做直播 about live streaming
@@ -10,7 +10,7 @@ modified: '2022-10-22T13:21:59.527Z'
 
 需要能够播放视频 放置图片素材 但是其实这个图片可以放到一边去 放到专门的broadcast里面
 
-为了好看你可以专门选择现成的聊天渲染库
+为了好看你可以专门选择现成的聊天渲染库 记得及时清理 然后要用ffmpeg把xvbf的画面转为rtmp
 
 [owncast](https://github.com/owncast/owncast) with live streaming support
 
