@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T13:01:16.566Z'
+modified: '2022-10-22T13:02:25.115Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -35,9 +35,11 @@ print(stock_zh_a_spot_em_df)
 
 [pytdx](https://gitee.com/better319/pytdx/) and [docs](https://rainx.gitbooks.io/pytdx/content/pytdx_hq.html), must connect to tdx server before operate
 
-[pytdx2](https://github.com/liewhite/pytdx2)
+[pytdx2](https://github.com/liewhite/pytdx2) fixed some problems
 
 [mootdx](https://github.com/TianShengBingFeiNiuRen/moo-tdx-api/tree/master/Lib/site-packages/mootdx/financial) actually using pytdx as backend
+
+[abquant-data](https://github.com/yssource/abquant-data/blob/develop/abquant/data/tdx_api.py) using pytdx as backend
 
 计算涨速等数据
 
