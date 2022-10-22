@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T12:26:34.216Z'
+modified: '2022-10-22T12:30:24.534Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -15,6 +15,15 @@ modified: '2022-10-22T12:26:34.216Z'
 逐笔数据是计算涨速的关键因素
 
 [akshare](https://github.com/akfamily/akshare)
+
+获取涨速
+
+```python
+import akshare as ak
+
+stock_zh_a_spot_em_df = ak.stock_zh_a_spot_em()
+print(stock_zh_a_spot_em_df)
+```
 
 [baostock](http://baostock.com/baostock/index.php/A%E8%82%A1K%E7%BA%BF%E6%95%B0%E6%8D%AE)
 
