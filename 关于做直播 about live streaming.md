@@ -1,10 +1,16 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-22T06:11:10.986Z'
+modified: '2022-10-22T13:19:15.244Z'
 ---
 
 # 关于做直播 about live streaming
+
+## 渲染virtual chat使用的工具
+
+[dead simple ]
+
+## 随想
 
 a nas or a huge raid-n array to store a huge amount of previous live streaming recordings, only stream recordings 1 month ago
 
