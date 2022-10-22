@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T12:51:20.661Z'
+modified: '2022-10-22T12:56:11.568Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -13,6 +13,8 @@ modified: '2022-10-22T12:51:20.661Z'
 ## 数据来源
 
 逐笔数据是计算涨速的关键因素
+
+[quantaxis]() secretely using pytdx and tdxtradeserver as backends
 
 [akshare](https://github.com/akfamily/akshare)
 
@@ -31,7 +33,7 @@ print(stock_zh_a_spot_em_df)
 
 [baostock](http://baostock.com/baostock/index.php/A%E8%82%A1K%E7%BA%BF%E6%95%B0%E6%8D%AE)
 
-[pytdx](https://gitee.com/better319/pytdx/)
+[pytdx](https://gitee.com/better319/pytdx/) and [docs](https://rainx.gitbooks.io/pytdx/content/pytdx_hq.html)
 
 [pytdx2](https://github.com/liewhite/pytdx2)
 
