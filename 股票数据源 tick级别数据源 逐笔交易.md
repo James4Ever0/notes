@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T12:30:24.534Z'
+modified: '2022-10-22T12:38:41.661Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -24,6 +24,10 @@ import akshare as ak
 stock_zh_a_spot_em_df = ak.stock_zh_a_spot_em()
 print(stock_zh_a_spot_em_df)
 ```
+
+[qstock]()
+
+[efinance]()
 
 [baostock](http://baostock.com/baostock/index.php/A%E8%82%A1K%E7%BA%BF%E6%95%B0%E6%8D%AE)
 
