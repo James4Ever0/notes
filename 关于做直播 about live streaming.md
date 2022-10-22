@@ -1,14 +1,14 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-21T16:05:07.769Z'
+modified: '2022-10-22T06:11:10.986Z'
 ---
 
 # 关于做直播 about live streaming
 
 a nas or a huge raid-n array to store a huge amount of previous live streaming recordings, only stream recordings 1 month ago
 
-a powerful server
+a powerful server for preprocessing, postprocessing
 
 send the response to the most plausible group, likely to fit into the context.
 
