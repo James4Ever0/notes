@@ -1,10 +1,16 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-22T13:22:56.759Z'
+modified: '2022-10-22T15:18:17.341Z'
 ---
 
 # 关于做直播 about live streaming
+
+## 用第三方软件推流 obs
+
+[b站官方开播页面 可以获取obs推流链接](https://link.bilibili.com/p/center/index#/my-room/start-live)
+
+
 
 ## 渲染chat room使用的工具
 
