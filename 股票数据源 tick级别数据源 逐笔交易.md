@@ -1,10 +1,12 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T11:31:43.470Z'
+modified: '2022-10-22T11:56:39.285Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
+
+[pytdx](https://gitee.com/better319/pytdx/)
 
 计算涨速等数据
 
