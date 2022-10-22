@@ -1,14 +1,16 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-22T13:19:15.244Z'
+modified: '2022-10-22T13:20:44.141Z'
 ---
 
 # 关于做直播 about live streaming
 
-## 渲染virtual chat使用的工具
+## 渲染chat room使用的工具
 
-[dead simple ]
+需要能够播放视频 放置图片素材 但是其实这个图片可以放到一边去 放到专门的broadcast里面
+
+
 
 ## 随想
 
