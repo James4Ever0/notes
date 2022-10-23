@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
 created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-24T01:54:50+08:00
+modified: 2022-10-24T01:59:57+08:00
 ---
 
 # 关于做直播 about live streaming
@@ -30,6 +30,23 @@ https://github.com/szvone/vmqphp
 https://github.com/wxs2/xposed-pay
 https://github.com/szvone/vmqApk
 https://github.com/Exrick/xpay
+
+## 随想 7
+
+Yukio 01:56:43
+付了款 留下联系方式 给你发福利
+
+Yukio 01:57:16
+但是万一有些人滥用呢
+
+Yukio 01:57:36
+发一些奇奇怪怪的联系方式或者邮箱
+
+Yukio 01:57:55
+给我发些什么监察委员会的邮箱
+
+Yukio 01:58:32
+我可以增加一个取消订阅按钮 让这些人取消订阅 别找我麻烦
 
 ## 随想 6
 
