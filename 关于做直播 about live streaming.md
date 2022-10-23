@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
 created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-23T21:56:07+08:00
+modified: 2022-10-23T23:38:49+08:00
 ---
 
 # 关于做直播 about live streaming
@@ -21,6 +21,27 @@ modified: 2022-10-23T21:56:07+08:00
 你也可以参考其他的主播 看看他们是怎么做的
 
 可以通过分析评论 切换直播主题 切换直播画面
+
+## 随想 5
+
+Yukio 23:05:52
+为了检测这种二维码
+
+Yukio 23:06:30
+同时有一些不是很好检测的文字 水印
+
+Yukio 23:06:44
+也需要image local contrast enhancement
+
+Yukio 23:25:11
+随机切割句子 分批发送
+
+Yukio 23:25:16
+这样我的机器人更像人
+
+image enhancement for optical character recognition
+
+image enhancement for watermark removal
 
 ## 随想 4
 
