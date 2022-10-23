@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
 created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-24T01:20:52+08:00
+modified: 2022-10-24T01:54:24+08:00
 ---
 
 # 关于做直播 about live streaming
@@ -21,6 +21,15 @@ modified: 2022-10-24T01:20:52+08:00
 你也可以参考其他的主播 看看他们是怎么做的
 
 可以通过分析评论 切换直播主题 切换直播画面
+
+## 免签支付
+
+https://www.yunmianqian.com
+https://github.com/assimon/easymqpay
+https://github.com/szvone/vmqphp
+https://github.com/wxs2/xposed-pay
+https://github.com/szvone/vmqApk
+https://github.com/Exrick/xpay
 
 ## 随想 6
 
