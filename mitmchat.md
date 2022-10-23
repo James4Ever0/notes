@@ -1,7 +1,7 @@
 ---
 title: mitmchat
 created: '2022-10-14T11:09:39.000Z'
-modified: '2022-10-21T15:32:01.840Z'
+modified: '2022-10-21T15:33:16.462Z'
 ---
 
 # mitmchat
@@ -14,9 +14,9 @@ sql schema:
 
 | end_of_list | content |
 |-------------|---------|
-|  false  |  some text content    |
-|----------|---------|
-|  true   |    2022-01-03 |
+|  false      |  some text content    |
+|  false      |  some text content    |
+|  true       |    2022-01-03 |
 
 ## additional notices, about delivery efficiency
 
