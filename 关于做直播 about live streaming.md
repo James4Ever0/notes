@@ -1,10 +1,14 @@
 ---
 title: 关于做直播 about live streaming
 created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-24T21:52:50+08:00
+modified: 2022-10-25T14:42:11+08:00
 ---
 
 # 关于做直播 about live streaming
+
+## 付钱兑换礼物
+
+要能够有效识别付钱的对象 用浏览器的cookie
 
 过滤人名
 
