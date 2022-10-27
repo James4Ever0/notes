@@ -1,10 +1,22 @@
 ---
 title: mitmchat
-created: '2022-10-14T11:09:39.000Z'
-modified: '2022-10-21T15:33:16.462Z'
+created: 2022-10-14T11:09:39+00:00
+modified: 2022-10-27T13:21:14+08:00
 ---
 
 # mitmchat
+
+## 计算句子相关度 计算下一句话的可能性 predict next sentence probability
+
+[bing search entries](https://cn.bing.com/search?q=predict+next+sentence+probability&form=QBLH&sp=-1&pq=predict+next+sentence+probabilit&sc=8-32&qs=n&sk=&cvid=7BFC0E30DD634E3EAD7B0A769634C98C&ghsh=0&ghacc=0&ghpl=)
+
+[next sentence prediction using bert](https://www.geeksforgeeks.org/next-sentence-prediction-using-bert/)
+
+[github topic next semtence prediction](https://github.com/topics/next-sentence-prediction)
+
+## grammar checker, sentence corrector
+
+[lamguagetool](https://languagetool.org) rule based grammar error checker
 
 ## chatterbot retrain issue
 
