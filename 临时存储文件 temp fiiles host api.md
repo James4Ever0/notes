@@ -1,9 +1,9 @@
 ---
 created: 2022-10-27T13:12:07+08:00
-modified: 2022-10-27T13:51:16+08:00
+modified: 2022-10-27T13:51:39+08:00
 ---
 
-# 临时存储文件 temp fiiles host api
+# 临时存储文件 temp files host api
 
 用于给粉丝发放福利 充值之后发涩图
 
