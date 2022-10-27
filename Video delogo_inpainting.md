@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T10:02:17.023Z'
+modified: '2022-10-27T10:04:18.573Z'
 ---
 
 # Video delogo/inpainting
@@ -20,6 +20,10 @@ modified: '2022-10-27T10:02:17.023Z'
 [glcae](https://github.com/pengyan510/glcae) Global and Local Contrast Adaptive Enhancement for Non-uniform Illumination Color Images in python
 
 [CNN-Based-X-ray-Morphological-Decomposition](https://github.com/tahanimadmad/CNN-Based-X-ray-Morphological-Decomposition-)
+
+[github query for local image contrast](https://github.com/search?p=2&q=image+local+contrast&type=Repositories)
+
+
 
 ## previous research
 
