@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T09:54:00.084Z'
+modified: '2022-10-27T09:55:35.153Z'
 ---
 
 # Video delogo/inpainting
@@ -15,8 +15,12 @@ modified: '2022-10-27T09:54:00.084Z'
 
 [imagej clahe local contrast enhancement](https://imagej.net/plugins/clahe)
 
-[l2uwe]()
-L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion
+[l2uwe](https://github.com/tunai/l2uwe) L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion written in matlab
+
+[glcae](https://github.com/pengyan510/glcae) Global and Local Contrast Adaptive Enhancement for Non-uniform Illumination Color Images in python
+
+CNN-Based-X-ray-Morphological-Decomposition](https://github.com/tahanimadmad/CNN-Based-X-ray-Morphological-Decomposition-)
+
 ## previous research
 
 deeplearning_inpainting:
