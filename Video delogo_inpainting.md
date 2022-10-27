@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T10:08:37.339Z'
+modified: '2022-10-27T10:09:01.760Z'
 ---
 
 # Video delogo/inpainting
@@ -33,7 +33,7 @@ modified: '2022-10-27T10:08:37.339Z'
 
 [deepcontrast](https://github.com/AIM-Harvard/DeepContrast) A deep learning-based fully-automatic intravenous contrast detection tool for head-and-neck and chest CT scans.
 
-
+[mirnetv2](https://github.com/swz30/MIRNetv2) TPAMI 2022] Learning Enriched Features for Fast Image Restoration and Enhancement. Results on Defocus Deblurring, Denoising, Super-resolution, and image enhancement
 
 ## previous research
 
