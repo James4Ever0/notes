@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T10:15:53.469Z'
+modified: '2022-10-27T10:18:06.684Z'
 ---
 
 # Video delogo/inpainting
@@ -40,6 +40,12 @@ modified: '2022-10-27T10:15:53.469Z'
 [imWeightedThresholdedheq](https://github.com/Mamdasn/imWeightedThresholdedheq) attempts to enhance contrast of a given image or video by employing a method called weighted thresholded histogram equalization (WTHE).
 
 [imagemagick wand local_contrast function](https://www.geeksforgeeks.org/wand-local_contrast-function-python/)
+
+[dual gamma clahe](https://github.com/dimimal/dual_gamma_clahe) Automatic Contrast-Limited Adaptive Histogram Equalization With Dual Gamma Correction
+
+[imhblpce](https://github.com/Mamdasn/imhblpce) attempts to enhance contrast of a given image by employing a method called HBLPCE.
+
+[matlab localcontrast for image](https://ww2.mathworks.cn/help/images/ref/localcontrast.html)
 
 ## global contrast enhancement
 
