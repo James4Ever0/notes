@@ -1,7 +1,7 @@
 ---
 title: mitmchat
 created: 2022-10-14T11:09:39+00:00
-modified: 2022-10-27T13:21:14+08:00
+modified: 2022-10-27T13:22:44+08:00
 ---
 
 # mitmchat
@@ -16,7 +16,7 @@ modified: 2022-10-27T13:21:14+08:00
 
 ## grammar checker, sentence corrector
 
-[lamguagetool](https://languagetool.org) rule based grammar error checker
+[languagetool](https://languagetool.org) rule based grammar error checker [repo](https://github.com/languagetool-org/languagetool)
 
 ## chatterbot retrain issue
 
