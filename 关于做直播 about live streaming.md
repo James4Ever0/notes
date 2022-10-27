@@ -1,10 +1,14 @@
 ---
 title: 关于做直播 about live streaming
 created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-25T14:42:23+08:00
+modified: 2022-10-27T13:30:04+08:00
 ---
 
 # 关于做直播 about live streaming
+
+## 保存粉丝cookie 避免接入xpay之后反复输入地址
+
+[set and get a cookie with javascript](https://www.tutorialspoint.com/How-to-set-a-cookie-and-get-a-cookie-with-JavaScript)
 
 ## 付钱兑换礼物
 
