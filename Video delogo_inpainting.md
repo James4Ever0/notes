@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T09:52:21.749Z'
+modified: '2022-10-27T09:54:00.084Z'
 ---
 
 # Video delogo/inpainting
@@ -15,6 +15,8 @@ modified: '2022-10-27T09:52:21.749Z'
 
 [imagej clahe local contrast enhancement](https://imagej.net/plugins/clahe)
 
+[l2uwe]()
+L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion
 ## previous research
 
 deeplearning_inpainting:
