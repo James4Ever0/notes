@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T09:50:17.691Z'
+modified: '2022-10-27T09:52:21.749Z'
 ---
 
 # Video delogo/inpainting
@@ -11,7 +11,9 @@ modified: '2022-10-27T09:50:17.691Z'
 
 [bing query for image local contrast](https://cn.bing.com/search?q=image+local+contrast&qs=n&form=QBRE&sp=-1&pq=image+local+contrast&sc=2-20&sk=&cvid=55BB4B6B6AE74F8FA6271F34C6201403&ghsh=0&ghacc=0&ghpl=)
 
-[darktable local contrast]()
+[darktable local contrast](https://docs.darktable.org/usermanual/development/en/module-reference/processing-modules/local-contrast/) darktable is an open-sourced photography postprocessing software
+
+[imagej clahe local contrast enhancement](https://imagej.net/plugins/clahe)
 
 ## previous research
 
