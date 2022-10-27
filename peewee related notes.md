@@ -1,12 +1,14 @@
 ---
 title: peewee related notes
 created: '2022-10-27T09:56:36.857Z'
-modified: '2022-10-27T10:19:25.017Z'
+modified: '2022-10-27T10:23:07.969Z'
 ---
 
 # peewee related notes
 
 ## extensions
+
+[peewee extension docs](https://www.osgeo.cn/peewee/peewee/sqlite_ext.html#sqlite-ext)
 
 ## full-text search
 
