@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T10:06:00.233Z'
+modified: '2022-10-27T10:08:37.339Z'
 ---
 
 # Video delogo/inpainting
@@ -26,6 +26,12 @@ modified: '2022-10-27T10:06:00.233Z'
 [image processing basics](https://github.com/Auggen21/image_processing_basics) Image Reading, writing, histogram, histogram equalization, local histogram equalization, low pass filter, high pass filter, geometrical transformation
 
 [contrast normalization](https://github.com/Dinista/Contrast-Normalization) is an implementation that applies local contrast normalization to images in matlab
+
+[contrast enhancement](https://github.com/topics/contrast-enhancement?l=python) as a github topic
+
+[mclahe](https://github.com/VincentStimper/mclahe) NumPy and Tensorflow implementation of the Multidimensional Contrast Limited Adaptive Histogram Equalization (MCLAHE) procedure
+
+[deepcontrast](https://github.com/AIM-Harvard/DeepContrast) A deep learning-based fully-automatic intravenous contrast detection tool for head-and-neck and chest CT scans.
 
 
 
