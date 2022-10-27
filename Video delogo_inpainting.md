@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T10:04:18.573Z'
+modified: '2022-10-27T10:06:00.233Z'
 ---
 
 # Video delogo/inpainting
@@ -22,6 +22,10 @@ modified: '2022-10-27T10:04:18.573Z'
 [CNN-Based-X-ray-Morphological-Decomposition](https://github.com/tahanimadmad/CNN-Based-X-ray-Morphological-Decomposition-)
 
 [github query for local image contrast](https://github.com/search?p=2&q=image+local+contrast&type=Repositories)
+
+[image processing basics](https://github.com/Auggen21/image_processing_basics) Image Reading, writing, histogram, histogram equalization, local histogram equalization, low pass filter, high pass filter, geometrical transformation
+
+[contrast normalization](https://github.com/Dinista/Contrast-Normalization) is an implementation that applies local contrast normalization to images in matlab
 
 
 
