@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T10:12:12.115Z'
+modified: '2022-10-27T10:13:16.519Z'
 ---
 
 # Video delogo/inpainting
@@ -36,6 +36,8 @@ modified: '2022-10-27T10:12:12.115Z'
 [mirnetv2](https://github.com/swz30/MIRNetv2) (TPAMI 2022) Learning Enriched Features for Fast Image Restoration and Enhancement. Results on Defocus Deblurring, Denoising, Super-resolution, and image enhancement
 
 [pymusica](https://github.com/lafith/pymusica) is a contrast enhancement approach involving non linear mapping of Laplacian pyramid.
+
+[imWeightedThresholdedheq](https://github.com/Mamdasn/imWeightedThresholdedheq) attempts to enhance contrast of a given image or video by employing a method called weighted thresholded histogram equalization (WTHE).
 
 
 
