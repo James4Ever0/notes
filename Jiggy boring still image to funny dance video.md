@@ -1,11 +1,13 @@
 ---
 tags: [dancing, motion driven video, stub, video generator]
 title: Jiggy boring still image to funny dance video
-created: '2022-05-31T03:44:18.000Z'
-modified: '2022-08-18T15:32:58.514Z'
+created: 2022-05-31T03:44:18+00:00
+modified: 2022-10-27T15:04:10+08:00
 ---
 
 # Jiggy boring still image to funny dance video
+
+【[ai绘画]仅用4张图片合成一段舞蹈视频-哔哩哔哩】 https://b23.tv/NaF20nA
 
 still image to dancing
 
