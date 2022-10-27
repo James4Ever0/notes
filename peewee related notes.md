@@ -1,7 +1,7 @@
 ---
 title: peewee related notes
 created: '2022-10-27T09:56:36.857Z'
-modified: '2022-10-27T10:25:07.255Z'
+modified: '2022-10-27T10:30:30.567Z'
 ---
 
 # peewee related notes
@@ -13,6 +13,8 @@ modified: '2022-10-27T10:25:07.255Z'
 ## full-text search
 
 [official doc on full-text search](https://peewee-orm.com/blog/using-sqlite-full-text-search-with-python/)
+
+[how to use ftsmodel](https://www.osgeo.cn/peewee/peewee/sqlite_ext.html#FTSModel)
 
 Peewee包括 SQLite extension module 它提供了许多特定于sqlite的功能，例如 full-text search ， json extension support 还有更多。如果您想使用这些出色的功能，请使用 SqliteExtDatabase 从 playhouse.sqlite_ext 模块：
 
