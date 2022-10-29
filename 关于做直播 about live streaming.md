@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-29T04:21:12.380Z'
+modified: '2022-10-29T04:21:25.282Z'
 ---
 
 # 关于做直播 about live streaming
@@ -11,6 +11,8 @@ modified: '2022-10-29T04:21:12.380Z'
 [pyodide](https://python-in-browser.com/)
 
 [pyscript](https://coderoasis.com/run-python-in-the-web-browser/)
+
+[skulpt](http://skulpt.org/)
 
 ## pass parameter via url
 
