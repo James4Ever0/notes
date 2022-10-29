@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
-created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-29T12:03:18+08:00
+created: '2022-10-21T14:09:58.000Z'
+modified: '2022-10-29T04:09:50.050Z'
 ---
 
 # 关于做直播 about live streaming
@@ -11,6 +11,23 @@ modified: 2022-10-29T12:03:18+08:00
 [get url anchor text](https://programming.bogdanbucur.eu/how-to-get-the-url-anchor-with-javascript/)
 
 you can still use query string when visiting github.io
+
+```javascript
+function getQueryStringValues(key) {
+    var arrParamValues = [];
+    var url = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+ 
+    for (var i = 0; i < url.length; i++) {
+        var arrParamInfo = url[i].split('=');
+ 
+        if (arrParamInfo[0] == key || arrParamInfo[0] == key+'[]') {
+            arrParamValues.push(decodeURIComponent(arrParamInfo[1]));
+        }
+    }
+ 
+    return (arrParamValues.length > 0 ? (arrParamValues.length == 1 ? arrParamValues[0] : arrParamValues) : null);
+}
+```
 
 ## 保存粉丝cookie 避免接入xpay之后反复输入地址
 
