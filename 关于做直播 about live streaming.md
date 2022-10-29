@@ -1,14 +1,16 @@
 ---
 title: 关于做直播 about live streaming
 created: 2022-10-21T14:09:58+00:00
-modified: 2022-10-29T11:40:39+08:00
+modified: 2022-10-29T12:03:18+08:00
 ---
 
 # 关于做直播 about live streaming
 
-## get URL anchor text
+## pass parameter via url
 
-https://programming.bogdanbucur.eu/how-to-get-the-url-anchor-with-javascript/
+[get url anchor text](https://programming.bogdanbucur.eu/how-to-get-the-url-anchor-with-javascript/)
+
+you can still use query string when visiting github.io
 
 ## 保存粉丝cookie 避免接入xpay之后反复输入地址
 
