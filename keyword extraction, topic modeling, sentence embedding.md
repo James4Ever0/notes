@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-29T11:10:42.930Z'
+modified: '2022-10-29T11:27:48.901Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -16,6 +16,8 @@ from nltk.corpus import stopwords
 [stopwordsiso](https://github.com/stopwords-iso/stopwords-iso/tree/master/python) in python
 
 ## keyword extraction
+
+[tutorial and libraries](https://heartbeat.comet.ml/keyword-extraction-with-python-498bc18aadc)
 
 [keybert](https://blog.csdn.net/whatwho_518/article/details/124481742) uses sentence transformer to do the job
 
