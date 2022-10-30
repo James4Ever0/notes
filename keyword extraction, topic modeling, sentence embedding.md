@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T13:09:02.875Z'
+modified: '2022-10-30T13:11:24.294Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -21,6 +21,8 @@ modified: '2022-10-30T13:09:02.875Z'
 [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) or [thefuzz](https://github.com/seatgeek/thefuzz)
 
 [fzf](https://github.com/junegunn/fzf) a commandline fuzzy matcher
+
+[iterfzf](https://www.findbestopensource.com/product/dahlia-iterfzf) as a fzf python binding and its related projects
 
 [rapidfuzz](https://github.com/maxbachmann/rapidfuzz)
 
