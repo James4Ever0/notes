@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T07:10:07.772Z'
+modified: '2022-10-30T07:10:29.079Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -9,6 +9,8 @@ modified: '2022-10-30T07:10:07.772Z'
 ## language models
 
 [allennlp-models](https://github.com/allenai/allennlp-models)
+
+[bert lang street](https://bertlang.unibocconi.it/about)
 
 ## recommendation
 
