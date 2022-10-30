@@ -1,12 +1,14 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T07:07:13.315Z'
+modified: '2022-10-30T07:07:33.190Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
 
 ## recommendation
+
+[deepmatch](https://deepmatch.readthedocs.io/en/latest/Quick-Start.html)
 
 ## fuzzy search
 
