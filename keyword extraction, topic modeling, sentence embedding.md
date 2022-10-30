@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T02:48:48.811Z'
+modified: '2022-10-30T02:52:27.199Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -14,6 +14,16 @@ from nltk.corpus import stopwords
 ```
 
 [stopwordsiso](https://github.com/stopwords-iso/stopwords-iso/tree/master/python) in python
+
+## summarization
+
+[sumy](https://pypi.org/project/sumy/) Simple library and command line utility for extracting summary from HTML pages or plain texts
+
+[pytextrank](https://pypi.org/project/pytextrank/) Python implementation of TextRank as a spaCy pipeline extension, for graph-based natural language work plus related knowledge graph practices; used for for phrase extraction and lightweight extractive summarization of text documents
+
+[multi-rake](https://pypi.org/project/multi-rake/) Multilingual Rapid Automatic Keyword Extraction (RAKE) for Python
+
+[yake]() Unsupervised Approach for Automatic Keyword Extraction using Text Features
 
 ## keyword extraction
 
