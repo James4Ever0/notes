@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T02:52:27.199Z'
+modified: '2022-10-30T02:52:50.580Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -21,15 +21,16 @@ from nltk.corpus import stopwords
 
 [pytextrank](https://pypi.org/project/pytextrank/) Python implementation of TextRank as a spaCy pipeline extension, for graph-based natural language work plus related knowledge graph practices; used for for phrase extraction and lightweight extractive summarization of text documents
 
-[multi-rake](https://pypi.org/project/multi-rake/) Multilingual Rapid Automatic Keyword Extraction (RAKE) for Python
-
-[yake]() Unsupervised Approach for Automatic Keyword Extraction using Text Features
+[summa](https://pypi.org/project/summa/) TextRank implementation for text summarization and keyword extraction in Python 3, with optimizations on the similarity function.
 
 ## keyword extraction
 
+[multi-rake](https://pypi.org/project/multi-rake/) Multilingual Rapid Automatic Keyword Extraction (RAKE) for Python
+
+[yake](https://pypi.org/project/yake/) Unsupervised Approach for Automatic Keyword Extraction using Text Features
+
 [tutorial and libraries](https://heartbeat.comet.ml/keyword-extraction-with-python-498bc18aadc)
 
-[summa](https://pypi.org/project/summa/) TextRank implementation for text summarization and keyword extraction in Python 3, with optimizations on the similarity function.
 
 [keybert](https://blog.csdn.net/whatwho_518/article/details/124481742) uses sentence transformer to do the job
 
