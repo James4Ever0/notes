@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T07:12:40.372Z'
+modified: '2022-10-30T13:08:41.683Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -19,6 +19,8 @@ modified: '2022-10-30T07:12:40.372Z'
 ## fuzzy search
 
 [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) or [thefuzz](https://github.com/seatgeek/thefuzz)
+
+[fzf]()
 
 [rapidfuzz](https://github.com/maxbachmann/rapidfuzz)
 
