@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T07:06:58.882Z'
+modified: '2022-10-30T07:07:13.315Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -10,7 +10,7 @@ modified: '2022-10-30T07:06:58.882Z'
 
 ## fuzzy search
 
-
+[rapidfuzz](https://github.com/maxbachmann/rapidfuzz)
 
 ## stopwords
 
