@@ -1,7 +1,7 @@
 ---
 title: 'keyword extraction, topic modeling, sentence embedding'
 created: '2022-10-29T10:37:05.301Z'
-modified: '2022-10-30T02:52:50.580Z'
+modified: '2022-10-30T02:53:10.697Z'
 ---
 
 # keyword extraction, topic modeling, sentence embedding
@@ -24,6 +24,8 @@ from nltk.corpus import stopwords
 [summa](https://pypi.org/project/summa/) TextRank implementation for text summarization and keyword extraction in Python 3, with optimizations on the similarity function.
 
 ## keyword extraction
+
+[rake-nltk]() RAKE short for Rapid Automatic Keyword Extraction algorithm, is a domain independent keyword extraction algorithm which tries to determine key phrases in a body of text by analyzing the frequency of word appearance and its co-occurance with other words in the text.
 
 [multi-rake](https://pypi.org/project/multi-rake/) Multilingual Rapid Automatic Keyword Extraction (RAKE) for Python
 
