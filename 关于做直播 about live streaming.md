@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-29T04:21:25.282Z'
+modified: '2022-10-31T11:35:36.331Z'
 ---
 
 # 关于做直播 about live streaming
@@ -68,7 +68,8 @@ https://github.com/assimon/easymqpay
 https://github.com/szvone/vmqphp
 https://github.com/wxs2/xposed-pay
 https://github.com/szvone/vmqApk
-https://github.com/Exrick/xpay
+
+[xpay](https://github.com/Exrick/xpay) 这个东西需要人工监听 跪了
 
 ## 随想 8
 
