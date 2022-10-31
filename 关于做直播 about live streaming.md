@@ -1,7 +1,7 @@
 ---
 title: 关于做直播 about live streaming
 created: '2022-10-21T14:09:58.000Z'
-modified: '2022-10-31T11:39:02.031Z'
+modified: '2022-10-31T12:37:45.875Z'
 ---
 
 # 关于做直播 about live streaming
@@ -62,6 +62,8 @@ function getQueryStringValues(key) {
 可以通过分析评论 切换直播主题 切换直播画面
 
 ## 免签支付 获取订单号 给粉丝发福利 VIP
+
+[b站充电API](https://github.com/SocialSisterYi/bilibili-API-collect/blob/be65d5f05b8024acf2b34c583a5d66144ec3c141/electric/WeChat&Alipay.md)
 
 https://www.yunmianqian.com
 https://github.com/assimon/easymqpay
