@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T03:49:19.127Z'
+modified: '2022-11-01T05:16:53.134Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -27,9 +27,13 @@ that might need another supervisor
 
 [poco introduction](https://airtest.doc.io.netease.com/en/tutorial/3_Poco_introduction/)
 
-### broadcast, indirect intent
+### xposed
 
 [xposed new repo](https://github.com/orgs/Xposed-Modules-Repo/repositories)
+
+
+[android virtual cam](https://github.com/w2016561536/android_virtual_cam) xposed安卓虚拟摄像头 android virtual camera on xposed hook
+#### broadcast, indirect intent
 
 [com.zwk.xintent](https://github.com/Xposed-Modules-Repo/com.zwk.xintent/releases) (intent traffic monitoring tool) release [orginal repo](https://github.com/2Y2s1mple/xintent)
 
