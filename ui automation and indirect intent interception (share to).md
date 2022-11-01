@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T06:04:20.892Z'
+modified: '2022-11-01T06:05:57.748Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -49,6 +49,8 @@ autox [repo](https://github.com/kkevsekk1/AutoX/tree/84a1f59135433f40747d18ac080
 [android virtual cam](https://github.com/w2016561536/android_virtual_cam) xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
 #### broadcast, indirect intent, start activity
+
+[qq jumpparser](https://github.com/waterwitness/qooq/blob/e723920ac555e99d5325b1d4024552383713c28d/classes2/com/tencent/mobileqq/utils/JumpParser.java)
 
 [mqqapi doc](https://open.mobile.qq.com/api/mqq/index)
 
