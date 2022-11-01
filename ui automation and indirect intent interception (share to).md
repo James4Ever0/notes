@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T05:19:50.438Z'
+modified: '2022-11-01T05:21:07.600Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -38,6 +38,10 @@ that might need another supervisor
 [找出APP的SchemeURL（抓取APP意图/intent）的常用方法](https://segmentfault.com/a/1190000040065334)
 
 [隐式启动](https://www.coolapk.com/apk/xyz.hanks.launchactivity)  这是一款开发者辅助工具，帮助开发者发现手机上的应用的快捷启动，原理是利用 Android 提供的隐式启动 Activity 来快速启动某个应用的某个界面，如快速发微博、发朋友圈、扫一扫，快速切换 vpn 等
+
+[adb/安卓/按键精灵/autojs/uniapp/ec打开SchemeURL的方法及常用SchemeURL整理](https://segmentfault.com/a/1190000040065447)
+
+[Intent 拦截者_1.1.apk](https://474b.com/file/18365508-385607560)
 
 [com.zwk.xintent](https://github.com/Xposed-Modules-Repo/com.zwk.xintent/releases) (intent traffic monitoring tool) release [orginal repo](https://github.com/2Y2s1mple/xintent)
 
