@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T05:24:58.314Z'
+modified: '2022-11-01T05:49:25.541Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -27,6 +27,10 @@ that might need another supervisor
 
 [poco introduction](https://airtest.doc.io.netease.com/en/tutorial/3_Poco_introduction/)
 
+### frida
+
+[hook current application context](https://github.com/frida/frida-java-bridge/issues/67)
+
 ### xposed
 
 [xposed new repo](https://github.com/orgs/Xposed-Modules-Repo/repositories)
@@ -34,6 +38,10 @@ that might need another supervisor
 [android virtual cam](https://github.com/w2016561536/android_virtual_cam) xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
 #### broadcast, indirect intent, start activity
+
+[Android常用代码-微信QQ分享文件和文字](https://github.com/zhouzhuo810/BlogBackup/blob/98542d8f153012d38c0dff1d905a777f364566a7/source/_posts/Android%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81-%E5%BE%AE%E4%BF%A1QQ%E5%88%86%E4%BA%AB%E6%96%87%E4%BB%B6%E5%92%8C%E6%96%87%E5%AD%97.md)
+
+[常用的URL Scheme](https://www.jianshu.com/p/85aeae988443)
 
 [Android am help 帮助信息](http://www.atmcu.com/277.html)
 
