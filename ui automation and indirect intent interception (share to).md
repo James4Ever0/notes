@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T05:21:45.373Z'
+modified: '2022-11-01T05:24:58.314Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -34,6 +34,12 @@ that might need another supervisor
 [android virtual cam](https://github.com/w2016561536/android_virtual_cam) xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
 #### broadcast, indirect intent, start activity
+
+[Android am help 帮助信息](http://www.atmcu.com/277.html)
+
+[adb shell am start -d 启动应用之uri被*吃了](https://blog.csdn.net/jack123lian/article/details/78796250)
+
+[am start 启动activity 命令](https://www.jianshu.com/p/ab4bb360df36)
 
 [inspeckage](https://github.com/ac-pm/Inspeckage) Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 
