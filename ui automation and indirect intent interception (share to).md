@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T07:13:23.990Z'
+modified: '2022-11-01T07:17:19.934Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -50,7 +50,7 @@ autox [repo](https://github.com/kkevsekk1/AutoX/tree/84a1f59135433f40747d18ac080
 
 #### broadcast, indirect intent, start activity
 
-[highly suspected source of 'token', the miniapp json generator](https://github.com/tsuzcx/qq_apk/blob/dfa4bbb676ea1d1dc583317281980df86420ecb4/com.tencent.mobileqq/classes.jar/com/tencent/mobileqq/mini/share/MiniProgramOpenSdkUtil.java) the `MiniArkShareModelBuilder` `transformArkShareJson` `ShareQQArkHelper` `MiniProgramShareUtils`
+[highly suspected source of 'token', the miniapp json generator](https://github.com/tsuzcx/qq_apk/blob/dfa4bbb676ea1d1dc583317281980df86420ecb4/com.tencent.mobileqq/classes.jar/com/tencent/mobileqq/mini/share/MiniProgramOpenSdkUtil.java) the `MiniArkShareModelBuilder` `transformArkShareJson` `ShareQQArkHelper` `MiniProgramShareUtils` `MiniProgramShareUtils.newShareInfoRequest`
 
 [qq jumpparser](https://github.com/waterwitness/qooq/blob/e723920ac555e99d5325b1d4024552383713c28d/classes2/com/tencent/mobileqq/utils/JumpParser.java)
 
