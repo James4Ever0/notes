@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T03:28:18.194Z'
+modified: '2022-11-01T03:28:47.417Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -13,7 +13,7 @@ use `am broadcast` to send indirect intent
 
 [exploiting broadcast receivers](https://resources.infosecinstitute.com/topic/android-hacking-security-part-3-exploiting-broadcast-receivers/)
 
-[usage of am](https://blog.csdn.net/yelangjueqi/article/details/43231425)
+[usage of am](https://blog.csdn.net/yelangjueqi/article/details/43231425) and common android shell commands
 
 ## 腾讯微视
 
