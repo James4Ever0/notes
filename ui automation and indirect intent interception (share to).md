@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T05:59:17.730Z'
+modified: '2022-11-01T06:01:06.468Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -33,6 +33,7 @@ that might need another supervisor
 
 autox [repo](https://github.com/kkevsekk1/AutoX/tree/84a1f59135433f40747d18ac0805f1b4682bd032) [vscode plugin](https://github.com/kkevsekk1/Auto.js-VSCode-Extension)
 
+[发送意图-QQ文本消息分享](https://github.com/feifadaima/https-github.com-hyb1996-NoRootScriptDroid/blob/eb4fff77db555ba391aeb39c61d3334f33be38d7/app/src/main/assets/sample/%E5%BA%94%E7%94%A8/%E5%8F%91%E9%80%81%E6%84%8F%E5%9B%BE-QQ%E6%96%87%E6%9C%AC%E6%B6%88%E6%81%AF%E5%88%86%E4%BA%AB.js)
 
 [腾讯相关autojs](https://github.com/zmjjcghome/myAutoX/commit/f98c239ac3051fbd2a87d5913cf42125b9380af6#diff-905b728531cb73538660fa67cdc67dcc170d2e7cc9e7b73ba9b23eb3162aed53)
 
@@ -48,6 +49,8 @@ autox [repo](https://github.com/kkevsekk1/AutoX/tree/84a1f59135433f40747d18ac080
 [android virtual cam](https://github.com/w2016561536/android_virtual_cam) xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
 #### broadcast, indirect intent, start activity
+
+[mqqap doc](https://open.mobile.qq.com/api/mqq/index)
 
 [Android常用代码-微信QQ分享文件和文字](https://github.com/zhouzhuo810/BlogBackup/blob/98542d8f153012d38c0dff1d905a777f364566a7/source/_posts/Android%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81-%E5%BE%AE%E4%BF%A1QQ%E5%88%86%E4%BA%AB%E6%96%87%E4%BB%B6%E5%92%8C%E6%96%87%E5%AD%97.md)
 
