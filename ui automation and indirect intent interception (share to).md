@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T03:36:57.720Z'
+modified: '2022-11-01T03:38:40.779Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -24,6 +24,8 @@ modified: '2022-11-01T03:36:57.720Z'
 [poco introduction](https://airtest.doc.io.netease.com/en/tutorial/3_Poco_introduction/)
 
 ### broadcast, indirect intent
+
+[com.zwk.xintent](https://github.com/Xposed-Modules-Repo/com.zwk.xintent/releases) release
 
 use `am broadcast` to send indirect intent
 
