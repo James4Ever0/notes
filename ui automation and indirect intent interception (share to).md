@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T06:01:06.468Z'
+modified: '2022-11-01T06:04:20.892Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -50,7 +50,11 @@ autox [repo](https://github.com/kkevsekk1/AutoX/tree/84a1f59135433f40747d18ac080
 
 #### broadcast, indirect intent, start activity
 
-[mqqap doc](https://open.mobile.qq.com/api/mqq/index)
+[mqqapi doc](https://open.mobile.qq.com/api/mqq/index)
+
+[mqqapi example](https://github.com/Kingcool759/Mydemo/blob/193b3807bcd309f28e45f03351f4d396e0ff726d/app/src/main/java/com/example/mydemo/blog/Case57.java)
+
+[mqqapi 聊天 加群 名片](https://github.com/testacount1/HL4A/blob/fc2bd4289321fec27462aac2ac918d6b91646fe7/%E5%AE%89%E5%8D%93/src/main/java/%E6%94%BE%E8%AF%BE%E5%90%8E%E4%B9%90%E5%9B%AD%E9%83%A8/%E5%AE%89%E5%8D%93/%E5%B7%A5%E5%85%B7/%E9%93%BE%E6%8E%A5%E5%B7%A5%E5%85%B7.java)
 
 [Android常用代码-微信QQ分享文件和文字](https://github.com/zhouzhuo810/BlogBackup/blob/98542d8f153012d38c0dff1d905a777f364566a7/source/_posts/Android%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81-%E5%BE%AE%E4%BF%A1QQ%E5%88%86%E4%BA%AB%E6%96%87%E4%BB%B6%E5%92%8C%E6%96%87%E5%AD%97.md)
 
