@@ -2,10 +2,12 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T03:25:34.606Z'
+modified: '2022-11-01T03:26:31.127Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
+
+use `am broadcast` to send indirect intent
 
 
 
