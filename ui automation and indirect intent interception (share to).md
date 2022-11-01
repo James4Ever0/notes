@@ -1,9 +1,13 @@
 ---
 tags: [information gathering, scraping, stub, taobao, video]
-title: 淘宝短视频 腾讯微视 知乎视频 搜索
-created: 2022-05-05T09:19:10+00:00
-modified: 2022-10-27T13:15:53+08:00
+title: ui automation and indirect intent interception (share to)
+created: '2022-05-05T09:19:10.000Z'
+modified: '2022-11-01T03:25:34.606Z'
 ---
+
+## ui automation and indirect intent interception (share to)
+
+
 
 ## 腾讯微视
 
