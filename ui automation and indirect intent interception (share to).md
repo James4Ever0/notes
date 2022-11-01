@@ -2,10 +2,18 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T03:28:47.417Z'
+modified: '2022-11-01T03:32:04.134Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
+
+### appium
+
+[uiautomator2](https://github.com/appium/appium-uiautomator2-driver)
+
+[unlock android phone](https://github.com/appium/appium-android-driver/blob/master/docs/UNLOCK.md)
+
+### broadcast, indirect intent
 
 use `am broadcast` to send indirect intent
 
