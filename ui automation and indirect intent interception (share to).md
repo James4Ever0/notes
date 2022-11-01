@@ -2,12 +2,14 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T03:35:34.544Z'
+modified: '2022-11-01T03:36:57.720Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
 
 ### appium
+
+[write a test in python](https://appium.github.io/appium/docs/en/2.0/quickstart/test-py/)
 
 [appium desired capabilities](http://appium.io/docs/en/writing-running-appium/caps/index.html#uiautomator2)
 
