@@ -2,10 +2,12 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-01T20:14:33.624Z'
+modified: '2022-11-02T04:09:28.120Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
+
+"您的分享过于频繁，请稍后重试"
 
 how about let's use appium for unlocking phone, airtest for actual testing?
 
