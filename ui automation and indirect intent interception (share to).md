@@ -2,7 +2,7 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-02T04:20:04.193Z'
+modified: '2022-11-02T08:42:47.716Z'
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -12,6 +12,10 @@ modified: '2022-11-02T04:20:04.193Z'
 出现这种情况需要更换qq号
 
 how about let's use appium for unlocking phone, airtest for actual testing?
+
+appium can only unlock phone by removing password.
+
+password with ampersand needs to be quoted/escaped.
 
 that might need another supervisor
 
