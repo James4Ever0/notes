@@ -1,11 +1,13 @@
 ---
 tags: [API, audio source, information gathering, scraping, soul, text source, video source]
 title: Soul API
-created: '2022-07-08T15:57:27.000Z'
-modified: '2022-08-18T16:11:48.702Z'
+created: 2022-07-08T15:57:27+00:00
+modified: 2022-11-03T13:23:46+08:00
 ---
 
 # Soul APIs
+
+[soul绕过ssl双向验证](https://www.freesion.com/article/9811692393/) justTRUSTME(xposed)加上反编译SDK获取证书密码
 
 灵魂测试卡片信息，获取签名*
 https://api.soulapp.cn/html/measureResult/info/v2?userIdEcpt=加密用户ID
