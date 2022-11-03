@@ -2,10 +2,12 @@
 tags: [API, chatbot, image gathering, information gathering, search engine]
 title: 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
 created: 2022-07-10T00:16:40+08:00
-modified: 2022-09-11T11:35:10+08:00
+modified: 2022-11-03T13:22:14+08:00
 ---
 
 # 百度 搜狗 公开API 搜索引擎爬虫 Baidu Search APIs Chatbot APIs
+
+[zhihuq](https://github.com/baolintian/ZhihuQ) query zhihu articles by keywords and relevance
 
 [b站前100视频爬取](http://www.cncsto.com/article/102106)
 
