@@ -1,13 +1,12 @@
 ---
 tags: [API, audio source, information gathering, scraping, soul, text source, video source]
 title: Soul API
-created: 2022-07-08T15:57:27+00:00
-modified: 2022-11-03T13:29:58+08:00
+created: '2022-07-08T15:57:27.000Z'
+modified: '2022-11-03T08:43:33.446Z'
 ---
 
 # Soul APIs
 
-[发送tcp数据判断mitm当中箭头含义](https://wiki.python.org/moin/TcpCommunication#:~:text=Here%27s%20simple%20code%20to%20send%20and%20receive%20data,BUFFER_SIZE%20%3D%201024%209%20MESSAGE%20%3D%20"Hello%2C%20World%21")
 
 [soul绕过ssl双向验证](https://www.freesion.com/article/9811692393/) justTRUSTME(xposed)加上反编译SDK获取证书密码 [backup blog](https://blog.csdn.net/qq_38316655/article/details/104176882)
 

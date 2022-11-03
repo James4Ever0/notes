@@ -1,10 +1,12 @@
 ---
 title: qzone send shuoshuo
 created: '2022-10-31T16:02:13.788Z'
-modified: '2022-10-31T16:11:31.756Z'
+modified: '2022-11-03T08:42:43.304Z'
 ---
 
 # qzone send shuoshuo
+
+[opqbot qzone module replacement](https://github.com/RockChinQ/OpenCamwall/blob/master/pkg/qzone/model.py)
 
 [login via qrcode](https://github.com/YukariChiba/QZone-Bot/blob/master/tokens.py)
 
