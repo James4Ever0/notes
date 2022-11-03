@@ -2,7 +2,7 @@
 tags: [API, audio source, information gathering, scraping, soul, text source, video source]
 title: Soul API
 created: '2022-07-08T15:57:27.000Z'
-modified: '2022-11-03T08:43:33.446Z'
+modified: '2022-11-03T08:52:26.220Z'
 ---
 
 # Soul APIs
@@ -11,6 +11,36 @@ modified: '2022-11-03T08:43:33.446Z'
 [soul绕过ssl双向验证](https://www.freesion.com/article/9811692393/) justTRUSTME(xposed)加上反编译SDK获取证书密码 [backup blog](https://blog.csdn.net/qq_38316655/article/details/104176882)
 
 [use adb to setup mitmproxy on android](https://www.trickster.dev/post/setting-up-mitmproxy-with-android/)
+
+```bash
+cd ~/Library/Android/sdk/platform-tools/
+
+# Get the hash of the mitmproxy-ca certificate.
+openssl x509 -inform PEM -subject_hash_old -in ~/.mitmproxy/mitmproxy-ca.pem | head -1
+
+# We will use this hash value, append '.0' (dot zero) and use this as the filename for the resulting Android certificate
+cat ~/.mitmproxy/mitmproxy-ca.pem > c8750f0d.0
+openssl x509 -inform PEM -text -in ~/.mitmproxy/mitmproxy-ca.pem -out /dev/null >> c8750f0d.0
+
+# In an other terminal, we will start the emulator with writable /system volume
+cd ~/Library/Android/sdk/emulator/
+
+# In order to launch an available avd, we list them first.
+./emulator -list-avds
+./emulator -writable-system @Pixel_3a_XL_API_28
+
+# We go back to the first terminal and we use adb tool to transfert the certificate
+adb root
+adb push c8750f0d.0 /storage/emulated/0/Download
+
+# Then, we will mount the volume and get access to the shell
+adb shell mount -o rw,remount /;
+adb shell
+
+# In the device Android shell, we will move the certificate inside the system partition in the folder '/system/etc/security/'
+cp /storage/emulated/0/Download/c8750f0d.0 /system/etc/security/cacerts/
+chmod 644 /system/etc/security/cacerts/c8750f0d.0
+```
 
 可能的系统设置
 
