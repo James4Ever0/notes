@@ -1,8 +1,8 @@
 ---
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
-created: '2022-05-05T09:19:10.000Z'
-modified: '2022-11-02T08:42:47.716Z'
+created: 2022-05-05T09:19:10+00:00
+modified: 2022-11-03T13:21:27+08:00
 ---
 
 ## ui automation and indirect intent interception (share to)
@@ -36,6 +36,10 @@ that might need another supervisor
 [poco introduction](https://airtest.doc.io.netease.com/en/tutorial/3_Poco_introduction/)
 
 ## autojs autox.js
+
+[autojs code collection](https://blog.csdn.net/snailuncle2/article/details/115278704)
+
+
 
 ```bash
 am start -n org.autojs.autoxjs.v6/org.autojs.autojs.external.shortcut.ShortcutActivity -a android.intent.action.MAIN -e path "/storage/emulated/0/脚本/show_toast.js"
