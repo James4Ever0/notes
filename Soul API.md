@@ -2,12 +2,25 @@
 tags: [API, audio source, information gathering, scraping, soul, text source, video source]
 title: Soul API
 created: 2022-07-08T15:57:27+00:00
-modified: 2022-11-03T13:24:21+08:00
+modified: 2022-11-03T13:29:58+08:00
 ---
 
 # Soul APIs
 
 [soul绕过ssl双向验证](https://www.freesion.com/article/9811692393/) justTRUSTME(xposed)加上反编译SDK获取证书密码 [backup blog](https://blog.csdn.net/qq_38316655/article/details/104176882)
+
+[use adb to setup mitmproxy on android](https://www.trickster.dev/post/setting-up-mitmproxy-with-android/)
+
+可能的系统设置
+
+```log
+su -c settings list global | grep proxy
+global_http_proxy_exclusion_list=
+                                global_http_proxy_host=
+                      global_http_proxy_port=0
+             global_proxy_pac_url=
+ http_proxy=:0
+```
 
 灵魂测试卡片信息，获取签名*
 https://api.soulapp.cn/html/measureResult/info/v2?userIdEcpt=加密用户ID
