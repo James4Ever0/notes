@@ -1,10 +1,12 @@
 ---
 title: b站根据视频内容自动生成推荐的标签
 created: '2022-10-25T06:16:01.000Z'
-modified: '2022-11-04T03:38:49.717Z'
+modified: '2022-11-04T03:50:38.545Z'
 ---
 
 # b站根据视频内容自动生成推荐的标签
+
+[how to get upload_id](https://github.com/xunsword/bilibil/blob/2abf66a9771daebc12c181f88d8af82613975548/bilibili_up.py)
 
 只有PC网页端有这个 手机端没有 可能是新功能
 
