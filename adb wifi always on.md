@@ -1,6 +1,6 @@
 ---
 created: 2022-11-04T09:10:42+08:00
-modified: 2022-11-04T09:18:48+08:00
+modified: 2022-11-04T09:21:52+08:00
 ---
 
 # adb wifi always on
@@ -22,10 +22,20 @@ stop adbd
 start adbd
 ```
 
-set things under `/data/adb/services.d/`
+set things under `/data/adb/services.d/` and make them executable
 
 ```bash
 mount -o remount,rw /
 ```
 
 create this under `/system/etc/init.d/`
+
+```bash
+service adb_wifi_enable /system/bin/adb_wifi_enable.sh
+    disabled
+    oneshot
+    seclabel u:r:magisk:s0
+
+on property:sys.boot_completed=1
+    start adb_wifi_enable
+```
