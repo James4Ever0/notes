@@ -1,7 +1,7 @@
 ---
 title: b站根据视频内容自动生成推荐的标签
 created: '2022-10-25T06:16:01.000Z'
-modified: '2022-11-04T03:50:38.545Z'
+modified: '2022-11-04T03:56:12.133Z'
 ---
 
 # b站根据视频内容自动生成推荐的标签
@@ -17,3 +17,6 @@ https://member.bilibili.com/x/vupre/web/archive/types/predict
 
 标签推荐 GET（可能有延迟 需要请求两次 因为第一次标签数量较少）：
 https://member.bilibili.com/x/vupre/web/tag/recommend
+
+获取活动标签:
+https://member.bilibili.com/x/vupre/web/topic/type?type_id=21&pn=0&ps=200&title=20210210_298667075925_waou_5s&t=1667530591393
