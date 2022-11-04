@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-10-27T10:36:17.937Z'
+modified: '2022-11-04T10:10:47.300Z'
 ---
 
 # Video delogo/inpainting
@@ -14,6 +14,14 @@ modified: '2022-10-27T10:36:17.937Z'
 [darktable lua api and scripting](https://darktable-org.github.io/luadocs/lua.scripts.manual/scripts/examples/api_version)
 
 [darktable local contrast](https://docs.darktable.org/usermanual/development/en/module-reference/processing-modules/local-contrast/) darktable is an open-sourced photography postprocessing software
+
+configurations:
+```log
+details: 443
+highlights: 36
+shadows: 25
+midtone range: 0.16
+```
 
 [imagej clahe local contrast enhancement](https://imagej.net/plugins/clahe)
 
