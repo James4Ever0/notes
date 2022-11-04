@@ -2,7 +2,7 @@
 tags: [ocr, picture to text]
 title: OCR tools
 created: '2022-08-20T17:55:19.273Z'
-modified: '2022-08-20T18:27:25.933Z'
+modified: '2022-11-04T09:57:04.686Z'
 ---
 
 # OCR tools
@@ -21,4 +21,4 @@ paddleocr
 
 easyocr
 
-[pearocr](https://github.com/PearOCR/website)
+[pearocr](https://github.com/PearOCR/website) client side webpage/browser based ocr
