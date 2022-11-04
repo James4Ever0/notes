@@ -1,9 +1,9 @@
 ---
 created: 2022-11-04T09:10:42+08:00
-modified: 2022-11-04T09:21:52+08:00
+modified: 2022-11-04T09:22:03+08:00
 ---
 
-# adb wifi always on
+# adb over wifi always on
 
 warning: could be dangerous cause adb remote connections seem without any password. consider protect that with some proxy.
 
