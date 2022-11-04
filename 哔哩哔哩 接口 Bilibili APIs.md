@@ -2,12 +2,14 @@
 tags: [API, bilibili, stub]
 title: 哔哩哔哩 接口 Bilibili APIs
 created: '2022-07-09T15:30:05.000Z'
-modified: '2022-11-04T03:32:04.672Z'
+modified: '2022-11-04T03:41:41.444Z'
 ---
 
 # 哔哩哔哩 接口 Bilibili APIs
 
 [bilibili上传工具 biliup](https://github.com/biliup/biliup)
+
+[bilibili toolkit](https://github.com/Hsury/Bilibili-Toolkit)
 
 api合集
 https://www.bilibili.com/read/cv3430609/
