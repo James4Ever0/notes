@@ -2,10 +2,12 @@
 tags: [image processing, image upscaling, super resolution, video processing]
 title: Image Restoration Upscaling
 created: '2022-05-31T06:17:59.000Z'
-modified: '2022-08-18T15:31:15.883Z'
+modified: '2022-11-04T02:20:22.990Z'
 ---
 
 # Image Restoration Upscaling Inpainting 图像修复 超分辨率
+
+[sota image inpainting: lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
 https://github.com/DmitryUlyanov/deep-image-prior
 
