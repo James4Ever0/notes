@@ -1,14 +1,14 @@
 ---
 title: bilibili直播api 直播工具 自动直播 自动推流
 created: '2022-11-04T03:24:35.605Z'
-modified: '2022-11-04T03:37:47.656Z'
+modified: '2022-11-04T03:52:31.035Z'
 ---
 
 # bilibili直播api 直播工具 自动直播 自动推流
 
 ## 开播
 
-[b站网页获取开播地址](https://link.bilibili.com/p/center/index#/my-room/start-live)
+[b站网页获取开播地址](https://link.bilibili.com/p/center/index#/my-room/start-live) rtmp
 
 [【神奇弹幕】哔哩哔哩直播万能机器人，弹幕姬+答谢姬+回复姬+点歌姬+各种小骚操作，目前唯一可编程机器人](https://github.com/iwxyi/Bilibili-MagicalDanmaku) 可以实现自动开播
 
