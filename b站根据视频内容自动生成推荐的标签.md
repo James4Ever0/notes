@@ -1,8 +1,17 @@
 ---
-created: 2022-10-25T14:16:01+08:00
-modified: 2022-11-03T11:00:26+08:00
+title: b站根据视频内容自动生成推荐的标签
+created: '2022-10-25T06:16:01.000Z'
+modified: '2022-11-04T03:38:49.717Z'
 ---
 
 # b站根据视频内容自动生成推荐的标签
 
 只有PC网页端有这个 手机端没有 可能是新功能
+
+b站最新更新了这两个接口 需要传入upload_id 具体参数抓包获取
+
+分区推荐 POST：
+https://member.bilibili.com/x/vupre/web/archive/types/predict
+
+标签推荐 GET（可能有延迟 需要请求两次 因为第一次标签数量较少）：
+https://member.bilibili.com/x/vupre/web/tag/recommend
