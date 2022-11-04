@@ -1,7 +1,7 @@
 ---
 title: android packet capture
 created: '2022-11-04T01:22:07.000Z'
-modified: '2022-11-04T01:37:26.970Z'
+modified: '2022-11-04T02:40:26.849Z'
 ---
 
 # android packet capture
@@ -11,6 +11,8 @@ modified: '2022-11-04T01:37:26.970Z'
 use frida scripts specific to applications
 
 justtrustme xposed
+
+sslunpinning xposed
 
 [apk-mitm](https://github.com/shroudedcode/apk-mitm) by repacking apk and resigning
 
