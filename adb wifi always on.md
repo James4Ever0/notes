@@ -1,6 +1,7 @@
 ---
-created: 2022-11-04T09:10:42+08:00
-modified: 2022-11-04T09:22:03+08:00
+title: adb wifi always on
+created: '2022-11-04T01:10:42.000Z'
+modified: '2022-11-04T01:40:57.569Z'
 ---
 
 # adb over wifi always on
@@ -26,6 +27,7 @@ set things under `/data/adb/services.d/` and make them executable
 
 ```bash
 mount -o remount,rw /
+# then you can modify /sytem/etc/init.d, but not /system/bin cause it is a copy of /data/system/bin. you should create script there.
 ```
 
 create this under `/system/etc/init.d/`
