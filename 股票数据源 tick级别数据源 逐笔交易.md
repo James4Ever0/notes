@@ -1,14 +1,14 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-11-05T11:47:35.251Z'
+modified: '2022-11-05T12:53:55.453Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
 
 ## 交易接口
 
-[现在哪些券商的TradeX.dll接口还能用](https://www.55188.com/thread-8939286-1-1.html)
+[现在哪些券商的TradeX.dll接口还能用](https://www.55188.com/thread-8939286-1-1.html) 需要注册论坛账号 达到要求才能浏览内容
 
 [trade.dll tradex.dll](https://github.com/James4Ever0/Order9)
 
