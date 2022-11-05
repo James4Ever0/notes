@@ -1,7 +1,7 @@
 ---
 title: 国信iquant平台分析
 created: '2022-11-05T06:29:42.985Z'
-modified: '2022-11-05T07:18:05.669Z'
+modified: '2022-11-05T07:21:14.208Z'
 ---
 
 # 国信iquant平台分析
@@ -12,4 +12,9 @@ modified: '2022-11-05T07:18:05.669Z'
 
 [量化交易笔记](https://alg-trade.com/)
 
+[qmt mini使用](https://www.imooc.com/article/328721)
+
+[](http://30daydo.com/article/44496)
+
+[迅投qmt微信专栏合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3ODcyNzc5MA==&action=getalbum&album_id=2459911668907491328&scene=173&from_msgid=2247483667&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
