@@ -2,12 +2,16 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-11-04T10:10:47.300Z'
+modified: '2022-11-05T06:44:56.912Z'
 ---
 
 # Video delogo/inpainting
 
 ## image local contrast enhancement, for removing hard-to-detect watermarks
+
+experiment path:
+
+`pyjom/tests/remove_subtle_watermark_local_contrast_ocr`
 
 [bing query for image local contrast](https://cn.bing.com/search?q=image+local+contrast&qs=n&form=QBRE&sp=-1&pq=image+local+contrast&sc=2-20&sk=&cvid=55BB4B6B6AE74F8FA6271F34C6201403&ghsh=0&ghacc=0&ghpl=)
 
