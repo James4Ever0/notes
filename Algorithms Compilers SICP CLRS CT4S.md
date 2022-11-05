@@ -1,10 +1,13 @@
 ---
-tags: [self-study, algorithms]
-created: 2022-05-31T13:22:14+08:00
-modified: 2022-05-31T13:26:52+08:00
+tags: [algorithms, self-study]
+title: Algorithms Compilers SICP CLRS CT4S
+created: '2022-05-31T05:22:14.000Z'
+modified: '2022-11-05T10:16:13.557Z'
 ---
 
 # Algorithms Compilers SICP CLRS CT4S
+
+[the algorithms](https://the-algorithms.com/)
 
 introduction to algorithms clrs 4th edition in python:
 https://zhuanlan.zhihu.com/p/466819939
