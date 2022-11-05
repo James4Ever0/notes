@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-11-05T11:01:00.220Z'
+modified: '2022-11-05T11:17:05.235Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -11,6 +11,12 @@ modified: '2022-11-05T11:01:00.220Z'
 [Quantaxis](https://github.com/yutiansut/QUANTAXIS)
 
 [tdxtradeserver](https://github.com/corefan/TdxTradeServer)
+
+[tradex-api](https://github.com/southtop/TradeX-API)
+
+[tdxapi2](https://github.com/fswzb/tdxapi2)
+
+[alphaquant](https://github.com/fswzb/alphaquant)
 
 ## 数据来源
 
