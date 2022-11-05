@@ -1,7 +1,7 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-10-22T13:05:40.667Z'
+modified: '2022-11-05T11:01:00.220Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
@@ -16,7 +16,9 @@ modified: '2022-10-22T13:05:40.667Z'
 
 逐笔数据是计算涨速的关键因素
 
-[quantaxis]() secretely using pytdx and tdxtradeserver as backends
+[ashare](https://github.com/fswzb/Ashare)
+
+[quantaxis](https://github.com/yutiansut/QUANTAXIS) secretely using pytdx and tdxtradeserver as backends
 
 [akshare](https://github.com/akfamily/akshare)
 
