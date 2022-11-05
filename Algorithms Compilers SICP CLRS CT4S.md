@@ -2,7 +2,7 @@
 tags: [algorithms, self-study]
 title: Algorithms Compilers SICP CLRS CT4S
 created: '2022-05-31T05:22:14.000Z'
-modified: '2022-11-05T10:16:13.557Z'
+modified: '2022-11-05T15:09:15.089Z'
 ---
 
 # Algorithms Compilers SICP CLRS CT4S
@@ -11,6 +11,8 @@ modified: '2022-11-05T10:16:13.557Z'
 
 introduction to algorithms clrs 4th edition in python:
 https://zhuanlan.zhihu.com/p/466819939
+
+[official clrs 4th edition python code](https://github.com/James4Ever0/CLRS-Python-Implementation)
 
 clrs 3th edition python code:
 https://github.com/tonywangcn/Introduction-to-Algorithms-3rd-Edition-python-code
