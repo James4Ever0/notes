@@ -1,8 +1,8 @@
 ---
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
-created: 2022-06-09T14:38:29+08:00
-modified: 2022-08-29T16:15:56+08:00
+created: '2022-06-09T06:38:29.000Z'
+modified: '2022-11-05T15:27:41.613Z'
 ---
 
 # quantative financial stock market analysis
@@ -41,7 +41,7 @@ joinquant
 
 [easytrader](https://github.com/shidenggui/easytrader)
 
-[实盘易 支持多个客户端](http://www.iguuu.com/e)
+[实盘易 支持多个客户端](http://www.iguuu.com/e) 服务端要钱的 sdk都是服务端的client
 
 ## tools
 
