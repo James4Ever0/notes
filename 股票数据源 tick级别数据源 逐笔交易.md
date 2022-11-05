@@ -1,12 +1,15 @@
 ---
 title: 股票数据源 tick级别数据源 逐笔交易
 created: '2022-10-22T11:22:21.924Z'
-modified: '2022-11-05T11:17:05.235Z'
+modified: '2022-11-05T11:27:10.820Z'
 ---
 
 # 股票数据源 tick级别数据源 逐笔交易
 
 ## 交易接口
+
+[
+现在哪些券商的TradeX.dll接口还能用](https://www.55188.com/thread-8939286-1-1.html)
 
 [Quantaxis](https://github.com/yutiansut/QUANTAXIS)
 
