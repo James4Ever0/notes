@@ -2,12 +2,14 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-11-05T10:08:56.430Z'
+modified: '2022-11-05T10:11:01.089Z'
 ---
 
 # Video delogo/inpainting
 
 ## image local contrast enhancement, for removing hard-to-detect watermarks
+
+maybe you can use the same trick (context preserving sliding window) from your search engine to here (image preprocessing)!
 
 paddleocr识别效果最好 可以识别水印位置 以及文字
 
