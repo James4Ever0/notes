@@ -1,10 +1,12 @@
 ---
 title: React Native
 created: '2022-11-07T17:31:05.543Z'
-modified: '2022-11-07T17:31:51.856Z'
+modified: '2022-11-07T17:36:14.525Z'
 ---
 
 # React Native
+
+**The key is to see immediate response directly after changes**
 
 React Native is a tool helping to build cross-platform mobile apps.
 
