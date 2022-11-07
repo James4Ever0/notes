@@ -1,11 +1,65 @@
 ---
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
-title: Python ignore all exceptions and continue execute next line in given section of code
+title: 'Python Bytecode, Time Travel Debugging, Resurrection, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code'
 created: '2022-07-11T14:57:00.000Z'
-modified: '2022-08-19T04:36:03.270Z'
+modified: '2022-11-07T06:49:09.778Z'
 ---
 
-# Python ignore all exceptions and continue execute next line in given section of code
+# Python Bytecode, Time Travel Debugging, Resurrection, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
+
+## bookmarks
+
+```html
+https://docs.python.org/3/library/code.html
+https://docs.python.org/3/library/cmd.html
+https://docs.python.org/3/library/threading.html#threading.settrace
+https://mail.python.org/archives/list/python-dev@python.org/thread/OGPO6KWHQGO47KOJKNEWNZS3LLMVXBEV/
+https://github.com/TomOnTime/timetravelpdb
+https://github.com/nfd/on_error_resume_next/blob/master/basic.py
+https://github.com/search?p=5&q=BEFORE_ASYNC_WITH&type=Code
+https://github.com/Martmists-GH/pyasm/blob/a306f23cbed13505687eb0ca86f010e5fe3101b5/asm/ops/py35.py
+https://github.com/Martmists-GH/pyasm
+https://github.com/kr1surb4n/copypaster_filedecks/blob/3f2ca44c4f984652585a1e7f1e589966e8867da6/filedecks_archive/python/library/dis/Python%20Bytecode%20Instructions/opcodeBEFOREASYNCWIT
+https://github.com/kholia/dedrop/blob/60da43889be89950cadbbb6b54489eb1841c70da/src/dedrop-ng/opcode_mapper.py
+https://github.com/brettlangdon/gython
+https://github.com/Exitialium/Github-Drive/blob/5284358a163c4ea25c63f4157d41af5f638950a2/deap/include/python3.9/opcode.h
+https://github.com/ajalt/fuckitpy
+https://code.lardcave.net/2020/12/29/1/
+https://github.com/asrp/python_terp/blob/master/test/buggy_ex.py
+https://github.com/HugoDelval/reversibleInterpreter
+https://github.com/topics/reversible-programming-language
+https://github.com/jndean/railway/wiki/Variables,-Data-and-Scope
+https://cn.bing.com/search?q=python+run+bytecode&qs=UT&pq=python+run+byteco&sc=1-17&cvid=79F89EEA4A564540BF79A8DBB63284CE&FORM=QBRE&sp=1
+https://opensource.com/article/18/4/introduction-python-bytecode
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+https://github.com/nedbat/byterun
+https://unpyc.sourceforge.net/Opcodes.html
+https://docs.python.org/3/library/codeop.html
+https://docs.python.org/3/library/dis.html
+https://docs.python.org/3/library/dis.html
+https://docs.python.org/3/library/codeop.html
+https://blog.quarkslab.com/building-an-obfuscated-python-interpreter-we-need-more-opcodes.html
+https://github.com/fietensen/PyOpcodeAsm
+https://pypi.org/project/BytecodeAssembler/
+http://probablyprogramming.com/2008/04/18/ppya-python-assembler
+https://pypi.org/project/BytecodeAssembler/#description
+http://peak.telecommunity.com/DevCenter/BytecodeAssembler
+https://github.com/pib/papaya
+https://www.programcreek.com/python/?CodeExample=get+opcode
+https://unpyc.sourceforge.net/Opcodes.html
+https://www.synopsys.com/blogs/software-security/understanding-python-bytecode/
+https://github.com/neuroo/equip
+https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/
+https://tenthousandmeters.com/blog/python-behind-the-scenes-5-how-variables-are-implemented-in-cpython/
+https://discuss.python.org/t/exec-with-return-keyword/19916/25
+https://cn.bing.com/search?q=interactive%20debugging%20python&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&pq=interactive%20debugging%20&sc=3-22&sk=&cvid=30D653A233984DD685DE7CE79AD46318&ghsh=0&ghacc=0&ghpl=
+https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
+https://nedbatchelder.com/blog/200509/interactive_debugging_in_python.html
+https://derpops.bike/python/computers/kubernetes/2017/10/26/interactive-debugging-python-kubernetes.html
+https://bytes.com/topic/python/answers/46053-resume-after-exception
+https://pytrace.com/
+https://github.com/gleb-sevruk/pycrunch-trace/issues
+```
 
 contextlib usage detail, to make customized "with" statements:
 
