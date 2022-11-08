@@ -1,10 +1,10 @@
 ---
-title: Remove bad/large files from git repo
+title: Remove bad/large files from git repo history
 created: '2022-11-08T16:24:06.896Z'
-modified: '2022-11-08T16:36:12.349Z'
+modified: '2022-11-08T16:38:12.888Z'
 ---
 
-# Remove bad/large files from git repo
+# Remove bad/large files from git repo history
 
 [remove sensitive data from github](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
