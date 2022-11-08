@@ -1,7 +1,7 @@
 ---
 title: 'Hot Reloading, Exception Capture'
 created: '2022-11-08T05:51:45.546Z'
-modified: '2022-11-08T06:02:28.192Z'
+modified: '2022-11-08T06:02:34.369Z'
 ---
 
 # Hot Reloading, Exception Capture
@@ -18,4 +18,4 @@ modified: '2022-11-08T06:02:28.192Z'
 
 [Official DAP client reference](https://github.com/microsoft/debugpy/wiki/DAP-Client-reference)
 
-[pydevd_reload](https://github.com/fyrestone/pydevd_reload)
+[pydevd_reload](https://github.com/fyrestone/pydevd_reload) An enhanced hot reload module from PyDev
