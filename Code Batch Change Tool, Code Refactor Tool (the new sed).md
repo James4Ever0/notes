@@ -2,7 +2,7 @@
 tags: [code refactoring, programming language understanding, sed alternative, semantic editing, stub]
 title: 'Code Batch Change Tool, Code Refactor Tool (the new sed)'
 created: '2022-05-28T13:57:18.000Z'
-modified: '2022-11-08T16:07:35.620Z'
+modified: '2022-11-08T16:07:58.179Z'
 ---
 
 # Code Batch Change Tool, Code Refactor Tool (the new sed)
@@ -25,7 +25,7 @@ modified: '2022-11-08T16:07:35.620Z'
 
 ### python
 
-[redbaron repo]() and [doc]()
+[redbaron repo](https://github.com/PyCQA/redbaron) and [doc](https://redbaron.readthedocs.io/en/latest/tuto.html#)
 
 [bowler](https://github.com/facebookincubator/Bowler)
 
