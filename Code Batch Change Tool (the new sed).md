@@ -2,7 +2,7 @@
 tags: [code refactoring, programming language understanding, sed alternative, semantic editing, stub]
 title: Code Batch Change Tool (the new sed)
 created: '2022-05-28T13:57:18.000Z'
-modified: '2022-11-08T15:58:33.783Z'
+modified: '2022-11-08T15:59:31.071Z'
 ---
 
 # Code Batch Change Tool (the new sed)
@@ -13,11 +13,7 @@ modified: '2022-11-08T15:58:33.783Z'
 
 ## language independent
 
-comby.dev multiple language support:
-https://comby.dev/docs/get-started
-
-refactor rewrite javascript code jscodeshift:
-https://www.toptal.com/javascript/write-code-to-rewrite-your-code
+[comby.dev](https://comby.dev/docs/get-started) multiple language support
 
 [semgrep](https://semgrep.dev/docs/cli-reference/)
 
@@ -25,9 +21,11 @@ https://www.toptal.com/javascript/write-code-to-rewrite-your-code
 
 ### javascript
 
+[jscodeshift](https://www.toptal.com/javascript/write-code-to-rewrite-your-code) refactor rewrite javascript code
+
 ### python
 
-[bowler]()
+[bowler](https://github.com/facebookincubator/Bowler)
 
 [refactor](https://github.com/isidentical/refactor)
 
