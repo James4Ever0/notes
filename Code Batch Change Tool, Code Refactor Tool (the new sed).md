@@ -1,11 +1,11 @@
 ---
 tags: [code refactoring, programming language understanding, sed alternative, semantic editing, stub]
-title: Code Batch Change Tool (the new sed)
+title: 'Code Batch Change Tool, Code Refactor Tool (the new sed)'
 created: '2022-05-28T13:57:18.000Z'
-modified: '2022-11-08T15:59:31.071Z'
+modified: '2022-11-08T15:59:54.174Z'
 ---
 
-# Code Batch Change Tool (the new sed)
+# Code Batch Change Tool, Code Refactor Tool (the new sed)
 
 ## design pattern
 
