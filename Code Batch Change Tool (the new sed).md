@@ -2,14 +2,14 @@
 tags: [code refactoring, programming language understanding, sed alternative, semantic editing, stub]
 title: Code Batch Change Tool (the new sed)
 created: '2022-05-28T13:57:18.000Z'
-modified: '2022-11-08T15:57:41.812Z'
+modified: '2022-11-08T15:58:33.783Z'
 ---
 
 # Code Batch Change Tool (the new sed)
 
 ## design pattern
 
-[PyDesignPattern]()
+[PyDesignPattern](https://github.com/luoweifu/PyDesignPattern) Design Pattern that described by Python, This is the source code for the book of Everybody Know Design Patterns.
 
 ## language independent
 
@@ -29,8 +29,8 @@ https://www.toptal.com/javascript/write-code-to-rewrite-your-code
 
 [bowler]()
 
-[refactor]()
+[refactor](https://github.com/isidentical/refactor)
 
-[pasta]()
+[pasta](https://github.com/google/pasta)
 
 
