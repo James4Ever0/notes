@@ -1,7 +1,7 @@
 ---
 title: 'Hot Reloading, Exception Capture'
 created: '2022-11-08T05:51:45.546Z'
-modified: '2022-11-08T06:00:54.684Z'
+modified: '2022-11-08T06:01:39.620Z'
 ---
 
 # Hot Reloading, Exception Capture
@@ -15,3 +15,5 @@ modified: '2022-11-08T06:00:54.684Z'
 [DAP client in neovim](https://github.com/mfussenegger/nvim-dap)
 
 [DAP client in python](https://github.com/abhilashgupta/DAP-client/blob/master/Client_class.ipynb)
+
+[Official DAP client reference](https://github.com/microsoft/debugpy/wiki/DAP-Client-reference)
