@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:22:32.690Z'
+modified: '2022-11-09T17:24:02.773Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -17,6 +17,8 @@ modified: '2022-11-09T17:22:32.690Z'
 [neo4j python driver](https://github.com/neo4j/neo4j-python-driver)
 
 ### wrappers
+
+[pypher](https://github.com/emehrkay/Pypher) cypher builder in python
 
 [neopy](https://github.com/pawamoy/neopy)
 
