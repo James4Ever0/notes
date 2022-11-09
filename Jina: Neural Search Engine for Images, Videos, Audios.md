@@ -2,12 +2,14 @@
 tags: [AI, media search engine, search engine, self-hosted]
 title: 'Jina: Neural Search Engine for Images, Videos, Audios'
 created: '2022-05-29T05:18:28.000Z'
-modified: '2022-11-09T17:31:01.617Z'
+modified: '2022-11-09T17:35:38.163Z'
 ---
 
 # Jina: Neural Search Engine for Images, Videos, Audios
 
 [haystack](https://github.com/deepset-ai/haystack)
+
+tutorial: [build QA pipeline with no dependencies with haystack](https://haystack.deepset.ai/tutorials/03_basic_qa_pipeline_without_elasticsearch)
 
 [towhee](https://github.com/towhee-io/towhee)
 
