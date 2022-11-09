@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:24:02.773Z'
+modified: '2022-11-09T17:26:21.592Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -16,11 +16,15 @@ modified: '2022-11-09T17:24:02.773Z'
 
 [neo4j python driver](https://github.com/neo4j/neo4j-python-driver)
 
+[neo4j python graph data science driver](https://github.com/neo4j/graph-data-science-client)
+
 ### wrappers
 
-[pypher](https://github.com/emehrkay/Pypher) cypher builder in python
+[pypher](https://github.com/emehrkay/Pypher) cypher builder in python [intro](https://neo4j.com/blog/express-cypher-queries-pure-python-pypher/)
 
 [neopy](https://github.com/pawamoy/neopy)
+
+[pygds](https://github.com/stellasia/pygds) a python wrapper to call Neo4j Graph Data Science procedures from python using the Neo4j python driver
 
 ## mindsdb
 
