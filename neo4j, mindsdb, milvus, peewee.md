@@ -1,10 +1,22 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:26:46.597Z'
+modified: '2022-11-09T17:32:46.574Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
+
+## peewee
+
+### docs
+
+[official doc](http://docs.peewee-orm.com/)
+
+## milvus
+
+### docs
+
+[official doc](https://milvus.io/docs)
 
 ## neo4j
 
