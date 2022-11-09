@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:03:20.806Z'
+modified: '2022-11-09T17:20:18.337Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -21,6 +21,8 @@ modified: '2022-11-09T17:03:20.806Z'
 [neopy](https://github.com/pawamoy/neopy)
 
 ## mindsdb
+
+since mindsdb is sql-based it is time to create monkey patches for sqlalchemy core?
 
 ### tools
 
