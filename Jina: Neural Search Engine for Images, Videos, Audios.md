@@ -2,12 +2,12 @@
 tags: [AI, media search engine, search engine, self-hosted]
 title: 'Jina: Neural Search Engine for Images, Videos, Audios'
 created: '2022-05-29T05:18:28.000Z'
-modified: '2022-10-14T06:01:43.740Z'
+modified: '2022-11-09T17:30:50.403Z'
 ---
 
 # Jina: Neural Search Engine for Images, Videos, Audios
 
-[haystack]
+[haystack]()
 
 [towhee](https://github.com/towhee-io/towhee)
 
