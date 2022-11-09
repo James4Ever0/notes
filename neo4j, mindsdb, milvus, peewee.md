@@ -1,10 +1,10 @@
 ---
-title: 'neo4j, mindsdb'
+title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T16:49:17.702Z'
+modified: '2022-11-09T16:56:02.190Z'
 ---
 
-# neo4j, mindsdb
+# neo4j, mindsdb, milvus, peewee
 
 ## neo4j
 
@@ -20,3 +20,6 @@ modified: '2022-11-09T16:49:17.702Z'
 
 [neopy](https://github.com/pawamoy/neopy)
 
+## mindsdb
+
+### docs
