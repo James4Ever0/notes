@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T16:56:50.985Z'
+modified: '2022-11-09T16:57:35.320Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -22,10 +22,14 @@ modified: '2022-11-09T16:56:50.985Z'
 
 ## mindsdb
 
+### tools
+
+[lights]
+
 ### docs
 
 [official doc](https://docs.mindsdb.com/)
 
 ### wrappers
 
-[mindsdb ]
+[mindsdb python sdk](https://github.com/mindsdb/mindsdb_python_sdk)
