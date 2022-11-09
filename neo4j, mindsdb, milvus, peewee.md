@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T16:57:40.451Z'
+modified: '2022-11-09T16:57:57.667Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -24,7 +24,7 @@ modified: '2022-11-09T16:57:40.451Z'
 
 ### tools
 
-[lightwood](https://github.com/mindsdb/lightwood)
+[Lightwood](https://github.com/mindsdb/lightwood) is an AutoML framework that enables you to generate and customize machine learning pipelines declarative syntax called JSON-AI
 
 ### docs
 
