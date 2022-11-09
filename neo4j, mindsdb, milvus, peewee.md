@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:26:21.592Z'
+modified: '2022-11-09T17:26:46.597Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -11,6 +11,8 @@ modified: '2022-11-09T17:26:21.592Z'
 ### docs
 
 [graph data science](https://neo4j.com/docs/graph-data-science/current/operations-reference/algorithm-references/)
+
+[python driver doc](https://neo4j.com/docs/python-manual/current/get-started/)
 
 ### drivers
 
