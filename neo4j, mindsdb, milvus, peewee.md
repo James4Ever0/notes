@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:21:24.584Z'
+modified: '2022-11-09T17:22:12.958Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -41,6 +41,8 @@ results = engine.execute(sql)
 [official doc](https://docs.mindsdb.com/)
 
 ### wrappers
+
+[sqlalchemy 2.0 doc](https://docs.sqlalchemy.org/en/20/tutorial/engine.html)
 
 [mindsdb native](https://github.com/mindsdb/mindsdb_native)
 
