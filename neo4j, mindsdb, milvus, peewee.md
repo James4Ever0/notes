@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:20:18.337Z'
+modified: '2022-11-09T17:21:24.584Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -23,6 +23,14 @@ modified: '2022-11-09T17:20:18.337Z'
 ## mindsdb
 
 since mindsdb is sql-based it is time to create monkey patches for sqlalchemy core?
+
+```python
+from sqlalchemy import text
+  
+# write the SQL query inside the text() block
+sql = text('SELECT * from BOOKS WHERE BOOKS.book_price > 50')
+results = engine.execute(sql)
+```
 
 ### tools
 
