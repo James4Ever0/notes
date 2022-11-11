@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-09T17:32:46.574Z'
+modified: '2022-11-11T09:23:56.722Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -19,6 +19,10 @@ modified: '2022-11-09T17:32:46.574Z'
 [official doc](https://milvus.io/docs)
 
 ## neo4j
+
+### OGM, object-graph mapping
+
+
 
 ### docs
 
