@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-11T09:23:56.722Z'
+modified: '2022-11-11T10:01:38.118Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -22,7 +22,11 @@ modified: '2022-11-11T09:23:56.722Z'
 
 ### OGM, object-graph mapping
 
+[activegraph](https://github.com/neo4jrb/activegraph)
 
+[cypher](https://github.com/bratushka/cypher)
+
+[neomodel](https://github.com/neo4j-contrib/neomodel)
 
 ### docs
 
