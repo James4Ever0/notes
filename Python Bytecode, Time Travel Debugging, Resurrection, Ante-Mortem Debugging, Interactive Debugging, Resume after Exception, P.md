@@ -2,7 +2,7 @@
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
 title: Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue
 created: 2022-07-11T14:57:00+00:00
-modified: 2022-11-12T01:47:47+08:00
+modified: 2022-11-12T01:49:06+08:00
 ---
 
 # Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
@@ -14,6 +14,8 @@ reload code blocks which are syntatically different, if black formatter fails af
 decide to reload extra parts of functions in the next run if selected
 
 load newly added functions, remove old functions, execute added lines, reload entire module and update namespace depending on condition
+
+check other programming language whether it jas similar capabilities
 
 either bytecode or modify the source code
 
