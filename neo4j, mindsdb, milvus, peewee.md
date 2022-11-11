@@ -1,7 +1,7 @@
 ---
 title: 'neo4j, mindsdb, milvus, peewee'
 created: '2022-11-09T16:43:16.660Z'
-modified: '2022-11-11T10:01:38.118Z'
+modified: '2022-11-11T10:01:50.099Z'
 ---
 
 # neo4j, mindsdb, milvus, peewee
@@ -27,6 +27,8 @@ modified: '2022-11-11T10:01:38.118Z'
 [cypher](https://github.com/bratushka/cypher)
 
 [neomodel](https://github.com/neo4j-contrib/neomodel)
+
+[neode](https://github.com/adam-cowley/neode)
 
 ### docs
 
