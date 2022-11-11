@@ -1,11 +1,19 @@
 ---
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
-title: 'Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code'
-created: '2022-07-11T14:57:00.000Z'
-modified: '2022-11-07T06:53:18.159Z'
+title: Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue
+created: 2022-07-11T14:57:00+00:00
+modified: 2022-11-12T01:47:47+08:00
 ---
 
 # Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
+
+dump different level of reloading call history
+
+reload code blocks which are syntatically different, if black formatter fails after dedent then there shall be error
+
+decide to reload extra parts of functions in the next run if selected
+
+load newly added functions, remove old functions, execute added lines, reload entire module and update namespace depending on condition
 
 either bytecode or modify the source code
 
