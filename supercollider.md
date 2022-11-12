@@ -1,9 +1,13 @@
 ---
 tags: [midi generation, music analysis, music generation, singing, track spliting]
-title: 'Music to MIDI Music generation, Music Audio Tracks Separation'
+title: supercollider
 created: '2022-05-29T04:27:55.000Z'
-modified: '2022-08-18T15:53:48.014Z'
+modified: '2022-11-12T16:09:00.369Z'
 ---
+
+supercollider
+
+[tidalcycles](https://tidalcycles.org/) music and visual effects with code, written in haskell, live coding
 
 ai唱歌 歌声合成 ai singing voice generation
 DiffSinger原作者的官方仓库：https://github.com/MoonInTheRiver/DiffSinger
