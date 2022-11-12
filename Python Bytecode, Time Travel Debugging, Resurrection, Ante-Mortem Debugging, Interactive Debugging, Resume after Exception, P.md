@@ -1,11 +1,19 @@
 ---
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
-title: Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue
-created: 2022-07-11T14:57:00+00:00
-modified: 2022-11-12T03:07:47+08:00
+title: 'Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue'
+created: '2022-07-11T14:57:00.000Z'
+modified: '2022-11-12T16:30:58.949Z'
 ---
 
 # Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
+
+## lisp-style resumption error-handling semantics
+
+[common lisp debugging](https://lisp-journey.gitlab.io/blog/debugging-in-common-lisp/#inspect-and-describe)
+
+[common lisp related libraries](https://awesome-cl.com/#apl)
+
+[]
 
 dump different level of reloading call history
 
