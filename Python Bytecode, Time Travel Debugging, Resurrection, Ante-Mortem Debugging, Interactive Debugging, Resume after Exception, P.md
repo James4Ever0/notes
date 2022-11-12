@@ -2,7 +2,7 @@
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
 title: 'Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue'
 created: '2022-07-11T14:57:00.000Z'
-modified: '2022-11-12T19:20:12.868Z'
+modified: '2022-11-12T19:23:55.067Z'
 ---
 
 # Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
@@ -23,7 +23,7 @@ modified: '2022-11-12T19:20:12.868Z'
 
 ## ruby
 
-[pry-rescue](https://github.com/conradirwin/pry-rescue)
+[pry-rescue](https://github.com/conradirwin/pry-rescue) may not resume execution?
 
 ## java
 
