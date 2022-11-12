@@ -2,12 +2,15 @@
 tags: [autocomplete, fig, stub, terminal]
 title: Terminal autocomplete
 created: '2022-07-11T15:46:51.000Z'
-modified: '2022-11-12T05:38:11.142Z'
+modified: '2022-11-12T05:42:30.990Z'
 ---
 
 # Terminal autocomplete
 
 Linux support in alpha, currently MacOS only:
+
 [fig](https://github.com/withfig/autocomplete)
 
-[warp](https://app.warp.dev/get_warp)
+[warp](https://app.warp.dev/get_warp) 
+
+[warp known issues](https://docs.warp.dev/help/known-issues)
