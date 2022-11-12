@@ -2,7 +2,7 @@
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
 title: 'Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue'
 created: '2022-07-11T14:57:00.000Z'
-modified: '2022-11-12T17:44:18.662Z'
+modified: '2022-11-12T17:44:56.477Z'
 ---
 
 # Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
@@ -15,7 +15,7 @@ modified: '2022-11-12T17:44:18.662Z'
 
 [common lisp related libraries](https://awesome-cl.com/#apl)
 
-[slime]()
+[slime](https://slime.common-lisp.dev/)
 
 [portacle](https://portacle.github.io/)
 
