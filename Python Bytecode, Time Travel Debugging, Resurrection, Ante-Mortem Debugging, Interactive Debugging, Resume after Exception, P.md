@@ -2,7 +2,7 @@
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
 title: 'Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue'
 created: '2022-07-11T14:57:00.000Z'
-modified: '2022-11-12T18:09:28.908Z'
+modified: '2022-11-12T18:15:48.442Z'
 ---
 
 # Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
@@ -26,6 +26,8 @@ modified: '2022-11-12T18:09:28.908Z'
 [hot code replace in vscode for java](https://code.visualstudio.com/docs/java/java-debugging)
 
 ## python
+
+[bytecode hack, pyhotswap](https://github.com/albertz/PythonHotswap/blob/master/FuncModify.py)
 
 [python lisp-style exception as condition handling](https://python-cl-conditions.readthedocs.io/en/latest/)
 
