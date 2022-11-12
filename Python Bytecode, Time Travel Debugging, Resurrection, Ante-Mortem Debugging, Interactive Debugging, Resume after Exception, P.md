@@ -2,7 +2,7 @@
 tags: [fault tolerance, hack, ignore error, ignore exception, python]
 title: 'Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code, edit and continue'
 created: '2022-07-11T14:57:00.000Z'
-modified: '2022-11-12T19:23:55.067Z'
+modified: '2022-11-12T19:41:29.459Z'
 ---
 
 # Python Bytecode, Time Travel Debugging, Resurrection, Ante-Mortem Debugging, Interactive Debugging, Resume after Exception, Python ignore all exceptions and continue execute next line in given section of code
@@ -10,6 +10,8 @@ modified: '2022-11-12T19:23:55.067Z'
 [why i hate exceptions](http://xahlee.info/comp/why_i_hate_exceptions.html)
 
 ## lisp-style resumption error-handling semantics
+
+[arithmatic infix](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/syntax/infix/infix.cl)
 
 [common lisp debugging](https://lisp-journey.gitlab.io/blog/debugging-in-common-lisp/#inspect-and-describe)
 
