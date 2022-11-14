@@ -1,9 +1,11 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: 'Hacking tutorials, tools'
-created: '2022-07-11T15:43:20.000Z'
-modified: '2022-10-13T17:59:30.741Z'
+title: Hacking tutorials, tools
+created: 2022-07-11T15:43:20+00:00
+modified: 2022-11-14T21:02:01+08:00
 ---
+
+[mirai botnet](https://github.com/aleixrodriala/Mirai-Source-Code)
 
 [defcon](https://defcon.org) for news, intro, wiki
 
