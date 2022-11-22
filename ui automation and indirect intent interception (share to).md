@@ -2,8 +2,10 @@
 tags: [information gathering, scraping, stub, taobao, video]
 title: ui automation and indirect intent interception (share to)
 created: 2022-05-05T09:19:10+00:00
-modified: 2022-11-04T09:10:07+08:00
+modified: 2022-11-22T11:50:06+08:00
 ---
+
+淘宝视频 哇偶视频似乎取消了搜索接口
 
 ## ui automation and indirect intent interception (share to)
 
