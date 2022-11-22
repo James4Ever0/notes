@@ -2,10 +2,12 @@
 tags: [midi generation, music analysis, music generation, singing, track spliting]
 title: supercollider
 created: '2022-05-29T04:27:55.000Z'
-modified: '2022-11-12T16:09:00.369Z'
+modified: '2022-11-15T03:22:45.097Z'
 ---
 
 supercollider
+
+[cells](https://github.com/ales-tsurko/cells) multilanguage live-coding support for creative coding
 
 [tidalcycles](https://tidalcycles.org/) music and visual effects with code, written in haskell, live coding
 
