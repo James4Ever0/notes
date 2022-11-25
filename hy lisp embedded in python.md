@@ -1,6 +1,6 @@
 ---
 created: 2022-11-25T21:29:13+08:00
-modified: 2022-11-25T22:24:14+08:00
+modified: 2022-11-25T22:28:52+08:00
 ---
 
 # hy lisp embedded in python, resumeable exception
@@ -9,7 +9,7 @@ modified: 2022-11-25T22:24:14+08:00
 
 [hyrule docs](https://hyrule.readthedocs.io/en/master/index.html#hyrule.control.block)
 
-hy缺乏基本的补全 vscode目前没法用 我把hy改造成了可以自动reload 自动抓Uncaught exception的模式 如果要取消这些行为 需要加上flag
+hy缺乏基本的补全 vscode目前没法用 我把hy改造成了可以自动reload 自动抓Uncaught exception的模式 如果要取消这些行为 需要加上flag 可以用于hy2py
 
 ```
 -R
