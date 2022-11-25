@@ -1,0 +1,8 @@
+---
+created: 2022-11-25T21:29:13+08:00
+modified: 2022-11-25T21:30:24+08:00
+---
+
+# hy lisp embedded in python
+
+hy缺乏基本的补全 vscode没法
