@@ -2,12 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-25T13:14:09+08:00
+modified: 2022-11-25T13:22:12+08:00
 ---
 
 # 复读机 Chatbot
 
-- [ ] 改回群昵称 总有些脑瘫喜欢给我乱起名 一天检查一次
+- [ ] 改回群昵称 总有些脑瘫喜欢给我乱起名 一天检查一次 模仿其他人的群昵称 看看有没有能用的马甲
 
 - [ ] mitm Chatbot
 
