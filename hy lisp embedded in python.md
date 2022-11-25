@@ -1,6 +1,6 @@
 ---
 created: 2022-11-25T21:29:13+08:00
-modified: 2022-11-25T22:00:55+08:00
+modified: 2022-11-25T22:12:01+08:00
 ---
 
 # hy lisp embedded in python, resumeable exception
@@ -22,4 +22,4 @@ hy缺乏基本的补全 vscode目前没法用 我把hy改造成了可以自动re
 
 hy的插件目前分为vim版本和EMACS版本 对spacevim spacemacs不怎么友好
 
-hy的code autoindentation功能我做了 目前最新版本有待更新 主要是对字符串的正则进行了优化
+hy的code autoindentation功能我做了 [nelean](https://github.com/Jamea4Ever0/nelean) 目前最新版本有待更新 主要是对字符串的正则进行了优化
