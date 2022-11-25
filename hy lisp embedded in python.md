@@ -1,6 +1,6 @@
 ---
 created: 2022-11-25T21:29:13+08:00
-modified: 2022-11-25T22:28:52+08:00
+modified: 2022-11-25T23:19:37+08:00
 ---
 
 # hy lisp embedded in python, resumeable exception
@@ -28,6 +28,8 @@ hy的插件目前分为vim版本和EMACS版本 对spacevim spacemacs不怎么友
 
 [vim syntax highlight](https://github.com/hylang/vim-hy)
 
-[emacs hy-mode](https://github.com/hylang/hy-mode)
+[emacs hy-mode](https://github.com/hylang/hy-mode) and [jedhy](https://github.com/ekaschalk/jedhy)
+
+[hyuga](https://github.com/sakuraiyuta/hyuga) for neovim, with [custom vim-lsp](https://www.github.com/sakuraiyuta/vim-lsp-settings/tree/add-lang/hyuga)
 
 hy的code autoindentation功能我做了 [nelean](https://github.com/Jamea4Ever0/nelean) 目前最新版本有待更新 主要是对字符串的正则进行了优化
