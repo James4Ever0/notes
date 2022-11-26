@@ -1,10 +1,14 @@
 ---
 title: bilibili直播api 直播工具 自动直播 自动推流
-created: '2022-11-04T03:24:35.605Z'
-modified: '2022-11-04T03:52:31.035Z'
+created: 2022-11-04T03:24:35+00:00
+modified: 2022-11-26T18:49:20+08:00
 ---
 
 # bilibili直播api 直播工具 自动直播 自动推流
+
+## 卖东西
+
+自建网店平台：[saleor](https://github.com/saleor/saleor)
 
 ## 开播
 
@@ -25,4 +29,3 @@ modified: '2022-11-04T03:52:31.035Z'
 [直播间监控websocket](https://github.com/simon300000/bilibili-live-ws)
 
 [监听直播间消息的服务](https://github.com/pandaGao/bilibili-live)
-
