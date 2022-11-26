@@ -1,11 +1,11 @@
 ---
 created: 2022-11-25T21:29:13+08:00
-modified: 2022-11-26T13:50:16+08:00
+modified: 2022-11-26T13:50:30+08:00
 ---
 
 # hy lisp embedded in python, resumeable exception
 
-jython only supports upto python2.7. these libraries may need substantial changes to be compatible to jython:
+jython only supports upto python2.7. these libraries may need substantial changes to be compatible with jython:
 
 ```
 hy
