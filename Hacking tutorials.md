@@ -2,8 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T15:43:20+00:00
-modified: 2022-11-14T21:02:01+08:00
+modified: 2022-11-26T22:18:15+08:00
 ---
+
+https://github.com/mikaelkall/HackingAllTheThings
+
+https://github.com/akenofu/HackAllTheThings
 
 [mirai botnet](https://github.com/aleixrodriala/Mirai-Source-Code)
 
