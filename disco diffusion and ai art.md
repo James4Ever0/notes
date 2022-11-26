@@ -2,10 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: 2022-08-08T20:52:28+08:00
-modified: 2022-10-12T12:04:37+08:00
+modified: 2022-11-26T15:52:36+08:00
 ---
 
 # disco diffusion and ai art
+
+QQ搜索 异次元的我 免费画画 AI合成
 
 [novel-ai-bot](https://github.com/koishijs/novelai-bot)
 
