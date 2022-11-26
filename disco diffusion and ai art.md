@@ -2,10 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: 2022-08-08T20:52:28+08:00
-modified: 2022-11-26T15:52:36+08:00
+modified: 2022-11-26T18:49:53+08:00
 ---
 
 # disco diffusion and ai art
+
+[diffusionbee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) stable diffusion for macos m1
 
 QQ搜索 异次元的我 免费画画 AI合成
 
