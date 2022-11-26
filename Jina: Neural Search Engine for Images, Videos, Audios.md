@@ -1,11 +1,13 @@
 ---
 tags: [AI, media search engine, search engine, self-hosted]
 title: 'Jina: Neural Search Engine for Images, Videos, Audios'
-created: '2022-05-29T05:18:28.000Z'
-modified: '2022-11-11T10:57:32.973Z'
+created: 2022-05-29T05:18:28+00:00
+modified: 2022-11-26T15:54:40+08:00
 ---
 
 # Jina: Neural Search Engine for Images, Videos, Audios
+
+[openclip](https://github.com/mlfoundations/open_clip)
 
 [haystack](https://github.com/deepset-ai/haystack)
 
