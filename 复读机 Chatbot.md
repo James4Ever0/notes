@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-25T23:26:08+08:00
+modified: 2022-11-26T16:16:11+08:00
 ---
 
 # 复读机 Chatbot
+
+- [ ] 处理信息不要流水线处理 放在taskpool里面 要有重要度排序 相关性排序
 
 - [ ] QQ漂流瓶机器人 捡漂流瓶API
 
