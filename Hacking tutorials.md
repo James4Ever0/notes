@@ -2,14 +2,14 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T15:43:20+00:00
-modified: 2022-11-27T19:35:22+08:00
+modified: 2022-11-27T19:35:38+08:00
 ---
 
 https://github.com/mikaelkall/HackingAllTheThings
 
 https://github.com/akenofu/HackAllTheThings
 
-memory edit:
+memory editing, game hacking:
 
 https://github.com/qb-0/pyMeow
 
