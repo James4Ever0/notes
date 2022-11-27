@@ -2,7 +2,7 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: 2022-08-08T20:52:28+08:00
-modified: 2022-11-27T10:44:01+08:00
+modified: 2022-11-27T10:47:03+08:00
 ---
 
 # disco diffusion and ai art
@@ -10,6 +10,10 @@ modified: 2022-11-27T10:44:01+08:00
 字体普遍画的很拉 需要用专门的ocr强化训练字体
 
 fontdiffusion?
+
+[font-diffusion](https://github.com/antonin-wattel/font-diffusion)
+
+[stable diffusion font generating](https://github.com/qwegat/StableDiffusionFontGenerating)
 
 [diffusionbee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) stable diffusion for macos m1
 
