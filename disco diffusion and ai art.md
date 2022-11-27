@@ -2,10 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: 2022-08-08T20:52:28+08:00
-modified: 2022-11-27T10:50:12+08:00
+modified: 2022-11-27T23:41:28+08:00
 ---
 
 # disco diffusion and ai art
+
+[video generation ebsynth](https://github.com/jamriska/ebsynth) 
 
 字体普遍画的很拉 需要用专门的ocr强化训练字体
 

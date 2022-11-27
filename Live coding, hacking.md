@@ -23,8 +23,18 @@ on the other hand, media convey the idea of live coding, mostly by showing off t
 
 [textual](https://github.com/textualize/textual)
 
-## skills
+## related infos
 
 [the art of commandline](https://github.com/jlevy/the-art-of-command-line)
+
+[awesome jq](https://github.com/fiatjaf/awesome-jq)
+
+## interactive tools
+
+[interactive 
+
+[explainshell](https://explainshell.com/)
+
+## coding
 
 [python design patterns](https://github.com/faif/python-patterns)
