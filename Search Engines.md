@@ -2,12 +2,16 @@
 tags: [diy, search engine, self-hosted]
 title: Search Engines
 created: 2022-06-08T13:57:58+00:00
-modified: 2022-11-27T14:04:49+08:00
+modified: 2022-11-27T16:09:08+08:00
 ---
 
 # Search Engines DIY
 
 ## my custom search engine built upon thesaurus/synonyms/antenyms, fzf and grep
+
+download nltk data [here](http://www.nltk.org/nltk_data/). when downloading manually, beware of the url path and id, so you would put things in order.
+
+you would patch nltk in order to download via proxy. these data files are hosted on github assets.
 
 maybe you can explore further with online search engines? select your keyword then search again.
 
