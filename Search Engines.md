@@ -2,14 +2,14 @@
 tags: [diy, search engine, self-hosted]
 title: Search Engines
 created: 2022-06-08T13:57:58+00:00
-modified: 2022-11-27T13:18:54+08:00
+modified: 2022-11-27T13:19:23+08:00
 ---
 
 # Search Engines DIY
 
-my custom search engine built upon thesaurus/synonyms/antenyms, fzf and grep
+## my custom search engine built upon thesaurus/synonyms/antenyms, fzf and grep
 
-search engine optimization
+## search engine optimization
 [advertools](https://advertools.readthedocs.io/en/master/readme.html)
 
 [zinc search](https://github.com/zinclabs/zinc)
