@@ -2,12 +2,16 @@
 tags: [diy, search engine, self-hosted]
 title: Search Engines
 created: 2022-06-08T13:57:58+00:00
-modified: 2022-11-27T13:19:23+08:00
+modified: 2022-11-27T13:22:17+08:00
 ---
 
 # Search Engines DIY
 
 ## my custom search engine built upon thesaurus/synonyms/antenyms, fzf and grep
+
+maybe you can explore further with online search engines? select your keyword then search again.
+
+related shits can be found [here](https://www.github.com/James4Ever0/hack_all_the_thing/tree/main/tests%2Fsearch_engine_helper_docs%2Fhelp_apt_search.sh)
 
 ## search engine optimization
 [advertools](https://advertools.readthedocs.io/en/master/readme.html)
