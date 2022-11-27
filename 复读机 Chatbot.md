@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-26T18:53:48+08:00
+modified: 2022-11-27T16:59:59+08:00
 ---
 
 # 复读机 Chatbot
+
+- [ ] 渐进式领红包 对于某个群 先是一分钟之后领一次 领不到就时间减半下一次再领 如果领到了就不减半 最快6秒领 不能再减了
 
 - [ ] 处理信息不要流水线处理 放在messagepool里面 要有重要度排序 相关性排序
 
