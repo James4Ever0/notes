@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-28T19:39:26+08:00
+modified: 2022-11-28T19:50:06+08:00
 ---
 
 # 复读机 Chatbot
+
+note: in order to install libraries and dependencies, you need ubuntu inside termux. create shortcuts and alias to launch ubuntu. link files and directories to ububtu proot filesystem. also never attempt to update kali since that will break shit, especially for bumping python versions.
 
 ## 时序数据库
 
