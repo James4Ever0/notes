@@ -1,6 +1,6 @@
 ---
 created: 2022-09-17T20:42:12+08:00
-modified: 2022-11-28T22:15:55+08:00
+modified: 2022-11-28T22:17:57+08:00
 ---
 
 # 语音转文字 asr stt speech to text
@@ -8,6 +8,8 @@ modified: 2022-11-28T22:15:55+08:00
 ## online
 
 字说APP的api
+
+[逆向搜狗输入法 绕过签名验证](https://www.cnblogs.com/lxh2cwl/p/14842527.html)
 
 搜狗输入法apk的api
 
