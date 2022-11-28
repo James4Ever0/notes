@@ -1,11 +1,13 @@
 ---
 tags: [platforms, search engine, video search, video sources]
 title: Video Search Engines
-created: '2022-05-29T07:42:34.000Z'
-modified: '2022-09-10T14:09:23.083Z'
+created: 2022-05-29T07:42:34+00:00
+modified: 2022-11-28T22:17:05+08:00
 ---
 
 # Video Search Engines
+
+Yandex好像可以根据视频截图搜索原视频来源
 
 [youtube search python](https://github.com/alexmercerind/youtube-search-python)
 
