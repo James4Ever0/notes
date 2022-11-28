@@ -1,6 +1,6 @@
 ---
 created: 2022-09-28T00:07:55+08:00
-modified: 2022-09-28T19:51:59+08:00
+modified: 2022-11-28T23:24:26+08:00
 ---
 
 # commandline json/html filter and formatters
@@ -11,7 +11,7 @@ for hackers, filtering matters.
 
 [jqterm](https://jqterm.com/?query=.) online jq repl
 
-[htmlq](https://github.com/mgdm/htmlq) and the [blog]()
+[htmlq](https://github.com/mgdm/htmlq) is for querying html with selectors, extracting text from html
 
 [pup](https://github.com/ericchiang/pup) download from [release](https://github.com/EricChiang/pup/releases/tag/v0.4.0)
 
