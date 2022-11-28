@@ -1,7 +1,7 @@
 ---
 title: iot search engines, ip search engines, vulnerable device/server discovery
 created: 2022-10-06T10:20:32+00:00
-modified: 2022-11-28T19:26:42+08:00
+modified: 2022-11-28T22:18:45+08:00
 ---
 
 # iot search engines, ip search engines, vulnerable device/server discovery
@@ -15,11 +15,15 @@ modified: 2022-11-28T19:26:42+08:00
 ### shodan
 [awesome shodan queries](https://github.com/jakejarvis/awesome-shodan-queries)
 [shodan script](https://github.com/random-robbie/My-Shodan-Scripts)
+
 ### zoomeye
+
 ### fofa
 
 https://www.fofa.info
 要注册了 以前的网址进不去
+
+[fofa api docs](https://fofa.info/api/stats/statistical)
 
 ### censys
 
