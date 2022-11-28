@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-28T12:09:57+08:00
+modified: 2022-11-28T19:39:26+08:00
 ---
 
 # 复读机 Chatbot
@@ -30,6 +30,8 @@ modified: 2022-11-28T12:09:57+08:00
 [gensim word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 
 [word embedding using word2vec](https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/)
+
+[gensym word2vec complete guide](https://www.askpython.com/python-modules/gensim-word2vec)
 
 [go-cqhttp 自定义合并转发消息 生成不存在的合并转发消息](https://www.jianshu.com/p/dbf10744bde0)
 
