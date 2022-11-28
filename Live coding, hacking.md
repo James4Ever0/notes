@@ -1,6 +1,6 @@
 ---
 created: 2022-11-27T19:58:40+08:00
-modified: 2022-11-27T20:53:18+08:00
+modified: 2022-11-28T12:16:46+08:00
 ---
 
 # Live coding, hacking, media
@@ -31,9 +31,11 @@ on the other hand, media convey the idea of live coding, mostly by showing off t
 
 ## interactive tools
 
-[interactive 
+### web based tools
 
 [explainshell](https://explainshell.com/)
+
+### cli tools
 
 ## coding
 
