@@ -1,11 +1,17 @@
 ---
 created: 2022-09-12T02:11:01+08:00
-modified: 2022-09-12T02:11:17+08:00
+modified: 2022-11-28T22:08:36+08:00
 ---
 
 # ffmpeg one liners
 
 # For all snippets, check documentation for details and settings.
+
+## speed up ffmpeg encoding
+
+[ffmpeg speedup cli flags](https://blog.csdn.net/weixin_39981360/article/details/111807188)
+
+`ffmpeg -threads 4 -crf 28 -preset ultrafast`
 
 # encode video from a V4L2 device, using specified settings.
 # x265 worked somewhat better here and produced less skips (although uses 10x CPU compared to x264)
