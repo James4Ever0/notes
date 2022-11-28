@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T15:43:20+00:00
-modified: 2022-11-28T18:29:10+08:00
+modified: 2022-11-28T18:29:49+08:00
 ---
 
 利用公共WiFi 比如用WiFi炮连接远处的WiFi 控制云端的攻击服务器
@@ -11,7 +11,7 @@ modified: 2022-11-28T18:29:10+08:00
 
 第二步就是装后门 控制目标 比如挖矿 继续收集网站信息 密码信息 cookies 继续散播病毒 拓展攻击面
 
-第三步持久作战 持续提高反侦查意识 提高黑客能力 利用各种方法 比如社会工程学 利用匿名账号或者免费邮箱账号 传播带木马的免费应用程序 病毒邮件 坚持就是胜利
+第三步持久作战 持续提高反侦查意识 学习收集信息工具 提高黑客能力 利用各种方法 比如社会工程学 利用匿名账号或者免费邮箱账号 传播带木马的免费应用程序 病毒邮件 坚持就是胜利
 
 https://github.com/mikaelkall/HackingAllTheThings
 
