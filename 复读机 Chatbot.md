@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-27T17:02:39+08:00
+modified: 2022-11-28T11:40:08+08:00
 ---
 
 # 复读机 Chatbot
+
+[go-cqhttp 自定义合并转发消息 生成不存在的合并转发消息](https://www.jianshu.com/p/dbf10744bde0)
 
 - [ ] 渐进式领红包 对于某个群 先是两分钟（左右）之后领一次 领不到就时间减半下一次再领 如果领到了就不减半 最快6秒领 不能再减了 防止某些群为了检测机器人而发红包
 
