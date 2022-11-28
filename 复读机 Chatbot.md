@@ -2,7 +2,7 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-28T22:00:09+08:00
+modified: 2022-11-28T23:34:43+08:00
 ---
 
 # 复读机 Chatbot
@@ -30,6 +30,8 @@ note: in order to install libraries and dependencies, you need ubuntu inside ter
 [中文近义词](https://github.com/chatopera/Synonyms) 以及[如何扩充词库](https://github.com/chatopera/Synonyms/issues/5)
 
 ## 话题建模 句向量
+
+[10 nlp libraries](https://www.qblocks.cloud/blog/best-nlp-libraries-python)
 
 [gensim word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 
