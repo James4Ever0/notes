@@ -1,12 +1,12 @@
 ---
 title: AGI playground, a place for AGI to act/code freely
 created: 2022-10-16T14:30:53+00:00
-modified: 2022-11-28T23:04:24+08:00
+modified: 2022-11-28T23:04:57+08:00
 ---
 
 # AGI playground, a place for AGI to act/code freely
 
-some article says deep neural networks are t2 level, human are t3 level (connected dnns) and to train a t3 level intel you need t4 level intel (like the earth, or a group of t3 intels). this proves my provision of putting agi into gui or human interfaces.
+some article says deep neural networks are t2 level, human are t3 level (connected dnns) and to train a t3 level intel you need t4 level intel (like the earth, or a group of t3 intels, you can't be 1to1 now, you must be forgiving). this proves my provision of putting agi into gui or human interfaces.
 
 to train a t2 level intel, you need t3 intel, such as yourself or your users.
 
