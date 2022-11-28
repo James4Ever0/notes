@@ -1,6 +1,6 @@
 ---
 created: 2022-11-27T19:58:40+08:00
-modified: 2022-11-28T12:16:46+08:00
+modified: 2022-11-28T12:30:18+08:00
 ---
 
 # Live coding, hacking, media
@@ -33,9 +33,21 @@ on the other hand, media convey the idea of live coding, mostly by showing off t
 
 ### web based tools
 
+[xpath tester for html](http://xpather.com)
+
 [explainshell](https://explainshell.com/)
 
+[livegrep](https://github.com/livegrep/livegrep)
+
 ### cli tools
+
+[ijq interactive jq](https://sr.ht/~gpanders/ijq/)
+
+[jiq](https://github.com/fiatjaf/jiq)
+
+[percol](https://github.com/mooz/percol] supports pinyin
+
+[ugrep](https://github.com/Genivia/ugrep) use `ugrep -Q` for interactive tui
 
 ## coding
 
