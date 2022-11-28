@@ -2,10 +2,34 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2022-11-28T11:40:11+08:00
+modified: 2022-11-28T12:09:57+08:00
 ---
 
 # 复读机 Chatbot
+
+## 时序数据库
+
+[tdengine stream processing](https://docs.tdengine.com/develop/stream/)
+
+[influxdb python client](https://docs.influxdata.com/influxdb/v2.3/api-guide/tutorials/python/)
+
+## 智能问答
+
+[智能问答与深度学习 附带代码](https://github.com/l11x0m7/book-of-qna-code)
+
+## 近义词
+
+[use wordnet to find hyponyms and antonyms](https://www.tutorialspoint.com/natural_language_toolkit/natural_language_toolkit_looking_up_words_in_wordnet.htm#:~:text=To%20get%20a%20list%20of%20Synsets%2C%20we%20can,follows%20−%20from%20nltk.corpus%20import%20wordnet%20as%20wn)
+
+[find antonyms for chinese with wordnet](https://github.com/nltk/nltk/issues/2972)
+
+[中文近义词](https://github.com/chatopera/Synonyms) 以及[如何扩充词库](https://github.com/chatopera/Synonyms/issues/5)
+
+## 话题建模 句向量
+
+[gensim word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
+
+[word embedding using word2vec](https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/)
 
 [go-cqhttp 自定义合并转发消息 生成不存在的合并转发消息](https://www.jianshu.com/p/dbf10744bde0)
 
