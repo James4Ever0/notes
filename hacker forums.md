@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:32:39+08:00
+modified: 2022-11-29T22:39:03+08:00
 ---
 
 # hacker forums
@@ -39,22 +39,21 @@ GreySec Forums
 
 T00LS
 
-https://link.zhihu.com/?target=https%3A//jaq.alibaba.com/community/index
+https://jaq.alibaba.com/community/index
 
-https://link.zhihu.com/?target=http%3A//bobao.360.cn/index/index
+http://bobao.360.cn/index/index
 
-https://link.zhihu.com/?target=https%3A//www.ichunqiu.com/
+https://www.ichunqiu.com/
 
-https://link.zhihu.com/?target=https%3A//pentesterlab.com/
+https://pentesterlab.com/
 
-https://link.zhihu.com/?target=https%3A//xianzhi.aliyun.com/forum/
+https://xianzhi.aliyun.com/forum/
 
-https://link.zhihu.com/?target=http%3A//lab.seclover.com/
+http://lab.seclover.com/
 
 腾讯玄武实验室
 
-https://link.zhihu.com/?target=http%3A//xlab.tencent.com/cn/
-
+http://xlab.tencent.com/cn/
 
 [xss.is](https://xss.is)
 
