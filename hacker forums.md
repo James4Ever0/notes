@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:30:42+08:00
+modified: 2022-11-29T22:32:39+08:00
 ---
 
 # hacker forums
@@ -77,6 +77,10 @@ https://link.zhihu.com/?target=http%3A//xlab.tencent.com/cn/
 [evilzone](https://evilzone.org)
 
 cryptbb is dead?
+
+freehacks dead?
+
+CrackingKing dead?
 
 [envoy](http://envoys5appps3bin.onion/) dead?
 
