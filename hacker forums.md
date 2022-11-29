@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:39:49+08:00
+modified: 2022-11-29T22:42:56+08:00
 ---
 
 # hacker forums
@@ -16,6 +16,8 @@ You would like forums for dark web? Forum for hacking?
 你要的是社工库 提取出来的账号密码库 用来撞库？百度谷歌 QQ 百度云盘 github 磁力种子搜索
 
 when not reached, make sure you are in the channel!
+
+Offensive Community
 
 Alternative to 'raid forum': visit it in archive.org!
 
@@ -116,3 +118,25 @@ Hack This Site
 KickAss
 
 Breaking Bad
+
+Packet Storm
+
+OpenSC
+
+HackMac
+
+Enigma Group
+
+Rohitab
+
+Ethical Hacker
+
+Cracking Forum
+
+Crackmes de
+
+Binary Revolution Hacking Forums
+
+Hack Hound
+
+Hellbound Hackers
