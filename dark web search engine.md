@@ -1,6 +1,6 @@
 ---
 created: 2022-09-25T00:45:35+08:00
-modified: 2022-11-29T20:40:50+08:00
+modified: 2022-11-29T20:43:56+08:00
 ---
 
 # dark web search engine
@@ -12,6 +12,8 @@ https://darkweblinks.com/#Open-Source-Software
 [The onion dir](tfcw5fa2m66hxcbcg2lro7yzpstq2ioewysrv7u6iz5n26zysj6pqzid)
 
 You would like forums for dark web? Forum for hacking?
+
+你要的是社工库 提取出来的账号密码库
 
 Alternative to 'raid forum': visit it in archive.org!
 
