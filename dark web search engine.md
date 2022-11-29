@@ -1,6 +1,6 @@
 ---
 created: 2022-09-25T00:45:35+08:00
-modified: 2022-11-29T20:39:14+08:00
+modified: 2022-11-29T20:40:50+08:00
 ---
 
 # dark web search engine
@@ -15,7 +15,7 @@ You would like forums for dark web? Forum for hacking?
 
 Alternative to 'raid forum': visit it in archive.org!
 
-[Breached forum](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion/)
+[Breached forum](https://breached.vc) and [onion](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion/)
 
 links are subjected to change or take down.
 
