@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T16:50:57+08:00
-modified: 2022-11-29T17:28:33+08:00
+modified: 2022-11-29T17:29:59+08:00
 ---
 
 # My fruitful heist attempt with fofa
@@ -10,6 +10,8 @@ Fofa api requires membership. I don't want to enroll.
 You first test on your vulnerable machine/app, develop scanner, exploiter and listener, then mass exploit to millions.
 
 All recorded here: `hack_all_the_thing/tests/get_log4j_vuln`
+
+[狮子鱼团购 fofa查询漏洞](https://blog.csdn.net/sinat_36001828/article/details/117729361?spm=1001.2101.3001.6650.2&utm_medium=distribute.wap_relevant.none-task-blog-2~default~CTRLIST~Rate-2-117729361-blog-121949437.wap_blog_relevant_default&depth_1-utm_source=distribute.wap_relevant.none-task-blog-2~default~CTRLIST~Rate-2-117729361-blog-121949437.wap_blog_relevant_default)
 
 [Sqlmap post data inject](https://hackertarget.com/sqlmap-post-request-injection/)
 
