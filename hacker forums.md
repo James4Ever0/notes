@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:29:10+08:00
+modified: 2022-11-29T22:30:42+08:00
 ---
 
 # hacker forums
@@ -28,6 +28,16 @@ Alternative to 'raid forum': visit it in archive.org!
 3dm
 
 freebuf
+
+Hack Today
+
+GreySec Forums
+
+世界中文黑客论坛
+
+90Sec
+
+T00LS
 
 https://link.zhihu.com/?target=https%3A//jaq.alibaba.com/community/index
 
