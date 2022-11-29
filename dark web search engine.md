@@ -1,6 +1,6 @@
 ---
 created: 2022-09-25T00:45:35+08:00
-modified: 2022-11-29T21:01:23+08:00
+modified: 2022-11-29T21:43:03+08:00
 ---
 
 # dark web search engine
@@ -15,7 +15,7 @@ https://darkweblinks.com/#Open-Source-Software
 
 You would like forums for dark web? Forum for hacking?
 
-你要的是社工库 提取出来的账号密码库 用来撞库？
+你要的是社工库 提取出来的账号密码库 用来撞库？百度谷歌 QQ 百度云盘 github 磁力种子搜索
 
 Alternative to 'raid forum': visit it in archive.org!
 
