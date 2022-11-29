@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T21:59:14+08:00
+modified: 2022-11-29T22:24:47+08:00
 ---
 
 # hacker forums
@@ -34,3 +34,45 @@ Alternative to 'raid forum': visit it in archive.org!
 [exploit.in](https://exploit.in) in russian
 
 [hacktown](http://hacktownpagdenbb.onion/) hacking tutorial
+
+[hackforums](https://hackforums.net) site offline? another web archive shit?
+
+[evilzone](https://evilzone.org)
+
+cryptbb is dead?
+
+[envoy](http://envoys5appps3bin.onion/) dead?
+
+[helium](http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/) dead?
+
+HackADay
+
+Exploit Database
+
+Tinkernut
+
+Dark Web Forum
+
+Jean Valjean forum
+
+Carding Team
+
+BiTSHACK
+
+SecList
+
+0Day
+
+HackerPlace
+
+0x00sec
+
+Hack5 Forums
+
+BHF
+
+Hack This Site
+
+KickAss
+
+Breaking Bad
