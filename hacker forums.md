@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:47:02+08:00
+modified: 2022-11-29T22:49:25+08:00
 ---
 
 # hacker forums
@@ -180,3 +180,15 @@ http://www.chinahonker.com/index.htm
 http://www.cnhacker.com/
 
 http://77169.org/index.html
+
+legionhiden4dqh4.onion - Let's start with HeLL Reloaded, probably the only one that isn't just awful. where Tor Carding Forum (TCF) members who weren't arrested when it was seized are now dwelling! Not operated by the same people behind the original HeLL, but after the original was seized, some of the moderators and members made this site.
+
+exoduockgfq3ikf7.onion Ex0du$, Pretty mediocre forum, lots of shitty banking botnets being sold. Also ransomeware is the big thing recently, so of course that's being sold. The code is HILARIOUS. RansomWare coded in visual basic, Java, C# and AutoIT v3! Great.
+
+damagelabraahzcu.onion - DamageLabs primarily russian forum, looks like there's not much interesting going on here either. They have a good collection of pirated programming books.
+
+darkod3eeziu3w5p.onion - looks like a really dead forum.
+
+dublik2uqiorycsj.onion - dublik russian forum
+
+forohpysho2t5mjs.onion - another random forum
