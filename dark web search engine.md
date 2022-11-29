@@ -1,6 +1,6 @@
 ---
 created: 2022-09-25T00:45:35+08:00
-modified: 2022-11-29T21:50:37+08:00
+modified: 2022-11-29T21:51:51+08:00
 ---
 
 # dark web search engine
@@ -11,13 +11,6 @@ https://darkweblinks.com/#Open-Source-Software
 
 [The onion dir](tfcw5fa2m66hxcbcg2lro7yzpstq2ioewysrv7u6iz5n26zysj6pqzid)
 
-You would like forums for dark web? Forum for hacking?
-
-你要的是社工库 提取出来的账号密码库 用来撞库？百度谷歌 QQ 百度云盘 github 磁力种子搜索
-
-Alternative to 'raid forum': visit it in archive.org!
-
-[Breached forum](https://breached.vc) and [onion](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion/)
 
 links are subjected to change or take down.
 
