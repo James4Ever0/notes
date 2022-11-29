@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:51:26+08:00
+modified: 2022-11-29T23:03:34+08:00
 ---
 
 # hacker forums
@@ -18,6 +18,14 @@ You would like forums for dark web? Forum for hacking?
 when not reached, make sure you are in the channel!
 
 Offensive Community
+
+安全脉搏
+
+网络尖刀
+
+习科论坛
+
+红黑联盟
 
 黑客X档案
 
@@ -194,3 +202,55 @@ darkod3eeziu3w5p.onion - looks like a really dead forum.
 dublik2uqiorycsj.onion - dublik russian forum
 
 forohpysho2t5mjs.onion - another random forum
+
+1、独自等待：https://www.waitalone.cn/
+
+2、中国红客联盟：https://www.ihonker.org/forum.php
+
+3、安全沙漏：https://www.secsilo.com/about
+
+4、易安在线：https://www.e365.info/
+
+5、铁匠运维网：http://www.tiejiang.org/
+
+6、吾爱漏洞：http://www.52bug.cn/
+
+7、破晓团队：http://www.secbug.org/
+
+8、黑白网：http://www.heibai.org/178.html
+
+9、安全客：https://www.anquanke.com/
+
+10、E安全：https://www.easyaq.com/
+
+11、漏洞时代：http://0day5.com/
+
+12、猫头鹰：http://www.mottoin.com/
+
+13、华域联盟论坛：https://www.cnhackhy.com/forum.php
+
+14、逆向未来：https://www.pd521.com/
+
+15、邪恶八进制：https://forum.eviloctal.com/
+
+16、飘云阁：https://www.chinapyg.com/
+
+17、红黑联盟：http://bbs.2cto.com/
+
+18、技术宅的世界：https://www.0xaa55.com/
+
+19、安全牛：https://www.aqniu.com/
+
+20、兄弟论坛：http://hackxd.com/
+
+21、零日安全：https://www.jmpoep.com/
+
+22、南域剑盟：http://www.98exe.net/
+
+23、黑基论坛：http://www.safebase.cn/
+
+24、网络攻防小组（WLGF）：http://www.nsoad.com/
+
+25、黑吧安全网：http://www.myhack58.com/
+
+26、幽灵学院：http://www.41443.com/
