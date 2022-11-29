@@ -2,12 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T15:43:20+00:00
-modified: 2022-11-29T15:57:21+08:00
+modified: 2022-11-29T15:58:01+08:00
 ---
 
 don't aim big, aim small. things like bilibili password database dump, or some Intel internal data leak, are done by professional hackers on professional hardware. some corp will even attempt to retaliate like nvidia. you have been warned.
 
-To exploit zerodays, you need [rasp](https://rasp.baidu.com)
+To exploit zerodays, you need [rasp](https://rasp.baidu.com), aka 'is my application doing something undefined/unexpected?'
 
 利用公共WiFi 比如用WiFi炮连接远处的WiFi 控制云端的攻击服务器
 
