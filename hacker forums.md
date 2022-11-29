@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:42:56+08:00
+modified: 2022-11-29T22:47:02+08:00
 ---
 
 # hacker forums
@@ -140,3 +140,43 @@ Binary Revolution Hacking Forums
 Hack Hound
 
 Hellbound Hackers
+
+ftp://www.ly2008.com
+用户名:ly2008
+密码:ly2008
+
+http://discovery0.blog.hexun.com/3271892_d.html
+
+http://www.hackerxfiles.net/
+
+http://www.nohack.cn/
+
+http://www.hacker.com.cn/
+
+ftp://fseandxy1@y667.com/
+
+http://www.mmbest.com/SoftList/Catalog8/SoftList_Time_1.html
+
+http://www.it-is.com.cn/dh/
+
+http://www.20cn.net/cgi-bin/download/down.cgi?list=passwd
+
+http://www.98919.com/index.html
+
+http://www.muvip119.net/2/index.html
+
+http://www.anqn.com/
+
+http://www.hf110.com
+
+http://down.juntuan.net/index.html
+
+http://new.shockhack.net/index.asp
+
+http://dx.hackbase.com/
+
+http://www.chinahonker.com/index.htm
+
+http://www.cnhacker.com/
+
+http://77169.org/index.html
