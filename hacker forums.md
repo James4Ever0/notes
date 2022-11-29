@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:24:47+08:00
+modified: 2022-11-29T22:29:10+08:00
 ---
 
 # hacker forums
@@ -18,6 +18,33 @@ You would like forums for dark web? Forum for hacking?
 when not reached, make sure you are in the channel!
 
 Alternative to 'raid forum': visit it in archive.org!
+
+看雪论坛
+
+乌云论坛（archive里面看吧）
+
+吾爱破解
+
+3dm
+
+freebuf
+
+https://link.zhihu.com/?target=https%3A//jaq.alibaba.com/community/index
+
+https://link.zhihu.com/?target=http%3A//bobao.360.cn/index/index
+
+https://link.zhihu.com/?target=https%3A//www.ichunqiu.com/
+
+https://link.zhihu.com/?target=https%3A//pentesterlab.com/
+
+https://link.zhihu.com/?target=https%3A//xianzhi.aliyun.com/forum/
+
+https://link.zhihu.com/?target=http%3A//lab.seclover.com/
+
+腾讯玄武实验室
+
+https://link.zhihu.com/?target=http%3A//xlab.tencent.com/cn/
+
 
 [xss.is](https://xss.is)
 
