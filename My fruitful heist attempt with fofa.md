@@ -1,11 +1,13 @@
 ---
 created: 2022-11-29T16:50:57+08:00
-modified: 2022-11-29T17:02:21+08:00
+modified: 2022-11-29T17:04:56+08:00
 ---
 
 # My fruitful heist attempt with fofa
 
 Fofa api requires membership. I don't want to enroll.
+
+You first test on your vulnerable machine/app, develop scanner, exploiter and listener, then mass exploit to millions.
 
 All recorded here: `hack_all_the_thing/tests/get_log4j_vuln`
 
