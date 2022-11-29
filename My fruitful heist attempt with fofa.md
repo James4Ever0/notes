@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T16:50:57+08:00
-modified: 2022-11-29T17:30:47+08:00
+modified: 2022-11-29T17:32:30+08:00
 ---
 
 # My fruitful heist attempt with fofa
@@ -10,6 +10,10 @@ Fofa api requires membership. I don't want to enroll.
 You first test on your vulnerable machine/app, develop scanner, exploiter and listener, then mass exploit to millions.
 
 All recorded here: `hack_all_the_thing/tests/get_log4j_vuln`
+
+[zoomeye search for log4j](https://www.zoomeye.org/searchResult?q=log4j2&page=2&pageSize=20)
+
+[seebug](https://www.seebug.org)
 
 [shodan query for log4j2 (or anything)](https://www.shodan.io/search?query=log4j2)
 
