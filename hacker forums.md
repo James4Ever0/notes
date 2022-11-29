@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:49:25+08:00
+modified: 2022-11-29T22:51:26+08:00
 ---
 
 # hacker forums
@@ -18,6 +18,8 @@ You would like forums for dark web? Forum for hacking?
 when not reached, make sure you are in the channel!
 
 Offensive Community
+
+黑客X档案
 
 Alternative to 'raid forum': visit it in archive.org!
 
