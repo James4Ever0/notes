@@ -1,6 +1,6 @@
 ---
 created: 2022-09-25T00:45:35+08:00
-modified: 2022-11-29T20:32:50+08:00
+modified: 2022-11-29T20:34:13+08:00
 ---
 
 # dark web search engine
@@ -12,6 +12,8 @@ https://darkweblinks.com/#Open-Source-Software
 [The onion dir](tfcw5fa2m66hxcbcg2lro7yzpstq2ioewysrv7u6iz5n26zysj6pqzid)
 
 You would like forums for dark web? Forum for hacking?
+
+Alternative to 'raid forum'
 
 [Breached forum](http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion/)
 
