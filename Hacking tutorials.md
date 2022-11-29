@@ -2,10 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T15:43:20+00:00
-modified: 2022-11-29T20:47:21+08:00
+modified: 2022-11-29T22:58:12+08:00
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+挖0day 或者利用现成漏洞
 
 [all in one hacking tool](https://github.com/Z4nzu/hackingtool)
 
