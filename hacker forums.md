@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T22:39:03+08:00
+modified: 2022-11-29T22:39:49+08:00
 ---
 
 # hacker forums
@@ -9,7 +9,7 @@ social engineering is just a fancy name for gaining trust and do shit.
 
 in hacking we must be multilingual, as this shit is really hard to get right.
 
-you would read them sometime do you? you would collect info from these sites do you?
+you would read them sometime do you? you would collect info from these sites do you? you would search for things when you need it do you?
 
 You would like forums for dark web? Forum for hacking?
 
