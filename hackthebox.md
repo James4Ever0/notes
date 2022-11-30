@@ -1,9 +1,11 @@
 ---
 created: 2022-11-30T00:12:25+08:00
-modified: 2022-11-30T00:17:17+08:00
+modified: 2022-11-30T14:20:02+08:00
 ---
 
 # hackthebox
+
+这是一个靶场 和一般的CTF不一样 是有真的服务器在里面的
 
 [official website](https://www.hackthebox.com/?ref=parrotsec)
 
