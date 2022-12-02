@@ -1,6 +1,6 @@
 ---
 created: 2022-11-30T00:12:25+08:00
-modified: 2022-12-02T15:14:56+08:00
+modified: 2022-12-03T01:02:54+08:00
 ---
 
 # hackthebox
@@ -12,8 +12,6 @@ modified: 2022-12-02T15:14:56+08:00
 [11 hack the box alternatives](https://www.topbestalternatives.com/hack-the-box/)
 
 [9 alternatives from alternativesto](https://alternativeto.net/software/hack-the-box/)
-
-
 
 ## usage
 
