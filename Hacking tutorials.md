@@ -1,11 +1,13 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: Hacking tutorials, tools
-created: 2022-07-11T15:43:20+00:00
-modified: 2022-12-03T01:14:42+08:00
+title: 'Hacking tutorials, tools'
+created: '2022-07-11T15:43:20.000Z'
+modified: '2022-12-03T11:46:22.942Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[reverse shell generator](https://github.com/0dayCTF/reverse-shell-generator) while shellcode cannot have null bytes, you need to xor your things with tool or assembly.
 
 挖0day 或者利用现成漏洞 [fuzzers for kali](https://en.kali.tools/all/?category=fuzzer)
 
