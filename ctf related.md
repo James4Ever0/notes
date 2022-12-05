@@ -1,7 +1,7 @@
 ---
 title: ctf related
 created: '2022-12-05T08:55:47.781Z'
-modified: '2022-12-05T08:57:07.951Z'
+modified: '2022-12-05T09:21:30.879Z'
 ---
 
 # ctf related
@@ -10,4 +10,4 @@ modified: '2022-12-05T08:57:07.951Z'
 
 [ctftime](https://ctftime.org)
 
-[ctf-tools](https://github.com/ctf-wiki/ctf-tools) by [ctfwiki]()
+[ctf-tools](https://github.com/ctf-wiki/ctf-tools) by [ctfwiki](https://ctf-wiki.org/)
