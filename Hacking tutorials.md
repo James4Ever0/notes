@@ -2,12 +2,14 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-12-05T07:55:14.681Z'
+modified: '2022-12-05T07:56:07.477Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
 
 [cryptographic related python libraries](https://blog.csdn.net/DARKNOTES/article/details/119154603) gmpy2 pycryptodome libnum yafu rsa-wiener-attack RsaCtfTool
+
+[ciphery](https://blog.csdn.net/m0_68012373/article/details/125516592) auto decryption
 
 [pwntools](https://github.com/Gallopsled/pwntools) used by fmyy and more [doc](http://pwntools.com/)
 
