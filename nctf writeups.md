@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: 2022-12-05T08:00:02+00:00
-modified: 2022-12-05T17:29:11+08:00
+modified: 2022-12-05T17:38:15+08:00
 ---
 
 # nctf writeups
@@ -21,6 +21,8 @@ ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guy
 [zsteg](https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags) for solving that png problem?
 
 [normal sql injection, not for denodb](https://www.doyler.net/security-not-included/sqlite-injection)
+
+[huli: interesting blog where denodb 0day came from](https://blog.huli.tw)
 
 ## writeups
 
