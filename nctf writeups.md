@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: 2022-12-05T08:00:02+00:00
-modified: 2022-12-05T17:49:48+08:00
+modified: 2022-12-05T17:49:53+08:00
 ---
 
 # nctf writeups
