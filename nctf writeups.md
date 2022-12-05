@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: '2022-12-05T08:00:02.317Z'
-modified: '2022-12-05T09:01:20.420Z'
+modified: '2022-12-05T09:03:29.903Z'
 ---
 
 # nctf writeups
@@ -17,6 +17,10 @@ modified: '2022-12-05T09:01:20.420Z'
 ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guys identify the shit from that damn website (bing-upms)?
 
 [baby-aes](https://github.com/zieglerk/baby-AES) for crypto signin?
+
+[zsteg](https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags) for solving that png problem?
+
+[normal sql injection, not for denodb](https://www.doyler.net/security-not-included/sqlite-injection)
 
 ## writeups
 
