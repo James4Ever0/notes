@@ -1,11 +1,14 @@
 ---
-created: 2022-11-30T00:12:25+08:00
-modified: 2022-12-03T01:02:54+08:00
+title: hackthebox
+created: '2022-11-29T16:12:25.000Z'
+modified: '2022-12-05T08:58:58.779Z'
 ---
 
 # hackthebox
 
 这是一个靶场 和一般的CTF不一样 是有真的服务器在里面的
+
+[discord chats](https://discord.gg/senmmDM)
 
 ## alternatives
 
