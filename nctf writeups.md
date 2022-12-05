@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: '2022-12-05T08:00:02.317Z'
-modified: '2022-12-05T08:55:28.890Z'
+modified: '2022-12-05T09:01:20.420Z'
 ---
 
 # nctf writeups
@@ -12,7 +12,11 @@ modified: '2022-12-05T08:55:28.890Z'
 
 [official released source code](https://github.com/X1cT34m/NCTF2022)
 
+## hints and tools
+
 ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guys identify the shit from that damn website (bing-upms)?
+
+[baby-aes](https://github.com/zieglerk/baby-AES) for crypto signin?
 
 ## writeups
 
