@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
-created: '2022-12-05T08:00:02.317Z'
-modified: '2022-12-05T09:03:29.903Z'
+created: 2022-12-05T08:00:02+00:00
+modified: 2022-12-05T17:29:11+08:00
 ---
 
 # nctf writeups
@@ -23,6 +23,8 @@ ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guy
 [normal sql injection, not for denodb](https://www.doyler.net/security-not-included/sqlite-injection)
 
 ## writeups
+
+[arr3ty0u nctf 2022 writeup](http://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247485772&idx=1&sn=0f5b969f111d79027c59e6e2145698ef&chksm=cf53c9faf82440ec839aa7fc6b35bbc03251c824c5c5407ed9eb51181471d7514d651e3cfe97&mpshare=1&scene=23&srcid=12055uACFGja8KBjcPtP8ErG&sharer_sharetime=1670169963855&sharer_shareid=6eea79ff6da57fc6752ab0bc570bf392#rd)
 
 [nctf 2019 writeup](https://www.codetd.com/en/article/9046407)
 
