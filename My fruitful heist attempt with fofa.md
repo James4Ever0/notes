@@ -1,6 +1,6 @@
 ---
 created: 2022-11-29T16:50:57+08:00
-modified: 2022-11-29T17:32:30+08:00
+modified: 2022-12-05T17:48:05+08:00
 ---
 
 # My fruitful heist attempt with fofa
@@ -30,6 +30,8 @@ To generate password dictionary without oom: `itertools.product(chrs, repeat=r)`
 [fofa usage examples](https://zhuanlan.zhihu.com/p/460403187?utm_id=0)
 
 [My first target login page](http://121.199.46.85:8888/admin/mylogin)
+
+[gov site?](https://zww.gzjd.gov.cn/spa/spa/sdms?code=_PX5ips91MzPkvJJg--sfxzDdwAh0BDrBYbxPVSDXb8&state=STATE)
 
 [Bing-upms](https://gitee.com/xiaobingby/bing-upms/tree/master/src/test/java/com/xiaobingby) the system used by my first target
 
