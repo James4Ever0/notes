@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-12-05T07:45:51.280Z'
+modified: '2022-12-05T07:47:27.618Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
@@ -10,6 +10,12 @@ modified: '2022-12-05T07:45:51.280Z'
 [angr](https://angr.io/) to reverse engineer binaries, mostly in ctf? [docs](https://docs.angr.io/advanced-topics)
 
 angr ctf use cases: [case 1](https://blog.csdn.net/qq_44370676/article/details/119741664) [case 2](https://blog.csdn.net/u013648063/article/details/108685416)
+
+[angr ctf reverse binaries and print "good job"](http://angr.oregonctf.org/)
+
+[defcon ctf quals 2021 ooo](https://oooverflow.io/dc-ctf-2021-quals/)
+
+[factordb.com](http://factordb.com/) find prime numbers, decomposition for rsa
 
 [reverse shell generator](https://github.com/0dayCTF/reverse-shell-generator) while shellcode cannot have null bytes, you need to xor your things with tool or assembly.
 
