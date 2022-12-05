@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: 2022-12-05T08:00:02+00:00
-modified: 2022-12-05T17:47:13+08:00
+modified: 2022-12-05T17:49:21+08:00
 ---
 
 # nctf writeups
@@ -13,6 +13,8 @@ modified: 2022-12-05T17:47:13+08:00
 [official released source code](https://github.com/X1cT34m/NCTF2022)
 
 ## hints and tools
+
+binwalk
 
 [arr3esty0u github info](https://github.com/Arr3stY0u)
 
