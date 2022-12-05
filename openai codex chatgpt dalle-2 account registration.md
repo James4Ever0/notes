@@ -1,7 +1,7 @@
 ---
 title: openai codex chatgpt dalle-2 account registration
 created: '2022-12-05T07:56:29.223Z'
-modified: '2022-12-05T08:11:28.013Z'
+modified: '2022-12-05T08:12:18.036Z'
 ---
 
 # openai codex chatgpt dalle-2 account registration
@@ -18,4 +18,5 @@ if you use openai to register new accounts, try to send sms successfully (may no
 
 [receivesms.org](https://www.receivesms.org/swedish-number/3645/) i have seen soulapp usage with this damn number
 
+not work for openai [virtual phone numbers](https://smsreceivefree.com/country/usa)
 
