@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
-created: 2022-12-05T08:00:02+00:00
-modified: 2022-12-05T17:49:53+08:00
+created: '2022-12-05T08:00:02.000Z'
+modified: '2022-12-05T14:33:45.238Z'
 ---
 
 # nctf writeups
@@ -25,6 +25,8 @@ binwalk
 [hack.lu 2022](https://ctftime.org/event/1727)
 
 ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guys identify the shit from that damn website (bing-upms)?
+
+answer: they are both busting common web directories. can be induced by common repo structures.
 
 [baby-aes](https://github.com/zieglerk/baby-AES) for crypto signin?
 
