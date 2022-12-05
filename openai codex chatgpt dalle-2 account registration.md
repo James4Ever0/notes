@@ -1,10 +1,12 @@
 ---
 title: openai codex chatgpt dalle-2 account registration
 created: '2022-12-05T07:56:29.223Z'
-modified: '2022-12-05T08:12:18.036Z'
+modified: '2022-12-05T08:14:10.123Z'
 ---
 
 # openai codex chatgpt dalle-2 account registration
+
+consider [bugmenot](http://bugmenot.com/view/openai.com) to find openai accounts?
 
 chatgpt sucks. it seems a tailored search engine. it might help filter out useless information. no zeroday exploits (rasp like [openrasp](https://github.com/baidu/openrasp)) since it does not interact with program and hooks.
 
