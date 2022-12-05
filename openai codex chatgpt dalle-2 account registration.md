@@ -1,7 +1,7 @@
 ---
 title: openai codex chatgpt dalle-2 account registration
 created: '2022-12-05T07:56:29.223Z'
-modified: '2022-12-05T08:21:14.861Z'
+modified: '2022-12-05T08:23:03.634Z'
 ---
 
 # openai codex chatgpt dalle-2 account registration
@@ -17,6 +17,8 @@ chatgpt sucks. it seems a tailored search engine. it might help filter out usele
 [order paid openai accounts here](https://eylink.cn/)
 
 if you use openai to register new accounts, try to send sms successfully (may not receive sms even sent) multiple times, you will be blocked
+
+[tutorial](https://www.modb.pro/db/573022) on how to use [this platform](https://sms-activate.org/cn) for openai registration
 
 ## free sms receive platforms
 
