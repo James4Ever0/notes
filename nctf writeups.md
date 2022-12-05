@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: 2022-12-05T08:00:02+00:00
-modified: 2022-12-05T17:38:15+08:00
+modified: 2022-12-05T17:41:54+08:00
 ---
 
 # nctf writeups
@@ -13,6 +13,12 @@ modified: 2022-12-05T17:38:15+08:00
 [official released source code](https://github.com/X1cT34m/NCTF2022)
 
 ## hints and tools
+
+[arr3esty0u github info](https://github.com/Arr3stY0u)
+
+[shg-sec](https://shg-sec.com/#)
+
+[hack.lu 2022](https://ctftime.org/event/1727)
 
 ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guys identify the shit from that damn website (bing-upms)?
 
