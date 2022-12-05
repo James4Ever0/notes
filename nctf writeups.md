@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: '2022-12-05T08:00:02.317Z'
-modified: '2022-12-05T08:53:42.032Z'
+modified: '2022-12-05T08:55:28.890Z'
 ---
 
 # nctf writeups
@@ -12,7 +12,7 @@ modified: '2022-12-05T08:53:42.032Z'
 
 [official released source code](https://github.com/X1cT34m/NCTF2022)
 
-ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guys identify the shit from that damn website (bing-?
+ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guys identify the shit from that damn website (bing-upms)?
 
 ## writeups
 

@@ -1,12 +1,16 @@
 ---
 title: vxworks binary reverse engineering
 created: '2022-12-05T07:47:42.877Z'
-modified: '2022-12-05T07:53:48.621Z'
+modified: '2022-12-05T08:58:33.809Z'
 ---
 
 # vxworks binary reverse engineering
 
 [vxpwn](https://github.com/knownsec/VxPwn) vxworks exploit scripts
+
+[run vxworks in vmware](https://blog.katastros.com/a?ID=00200-501cc04d-5cf6-40d6-a5e0-d3845de9cc3a) maybe in qemu?
+
+[using serial port to reverse engineering a router](https://blog.quarkslab.com/reverse-engineering-a-vxworks-os-based-router.html)
 
 [vxhunter](https://github.com/PAGalaxyLab/vxhunter) toolsets for vxworks based embedded device analysis
 
