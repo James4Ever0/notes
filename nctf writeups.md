@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: 2022-12-05T08:00:02+00:00
-modified: 2022-12-05T17:49:21+08:00
+modified: 2022-12-05T17:49:48+08:00
 ---
 
 # nctf writeups
@@ -11,6 +11,8 @@ modified: 2022-12-05T17:49:21+08:00
 [the platform](https://nctf.h4ck.fun)
 
 [official released source code](https://github.com/X1cT34m/NCTF2022)
+
+buuctf
 
 ## hints and tools
 
