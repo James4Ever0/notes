@@ -1,10 +1,14 @@
 ---
 title: openai codex chatgpt dalle-2 account registration
 created: '2022-12-05T07:56:29.223Z'
-modified: '2022-12-05T08:14:10.123Z'
+modified: '2022-12-05T08:21:14.861Z'
 ---
 
 # openai codex chatgpt dalle-2 account registration
+
+[chatgpt interface](https://chat.openai.com/chat)
+
+there are discord chats for [openai](https://discord.gg/openai) and hackthebox
 
 consider [bugmenot](http://bugmenot.com/view/openai.com) to find openai accounts?
 
