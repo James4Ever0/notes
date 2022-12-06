@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T10:54:30.547Z'
+modified: '2022-12-06T12:28:26.509Z'
 ---
 
 # raspberry pi tweaks
@@ -22,6 +22,13 @@ sudo sed -i 's|raspbian.raspberrypi.org|mirrors.ustc.edu.cn/raspbian|g' /etc/apt
 sudo sed -i 's|mirrordirector.raspbian.org|mirrors.ustc.edu.cn/raspbian|g' /etc/apt/sources.list
 sudo sed -i 's|archive.raspbian.org|mirrors.ustc.edu.cn/raspbian|g' /etc/apt/sources.list
 sudo sed -i 's|archive.raspberrypi.org/debian|mirrors.ustc.edu.cn/archive.raspberrypi.org/debian|g' /etc/apt/sources.list.d/raspi.list
+```
+
+using nmcli to scan and connect wifi
+
+```bash
+sudo nmcli dev wifi rescan
+sudo nmcli dev wifi connect <SSID> password <PASSWORD>
 ```
 
 sharing network:
