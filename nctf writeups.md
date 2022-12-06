@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: '2022-12-05T08:00:02.000Z'
-modified: '2022-12-06T08:20:13.193Z'
+modified: '2022-12-06T08:20:38.121Z'
 ---
 
 # nctf writeups
@@ -36,7 +36,7 @@ answer: they are both busting common web directories. can be induced by common r
 
 [huli: interesting blog where denodb 0day came from](https://blog.huli.tw)
 
-some z3 code, which does not solve the problem
+some z3 code, which does not but angr solved the problem
 
 ```python
 from z3 import *
