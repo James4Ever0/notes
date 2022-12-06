@@ -1,10 +1,12 @@
 ---
 title: mirror sites change
 created: '2022-12-06T14:37:42.715Z'
-modified: '2022-12-06T14:41:10.798Z'
+modified: '2022-12-06T16:04:46.274Z'
 ---
 
 # mirror sites change
+
+if it only blocks a range of ip, you use proxy to avoid this constraint.
 
 some mirror sites serves us poorly and block access from us. we point them out, list alternatives and provide quick fixes.
 
