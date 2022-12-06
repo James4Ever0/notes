@@ -1,7 +1,12 @@
 ---
 title: SEO search engine optimization SEMrush alternative
+<<<<<<< HEAD
 created: 2022-12-06T06:30:40+00:00
 modified: 2022-12-06T16:14:48+08:00
+=======
+created: '2022-12-06T06:30:40.878Z'
+modified: '2022-12-06T06:44:29.721Z'
+>>>>>>> 0c1ae64d (Update Notes Tue Dec  6 14:44:33 CST 2022)
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -24,4 +29,4 @@ SEO: search engine optimization, means to cheat the search engine to get higher 
 
 SEM: search engine marketing, pay ads to search engine, or advertise on your own search engine?
 
-SMM: social media marketing
+SMM: social media marketing, play nice with the public
