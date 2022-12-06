@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T04:45:21.342Z'
+modified: '2022-12-06T04:47:55.607Z'
 ---
 
 # raspberry pi tweaks
@@ -11,11 +11,13 @@ you've installed [raspap](https://raspap.com/) on this device. you use the defau
 seriously? do you really need docker on macos? or just on raspberry pi?
 
 sharing network:
+
 ```bash
 ssh -R 1080 pi@10.42.0.33
 ```
 
 install packages:
+
 ```bash
 sudo apt-get -o Acquire::http::proxy="socks5h://127.0.0.1:1080/"  -o Acquire::Check-Valid-Until=false -o Acquire::Check-Date=false update --allow-releaseinfo-change
 
