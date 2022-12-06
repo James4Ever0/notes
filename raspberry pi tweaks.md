@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T06:42:23.773Z'
+modified: '2022-12-06T10:50:02.183Z'
 ---
 
 # raspberry pi tweaks
@@ -15,6 +15,15 @@ password: raspberry
 you've installed [raspap](https://raspap.com/) on this device. you use the default credentials. this shit will not connect to our wifi automatically, thus block your way of running docker containers on it with only macbook.
 
 seriously? do you really need docker on macos? or just on raspberry pi?
+
+change apt sources:
+```bash
+sudo sed -i 's|mirrordirector.raspbian.org|mirrors.ustc.edu.cn/raspbian|g' /etc/apt/sources.list
+sudo sed -i 's|archive.raspbian.org|mirrors.ustc.edu.cn/raspbian|g' /etc/apt/sources.list
+sudo sed -i 's|archive.raspberrypi.org/debian|archive.raspberrypi.org/debian|g' /etc/apt/sources.list
+
+
+```
 
 sharing network:
 
