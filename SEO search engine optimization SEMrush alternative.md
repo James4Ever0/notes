@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: 2022-12-06T06:30:40+00:00
-modified: 2022-12-06T15:50:08+08:00
+modified: 2022-12-06T16:14:48+08:00
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -15,8 +15,6 @@ put social media buttons on webpages to let users share the content? that's part
 ## tools
 
 [serpbear](https://github.com/towfiqi/serpbear) check rankongs on google
-
-
 
 ## glossaries
 
