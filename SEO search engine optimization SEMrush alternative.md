@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T06:30:40.878Z'
-modified: '2022-12-06T06:40:00.674Z'
+modified: '2022-12-06T06:41:16.129Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -18,6 +18,6 @@ SERP: search engine result page, means scraping from search engine to get rankin
 
 SEO: search engine optimization, means to cheat the search engine to get higher rankings.
 
-SEM: search engine marketing
+SEM: search engine marketing, pay ads to search engine, or advertise on your own search engine?
 
 SMM: social media marketing
