@@ -1,10 +1,16 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T04:47:55.607Z'
+modified: '2022-12-06T06:42:23.773Z'
 ---
 
 # raspberry pi tweaks
+
+default login: 
+```
+username: pi
+password: raspberry
+```
 
 you've installed [raspap](https://raspap.com/) on this device. you use the default credentials. this shit will not connect to our wifi automatically, thus block your way of running docker containers on it with only macbook.
 
