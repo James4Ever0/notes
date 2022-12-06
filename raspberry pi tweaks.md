@@ -1,10 +1,25 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T13:27:17.075Z'
+modified: '2022-12-06T15:08:59.701Z'
 ---
 
 # raspberry pi tweaks
+
+openai says i should edit `/etc/wpa_supplicant/wpa_supplicant.conf` like this to connect to 5G wifi:
+
+```bash
+network={
+    ssid="<SSID>"
+    psk="<password>"
+    frequency=5180
+}
+```
+
+also set frequency of wifi card like this:
+```bash
+
+```
 
 unplug ethernet, then we are golden.
 ```bash
