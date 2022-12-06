@@ -6,11 +6,15 @@ modified: 2022-12-06T16:14:48+08:00
 =======
 created: '2022-12-06T06:30:40.878Z'
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: '2022-12-06T06:44:29.721Z'
 >>>>>>> 0c1ae64d (Update Notes Tue Dec  6 14:44:33 CST 2022)
 =======
 modified: '2022-12-06T08:10:05.202Z'
 >>>>>>> 6a9c20e0 (Update Notes Tue Dec  6 16:10:43 CST 2022)
+=======
+modified: '2022-12-06T08:14:01.853Z'
+>>>>>>> 143cead8 (Update Notes Tue Dec  6 16:14:27 CST 2022)
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -21,9 +25,15 @@ semrush does SEO, SEM, and SMM.
 
 put social media buttons on webpages to let users share the content? that's part of SMM.
 
+<<<<<<< HEAD
 ## tools
 
 [serpbear](https://github.com/towfiqi/serpbear) check rankongs on google
+=======
+## functionalities
+
+
+>>>>>>> 143cead8 (Update Notes Tue Dec  6 16:14:27 CST 2022)
 
 ## glossaries
 
