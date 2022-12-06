@@ -2,10 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: 2022-08-08T20:52:28+08:00
-modified: 2022-11-27T23:41:28+08:00
+modified: 2022-12-06T15:51:19+08:00
 ---
 
 # disco diffusion and ai art
+
+[stable diffusion on macos](https://github.com/apple/ml-stable-diffusion)
 
 [video generation ebsynth](https://github.com/jamriska/ebsynth) 
 
