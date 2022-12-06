@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T13:01:32.133Z'
+modified: '2022-12-06T13:12:29.537Z'
 ---
 
 # raspberry pi tweaks
@@ -13,6 +13,13 @@ password: raspberry
 ```
 
 in order to start `sshd`, `touch ssh` under `boot` partition
+
+recover `dhcpcd` service:
+```bash
+sudo systemctl enable dhcpcd.service
+sudo systemctl restart dhcpcd.service
+
+```
 
 config the password with `proot -S <path_to_rootfs> -b <boot_partition>:/boot -q qemu-arm /usr/bin/bash` and `passwd`
 
