@@ -1,6 +1,7 @@
 ---
-created: 2022-09-17T20:42:12+08:00
-modified: 2022-11-28T22:17:57+08:00
+title: 语音转文字 stt speech to text
+created: '2022-09-17T12:42:12.000Z'
+modified: '2022-12-06T15:44:14.986Z'
 ---
 
 # 语音转文字 asr stt speech to text
@@ -20,6 +21,8 @@ https://github.com/cuberwr/bilibiliSTT
 https://github.com/1c7/Translate-Subtitle-File
 
 ## offline
+
+[speechbrain]() very advanced speech related ai library, with almost everything related to speech
 
 vosk
 
