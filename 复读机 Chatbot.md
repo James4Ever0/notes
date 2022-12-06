@@ -2,12 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2022-12-06T16:20:20.862Z'
+modified: '2022-12-06T16:20:33.082Z'
 ---
 
 # 复读机 Chatbot
 
-大晚上的不要说话 大家都睡觉
+大晚上的不要说话 大家都睡觉 说话容易被踢
 
 一般被引用的图片 发图之后被回复 图片下面比较激烈的回复代表着图片质量比较好 要取决于图片具体内容进行分类
 
