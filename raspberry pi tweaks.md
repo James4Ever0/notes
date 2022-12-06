@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T15:08:59.701Z'
+modified: '2022-12-06T15:09:18.686Z'
 ---
 
 # raspberry pi tweaks
@@ -18,7 +18,8 @@ network={
 
 also set frequency of wifi card like this:
 ```bash
-
+sudo ifdown wlan0 && sudo ifup wlan0
+sudo iw dev wlan0 set freq 5180
 ```
 
 unplug ethernet, then we are golden.
