@@ -1,10 +1,12 @@
 ---
 title: openai codex chatgpt dalle-2 account registration
 created: '2022-12-05T07:56:29.223Z'
-modified: '2022-12-05T08:23:03.634Z'
+modified: '2022-12-06T10:06:23.278Z'
 ---
 
 # openai codex chatgpt dalle-2 account registration
+
+chatgpt is based on instructGPT
 
 [chatgpt interface](https://chat.openai.com/chat)
 
