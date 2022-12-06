@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
-created: 2022-12-05T08:00:02+00:00
-modified: 2022-12-05T18:49:47+08:00
+created: '2022-12-05T08:00:02.000Z'
+modified: '2022-12-06T08:20:13.193Z'
 ---
 
 # nctf writeups
@@ -26,6 +26,8 @@ binwalk
 
 ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guys identify the shit from that damn website (bing-upms)?
 
+answer: they are both busting common web directories. can be induced by common repo structures.
+
 [baby-aes](https://github.com/zieglerk/baby-AES) for crypto signin?
 
 [zsteg](https://www.doyler.net/security-not-included/zsteg-easy-ctf-flags) for solving that png problem?
@@ -34,7 +36,7 @@ ayacms rce in nctf 2022? how to identify the cms? and how the fuck did those guy
 
 [huli: interesting blog where denodb 0day came from](https://blog.huli.tw)
 
-some z3 code
+some z3 code, which does not solve the problem
 
 ```python
 from z3 import *
@@ -83,8 +85,6 @@ else:
 ```
 
 ## writeups
-
-pwn几道简单题wp放博客了，https://www.cnblogs.com/pwnfeifei/p/16953138.html，如果有哪点没写清楚，欢迎前来拷打
 
 [arr3ty0u nctf 2022 writeup](http://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247485772&idx=1&sn=0f5b969f111d79027c59e6e2145698ef&chksm=cf53c9faf82440ec839aa7fc6b35bbc03251c824c5c5407ed9eb51181471d7514d651e3cfe97&mpshare=1&scene=23&srcid=12055uACFGja8KBjcPtP8ErG&sharer_sharetime=1670169963855&sharer_shareid=6eea79ff6da57fc6752ab0bc570bf392#rd)
 
