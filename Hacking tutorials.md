@@ -1,11 +1,13 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: Hacking tutorials, tools
-created: 2022-07-11T15:43:20+00:00
-modified: 2022-12-06T15:52:49+08:00
+title: 'Hacking tutorials, tools'
+created: '2022-07-11T15:43:20.000Z'
+modified: '2022-12-06T15:15:10.848Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[openai written phishing and directory bruteforcing](https://github.com/payloadartist/offensive-chatgpt/blob/main/directory-bruteforce/directory_brute_force.py)
 
 [ghunt](https://github.com/mxrch/GHunt) google osint
 
