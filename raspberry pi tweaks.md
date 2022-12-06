@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T12:28:26.509Z'
+modified: '2022-12-06T12:49:01.698Z'
 ---
 
 # raspberry pi tweaks
@@ -37,6 +37,28 @@ sharing network:
 ssh -R 1080 pi@10.42.0.33
 ```
 
+edit `/etc/network/interfaces`:
+```
+auto lo
+
+iface lo inet loopback
+
+
+auto eth0
+iface eth0 inet static
+address 10.42.0.33
+netmask 255.255.255.0
+gateway 10.42.0.1
+
+allow-hotplug wlan0
+auto wlan0
+
+
+iface wlan0 inet dhcp
+#wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+wpa-ssid "<SSID>"
+wpa-psk "<PASSWORD>"
+```
 install packages:
 
 ```bash
