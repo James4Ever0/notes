@@ -1,11 +1,11 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T06:30:40.878Z'
-modified: '2022-12-06T06:32:23.747Z'
+modified: '2022-12-06T06:32:51.263Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
 
-semrush contains multiple services, and it is paid. many online tools are paid as well. to find open source alternatives (usually it can't be achieved with a single tool alone, from scraping to analyzing), let's figure out what does this tool do.
+semrush contains multiple services, and it is paid. many online tools are paid as well. to find open source alternatives (usually it can't be achieved with a single tool alone, from scraping to analyzing), let's figure out what does this tool do, also few tech terms.
 
-
+SERP: search engine ranking page, 
