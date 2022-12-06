@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T13:23:01.473Z'
+modified: '2022-12-06T13:24:30.176Z'
 ---
 
 # raspberry pi tweaks
@@ -9,6 +9,11 @@ modified: '2022-12-06T13:23:01.473Z'
 unplug ethernet, then we are golden.
 ```bash
 traceroute baidu.com
+```
+
+how to check avaliable wifi ssids without `network-manager`:
+```bash
+
 ```
 
 default login: 
@@ -59,7 +64,6 @@ auto lo
 
 iface lo inet loopback
 
-
 auto eth0
 iface eth0 inet static
 address 10.42.0.33
@@ -68,7 +72,6 @@ gateway 10.42.0.1
 
 allow-hotplug wlan0
 auto wlan0
-
 
 iface wlan0 inet dhcp
 #wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
