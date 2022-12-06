@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T12:49:01.698Z'
+modified: '2022-12-06T13:01:32.133Z'
 ---
 
 # raspberry pi tweaks
@@ -11,6 +11,10 @@ default login:
 username: pi
 password: raspberry
 ```
+
+in order to start `sshd`, `touch ssh` under `boot` partition
+
+config the password with `proot -S <path_to_rootfs> -b <boot_partition>:/boot -q qemu-arm /usr/bin/bash` and `passwd`
 
 you've installed [raspap](https://raspap.com/) on this device. you use the default credentials. this shit will not connect to our wifi automatically, thus block your way of running docker containers on it with only macbook.
 
