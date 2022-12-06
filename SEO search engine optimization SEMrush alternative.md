@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-06T08:18:42.192Z'
+modified: '2022-12-06T18:35:37.034Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -10,7 +10,7 @@ semrush contains multiple services, and it is paid. many online tools are paid a
 
 semrush does SEO, SEM, and SMM.
 
-put social media buttons on webpages to let users share the content? that's part of SMM.
+put social media buttons on webpages to let users share the content, usually by passing parameters in url, which is part of SMM.
 
 ## tools
 
