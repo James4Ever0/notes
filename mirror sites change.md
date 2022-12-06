@@ -1,12 +1,12 @@
 ---
 title: mirror sites change
 created: '2022-12-06T14:37:42.715Z'
-modified: '2022-12-06T16:04:46.274Z'
+modified: '2022-12-06T16:29:39.298Z'
 ---
 
 # mirror sites change
 
-if it only blocks a range of ip, you use proxy to avoid this constraint.
+if it only blocks a range of ip, you use proxy to avoid this constraint. currently we use some previously picked up tunnel accounts provided by topsap.
 
 some mirror sites serves us poorly and block access from us. we point them out, list alternatives and provide quick fixes.
 
