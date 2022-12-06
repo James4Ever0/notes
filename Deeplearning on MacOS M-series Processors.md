@@ -1,8 +1,8 @@
 ---
 tags: [CoreML, darling, hackintosh, paddlepaddle, Swift]
 title: Deeplearning on MacOS M-series Processors
-created: '2022-08-06T18:25:22.000Z'
-modified: '2022-09-08T15:33:00.093Z'
+created: 2022-08-06T18:25:22+00:00
+modified: 2022-12-06T15:51:58+08:00
 ---
 
 # Deeplearning on MacOS M-series Processors
@@ -17,6 +17,8 @@ calling python code from swift using pythonkit:
         videoPath = String(response)
     }
 ```
+
+[run macos in docker](https://github.com/sickcodes/Docker-OSX) with kvm
 
 ## neural engine
 
@@ -438,4 +440,3 @@ Analyze sounds in audio using the built-in sound classifier or a custom Core ML 
 
 View API
 </p></details>
-
