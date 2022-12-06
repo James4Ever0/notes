@@ -1,7 +1,7 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T13:24:30.176Z'
+modified: '2022-12-06T13:27:17.075Z'
 ---
 
 # raspberry pi tweaks
@@ -13,10 +13,11 @@ traceroute baidu.com
 
 how to check avaliable wifi ssids without `network-manager`:
 ```bash
+sudo iwlist wlan0 scan | grep ESSID
 
 ```
 
-default login: 
+default login (maybe not): 
 ```
 username: pi
 password: raspberry
