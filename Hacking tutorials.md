@@ -2,10 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T15:43:20+00:00
-modified: 2022-12-05T17:43:51+08:00
+modified: 2022-12-06T15:50:30+08:00
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[ghunt](https://github.com/mxrch/GHunt) google osint
 
 [cryptographic related python libraries](https://blog.csdn.net/DARKNOTES/article/details/119154603) gmpy2 pycryptodome libnum yafu rsa-wiener-attack RsaCtfTool
 
