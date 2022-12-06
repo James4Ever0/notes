@@ -1,10 +1,15 @@
 ---
 title: raspberry pi tweaks
 created: '2022-12-05T11:54:42.089Z'
-modified: '2022-12-06T13:12:29.537Z'
+modified: '2022-12-06T13:23:01.473Z'
 ---
 
 # raspberry pi tweaks
+
+unplug ethernet, then we are golden.
+```bash
+traceroute baidu.com
+```
 
 default login: 
 ```
