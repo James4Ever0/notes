@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T06:28:08.822Z'
+modified: '2022-12-07T07:26:49.453Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -33,6 +33,7 @@ SEO Metrics
 Google Data studio
 
 ## glossaries
+Local SEO: the practice of optimizing your website for a specific local area
 
 SERP: search engine result page, means scraping from search engine to get rankings.
 
