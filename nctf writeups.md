@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: '2022-12-05T08:00:02.000Z'
-modified: '2022-12-06T08:20:38.121Z'
+modified: '2022-12-07T10:23:04.284Z'
 ---
 
 # nctf writeups
@@ -12,7 +12,9 @@ modified: '2022-12-06T08:20:38.121Z'
 
 [official released source code](https://github.com/X1cT34m/NCTF2022)
 
-buuctf
+[buuctf](https://buuoj.cn/) online judge
+
+you may find many writeups for buuctf.
 
 ## hints and tools
 
