@@ -1,12 +1,14 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-06T15:17:06.278Z'
+modified: '2022-12-07T06:12:51.204Z'
 ---
 
 # chatgpt
 
 this gpt seems really good. currently only api access.
+
+## access via api
 
 https://github.com/altryne/chatGPT-telegram-bot
 
@@ -19,3 +21,11 @@ https://github.com/vincelwt/chatgpt-mac
 https://github.com/transitive-bullshit/chatgpt-api
 
 https://github.com/rawandahmad698/PyChatGPT
+
+## models like chatgpt
+
+gpt-j
+
+bloom a huge model like gpt-3
+
+## projects related to chatgpt
