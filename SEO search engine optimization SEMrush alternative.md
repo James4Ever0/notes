@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T10:34:17.616Z'
+modified: '2022-12-07T10:35:01.410Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -14,7 +14,7 @@ put social media buttons on webpages to let users share the content, usually by 
 
 ## tools
 
-
+[keyword-suggest-tool](https://github.com/rmak78/keyword-suggest-tool)  is a simple tool that provides you keyword suggestion from multiple search engines like google, bing, yahoo, ebay, amazon, ebay, deployed on [sutlej.net/seo-tools](https://sutlej.net/seo-tools/keyword-suggest/)
 
 [ULTRA](https://github.com/ULTR-Community/ULTRA) Unbiased Learning To Rank Algorithms, sorting things out, find what users like the most
 
