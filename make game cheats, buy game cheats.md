@@ -1,10 +1,12 @@
 ---
 title: 'make game cheats, buy game cheats'
 created: '2022-12-05T09:17:16.724Z'
-modified: '2022-12-05T09:19:48.090Z'
+modified: '2022-12-07T06:45:52.249Z'
 ---
 
 # make game cheats, buy game cheats
+
+aimbots
 
 game hacking is about reverse engineering at some level.
 
