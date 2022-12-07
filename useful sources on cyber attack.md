@@ -1,12 +1,14 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T10:24:31.365Z'
+modified: '2022-12-07T10:26:39.291Z'
 ---
 
 # useful sources on cyber attack
 
 [ctfshow](https://ctf.show/)
+
+[resources recommended by ctfwiki](https://ctf-wiki.org/introduction/resources/)
 
 [shellcode storm database](http://shell-storm.org/shellcode/index.html) can be queried via api
 

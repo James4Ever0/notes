@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T10:25:04.250Z'
+modified: '2022-12-07T10:26:07.951Z'
 ---
 
 # chatgpt
@@ -29,6 +29,10 @@ https://github.com/rawandahmad698/PyChatGPT
 there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/instructgpt-pytorch) found in bing but no cache preserved, also an empty repo called [InstructFNet](https://github.com/flippe3/InstructFNet) wtf?
 
 [AidMe](https://github.com/nicolas-lair/AidMe) Code and experiment of the article AidMe User-in-the-loop Adaptative Intent Detecttion for Instructable Digital Assistant
+
+[cheese](https://github.com/CarperAI/cheese) Used for adaptive human in the loop evaluation of language and embedding models.
+
+[Kelpie](https://github.com/AndRossi/Kelpie) Explainable AI framework for interpreting Link Predictions on Knowledge Graphs
 
 gpt-j
 
