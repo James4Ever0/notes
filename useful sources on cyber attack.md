@@ -1,12 +1,16 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T10:44:42.133Z'
+modified: '2022-12-07T10:54:34.268Z'
 ---
 
 # useful sources on cyber attack
 
 [ichunqiu](https://www.ichunqiu.com/) ctf educational resources
+
+[bugku tools](http://tool.bugku.com/)
+
+[ctftools](https://www.ctftools.com/) curated online tool list
 
 [ctf online tools](http://www.hiencode.com/)
 
