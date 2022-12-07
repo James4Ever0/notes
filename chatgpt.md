@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T10:26:07.951Z'
+modified: '2022-12-07T10:42:37.137Z'
 ---
 
 # chatgpt
@@ -33,6 +33,10 @@ there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/
 [cheese](https://github.com/CarperAI/cheese) Used for adaptive human in the loop evaluation of language and embedding models.
 
 [Kelpie](https://github.com/AndRossi/Kelpie) Explainable AI framework for interpreting Link Predictions on Knowledge Graphs
+
+[GrIPS](https://github.com/archiki/GrIPS)  Gradient-free, Edit-based Instruction Search for Prompting Large Language Models
+
+[queakily](https://github.com/CarperAI/squeakily) nlp datasets cleaner
 
 gpt-j
 
