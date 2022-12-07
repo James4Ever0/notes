@@ -1,10 +1,12 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T11:23:25.134Z'
+modified: '2022-12-07T11:45:39.089Z'
 ---
 
 # useful sources on cyber attack
+
+[i0gan](https://i0gan.github.io/) some hacker with automated tools like [awd_script](https://github.com/i0gan/awd_script/fork)
 
 [ichunqiu](https://www.ichunqiu.com/) ctf educational resources
 
