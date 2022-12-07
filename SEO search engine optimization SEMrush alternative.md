@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T10:35:01.410Z'
+modified: '2022-12-07T10:37:33.086Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -21,6 +21,15 @@ put social media buttons on webpages to let users share the content, usually by 
 [serpbear](https://github.com/towfiqi/serpbear) check rankongs on google
 
 [curated seo tools](https://github.com/sneg55/curatedseotools) huge tools/website collection on seo category
+
+[awesome-keyword-finder-tools](https://github.com/eliquid/awesome-keyword-finder-tools) A curated list of amazingly awesome seo keyword finder tools
+
+[Keyword-Research-tool-python](https://github.com/hassancs91/Keyword-Research-tool-python) Build a Keyword research tool with google autocomplete suggestions in python
+
+[seo_keyword_research_tools](https://github.com/rdowns26/seo_keyword_research_tools) The Keyword Volume Tool uses the Google Adwords API Targeting Ideas Service to return the search volume and competition of a massive list of keywords. The Keyword Expansion Tool uses the Google Adwords API Targeting Ideas Service to expand an input keyword into up to 500 related keywords with search volume.
+
+Resources
+
 
 ## functionalities
 
