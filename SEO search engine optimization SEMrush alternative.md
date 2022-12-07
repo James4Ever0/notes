@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T10:20:08.026Z'
+modified: '2022-12-07T10:34:17.616Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -14,7 +14,9 @@ put social media buttons on webpages to let users share the content, usually by 
 
 ## tools
 
-[ULTRA(https://github.com/ULTR-Community/ULTRA) Unbiased Learning To Rank Algorithms, sorting things out, find what users like the most
+
+
+[ULTRA](https://github.com/ULTR-Community/ULTRA) Unbiased Learning To Rank Algorithms, sorting things out, find what users like the most
 
 [serpbear](https://github.com/towfiqi/serpbear) check rankongs on google
 
