@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T07:26:49.453Z'
+modified: '2022-12-07T10:19:42.202Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -13,6 +13,8 @@ semrush does SEO, SEM, and SMM.
 put social media buttons on webpages to let users share the content, usually by passing parameters in url, which is part of SMM.
 
 ## tools
+
+[ULTRA(https://github.com/ULTR-Community/ULTRA) Unbiased Learning To Rank Algorithms
 
 [serpbear](https://github.com/towfiqi/serpbear) check rankongs on google
 
