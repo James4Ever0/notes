@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T06:06:13.415Z'
+modified: '2022-12-07T06:06:22.151Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -24,7 +24,7 @@ Backlink research
 Content research
 Rank Tracker
 Site audit tool
-
+Content optimization
 
 ## glossaries
 
