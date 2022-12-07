@@ -1,7 +1,7 @@
 ---
 title: Cyber Grand Challenge DARPA machine automated cyber attack
 created: '2022-12-07T06:39:45.668Z'
-modified: '2022-12-07T10:32:11.942Z'
+modified: '2022-12-07T10:32:38.238Z'
 ---
 
 # Cyber Grand Challenge DARPA machine automated cyber attack
@@ -14,4 +14,4 @@ analyze source code first, then plan attack or fix code
 
 search for `darpa cgc` on github
 
-[cyber-challenge](https://github.com/jamespic/cyber-challenge) Some toy examples, to demonstrate ideas that could be used in DARPA's Cyber Grand Challenge
+[cyber-challenge](https://github.com/jamespic/cyber-challenge) Some toy examples, to demonstrate ideas that could be used in DARPA's Cyber Grand Challenge including modifying java bytecode and filter out html requests on the fly
