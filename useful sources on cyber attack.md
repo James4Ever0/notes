@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T10:54:34.268Z'
+modified: '2022-12-07T11:16:48.144Z'
 ---
 
 # useful sources on cyber attack
@@ -39,6 +39,7 @@ OSINT: open source (public source) intelligence is the practice of collecting in
 [osint tools](https://www.csoonline.com/article/3445357/what-is-osint-top-open-source-intelligence-tools.html):
 ```
 Maltego
+Google dorks
 Mitaka
 SpiderFoot
 Spyse
