@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T06:43:50.182Z'
+modified: '2022-12-07T10:00:56.230Z'
 ---
 
 # chatgpt
@@ -29,6 +29,8 @@ https://github.com/rawandahmad698/PyChatGPT
 there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/instructgpt-pytorch) found in bing but no cache preserved, also an empty repo called [InstructFNet](https://github.com/flippe3/InstructFNet) wtf?
 
 gpt-j
+
+[multi-modal]
 
 [bloom](https://huggingface.co/docs/transformers/model_doc/bloom) a huge model like gpt-3
 
