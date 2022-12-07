@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T10:40:31.774Z'
+modified: '2022-12-07T10:40:38.613Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -34,7 +34,7 @@ put social media buttons on webpages to let users share the content, usually by 
 
 [PURR](https://github.com/semrush/purr) (PUppeteer RunneR) is a devops-friendly tool for browser testing and monitoring by semrush
 
-[awesome-local-seo](https://github.com/eliquid/awesome-local-seo)
+[awesome-local-seo](https://github.com/eliquid/awesome-local-seo) A curated list of amazingly awesome local seo resources.
 
 [seo_keyword_research_tools](https://github.com/rdowns26/seo_keyword_research_tools) The Keyword Volume Tool uses the Google Adwords API Targeting Ideas Service to return the search volume and competition of a massive list of keywords. The Keyword Expansion Tool uses the Google Adwords API Targeting Ideas Service to expand an input keyword into up to 500 related keywords with search volume.
 
