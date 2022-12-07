@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T10:00:56.230Z'
+modified: '2022-12-07T10:01:28.832Z'
 ---
 
 # chatgpt
@@ -30,7 +30,7 @@ there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/
 
 gpt-j
 
-[multi-modal]
+[multi-modal deeplearning](https://github.com/JingfengYang/Multi-modal-Deep-Learning) paper collections
 
 [bloom](https://huggingface.co/docs/transformers/model_doc/bloom) a huge model like gpt-3
 
