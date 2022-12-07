@@ -1,7 +1,7 @@
 ---
 title: 直接调用安卓方法 frida 直接调用二进制里面的方法
 created: '2022-12-07T06:34:06.173Z'
-modified: '2022-12-07T06:36:01.590Z'
+modified: '2022-12-07T06:36:05.547Z'
 ---
 
 # 直接调用安卓方法 frida 直接调用二进制里面的方法
@@ -10,4 +10,4 @@ modified: '2022-12-07T06:36:01.590Z'
 
 [使用Frida框架hook安卓native方法](https://blog.wuhao13.xin/1540.html)
 
-[frida主动调用简介]()
+[frida主动调用简介](http://www.mchz.com.cn/cn/service/Safety-Lab/info_26_itemid_5132.html)
