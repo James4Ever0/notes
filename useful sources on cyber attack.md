@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T10:28:03.777Z'
+modified: '2022-12-07T10:28:47.246Z'
 ---
 
 # useful sources on cyber attack
@@ -9,6 +9,8 @@ modified: '2022-12-07T10:28:03.777Z'
 [ctfshow](https://ctf.show/)
 
 [ctfhub tools](https://www.ctfhub.com/#/tools)
+
+[渗透师导航](https://www.shentoushi.top/)
 
 [resources recommended by ctfwiki](https://ctf-wiki.org/introduction/resources/)
 
