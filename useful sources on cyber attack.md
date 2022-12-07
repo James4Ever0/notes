@@ -1,10 +1,12 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T10:28:47.246Z'
+modified: '2022-12-07T10:33:18.911Z'
 ---
 
 # useful sources on cyber attack
+
+[ichunqiu](https://www.ichunqiu.com/) educational resources
 
 [ctfshow](https://ctf.show/)
 
