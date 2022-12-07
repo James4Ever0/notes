@@ -1,12 +1,18 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T10:33:56.139Z'
+modified: '2022-12-07T10:44:42.133Z'
 ---
 
 # useful sources on cyber attack
 
 [ichunqiu](https://www.ichunqiu.com/) ctf educational resources
+
+[ctf online tools](http://www.hiencode.com/)
+
+[kanxue](https://www.kanxue.com/) home page, articles
+
+[52pojie hack tools](https://down.52pojie.cn/Tools/)
 
 [kanxue knowledge base](https://www.kanxue.com/chm.htm)
 
