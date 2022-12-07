@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T06:21:21.424Z'
+modified: '2022-12-07T06:43:50.182Z'
 ---
 
 # chatgpt
@@ -26,7 +26,7 @@ https://github.com/rawandahmad698/PyChatGPT
 
 [tk-instruct](https://github.com/yizhongw/Tk-Instruct) with [all models](https://huggingface.co/models?search=allenai/tk-instruct) by allenai can be multilingual, trained on [natural instructions](https://instructions.apps.allenai.org/)
 
-there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/instructgpt-pytorch) found in bing but no cache preserved. wtf?
+there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/instructgpt-pytorch) found in bing but no cache preserved, also an empty repo called [InstructFNet](https://github.com/flippe3/InstructFNet) wtf?
 
 gpt-j
 
