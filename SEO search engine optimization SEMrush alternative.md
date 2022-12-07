@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-06T18:35:37.034Z'
+modified: '2022-12-07T06:05:40.933Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -18,6 +18,11 @@ put social media buttons on webpages to let users share the content, usually by 
 
 ## functionalities
 
+Competitive analysis
+Keyword research
+Backlink research
+Content research
+Rank Tracker
 
 ## glossaries
 
