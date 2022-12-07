@@ -1,7 +1,7 @@
 ---
 title: nctf writeups
 created: '2022-12-05T08:00:02.000Z'
-modified: '2022-12-07T10:23:15.679Z'
+modified: '2022-12-07T10:23:44.599Z'
 ---
 
 # nctf writeups
@@ -14,7 +14,7 @@ modified: '2022-12-07T10:23:15.679Z'
 
 [buuctf](https://buuoj.cn/) online judge
 
-you may find many writeups like [this](https://oopsdc.com/post/buuctf/) for buuctf.
+you may find many writeups [in blog](https://oopsdc.com/post/buuctf/) and [github](https://github.com/Yeuoly/buuctf_pwn) for buuctf.
 
 ## hints and tools
 
