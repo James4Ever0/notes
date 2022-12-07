@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T10:39:31.365Z'
+modified: '2022-12-07T10:40:31.774Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -30,7 +30,11 @@ put social media buttons on webpages to let users share the content, usually by 
 
 [keyword_tool](https://github.com/austyngo/keyword_tool) Web app to extract keywords from pasted text. Built with NLTK and Streamlit.
 
-[keywordshitter2](https://github.com/wassname/keywordshitter2) A website to find long-tail keywords using search suggestions, still works on []
+[keywordshitter2](https://github.com/wassname/keywordshitter2) A website to find long-tail keywords using search suggestions, still works on [here](https://wassname.github.io/keywordshitter2/)
+
+[PURR](https://github.com/semrush/purr) (PUppeteer RunneR) is a devops-friendly tool for browser testing and monitoring by semrush
+
+[awesome-local-seo](https://github.com/eliquid/awesome-local-seo)
 
 [seo_keyword_research_tools](https://github.com/rdowns26/seo_keyword_research_tools) The Keyword Volume Tool uses the Google Adwords API Targeting Ideas Service to return the search volume and competition of a massive list of keywords. The Keyword Expansion Tool uses the Google Adwords API Targeting Ideas Service to expand an input keyword into up to 500 related keywords with search volume.
 
