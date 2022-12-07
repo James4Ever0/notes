@@ -1,7 +1,7 @@
 ---
 title: SEO search engine optimization SEMrush alternative
 created: '2022-12-06T08:17:56.594Z'
-modified: '2022-12-07T10:41:04.284Z'
+modified: '2022-12-07T10:57:51.386Z'
 ---
 
 # SEO search engine optimization SEMrush alternative
@@ -13,6 +13,8 @@ semrush does SEO, SEM, and SMM.
 put social media buttons on webpages to let users share the content, usually by passing parameters in url, which is part of SMM.
 
 ## tools
+
+keyword mining (by search engine or more): 2 words -> 3 words -> 4 words -> 5 words (recursive)
 
 [keyword-suggest-tool](https://github.com/rmak78/keyword-suggest-tool)  is a simple tool that provides you keyword suggestion from multiple search engines like google, bing, yahoo, ebay, amazon, ebay, deployed on [sutlej.net/seo-tools](https://sutlej.net/seo-tools/keyword-suggest/)
 
