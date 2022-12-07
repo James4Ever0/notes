@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T06:14:50.643Z'
+modified: '2022-12-07T06:18:36.113Z'
 ---
 
 # chatgpt
@@ -23,6 +23,8 @@ https://github.com/transitive-bullshit/chatgpt-api
 https://github.com/rawandahmad698/PyChatGPT
 
 ## models like chatgpt
+
+[tk-instruct]() by allenai can be multilingual
 
 there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/instructgpt-pytorch) found in bing but no cache preserved. wtf?
 
