@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T06:12:51.204Z'
+modified: '2022-12-07T06:13:35.679Z'
 ---
 
 # chatgpt
@@ -26,6 +26,6 @@ https://github.com/rawandahmad698/PyChatGPT
 
 gpt-j
 
-bloom a huge model like gpt-3
+[bloom](https://huggingface.co/docs/transformers/model_doc/bloom) a huge model like gpt-3
 
 ## projects related to chatgpt
