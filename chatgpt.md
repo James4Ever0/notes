@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T10:42:37.137Z'
+modified: '2022-12-07T12:17:30.258Z'
 ---
 
 # chatgpt
@@ -23,6 +23,8 @@ https://github.com/transitive-bullshit/chatgpt-api
 https://github.com/rawandahmad698/PyChatGPT
 
 ## models like chatgpt
+
+[WebGPT](https://github.com/James4Ever0/webgpt-cli)
 
 [tk-instruct](https://github.com/yizhongw/Tk-Instruct) with [all models](https://huggingface.co/models?search=allenai/tk-instruct) by allenai can be [multilingual](https://huggingface.co/allenai/mtk-instruct-11b-def-pos), trained on [natural instructions](https://instructions.apps.allenai.org/)
 
