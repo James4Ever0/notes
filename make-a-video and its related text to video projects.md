@@ -1,7 +1,7 @@
 ---
 title: make-a-video and its related text to video projects
 created: '2022-12-08T15:55:56.145Z'
-modified: '2022-12-08T16:17:43.603Z'
+modified: '2022-12-08T16:19:49.452Z'
 ---
 
 # make-a-video and its related text to video projects
@@ -23,3 +23,6 @@ according to its paper, it's been compared to a range of models.
 [mocogan-hd](https://github.com/snap-research/MoCoGAN-HD#:~:text=/-,MoCoGAN%2DHD,-Public)
 
 there are also some projects being a video generator but not so much deeplearning involved.
+
+[redditube](https://github.com/charlypoirier/redditube)
+[Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploade)
