@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:50:13.220Z'
+modified: '2022-12-08T16:50:25.111Z'
 ---
 
 # chatgpt
@@ -59,4 +59,6 @@ notice, gpt-2 is somehow inferior to gpt-3 since it has smaller model parameters
 [dialogue-generation](https://github.com/bme-chatbots/dialogue-generation) Generating responses with pretrained XLNet and GPT-2 in PyTorch.
 
 [personaGPT](https://github.com/illidanlab/personaGPT) Implementation of PersonaGPT Dialog Model
+
+[DialoGPT](https://github.com/microsoft/DialoGPT)
 
