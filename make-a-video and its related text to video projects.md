@@ -1,10 +1,12 @@
 ---
 title: make-a-video and its related text to video projects
 created: '2022-12-08T15:55:56.145Z'
-modified: '2022-12-08T16:10:11.995Z'
+modified: '2022-12-08T16:17:43.603Z'
 ---
 
 # make-a-video and its related text to video projects
+
+saying "video2video" is much simpler than "text2video", I also want to add basic editing and semantic alignment is also simpler than this.
 
 according to its paper, it's been compared to a range of models.
 
@@ -16,7 +18,7 @@ according to its paper, it's been compared to a range of models.
 
 [nuwa](https://github.com/lucidrains/nuwa-pytorch) text to video generation
 
-[mocogan]()
+[mocogan](https://github.com/sergeytulyakov/mocogan)
 
 [mocogan-hd](https://github.com/snap-research/MoCoGAN-HD#:~:text=/-,MoCoGAN%2DHD,-Public)
 
