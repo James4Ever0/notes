@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:50:25.111Z'
+modified: '2022-12-08T16:50:32.459Z'
 ---
 
 # chatgpt
@@ -60,5 +60,5 @@ notice, gpt-2 is somehow inferior to gpt-3 since it has smaller model parameters
 
 [personaGPT](https://github.com/illidanlab/personaGPT) Implementation of PersonaGPT Dialog Model
 
-[DialoGPT](https://github.com/microsoft/DialoGPT)
+[DialoGPT](https://github.com/microsoft/DialoGPT) Large-scale pretraining for dialogue
 
