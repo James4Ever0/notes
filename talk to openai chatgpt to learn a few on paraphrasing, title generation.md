@@ -1,10 +1,12 @@
 ---
 title: 'talk to openai chatgpt to learn a few on paraphrasing, title generation'
 created: '2022-12-08T04:32:52.534Z'
-modified: '2022-12-08T05:24:23.446Z'
+modified: '2022-12-08T05:34:15.653Z'
 ---
 
 # talk to openai chatgpt to learn a few on paraphrasing, title generation
+
+it's like a huge search engine which can talk.
 
 [github topic on paraphrase](https://github.com/topics/paraphrase)
 
