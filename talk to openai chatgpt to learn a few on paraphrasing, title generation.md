@@ -1,7 +1,7 @@
 ---
 title: 'talk to openai chatgpt to learn a few on paraphrasing, title generation'
 created: '2022-12-08T04:32:52.534Z'
-modified: '2022-12-08T05:09:00.983Z'
+modified: '2022-12-08T05:10:51.493Z'
 ---
 
 # talk to openai chatgpt to learn a few on paraphrasing, title generation
@@ -9,6 +9,8 @@ modified: '2022-12-08T05:09:00.983Z'
 [github topic on paraphrase](https://github.com/topics/paraphrase)
 
 [小发猫](http://www.xiaofamaoai.com/)
+
+[文章伪原创工具](http://www.wzwyc.com/) [backup](http://ai.guiyigs.com/) 有提到用扫描仪来扫描原创文章的方法
 
 online [paraphrase tool](https://paraphrasetool.com/)  translation based, can process chinese
 
