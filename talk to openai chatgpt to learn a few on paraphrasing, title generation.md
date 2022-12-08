@@ -1,7 +1,7 @@
 ---
 title: 'talk to openai chatgpt to learn a few on paraphrasing, title generation'
 created: '2022-12-08T04:32:52.534Z'
-modified: '2022-12-08T05:11:00.793Z'
+modified: '2022-12-08T05:24:23.446Z'
 ---
 
 # talk to openai chatgpt to learn a few on paraphrasing, title generation
@@ -13,6 +13,8 @@ modified: '2022-12-08T05:11:00.793Z'
 [文章伪原创工具](http://www.wzwyc.com/) and [backup](http://ai.guiyigs.com/) 有提到用扫描仪来扫描原创文章的方法
 
 online [paraphrase tool](https://paraphrasetool.com/)  translation based, can process chinese
+
+chatgpt says creativity matters, such as hackers, video producers and your evil sex shit.
 
 ## you said LDA and LSA are helpful for paraphrasing
 
