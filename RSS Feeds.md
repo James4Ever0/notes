@@ -1,8 +1,8 @@
 ---
 tags: [image sources, rss, subscription, text sources]
 title: RSS Feeds
-created: 2022-04-17T11:43:37+08:00
-modified: 2022-11-27T13:16:35+08:00
+created: '2022-04-17T03:43:37.000Z'
+modified: '2022-12-08T18:02:12.900Z'
 ---
 
 # RSS Feeds
@@ -38,7 +38,21 @@ we need cleaner view by using readbility.js, but how to preserve pictures? is it
 
 pictures could be a big fingerprint. better deal them with link extracter and shufflers.
 
+you want python version or nodejs version?
+
+```bash
+npm install @mozilla/readability
+# it can be invoked via api, standalone!
+# you might want to call javascript from python
+```
+
+```bash
+pip3 install readability-lxml
+# some lags behind?
+```
+
 this is for the reader mode, make webpage readable
+
 https://github.com/luin/readability
 https://github.com/phpdocker-io/readability-js-server
 https://github.com/mozilla/readability
