@@ -1,7 +1,7 @@
 ---
 title: learn about ai hacking
 created: '2022-12-08T05:38:08.481Z'
-modified: '2022-12-08T05:54:26.482Z'
+modified: '2022-12-08T05:57:48.194Z'
 ---
 
 # learn about ai hacking
@@ -105,5 +105,11 @@ Use the "--stdout" option to output the generated password list to the terminal.
 Use the "CTRL + C" keys to stop the password generation process once you have generated enough password combinations.
 Overall, using Hashcat to generate a password list in the terminal is a relatively straightforward process, and the commands are easy to learn and use. It is a powerful tool that can greatly assist with password cracking tasks.
 
+
+## sha1 on hashcat
+```
+./hashcat -a 3 -m 100 hash.txt
+
+```
 
 
