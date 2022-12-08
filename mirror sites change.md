@@ -1,7 +1,7 @@
 ---
 title: mirror sites change
 created: '2022-12-06T14:37:42.715Z'
-modified: '2022-12-06T17:08:38.328Z'
+modified: '2022-12-08T17:55:31.307Z'
 ---
 
 # mirror sites change
@@ -22,6 +22,11 @@ https://mirrors.tuna.tsinghua.edu.cn/
 fixes:
 
 currently we use some previously picked up tunnel accounts provided by topsap. may fix this problem?
+
+python pip:
+```bash
+pip3 config set global.index-url https://mirrors.ustc.edu.cn/pypi/web/simple
+```
 
 taobao npm mirror:
 ```
