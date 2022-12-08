@@ -1,12 +1,16 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:27:00.228Z'
+modified: '2022-12-08T16:47:36.459Z'
 ---
 
 # chatgpt
 
 this gpt seems really good. currently only api access.
+
+## projects related to chatgpt
+
+[chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
 ## access via api
 
@@ -48,4 +52,3 @@ gpt-j
 
 [bloom](https://huggingface.co/docs/transformers/model_doc/bloom) a huge model like gpt-3
 
-## projects related to chatgpt
