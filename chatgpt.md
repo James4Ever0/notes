@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:26:42.123Z'
+modified: '2022-12-08T16:27:00.228Z'
 ---
 
 # chatgpt
@@ -24,7 +24,7 @@ https://github.com/rawandahmad698/PyChatGPT
 
 ## models like chatgpt
 
-[gpt-gmlp](https://github.com/lucidrains/g-mlp-gpt) saying this design integrates gpt with 
+[gpt-gmlp](https://github.com/lucidrains/g-mlp-gpt) saying this design integrates gpt with gmlps so will use less ram and can be trained on a single gpu
 
 [WebGPT](https://github.com/James4Ever0/webgpt-cli)
 
