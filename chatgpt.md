@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:49:29.938Z'
+modified: '2022-12-08T16:49:46.205Z'
 ---
 
 # chatgpt
@@ -55,4 +55,6 @@ gpt-j
 [bloom](https://huggingface.co/docs/transformers/model_doc/bloom) a huge model like gpt-3
 
 notice, gpt-2 is somehow inferior to gpt-3 since it has smaller model parameters
+
+[https://github.com/bme-chatbots/dialogue-generation](https://github.com/bme-chatbots/dialogue-generation)
 
