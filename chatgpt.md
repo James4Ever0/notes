@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:47:36.459Z'
+modified: '2022-12-08T16:48:05.265Z'
 ---
 
 # chatgpt
@@ -11,6 +11,10 @@ this gpt seems really good. currently only api access.
 ## projects related to chatgpt
 
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
+
+[DAILA](https://github.com/mahaloz/DAILA) use chatgpt to identify function calls in decompiler
+
+
 
 ## access via api
 
