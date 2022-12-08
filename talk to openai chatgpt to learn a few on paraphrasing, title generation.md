@@ -1,10 +1,12 @@
 ---
 title: 'talk to openai chatgpt to learn a few on paraphrasing, title generation'
 created: '2022-12-08T04:32:52.534Z'
-modified: '2022-12-08T04:38:13.148Z'
+modified: '2022-12-08T04:53:08.759Z'
 ---
 
 # talk to openai chatgpt to learn a few on paraphrasing, title generation
+
+[github topic on paraphrase](https://github.com/topics/paraphrase)
 
 ## you said LDA and LSA are helpful for paraphrasing
 
