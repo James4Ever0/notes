@@ -1,12 +1,12 @@
 ---
 title: learn about ai hacking
 created: '2022-12-08T05:38:08.481Z'
-modified: '2022-12-08T05:39:55.190Z'
+modified: '2022-12-08T05:40:21.187Z'
 ---
 
 # learn about ai hacking
 
-you should consider automatic problem generation, post it to chatgpt to get answers. really? how to
+you should consider automatic problem generation, post it to chatgpt to get answers. really? how to?
 
 ## you said hacking needs collaboration. what if i am alone and i need help from ai when hacking
 
