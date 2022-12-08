@@ -1,12 +1,12 @@
 ---
 title: access kali on chromebook or anywhere
 created: '2022-12-07T16:06:39.931Z'
-modified: '2022-12-08T05:22:48.094Z'
+modified: '2022-12-08T05:23:03.016Z'
 ---
 
 # access kali on chromebook or anywhere
 
-## setup ttyd
+## setup tty
 
 i don't think this will work on android, but let's see?
 
