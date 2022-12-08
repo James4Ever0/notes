@@ -1,7 +1,7 @@
 ---
 title: make-a-video and its related text to video projects
 created: '2022-12-08T15:55:56.145Z'
-modified: '2022-12-08T16:22:13.827Z'
+modified: '2022-12-08T16:23:16.743Z'
 ---
 
 # make-a-video and its related text to video projects
@@ -32,5 +32,9 @@ saying "video2video" is much simpler than "text2video", I also want to add basic
 ## tools for slideshow, video effects, presentations
 
 [phenomenon](https://github.com/react-phenomenon/phenomenon)
+
+[vidshow](https://github.com/oknoorap/vidshow) Simple CLI to generate slideshow video with native FFMPEG
+
+[Twitch-Best-Of](https://github.com/BayoDev/Twitch-Best-Of) create best-of videos on twitch without token
 
 [Ningyov](https://github.com/613-forever/Ningyov) galgame effects
