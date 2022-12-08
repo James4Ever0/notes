@@ -1,14 +1,14 @@
 ---
 title: make-a-video and its related text to video projects
 created: '2022-12-08T15:55:56.145Z'
-modified: '2022-12-08T16:20:13.885Z'
+modified: '2022-12-08T16:22:13.827Z'
 ---
 
 # make-a-video and its related text to video projects
 
 saying "video2video" is much simpler than "text2video", I also want to add basic editing and semantic alignment is also simpler than this.
 
-according to its paper, it's been compared to a range of models.
+## according to its paper, it's been compared to a range of models
 
 [cogvideo](https://github.com/THUDM/CogVideo) able to process chinese and english input
 
@@ -24,7 +24,13 @@ according to its paper, it's been compared to a range of models.
 
 [tgan-pytorch](https://github.com/proceduralia/tgan-pytorch)
 
-there are also some projects being a video generator but not so much deeplearning involved.
+## there are also some projects being a video generator but not so much deeplearning involved
 
 [redditube](https://github.com/charlypoirier/redditube)
 [Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploade)
+
+## tools for slideshow, video effects, presentations
+
+[phenomenon](https://github.com/react-phenomenon/phenomenon)
+
+[Ningyov](https://github.com/613-forever/Ningyov) galgame effects
