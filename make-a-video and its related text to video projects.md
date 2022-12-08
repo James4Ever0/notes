@@ -1,7 +1,7 @@
 ---
 title: make-a-video and its related text to video projects
 created: '2022-12-08T15:55:56.145Z'
-modified: '2022-12-08T16:19:49.452Z'
+modified: '2022-12-08T16:20:13.885Z'
 ---
 
 # make-a-video and its related text to video projects
@@ -21,6 +21,8 @@ according to its paper, it's been compared to a range of models.
 [mocogan](https://github.com/sergeytulyakov/mocogan)
 
 [mocogan-hd](https://github.com/snap-research/MoCoGAN-HD#:~:text=/-,MoCoGAN%2DHD,-Public)
+
+[tgan-pytorch](https://github.com/proceduralia/tgan-pytorch)
 
 there are also some projects being a video generator but not so much deeplearning involved.
 
