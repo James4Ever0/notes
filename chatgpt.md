@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-07T12:17:30.258Z'
+modified: '2022-12-08T16:26:42.123Z'
 ---
 
 # chatgpt
@@ -23,6 +23,8 @@ https://github.com/transitive-bullshit/chatgpt-api
 https://github.com/rawandahmad698/PyChatGPT
 
 ## models like chatgpt
+
+[gpt-gmlp](https://github.com/lucidrains/g-mlp-gpt) saying this design integrates gpt with 
 
 [WebGPT](https://github.com/James4Ever0/webgpt-cli)
 
