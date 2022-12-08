@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:48:05.265Z'
+modified: '2022-12-08T16:49:29.938Z'
 ---
 
 # chatgpt
@@ -13,8 +13,6 @@ this gpt seems really good. currently only api access.
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
 [DAILA](https://github.com/mahaloz/DAILA) use chatgpt to identify function calls in decompiler
-
-
 
 ## access via api
 
@@ -55,4 +53,6 @@ gpt-j
 [multi-modal deeplearning](https://github.com/JingfengYang/Multi-modal-Deep-Learning) paper collections
 
 [bloom](https://huggingface.co/docs/transformers/model_doc/bloom) a huge model like gpt-3
+
+notice, gpt-2 is somehow inferior to gpt-3 since it has smaller model parameters
 
