@@ -1,7 +1,7 @@
 ---
 title: chatgpt
-created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-08T16:50:32.459Z'
+created: 2022-12-06T07:37:08+00:00
+modified: 2022-12-10T16:35:13+08:00
 ---
 
 # chatgpt
@@ -29,6 +29,8 @@ https://github.com/transitive-bullshit/chatgpt-api
 https://github.com/rawandahmad698/PyChatGPT
 
 ## models like chatgpt
+
+[PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) saying this is basically chatgpt with palm
 
 [gpt-gmlp](https://github.com/lucidrains/g-mlp-gpt) saying this design integrates gpt with gmlps so will use less ram and can be trained on a single gpu
 
@@ -61,4 +63,3 @@ notice, gpt-2 is somehow inferior to gpt-3 since it has smaller model parameters
 [personaGPT](https://github.com/illidanlab/personaGPT) Implementation of PersonaGPT Dialog Model
 
 [DialoGPT](https://github.com/microsoft/DialoGPT) Large-scale pretraining for dialogue
-
