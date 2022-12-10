@@ -1,7 +1,7 @@
 ---
 title: chatgpt
-created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-11T01:23:51+08:00
+created: '2022-12-06T07:37:08.000Z'
+modified: '2022-12-10T18:13:44.974Z'
 ---
 
 # chatgpt
@@ -13,23 +13,6 @@ this gpt seems really good. currently only api access.
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
 [DAILA](https://github.com/mahaloz/DAILA) use chatgpt to identify function calls in decompiler
-
-我在手机b站首页看到了很多关于黑客和chatgpt的内容 考虑可以进行内容抓取 视频内容提取
-
-BV1B14y1K7AP 关于chatgpt的原理分析 估计很快有人会搞类似实现了
-
-搜索引擎加chatgpt
-
-下载链接:
-github: https://github.com/josStorer/chat-gpt-search-engine-extension/releases/
-百度网盘: https://pan.baidu.com/s/1MnFJTDIatyIIPr5kUMWsAw?pwd=1111 
-提取码：1111
-
-原项目: https://github.com/wong2/chat-gpt-google-extension
-我创建的fork, 添加了多个搜索引擎支持的版本: https://github.com/josStorer/chat-gpt-search-engine-extension
-PR: https://github.com/wong2/chat-gpt-google-extension/pull/31
-
-已修复先前百度需要手动刷新的问题
 
 ## access via api
 
