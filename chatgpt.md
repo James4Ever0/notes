@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-10T18:23:45.731Z'
+modified: '2022-12-10T18:26:39.359Z'
 ---
 
 # chatgpt
@@ -15,9 +15,9 @@ this gpt seems really good. currently only api access.
 [DAILA](https://github.com/mahaloz/DAILA) use chatgpt 
 to identify function calls in decompiler
 
-[awesome transformer language models](https://github.com/cedrickchee/awesome-transformer-nlp/blob/f2dbb46a382a30dd3d23d88c1b8d826ba5c34aab/README.md) a huge collection on transformer based LMs, some introduction and analogy on chatgpt
+[awesome transformer language models](https://github.com/cedrickchee/awesome-transformer-nlp/blob/f2dbb46a382a30dd3d23d88c1b8d826ba5c34aab/README.md) a huge collection on transformer based LMs, huge models by megacorps, with some introduction and analogy on chatgpt
 
-[huggingface blog on RLHF](https://github.com/huggingface/blog/blob/dfbaec824b313f88581c761bc10c8943226970be/rlhf.md) containing similar projects and source code
+[huggingface blog](https://github.com/huggingface/blog) on [RLHF](https://github.com/huggingface/blog/blob/dfbaec824b313f88581c761bc10c8943226970be/rlhf.md) containing similar projects and source code
 
 bilibili sends me lots of video on hacking and ai (including chatgpt) via its android app. recommend you to scrape this source and collect transcription and screenshots for searching and content generation.
 
@@ -51,6 +51,12 @@ https://github.com/transitive-bullshit/chatgpt-api
 https://github.com/rawandahmad698/PyChatGPT
 
 ## models like chatgpt
+
+[lm-human-preferences](https://github.com/openai/lm-human-preferences) by openai
+
+[trl](https://github.com/lvwerra/trl) Train transformer language models with reinforcement learning based on gpt2
+
+[trix](https://github.com/CarperAI/trlx)
 
 [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) saying this is basically chatgpt with palm
 
