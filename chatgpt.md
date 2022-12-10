@@ -1,7 +1,7 @@
 ---
 title: chatgpt
-created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-11T02:16:55+08:00
+created: '2022-12-06T07:37:08.000Z'
+modified: '2022-12-10T18:19:30.770Z'
 ---
 
 # chatgpt
@@ -12,9 +12,14 @@ this gpt seems really good. currently only api access.
 
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
-[DAILA](https://github.com/mahaloz/DAILA) use chatgpt to identify function calls in decompiler
+[DAILA](https://github.com/mahaloz/DAILA) use chatgpt 
+to identify function calls in decompiler
 
-BV1B14y1K7AP chatgpt原理解析
+[]
+
+bilibili sends me lots of video on hacking and ai (including chatgpt) via its android app. recommend you to scrape this source and collect transcription and screenshots for searching and content generation.
+
+[chatgpt原理解析](https://bilibili.com/video/BV1B14y1K7AP)
 
 chatgpt对接搜索引擎
 
