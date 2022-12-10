@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-11T01:17:49+08:00
+modified: 2022-12-11T01:19:13+08:00
 ---
 
 # chatgpt
@@ -13,6 +13,8 @@ this gpt seems really good. currently only api access.
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
 [DAILA](https://github.com/mahaloz/DAILA) use chatgpt to identify function calls in decompiler
+
+我在手机b站首页看到了很多关于黑客和chatgpt的内容 考虑可以进行内容抓取
 
 搜索引擎加chatgpt
 
