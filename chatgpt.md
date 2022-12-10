@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-11T01:22:04+08:00
+modified: 2022-12-11T01:22:05+08:00
 ---
 
 # chatgpt
