@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-10T16:35:13+08:00
+modified: 2022-12-11T01:17:49+08:00
 ---
 
 # chatgpt
@@ -13,6 +13,19 @@ this gpt seems really good. currently only api access.
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
 [DAILA](https://github.com/mahaloz/DAILA) use chatgpt to identify function calls in decompiler
+
+搜索引擎加chatgpt
+
+下载链接:
+github: https://github.com/josStorer/chat-gpt-search-engine-extension/releases/
+百度网盘: https://pan.baidu.com/s/1MnFJTDIatyIIPr5kUMWsAw?pwd=1111 
+提取码：1111
+
+原项目: https://github.com/wong2/chat-gpt-google-extension
+我创建的fork, 添加了多个搜索引擎支持的版本: https://github.com/josStorer/chat-gpt-search-engine-extension
+PR: https://github.com/wong2/chat-gpt-google-extension/pull/31
+
+已修复先前百度需要手动刷新的问题
 
 ## access via api
 
