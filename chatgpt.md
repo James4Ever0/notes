@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-10T18:26:39.359Z'
+modified: '2022-12-10T18:27:06.342Z'
 ---
 
 # chatgpt
@@ -56,7 +56,9 @@ https://github.com/rawandahmad698/PyChatGPT
 
 [trl](https://github.com/lvwerra/trl) Train transformer language models with reinforcement learning based on gpt2
 
-[trix](https://github.com/CarperAI/trlx)
+[trix](https://github.com/CarperAI/trlx) A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) by CarperAI
+
+[RL4LMs](https://github.com/allenai/RL4LMs)
 
 [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) saying this is basically chatgpt with palm
 
