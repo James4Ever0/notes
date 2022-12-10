@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-11T01:22:05+08:00
+modified: 2022-12-11T01:23:51+08:00
 ---
 
 # chatgpt
@@ -14,7 +14,7 @@ this gpt seems really good. currently only api access.
 
 [DAILA](https://github.com/mahaloz/DAILA) use chatgpt to identify function calls in decompiler
 
-我在手机b站首页看到了很多关于黑客和chatgpt的内容 考虑可以进行内容抓取
+我在手机b站首页看到了很多关于黑客和chatgpt的内容 考虑可以进行内容抓取 视频内容提取
 
 BV1B14y1K7AP 关于chatgpt的原理分析 估计很快有人会搞类似实现了
 
