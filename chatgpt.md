@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-10T18:19:30.770Z'
+modified: '2022-12-10T18:20:28.235Z'
 ---
 
 # chatgpt
@@ -15,7 +15,7 @@ this gpt seems really good. currently only api access.
 [DAILA](https://github.com/mahaloz/DAILA) use chatgpt 
 to identify function calls in decompiler
 
-[]
+[awesome transformer language models](https://github.com/cedrickchee/awesome-transformer-nlp/blob/f2dbb46a382a30dd3d23d88c1b8d826ba5c34aab/README.md) a huge collection on transformer based LMs
 
 bilibili sends me lots of video on hacking and ai (including chatgpt) via its android app. recommend you to scrape this source and collect transcription and screenshots for searching and content generation.
 
