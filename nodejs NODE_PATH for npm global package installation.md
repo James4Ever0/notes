@@ -1,7 +1,7 @@
 ---
 title: nodejs NODE_PATH for npm global package installation
 created: '2022-12-10T13:29:15.916Z'
-modified: '2022-12-10T13:35:53.833Z'
+modified: '2022-12-10T13:36:25.418Z'
 ---
 
 # nodejs NODE_PATH for npm global package installation
@@ -14,7 +14,7 @@ for zsh/bash/fish:
 export NODE_PATH=<NODE_PATH>
 ```
 
-on windows just use the old school drill.
+on windows just use the old school drill (open environment editor)
 
 chech the exact path of `NODE_PATH` after invoking `npm install -g <package_name>`, then check if the installed package exists in that path you guessed.
 
