@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-10T18:27:06.342Z'
+modified: '2022-12-10T18:27:49.756Z'
 ---
 
 # chatgpt
@@ -19,7 +19,7 @@ to identify function calls in decompiler
 
 [huggingface blog](https://github.com/huggingface/blog) on [RLHF](https://github.com/huggingface/blog/blob/dfbaec824b313f88581c761bc10c8943226970be/rlhf.md) containing similar projects and source code
 
-bilibili sends me lots of video on hacking and ai (including chatgpt) via its android app. recommend you to scrape this source and collect transcription and screenshots for searching and content generation.
+bilibili sends me lots of videos (and articles) on hacking and ai (including chatgpt) via its android app. recommend you to scrape this source and collect transcription and screenshots for searching and content generation.
 
 [chatgpt原理解析](https://bilibili.com/video/BV1B14y1K7AP)
 
@@ -58,7 +58,7 @@ https://github.com/rawandahmad698/PyChatGPT
 
 [trix](https://github.com/CarperAI/trlx) A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) by CarperAI
 
-[RL4LMs](https://github.com/allenai/RL4LMs)
+[RL4LMs](https://github.com/allenai/RL4LMs) A modular RL library to fine-tune language models to human preferences
 
 [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) saying this is basically chatgpt with palm
 
