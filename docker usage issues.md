@@ -1,7 +1,7 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2022-12-11T13:21:44.618Z'
+modified: '2022-12-11T13:21:57.557Z'
 ---
 
 # docker usage issues
@@ -31,4 +31,4 @@ to check what ip the container is at:
 docker inspect <container_id/container_name> | grep IPAddress
 ```
 
-now you might can talk to the container.
+now you might can talk to the container without port mappings.
