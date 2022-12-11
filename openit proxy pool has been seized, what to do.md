@@ -1,7 +1,7 @@
 ---
 title: 'openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T12:04:59.176Z'
+modified: '2022-12-11T12:06:44.156Z'
 ---
 
 # openit proxy pool has been seized, what to do
@@ -14,14 +14,24 @@ or you could use lantern.
 
 ## tools
 
+### controllers
+
 [clash-ctl](https://github.com/Dreamacro/clash-ctl) control clash from commandline
+
+[clashctl](https://github.com/George-Miao/clashctl) clash controller in rust, with tui and commandline interface
+
+### link converters
+
+[机场订阅转换器-V2ray,Clash,SSR,SS等订阅链接在线转换](https://subconverter.speedupvpn.com/)
+
+### scrapers
+
+[proxypool](https://github.com/yu-steven/proxypool)
 
 ## providers
 
 [freefq](https://github.com/freefq/free)
 
-## link converters
 
-[机场订阅转换器-V2ray,Clash,SSR,SS等订阅链接在线转换](https://subconverter.speedupvpn.com/)
 
 
