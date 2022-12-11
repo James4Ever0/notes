@@ -1,10 +1,17 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2022-12-11T13:23:15.662Z'
+modified: '2022-12-11T21:45:25.192Z'
 ---
 
 # docker usage issues
+
+create volume and attach volume to container, since containers will be reset after system restarts. if you want to save container states into images, use `docker commit`
+
+```bash
+docker volume create <volume_name>
+docker run -it -d --rm -v <volume_name>:<container_mountpoint> <image_name>
+```
 
 when exporting ports, if not specifying host ip, you cannot reach the service inside the container. do this instead: `docker run -p 0.0.0.0:<host_port>:<container_port> <rest_commands>`
 
