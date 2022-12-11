@@ -1,7 +1,7 @@
 ---
 title: 'openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T13:03:44.698Z'
+modified: '2022-12-11T13:03:49.445Z'
 ---
 
 # openit proxy pool has been seized, what to do
@@ -58,7 +58,7 @@ or you could use lantern.
 
 ### clients
 
-[crack lantern win 6.8.8]
+[crack lantern win 6.8.8](https://github.com/YoulianBoshi/lantern-vpn/blob/master/Windows%E7%81%AF_%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%E6%9B%B4%E6%96%B0)
 
 
 
