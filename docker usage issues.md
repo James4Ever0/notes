@@ -1,10 +1,15 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2022-12-11T22:28:55.852Z'
+modified: '2022-12-11T22:47:54.561Z'
 ---
 
 # docker usage issues
+
+login mysql with empty password then execute command to make it remotely available:
+```bash
+mysql -uroot --password= -e "grant all privileges on *.* to root@'%' identified by '' with grant option; commit;"
+```
 
 create volume and attach volume to container, since containers will be reset after system restarts.
 
