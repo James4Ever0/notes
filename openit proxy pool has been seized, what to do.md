@@ -1,7 +1,7 @@
 ---
 title: 'openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T12:50:45.971Z'
+modified: '2022-12-11T12:52:00.553Z'
 ---
 
 # openit proxy pool has been seized, what to do
@@ -45,6 +45,8 @@ or you could use lantern.
 [ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator) use its `Eternity.yml` in clash. it also has many sources avaliable for check in `README.md`
 
 [Proxy](https://github.com/tbbatbb/Proxy) update hourly
+
+[free-servers](https://github.com/Pawdroid/Free-servers) v2ray subscription
 
 ### clients
 
