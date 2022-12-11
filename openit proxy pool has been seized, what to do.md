@@ -1,7 +1,7 @@
 ---
 title: 'openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T12:07:22.879Z'
+modified: '2022-12-11T12:50:45.971Z'
 ---
 
 # openit proxy pool has been seized, what to do
@@ -24,15 +24,27 @@ or you could use lantern.
 
 [机场订阅转换器-V2ray,Clash,SSR,SS等订阅链接在线转换](https://subconverter.speedupvpn.com/)
 
+[subconverter](https://github.com/tindy2013/subconverter) self-hosted utility to convert between various subscription format
+
 ### scrapers
 
 [proxypool](https://github.com/yu-steven/proxypool)
+
+### routing rules
+
+[clash_rules](https://github.com/Goojoe/clash_rules)
 
 ## providers
 
 ### subscription links
 
 [freefq](https://github.com/freefq/free)
+
+[clash_sync/clash_auto](https://github.com/4ooc/clash_sync)
+
+[ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator) use its `Eternity.yml` in clash. it also has many sources avaliable for check in `README.md`
+
+[Proxy](https://github.com/tbbatbb/Proxy) update hourly
 
 ### clients
 
