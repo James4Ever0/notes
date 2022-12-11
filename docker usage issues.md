@@ -1,7 +1,7 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2022-12-11T21:48:40.632Z'
+modified: '2022-12-11T22:12:02.412Z'
 ---
 
 # docker usage issues
@@ -12,6 +12,19 @@ create volume and attach volume to container, since containers will be reset aft
 docker volume create <volume_name>
 docker run -it -d --rm -v <volume_name>:<container_mountpoint> --name <container_name> <image_name>
 docker volume inspect <volume_name> # get info on created volume
+```
+
+when using mindsdb, it sucks because having bad pypi mirrors.
+
+set pip index url globally:
+```bash
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
+or pass it as environment variable:
+
+```bash
+docker run -it -d -e PIP_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple -n <container_name> <image_name>
 ```
 
 if you want to save container states into images, use `docker commit <container_name> <image_name>[:image_tag]`
