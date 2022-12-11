@@ -1,7 +1,7 @@
 ---
 title: 'openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T12:54:08.867Z'
+modified: '2022-12-11T12:57:55.032Z'
 ---
 
 # openit proxy pool has been seized, what to do
@@ -49,6 +49,8 @@ or you could use lantern.
 [free-servers](https://github.com/Pawdroid/Free-servers) v2ray subscription
 
 [free-proxy-ss](https://github.com/learnhard-cn/free_proxy_ss)
+
+[Sub](https://github.com/anaer/Sub)
 
 ### clients
 
