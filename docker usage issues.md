@@ -1,17 +1,22 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2022-12-11T21:45:25.192Z'
+modified: '2022-12-11T21:48:40.632Z'
 ---
 
 # docker usage issues
 
-create volume and attach volume to container, since containers will be reset after system restarts. if you want to save container states into images, use `docker commit`
+create volume and attach volume to container, since containers will be reset after system restarts.
 
 ```bash
 docker volume create <volume_name>
-docker run -it -d --rm -v <volume_name>:<container_mountpoint> <image_name>
+docker run -it -d --rm -v <volume_name>:<container_mountpoint> --name <container_name> <image_name>
+docker volume inspect <volume_name> # get info on created volume
 ```
+
+if you want to save container states into images, use `docker commit <container_name> <image_name>[:image_tag]`
+
+Keep in mind that the `docker commit` command only saves the changes made to a container's file system. It does not save any changes made to the container's settings or network configurations. To save all changes made to a container, including settings and network configurations, you can use the `docker export` and `docker import` commands instead.
 
 when exporting ports, if not specifying host ip, you cannot reach the service inside the container. do this instead: `docker run -p 0.0.0.0:<host_port>:<container_port> <rest_commands>`
 
