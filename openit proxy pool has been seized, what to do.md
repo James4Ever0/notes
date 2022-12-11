@@ -1,7 +1,7 @@
 ---
 title: 'openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T13:00:10.329Z'
+modified: '2022-12-11T13:03:44.698Z'
 ---
 
 # openit proxy pool has been seized, what to do
@@ -57,6 +57,8 @@ or you could use lantern.
 [clashfree](https://github.com/aiboboxx/clashfree)
 
 ### clients
+
+[crack lantern win 6.8.8]
 
 
 
