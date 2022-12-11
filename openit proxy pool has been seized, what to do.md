@@ -1,7 +1,7 @@
 ---
 title: 'openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T11:23:18.606Z'
+modified: '2022-12-11T12:03:31.886Z'
 ---
 
 # openit proxy pool has been seized, what to do
@@ -12,5 +12,12 @@ on github search for "clash" "ssr" "proxy" "shadowsocks" "v2ray" "fanqiang" or s
 
 or you could use lantern.
 
-my recent discoveries:
+## providers
+
+[freefq](https://github.com/freefq/free)
+
+## link converters
+
+[机场订阅转换器-V2ray,Clash,SSR,SS等订阅链接在线转换](https://subconverter.speedupvpn.com/)
+
 
