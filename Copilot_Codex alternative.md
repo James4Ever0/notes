@@ -2,14 +2,14 @@
 tags: [code generation, programming assistant]
 title: Copilot_Codex alternative
 created: '2022-05-09T04:35:16.000Z'
-modified: '2022-12-12T17:07:21.821Z'
+modified: '2022-12-12T17:13:54.192Z'
 ---
 
 # Copilot/Codex alternative
 
 use chatgpt instead, when it is free.
 
-tsinghua (again!) introduced a similar model called `codegeex` with vscode plugin support
+tsinghua (again!) introduced a similar open source model called [codegeex](https://github.com/THUDM/CodeGeeX) with vscode plugin support
 
 Codegen
 https://github.com/salesforce/CodeGen
