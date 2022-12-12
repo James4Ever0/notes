@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-12T17:15:50.887Z'
+modified: '2022-12-12T17:16:02.203Z'
 ---
 
 # chatgpt
@@ -84,7 +84,7 @@ there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/
 
 gpt-j
 
-super big [GLM-130B](https://github.com/THUDM/GLM-130B)
+super big bilingual model [GLM-130B](https://github.com/THUDM/GLM-130B)
 
 [multi-modal deeplearning](https://github.com/JingfengYang/Multi-modal-Deep-Learning) paper collections
 
