@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T20:24:04.066Z'
+modified: '2022-12-12T20:44:17.871Z'
 ---
 
 # download/collect info of hack tools
@@ -64,7 +64,7 @@ there's a [repo](https://github.com/nice-registry/all-the-package-names) storing
 
 `gem list -r` really works. you just have to wait.
 
-`gem info -r` list all remote gem infos.
+`gem info -r` list all remote gem infos, but too slow.
 
 ### vscode plugin
 
