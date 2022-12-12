@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T19:30:31.257Z'
+modified: '2022-12-12T19:54:04.656Z'
 ---
 
 # download/collect info of hack tools
@@ -10,7 +10,7 @@ modified: '2022-12-12T19:30:31.257Z'
 
 given the name of the hack tool, you may not be able to tell what the tool is (written in python? hosted on github? online tool?) and you want to use search engine to find possible entries. you may take snapshots on these pages and index them.
 
-if the hack tool is linked to some website, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
+if the hack tool is linked to some website/manual, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
 
 ## case specific
 
@@ -53,6 +53,8 @@ keep in mind the pagenum cannot be too big (like 2000).
 there are tools for interacting with maven search api.
 
 you can retrieve "pom.xml" to get package info like homepage and description.
+
+maven central has [archtype-catalog](https://repo1.maven.org/maven2/archetype-catalog.xml) for retrieving all avaliable artifact names
 
 ### npm
 
