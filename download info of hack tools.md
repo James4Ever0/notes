@@ -1,16 +1,18 @@
 ---
-title: download info on hack tools
+title: download info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T15:06:05.729Z'
+modified: '2022-12-12T15:09:24.961Z'
 ---
 
-# download info on hack tools
+# download info of hack tools
 
 given the name of the hack tool, you may not be able to tell what the tool is (written in python? hosted on github? online tool?) and you want to use search engine to find possible entries. you may take snapshots on these pages and index them.
 
 if the hack tool is linked to some website, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
 
 [Scraper](https://github.com/henson/Scraper) scrape popular github repositories every day
+
+[PyGithub](https://pygithub.readthedocs.io/en/latest/introduction.html) use python to automate github api v3
 
 if you want all README pages on github, you first need to collect all github repo urls. you may also collect info on github repos (OSINT). you can retrieve all repos link to given user with github api (quota limited). you can search github on github or search engine with some juicy/promising keywords then collect repo name, username, keywords, repeat the search.
 
