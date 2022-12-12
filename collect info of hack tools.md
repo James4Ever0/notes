@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T21:10:29.069Z'
+modified: '2022-12-12T21:14:01.339Z'
 ---
 
 # download/collect info of hack tools
@@ -39,6 +39,10 @@ these two are for pentesting, using `apt` as package manager. but parrot does no
 using `apt` one can retrieve package infos with simple command. find main metapackages like `parrot-tools-full` (parrot) and `` (kali) first, then retrieve dependency trees.
 
 parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) which you can retrieve info from there. 
+
+### blackarch
+
+blackarch is based on archlinux, which has both official repo and user provided packages repo (AUR). the syntax is almost the same for `pacman` and `yaourt` to retrieve all available info of packages.
 
 ### nuget
 
