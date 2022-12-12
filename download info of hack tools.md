@@ -1,7 +1,7 @@
 ---
 title: download info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T15:09:24.961Z'
+modified: '2022-12-12T15:29:10.158Z'
 ---
 
 # download info of hack tools
@@ -11,6 +11,11 @@ given the name of the hack tool, you may not be able to tell what the tool is (w
 if the hack tool is linked to some website, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
 
 [Scraper](https://github.com/henson/Scraper) scrape popular github repositories every day
+
+[gitsuggest](https://github.com/csurfer/gitsuggest) recommend github repos
+
+[How to Use the GitHub API to List Repositories
+](https://fusebit.io/blog/github-api-list-repositories/?utm_source=cn.bing.com&utm_medium=referral&utm_campaign=none)
 
 [PyGithub](https://pygithub.readthedocs.io/en/latest/introduction.html) use python to automate github api v3
 
