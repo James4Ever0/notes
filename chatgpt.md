@@ -1,7 +1,7 @@
 ---
 title: chatgpt
-created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-12T22:16:30+08:00
+created: '2022-12-06T07:37:08.000Z'
+modified: '2022-12-12T17:15:50.887Z'
 ---
 
 # chatgpt
@@ -83,6 +83,8 @@ there's a ghosted repo named [instructgpt-pytorch](https://github.com/mariusmcl/
 [queakily](https://github.com/CarperAI/squeakily) nlp datasets cleaner
 
 gpt-j
+
+super big [GLM-130B](https://github.com/THUDM/GLM-130B)
 
 [multi-modal deeplearning](https://github.com/JingfengYang/Multi-modal-Deep-Learning) paper collections
 
