@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T16:54:17.970Z'
+modified: '2022-12-12T19:19:25.609Z'
 ---
 
 # download/collect info of hack tools
@@ -39,5 +39,23 @@ these two are for pentesting, using `apt` as package manager. but parrot does no
 using `apt` one can retrieve package infos with simple command. find main metapackages like `parrot-tools-full` (parrot) and `` (kali) first, then retrieve dependency trees.
 
 parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) which you can retrieve info from there. 
+
+## nuget
+
+we can search in cli tool and web interface.
+
+the web interface seems allowing us to do some traversal on the parameter: `https://www.nuget.org/packages?page=<pagenum>&sortBy=relevance`
+
+keep in mind the pagenum cannot be so big.
+
+## maven
+
+there are tools for interacting with maven search api.
+
+you can retrieve "pom.xml" to get package info like homepage and description.
+
+## npm
+
+there's a [repo](https://github.com/nice-registry/all-the-package-names) storing up-to-date package names on github
 
 
