@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T19:21:38.141Z'
+modified: '2022-12-12T19:26:22.229Z'
 ---
 
 # download/collect info of hack tools
@@ -42,7 +42,7 @@ parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) wh
 
 ### nuget
 
-we can search in cli tool and web interface.
+we can search in cli tool (not nuget) and [web interface](https://www.nuget.org/).
 
 the web interface seems allowing us to do some traversal on the parameter: `https://www.nuget.org/packages?page=<pagenum>&sortBy=relevance`
 
@@ -56,9 +56,13 @@ you can retrieve "pom.xml" to get package info like homepage and description.
 
 ### npm
 
-there's a [repo](https://github.com/nice-registry/all-the-package-names) storing up-to-date package names on github
+there's a [repo](https://github.com/nice-registry/all-the-package-names) storing up-to-date package names on github. after that, use [npm-description](https://www.npmjs.com/package/npm-description) to download description for every package.
 
 ### gem
 
 `gem list -r` really works. you just have to wait.
+
+### vscode plugin
+
+[web interface](https://marketplace.visualstudio.com/VSCode) for searching
 
