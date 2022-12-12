@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T19:26:22.229Z'
+modified: '2022-12-12T19:30:31.257Z'
 ---
 
 # download/collect info of hack tools
@@ -42,11 +42,11 @@ parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) wh
 
 ### nuget
 
-we can search in cli tool (not nuget) and [web interface](https://www.nuget.org/).
+we can search in cli tool (not `dotnet nuget` (installed with dotnet sdk) but `nuget` ([installation guide](https://learn.microsoft.com/en-us/nuget/reference/nuget-exe-cli-reference))) and [web interface](https://www.nuget.org/).
 
 the web interface seems allowing us to do some traversal on the parameter: `https://www.nuget.org/packages?page=<pagenum>&sortBy=relevance`
 
-keep in mind the pagenum cannot be so big.
+keep in mind the pagenum cannot be too big (like 2000).
 
 ### maven
 
