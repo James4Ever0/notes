@@ -2,10 +2,16 @@
 tags: [model zoo, pyjom, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-09-13T09:46:38.352Z'
+modified: '2022-12-12T12:47:18.454Z'
 ---
 
 # Model Zoo
+
+[intel model zoo](https://github.com/IntelAI/models)
+
+run models from intel model zoo in docker container, like [recommendation](https://hub.docker.com/r/intel/recommendation)
+
+[openvino model zoo](https://github.com/openvinotoolkit/open_model_zoo)
 
 [百度总结的 比较全面的深度学习应用](https://github.com/datawhalechina/awesome-DeepLearning) deeplearning applications
 
