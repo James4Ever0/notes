@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T19:19:25.609Z'
+modified: '2022-12-12T19:21:38.141Z'
 ---
 
 # download/collect info of hack tools
@@ -40,7 +40,7 @@ using `apt` one can retrieve package infos with simple command. find main metapa
 
 parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) which you can retrieve info from there. 
 
-## nuget
+### nuget
 
 we can search in cli tool and web interface.
 
@@ -48,14 +48,17 @@ the web interface seems allowing us to do some traversal on the parameter: `http
 
 keep in mind the pagenum cannot be so big.
 
-## maven
+### maven
 
 there are tools for interacting with maven search api.
 
 you can retrieve "pom.xml" to get package info like homepage and description.
 
-## npm
+### npm
 
 there's a [repo](https://github.com/nice-registry/all-the-package-names) storing up-to-date package names on github
 
+### gem
+
+`gem list -r` really works. you just have to wait.
 
