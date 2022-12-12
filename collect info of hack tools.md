@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T15:43:55.830Z'
+modified: '2022-12-12T16:49:29.410Z'
 ---
 
 # download/collect info of hack tools
@@ -37,5 +37,7 @@ there are few github repo archives avaliable for download. the github archive pr
 these two are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
 
 using `apt` one can retrieve package infos with simple command. find main metapackages first, then retrieve dependency trees from there.
+
+debian repos have "index.db" which you can retrieve info from there. [parrotos index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db)
 
 
