@@ -1,7 +1,7 @@
 ---
 title: chatgpt
-created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-10T18:27:49.756Z'
+created: 2022-12-06T07:37:08+00:00
+modified: 2022-12-12T22:16:30+08:00
 ---
 
 # chatgpt
@@ -20,6 +20,8 @@ to identify function calls in decompiler
 [huggingface blog](https://github.com/huggingface/blog) on [RLHF](https://github.com/huggingface/blog/blob/dfbaec824b313f88581c761bc10c8943226970be/rlhf.md) containing similar projects and source code
 
 bilibili sends me lots of videos (and articles) on hacking and ai (including chatgpt) via its android app. recommend you to scrape this source and collect transcription and screenshots for searching and content generation.
+
+b站有做免杀 绕过杀软的
 
 [chatgpt原理解析](https://bilibili.com/video/BV1B14y1K7AP)
 
