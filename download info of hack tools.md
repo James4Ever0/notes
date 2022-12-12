@@ -1,14 +1,22 @@
 ---
 title: download info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T15:35:49.005Z'
+modified: '2022-12-12T15:41:17.335Z'
 ---
 
 # download info of hack tools
 
+## general introduction
+
 given the name of the hack tool, you may not be able to tell what the tool is (written in python? hosted on github? online tool?) and you want to use search engine to find possible entries. you may take snapshots on these pages and index them.
 
 if the hack tool is linked to some website, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
+
+## case specific
+
+### github
+
+you will find github links on web, social media, instant messaging and forums
 
 [Scraper](https://github.com/henson/Scraper) scrape popular github repositories every day
 
@@ -23,3 +31,11 @@ if you want all README pages on github, you first need to collect all github rep
 there are few github repo archives avaliable for download. the github archive program packed many repos to arctic, the list is called [Greatest Hits](https://archiveprogram.github.com/assets/img/archive-repos.txt)
 
 [gharchive](https://www.gharchive.org/) provides many websites for monitoring github repos
+
+### kali, parrot
+
+these two are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
+
+using `apt` one can retrieve package infos with simple command.
+
+
