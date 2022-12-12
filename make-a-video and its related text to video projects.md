@@ -1,12 +1,16 @@
 ---
 title: make-a-video and its related text to video projects
 created: '2022-12-08T15:55:56.145Z'
-modified: '2022-12-08T16:23:16.743Z'
+modified: '2022-12-12T17:35:10.662Z'
 ---
 
 # make-a-video and its related text to video projects
 
 saying "video2video" is much simpler than "text2video", I also want to add basic editing and semantic alignment is also simpler than this.
+
+## similar models, since video generating models are usually multimodal
+
+[maria](https://github.com/jokieleung/Maria), A Visual Experience Powered Conversational Agent, suggested by incident
 
 ## according to its paper, it's been compared to a range of models
 
