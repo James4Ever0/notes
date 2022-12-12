@@ -1,7 +1,7 @@
 ---
 title: download info on hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T14:38:42.474Z'
+modified: '2022-12-12T14:39:32.546Z'
 ---
 
 # download info on hack tools
@@ -10,4 +10,4 @@ given the name of the hack tool, you may not be able to tell what the tool is (w
 
 if the hack tool is linked to some website, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
 
-if you want all README pages on github, that will be crazy.
+if you want all README pages on github, you first need to collect all github repo urls.
