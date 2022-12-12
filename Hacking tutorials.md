@@ -2,10 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2022-12-06T15:15:10.848Z'
+modified: '2022-12-12T15:37:37.296Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[payloadallthethings](https://github.com/swisskyrepo/PayloadsAllTheThings) (40k stars!) by [swisskyrepo](https://github.com/swisskyrepo)
 
 [openai written phishing and directory bruteforcing](https://github.com/payloadartist/offensive-chatgpt/blob/main/directory-bruteforce/directory_brute_force.py)
 
