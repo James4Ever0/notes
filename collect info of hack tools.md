@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T11:42:11.720Z'
+modified: '2022-12-13T11:48:15.572Z'
 ---
 
 # download/collect info of hack tools
@@ -15,6 +15,8 @@ if the hack tool is linked to some website/manual, you can index the website. if
 you may miss the wiki, forum, tutorials. you know where to get them.
 
 ## case specific
+
+you also have `brew` `sdkman` `macport` `chocolatey` indexes and more to scrape.
 
 ### github
 
