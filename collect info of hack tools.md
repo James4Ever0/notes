@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T10:05:36.428Z'
+modified: '2022-12-13T10:08:22.337Z'
 ---
 
 # download/collect info of hack tools
@@ -110,11 +110,14 @@ curl https://www.blackarch.org/tools.html > tools.html
 
 ### alpine
 
-
 alpine linux is able to [download man page alone without installing package](https://georgegarside.com/blog/technology/alpine-linux-install-all-man-pages/)
 ```bash
 apk list -I | sed -rn '/-doc/! s/([a-z-]+[a-z]).*/\1/p' | awk '{ print system("apk info \""$1"-doc\" > /dev/null") == 0 ? $ "-doc" : "" }' | xargs apk add
-``````
+```
+
+### pypi/pip
+
+
 
 ### nuget
 
@@ -154,6 +157,20 @@ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 `gem info -r` list all remote gem infos, but too slow and not working, use only one package at a time.
 
 ### manpages
+
+you can download man pages before installing package
+
+use "dman" by bikeshed
+```bash
+apt-get install bikeshed
+```
+or browse manpages on web, [tutorials on linux and languages](https://linux.die.net)
+
+[man pages with different sections (categories)](https://linux.die.net/man/)
+
+[hierachical manpages of ubuntu](https://manpages.ubuntu.com/manpages)
+
+[dman for ubuntu man pages](https://manpages.ubuntu.com/dman)
 
 location of locally installed man pages: `/usr/share/man`
 
