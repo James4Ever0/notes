@@ -1,10 +1,12 @@
 ---
 title: deepl免费翻译 免费白嫖
 created: '2022-09-06T08:52:42.837Z'
-modified: '2022-09-06T14:14:28.252Z'
+modified: '2022-12-13T16:14:00.281Z'
 ---
 
 # deepl免费翻译 免费白嫖
+
+heroku no longer provides free tiers (dyno)
 
 change ip frequently by using proxychains and clash
 
@@ -32,6 +34,7 @@ zu1k本人下架了deepl的docker镜像 但是release现在居然还可以下载
 zu1k的[copy translator](https://github.com/zu1k/copy-translator)连接的应该就是他自己写的[deepl-rust服务器](https://deepl.zu1k.com/translate) 只不过现在没法访问了 (话说大佬没事翻译个啥又不是看不懂 hhh) 历史的release版本中有连接本地的版本 估计也没有开源原来的docker破解deepl的二进制
 
 [deeplx](https://deeplx.herokuapp.com/)在 heroku上面运行 目前应该不能正常运行 它的ip感觉是被封了 [它的仓库](https://github.com/devockr/deeplx)用的是现在没法访问的deepl的docker镜像
+
 
 有人（很可能就是zu1k）破解了deepl客户端的交互逻辑 应该是windows的deepl协议（c#好破解 没加壳） 现在可以[看看是如何破解的](https://mp.weixin.qq.com/s?__biz=MzI3NTEwOTA4OQ==&mid=2649181781&idx=1&sn=3591257c389292ed139692637181e70a&chksm=f31a2bdbc46da2cdf4e01b9f663eae934b53fcdb256193b8db0662a41522a31c8af6bca034d3&scene=126&&sessionid=0)
 
