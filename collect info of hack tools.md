@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T14:22:23.167Z'
+modified: '2022-12-13T16:22:11.708Z'
 ---
 
 # download/collect info of hack tools
@@ -22,7 +22,7 @@ here are few sources where you can learn things from:
 
 [null byte](https://null-byte.wonderhowto.com/) in [wonderhowto](https://www.wonderhowto.com/)
 
-you also have `brew` `sdkman` `macport` `chocolatey` indexes and more to scrape. maybe it is time to improve your searching skill?
+you also have `brew` `sdkman` `macport` `chocolatey` indexes and more to scrape. maybe it is time to improve your searching skill? (**select few web domains you want to learn things from, then perform the query**)
 
 [cyborg hawx linux](https://launchpad.net/~cyborg-hawk/+archive/ubuntu/stable), backtrack linux may join the parade.
 
