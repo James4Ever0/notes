@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T09:52:56.747Z'
+modified: '2022-12-13T09:55:13.209Z'
 ---
 
 # download/collect info of hack tools
@@ -40,6 +40,11 @@ kali tool list pages
 curl https://en.kali.tools/all/ > kali_tools_all.html # more tags, more categories, the same as blackarch?
 curl https://www.kali.org/tools/ > kali_official.html
 curl https://en.kali.tools/ > pentest_tools_with_name.html
+```
+
+notice kali official provides training courses and materials as apt packages. the list:
+```
+
 ```
 
 these two are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
