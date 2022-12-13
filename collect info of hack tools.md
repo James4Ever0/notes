@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T13:15:17.035Z'
+modified: '2022-12-13T14:15:34.441Z'
 ---
 
 # download/collect info of hack tools
@@ -33,6 +33,8 @@ with all packages being scraped, you need to deduplicate it a little bit, either
 ## case specific
 
 ### github
+
+repo named with "awesome" means this is a collection of handpicked resources
 
 you will find github links on web, social media, instant messaging and forums
 
