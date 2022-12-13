@@ -1,7 +1,7 @@
 ---
 title: 'rare package managers, alternative jvm languages and java study hints'
 created: '2022-12-13T22:20:07.404Z'
-modified: '2022-12-13T22:36:59.061Z'
+modified: '2022-12-13T22:38:29.027Z'
 ---
 
 # rare package managers, alternative jvm languages and java study hints
@@ -30,7 +30,7 @@ modified: '2022-12-13T22:36:59.061Z'
 [Clojure](https://clojure.org/)
 Fantom
 [Ceylon](https://ceylon-lang.org/)
-Jython
+[Jython](https://www.jython.org/)
 [JRuby](https://www.jruby.org/)
 Frege
 Xtend
