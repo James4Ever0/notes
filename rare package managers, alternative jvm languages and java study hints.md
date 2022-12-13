@@ -1,7 +1,7 @@
 ---
 title: 'rare package managers, alternative jvm languages and java study hints'
 created: '2022-12-13T22:20:07.404Z'
-modified: '2022-12-13T22:39:39.485Z'
+modified: '2022-12-13T22:41:25.698Z'
 ---
 
 # rare package managers, alternative jvm languages and java study hints
@@ -32,7 +32,7 @@ Fantom
 [Ceylon](https://ceylon-lang.org/)
 [Jython](https://www.jython.org/)
 [JRuby](https://www.jruby.org/)
-Frege
+[Frege](https://github.com/Frege/frege) haskell on jvm
 Xtend
 [Golo](https://golo-lang.org/)
 Concurnaas
