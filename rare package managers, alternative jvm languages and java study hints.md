@@ -1,7 +1,7 @@
 ---
 title: 'rare package managers, alternative jvm languages and java study hints'
 created: '2022-12-13T22:20:07.404Z'
-modified: '2022-12-13T22:27:01.049Z'
+modified: '2022-12-13T22:27:15.092Z'
 ---
 
 # rare package managers, alternative jvm languages and java study hints
@@ -27,6 +27,6 @@ modified: '2022-12-13T22:27:01.049Z'
 
 [jshell]()
 
-[nashorn js engine](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html)
+[nashorn js engine](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html) run it with `jjs`
 
 
