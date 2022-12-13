@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T09:57:21.209Z'
+modified: '2022-12-13T10:00:42.231Z'
 ---
 
 # download/collect info of hack tools
@@ -42,7 +42,13 @@ curl https://www.kali.org/tools/ > kali_official.html
 curl https://en.kali.tools/ > pentest_tools_with_name.html
 ```
 
-notice kali official provides training courses and materials as apt packages. the list:
+[kali meta page on web](https://www.kali.org/tools/kali-meta/)
+
+[kali meta page on package index](http://pkg.kali.org/pkg/kali-meta)
+
+[kali package index](https://pkg.kali.org/)
+
+notice kali official "offsec" provides training courses and materials as apt packages. the list:
 ```
 offsec-awae/kali-rolling 2021.1.2 amd64
   Resources for OffSec's AWAE/WEB-300
@@ -60,7 +66,7 @@ offsec-pwk/kali-rolling 2021.1.2 amd64
   Resources for OffSec's PWK2/PEN-200
 ```
 
-these two are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
+these two OSes are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
 
 using `apt` one can retrieve package infos with simple command. find main metapackages like `parrot-tools-full` (parrot) and `kali-linux-everything` (kali) first, then retrieve dependency trees.
 
