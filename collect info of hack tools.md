@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T09:55:13.209Z'
+modified: '2022-12-13T09:55:27.167Z'
 ---
 
 # download/collect info of hack tools
@@ -44,7 +44,20 @@ curl https://en.kali.tools/ > pentest_tools_with_name.html
 
 notice kali official provides training courses and materials as apt packages. the list:
 ```
+offsec-awae/kali-rolling 2021.1.2 amd64
+  Resources for OffSec's AWAE/WEB-300
 
+offsec-awae-python2/kali-rolling 2021.1.2 amd64
+  Python 2 resources for OffSec's AWAE/WEB-300
+
+offsec-exp301/kali-rolling 2021.1.2 amd64
+  Resources for OffSec's WUMED/EXP-301
+
+offsec-pen300/kali-rolling 2021.1.2 amd64
+  Resources for OffSec's ETBD/PEN-300
+
+offsec-pwk/kali-rolling 2021.1.2 amd64
+  Resources for OffSec's PWK2/PEN-200
 ```
 
 these two are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
