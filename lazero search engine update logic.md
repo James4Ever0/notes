@@ -1,12 +1,12 @@
 ---
 title: lazero search engine update logic
 created: '2022-12-13T18:09:13.126Z'
-modified: '2022-12-13T18:09:15.301Z'
+modified: '2022-12-13T18:20:38.808Z'
 ---
 
 # lazero search engine update logic
 
-the update process shall be atomic. when the update is successful, there should be a file created under index directory. always check the newest index first.
+the update process shall be atomic. when the update is successful, there should be a file created under index directory. always check the newest index first. cleanup unusable/incompatible indexs.
 
 if there's no previous compatible index present, make index from group up, clean up incompatible index if necessary. if previous compatible index is found, decompose it into small groups, waiting for merge and update.
 
@@ -16,5 +16,5 @@ next create or merge file list.
 
 then we scan those new files then act accordingly to our index.
 
-finally we merge our index, save to a different place, place the flag, remove the flag of old index then remove old index completely.
+finally we merge our index, save to a different place, place the flag, remove the flag of old index then remove old index completely. if merge is not possible for huge datasource, we perform search in minibatches.
 
