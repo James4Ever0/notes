@@ -1,7 +1,7 @@
 ---
 title: 'rare package managers, alternative jvm languages and java study hints'
 created: '2022-12-13T22:20:07.404Z'
-modified: '2022-12-13T22:33:02.026Z'
+modified: '2022-12-13T22:33:23.842Z'
 ---
 
 # rare package managers, alternative jvm languages and java study hints
@@ -26,7 +26,7 @@ modified: '2022-12-13T22:33:02.026Z'
 [RingoJS](https://www.ringojs.org/documentation/)
 [Kotlin](https://kotlinlang.org/)
 [Scala](https://www.scala-lang.org/)
-Groovy
+[Groovy](http://www.groovy-lang.org/)
 Clojure
 Fantom
 Ceylon
