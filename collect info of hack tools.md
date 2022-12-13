@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T09:39:51.223Z'
+modified: '2022-12-13T09:51:00.472Z'
 ---
 
 # download/collect info of hack tools
@@ -34,6 +34,13 @@ there are few github repo archives avaliable for download. the github archive pr
 
 ### kali, parrot
 
+kali tool list pages
+```bash
+curl https://en.kali.tools/all/ > kali_tools_all.html # more tags, more categories, the same as blackarch?
+curl https://www.kali.org/tools/ > kali_official.html
+curl https://en.kali.tools/ > pentest_tools_with_name.html
+```
+
 these two are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
 
 using `apt` one can retrieve package infos with simple command. find main metapackages like `parrot-tools-full` (parrot) and `` (kali) first, then retrieve dependency trees.
@@ -64,7 +71,6 @@ there are tools for interacting with maven search api.
 you can retrieve "pom.xml" to get package info like homepage and description.
 
 maven central has [archtype-catalog](https://repo1.maven.org/maven2/archetype-catalog.xml) for retrieving all avaliable artifact names
-
 
 maven search tools:
 
