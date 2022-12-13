@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T10:08:22.337Z'
+modified: '2022-12-13T10:10:52.844Z'
 ---
 
 # download/collect info of hack tools
@@ -117,7 +117,25 @@ apk list -I | sed -rn '/-doc/! s/([a-z-]+[a-z]).*/\1/p' | awk '{ print system("a
 
 ### pypi/pip
 
+i remember you have scraped tsinghua pypi index, containing many python tools.
 
+retrieve python package info as json:
+`https://pypi.org/pypi/<package-name>/json`
+
+visit [pypi simple index](https://pypi.tuna.tsinghua.edu.cn/simple/) to get all package names. but the info is clearly on the other page. you retrieve this from pypi. use the below commandline tool?
+
+`pypi [information|description] <package_name>`
+
+documentation url is provided separately from mainpage.
+
+[commandline tool for searching in pypi](https://pypi.org/project/pypi-command-line/)
+
+install it, then run:
+```bash
+pypi search <query>
+```
+
+it also provides "read-the-docs" to search in documentation of a package, detailed info
 
 ### nuget
 
