@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T10:17:56.655Z'
+modified: '2022-12-13T10:33:10.214Z'
 ---
 
 # download/collect info of hack tools
@@ -11,6 +11,8 @@ modified: '2022-12-13T10:17:56.655Z'
 given the name of the hack tool, you may not be able to tell what the tool is (written in python? hosted on github? online tool?) and you want to use search engine to find possible entries. you may take snapshots on these pages and index them.
 
 if the hack tool is linked to some website/manual, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
+
+you may miss the wiki, forum, tutorials. you know where to get them.
 
 ## case specific
 
