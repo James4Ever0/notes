@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T11:33:53.624Z'
+modified: '2022-12-13T11:39:43.262Z'
 ---
 
 # download/collect info of hack tools
@@ -146,6 +146,11 @@ we can search in cli tool (not `dotnet nuget` (installed with dotnet sdk) but `n
 list all packages:
 ```bash
 nuget list
+```
+
+get package information:
+```
+nuget list <packageName> -Verbosity detailed
 ```
 
 the web interface seems allowing us to do some traversal on the parameter: `https://www.nuget.org/packages?page=<pagenum>&sortBy=relevance`
