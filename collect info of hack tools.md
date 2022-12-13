@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T11:49:01.337Z'
+modified: '2022-12-13T11:51:10.750Z'
 ---
 
 # download/collect info of hack tools
@@ -17,6 +17,8 @@ you may miss the wiki, forum, tutorials. you know where to get them.
 ## case specific
 
 you also have `brew` `sdkman` `macport` `chocolatey` indexes and more to scrape. maybe it is time to improve your searching skill?
+
+cyborg hawx linux, backtrack linux may join the parade.
 
 ### github
 
