@@ -1,7 +1,7 @@
 ---
 title: 'rare package managers, alternative jvm languages and java study hints'
 created: '2022-12-13T22:20:07.404Z'
-modified: '2022-12-13T22:27:15.092Z'
+modified: '2022-12-13T22:30:15.152Z'
 ---
 
 # rare package managers, alternative jvm languages and java study hints
@@ -19,7 +19,24 @@ modified: '2022-12-13T22:27:15.092Z'
 
 [CLPM](https://www.clpm.dev/) powered by quicklisp
 
-## jvm languages
+## jvm alternative languages
+
+[oracle's blog on jvm languages](https://www.oracle.com/technical-resources/articles/java/architect-languages.html)
+
+[RingoJS](https://www.ringojs.org/documentation/)
+[Kotlin](https://kotlinlang.org/)
+[Scala](https://www.scala-lang.org/)
+Groovy
+Clojure
+Fantom
+Ceylon
+Jython
+JRuby
+Frege
+Xtend
+Golo
+Concurnaas
+Yeti
 
 ## java hints
 
