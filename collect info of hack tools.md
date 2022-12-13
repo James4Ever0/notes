@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T09:32:33.640Z'
+modified: '2022-12-13T09:39:51.223Z'
 ---
 
 # download/collect info of hack tools
@@ -64,6 +64,13 @@ there are tools for interacting with maven search api.
 you can retrieve "pom.xml" to get package info like homepage and description.
 
 maven central has [archtype-catalog](https://repo1.maven.org/maven2/archetype-catalog.xml) for retrieving all avaliable artifact names
+
+
+maven search tools:
+
+[mvn-search](https://github.com/erosb/mvn-search)
+
+[mcs](https://github.com/mthmulders/mcs)
 
 ### npm
 
