@@ -1,7 +1,7 @@
 ---
 title: 'rare package managers, alternative jvm languages and java study hints'
 created: '2022-12-13T22:20:07.404Z'
-modified: '2022-12-13T22:41:25.698Z'
+modified: '2022-12-13T22:58:01.866Z'
 ---
 
 # rare package managers, alternative jvm languages and java study hints
@@ -37,6 +37,8 @@ Xtend
 [Golo](https://golo-lang.org/)
 Concurnaas
 Yeti
+
+[GraalVM](https://github.com/oracle/graal) uses polyglot to bridge with other languages
 
 ## java hints
 
