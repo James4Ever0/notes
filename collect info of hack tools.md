@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T10:10:52.844Z'
+modified: '2022-12-13T10:14:24.308Z'
 ---
 
 # download/collect info of hack tools
@@ -179,9 +179,11 @@ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 you can download man pages before installing package
 
 use "dman" by bikeshed
+
 ```bash
 apt-get install bikeshed
 ```
+
 or browse manpages on web, [tutorials on linux and languages](https://linux.die.net)
 
 [man pages with different sections (categories)](https://linux.die.net/man/)
