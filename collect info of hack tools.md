@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T11:39:43.262Z'
+modified: '2022-12-13T11:42:11.720Z'
 ---
 
 # download/collect info of hack tools
@@ -153,6 +153,8 @@ get package information:
 nuget list <packageName> -Verbosity detailed
 ```
 
+[query all package information without nuget](https://learn.microsoft.com/en-us/nuget/guides/api/query-for-all-published-packages)
+
 the web interface seems allowing us to do some traversal on the parameter: `https://www.nuget.org/packages?page=<pagenum>&sortBy=relevance`
 
 keep in mind the pagenum cannot be too big (like 2000).
@@ -190,7 +192,7 @@ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 
 you can download man pages before installing package
 
-use "dman" by bikeshed
+use "dman" by bikeshed (not avaliable on kali, maybe on ubuntu?)
 
 ```bash
 apt-get install bikeshed
