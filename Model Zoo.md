@@ -9,7 +9,7 @@ modified: '2022-12-12T12:47:18.454Z'
 
 find things in colab, kaggle, aistudio, bilibili, youtube.
 
-[modelscope](https://modelscope.cn/home) by [mindspore]()
+[modelscope](https://modelscope.cn/home)
 
 [intel model zoo](https://github.com/IntelAI/models)
 
