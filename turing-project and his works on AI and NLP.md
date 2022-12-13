@@ -1,7 +1,7 @@
 ---
 title: turing-project and his works on AI and NLP
 created: '2022-12-13T11:58:10.525Z'
-modified: '2022-12-13T13:50:45.799Z'
+modified: '2022-12-13T14:08:08.522Z'
 ---
 
 # turing-project and his works on AI and NLP
@@ -14,4 +14,4 @@ the [bilibili user](https://space.bilibili.com/371846699) and [his repo](https:/
 
 [megatron deepspeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) enables training large model on cheap hardware
 
-[essaykillerbrain](https://github.com/EssayKillerBrain) is another project he has involved in, which 
+[essaykillerbrain](https://github.com/EssayKillerBrain) is another project he has involved in, which contains [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) [EssayKiller_V1](https://github.com/EssayKillerBrain/EssayKiller_V1) [EssayTopicPredict](https://github.com/EssayKillerBrain/EssayTopicPredict)
