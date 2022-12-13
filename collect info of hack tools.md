@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T11:54:08.556Z'
+modified: '2022-12-13T11:55:19.472Z'
 ---
 
 # download/collect info of hack tools
@@ -13,6 +13,10 @@ given the name of the hack tool, you may not be able to tell what the tool is (w
 if the hack tool is linked to some website/manual, you can index the website. if you find it inside some package index or package manager, you will know how to install the package.
 
 you may miss the wiki, forum, tutorials. you know where to get them.
+
+here are few examples where you can learn things from:
+
+[darknet.]
 
 ## case specific
 
