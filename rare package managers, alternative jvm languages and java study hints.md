@@ -1,7 +1,7 @@
 ---
 title: 'rare package managers, alternative jvm languages and java study hints'
 created: '2022-12-13T22:20:07.404Z'
-modified: '2022-12-13T22:33:57.806Z'
+modified: '2022-12-13T22:35:23.069Z'
 ---
 
 # rare package managers, alternative jvm languages and java study hints
@@ -42,7 +42,7 @@ Yeti
 
 [javac doc](https://docs.oracle.com/en/java/javase/18/docs/specs/man/javac.html#arrangement-of-source-code-for-a-package)
 
-[jshell]()
+[jshell](https://docs.oracle.com/javase/10/jshell/introduction-jshell.htm)
 
 [nashorn js engine](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html) run it with `jjs`
 
