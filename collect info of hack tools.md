@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T09:51:00.472Z'
+modified: '2022-12-13T09:52:56.747Z'
 ---
 
 # download/collect info of hack tools
@@ -35,6 +35,7 @@ there are few github repo archives avaliable for download. the github archive pr
 ### kali, parrot
 
 kali tool list pages
+
 ```bash
 curl https://en.kali.tools/all/ > kali_tools_all.html # more tags, more categories, the same as blackarch?
 curl https://www.kali.org/tools/ > kali_official.html
