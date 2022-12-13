@@ -1,10 +1,12 @@
 ---
 title: Awesome Transformer & Transfer Learning in NLP
 created: '2022-12-10T18:20:32.040Z'
-modified: '2022-12-10T18:28:31.091Z'
+modified: '2022-12-13T19:23:33.775Z'
 ---
 
 # Awesome Transformer & Transfer Learning in NLP
+
+[machine learning guide](https://github.com/mikeroyal/Machine-Learning-Guide) lots of links, broad topics
 
 [This repository](https://github.com/cedrickchee/awesome-transformer-nlp/) contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, and transfer learning in NLP.
 
