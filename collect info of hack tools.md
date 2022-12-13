@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T10:14:24.308Z'
+modified: '2022-12-13T10:17:56.655Z'
 ---
 
 # download/collect info of hack tools
@@ -30,7 +30,7 @@ if you want all README pages on github, you first need to collect all github rep
 
 there are few github repo archives avaliable for download. the github archive program packed many repos to arctic, the list is called [Greatest Hits](https://archiveprogram.github.com/assets/img/archive-repos.txt)
 
-[gharchive](https://www.gharchive.org/) provides many websites for monitoring github repos
+[gharchive](https://www.gharchive.org/) provides many websites for monitoring github repos, though stopped archiving since 2016
 
 ### kali, parrot
 
