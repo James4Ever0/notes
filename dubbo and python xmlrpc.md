@@ -1,7 +1,7 @@
 ---
 title: dubbo and python xmlrpc
 created: '2022-12-13T12:08:27.110Z'
-modified: '2022-12-13T13:35:31.078Z'
+modified: '2022-12-13T14:05:23.688Z'
 ---
 
 # dubbo and python xmlrpc
@@ -21,4 +21,5 @@ http://www.shouhuola.com/q-23671.html
 https://www.yisu.com/zixun/576879.html
 https://www.cnblogs.com/leozhanggg/p/14176752.html
 https://www.bilibili.com/read/cv13670275/
+http://www.zztongyun.com/article/article-1-1.html (open with `elinks` to prevent ads)
 
