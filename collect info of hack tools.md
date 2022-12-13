@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T20:26:05.706Z'
+modified: '2022-12-13T20:29:11.031Z'
 ---
 
 # download/collect info of hack tools
@@ -26,7 +26,7 @@ you also have `brew` `sdkman` `macport` `pkgsrc` `chocolatey` `scoop` `winget`  
 
 [cyborg hawx linux](https://launchpad.net/~cyborg-hawk/+archive/ubuntu/stable), backtrack linux may join the parade.
 
-for language specific package indexs, we have `hackage` `CPAN` `CRAN` `crates.io` and more (where are package indexes for `C` `C++` `Pascal` `BASIC` `assembly` `lisp` `prolog` `lua` and more?). just check [tuna mirror site](https://mirrors.tuna.tsinghua.edu.cn/) and get a view on that. you may want a network directory traversal tool akin to `find` in local filesystem, without downloading anything "binary" but just logging all possible urls for you to inspect. (with file size)
+for language specific package indexs, we have `hackage` `CPAN` `CRAN` `crates.io` and more (where are package indexes for `C` `C++` `Pascal` `BASIC` `assembly` `lisp` `prolog` `lua` and more? visit [awesomeopensource](https://awesomeopensource.com/) then use combined topics to find [package managers for c](https://awesomeopensource.com/projects/c/package-manager) and more). just check [tuna mirror site](https://mirrors.tuna.tsinghua.edu.cn/) and get a view on that. you may want a network directory traversal tool akin to `find` in local filesystem, without downloading anything "binary" but just logging all possible urls for you to inspect. (with file size)
 
 after all these information collecting, you must categorize them (topic modelling), retrieve info when needed (semantic searching? recommendation? dialog based GPT?). you may find many things not obviously a hack tool but in general fit well into specific needs.
 
