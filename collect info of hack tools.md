@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T10:04:08.146Z'
+modified: '2022-12-13T10:05:36.428Z'
 ---
 
 # download/collect info of hack tools
@@ -110,6 +110,12 @@ curl https://www.blackarch.org/tools.html > tools.html
 
 ### alpine
 
+
+alpine linux is able to [download man page alone without installing package](https://georgegarside.com/blog/technology/alpine-linux-install-all-man-pages/)
+```bash
+apk list -I | sed -rn '/-doc/! s/([a-z-]+[a-z]).*/\1/p' | awk '{ print system("apk info \""$1"-doc\" > /dev/null") == 0 ? $ "-doc" : "" }' | xargs apk add
+``````
+
 ### nuget
 
 we can search in cli tool (not `dotnet nuget` (installed with dotnet sdk) but `nuget` ([installation guide](https://learn.microsoft.com/en-us/nuget/reference/nuget-exe-cli-reference))) and [web interface](https://www.nuget.org/).
@@ -146,6 +152,10 @@ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 `gem list -r` really works. you just have to wait.
 
 `gem info -r` list all remote gem infos, but too slow and not working, use only one package at a time.
+
+### manpages
+
+location of locally installed man pages: `/usr/share/man`
 
 ### vscode plugin
 
