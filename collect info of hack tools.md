@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T16:32:11.900Z'
+modified: '2022-12-13T16:41:33.046Z'
 ---
 
 # download/collect info of hack tools
@@ -196,6 +196,8 @@ maven search tools:
 ### npm
 
 there's a [repo](https://github.com/nice-registry/all-the-package-names) storing up-to-date package names on github. after that, use [npm-description](https://www.npmjs.com/package/npm-description) to download description for every package.
+
+[all-the-package-repos](https://github.com/nice-registry/all-the-package-repos) contains repo information (github, gitlab) of every npm package
 
 ### gem
 
