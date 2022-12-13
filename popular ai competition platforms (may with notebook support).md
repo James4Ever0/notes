@@ -1,7 +1,7 @@
 ---
 title: popular ai competition platforms (may with notebook support)
 created: '2022-12-13T16:02:10.473Z'
-modified: '2022-12-13T16:03:19.151Z'
+modified: '2022-12-13T16:03:30.663Z'
 ---
 
 # popular ai competition platforms (may with notebook support)
@@ -10,4 +10,6 @@ modified: '2022-12-13T16:03:19.151Z'
 
 [datafountain](https://www.datafountain.cn/)
 
-[](https://www.heywhale.com/)
+[和鲸社区](https://www.heywhale.com/)
+
+
