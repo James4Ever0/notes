@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T10:00:42.231Z'
+modified: '2022-12-13T10:04:08.146Z'
 ---
 
 # download/collect info of hack tools
@@ -68,6 +68,18 @@ offsec-pwk/kali-rolling 2021.1.2 amd64
 
 these two OSes are for pentesting, using `apt` as package manager. but parrot does not provide tool introductions.
 
+
+get all package names:
+```bash
+apt list
+```
+you can retrieve package information in apt command, like:
+```bash
+apt show <package_name>
+```
+you will get homepage link and package description
+if you want package dependencies you will also have it.
+
 using `apt` one can retrieve package infos with simple command. find main metapackages like `parrot-tools-full` (parrot) and `kali-linux-everything` (kali) first, then retrieve dependency trees.
 
 parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) which you can retrieve info from there. 
@@ -76,10 +88,27 @@ parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) wh
 
 blackarch is based on archlinux, which has both official repo and user provided packages repo (AUR). the syntax is almost the same for `pacman` and `yaourt` to retrieve all available info of packages.
 
+
+maybe you want to retrieve package information with pacman.
+
+list all package information just like apt, description, dependencies, homepage and more.
+```bash
+pacman -Si
+```
+use some parser?
+
+for aur repos, use yay or yaourt.
+```bash
+yaourt -Si
+```
+you may use dependencies to deduce relationship between packages, use description, man pages, wiki, manual and tutorials to understand the usage of packages.
+
 download main blackarch tool list:
 ```bash
 curl https://www.blackarch.org/tools.html > tools.html
 ```
+
+### alpine
 
 ### nuget
 
