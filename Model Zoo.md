@@ -7,7 +7,7 @@ modified: '2022-12-12T12:47:18.454Z'
 
 # Model Zoo
 
-find things in colab, kaggle
+find things in colab, kaggle, ai
 
 [modelscope](https://modelscope.cn/home) by [mindspore]()
 
