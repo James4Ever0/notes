@@ -2,14 +2,14 @@
 tags: [code generation, programming assistant]
 title: Copilot_Codex alternative
 created: '2022-05-09T04:35:16.000Z'
-modified: '2022-12-12T20:55:05.581Z'
+modified: '2022-12-13T11:59:35.943Z'
 ---
 
 # Copilot/Codex alternative
 
 use chatgpt instead, when it is free.
 
-tsinghua (again!) introduced a similar open source model called [codegeex](https://github.com/THUDM/CodeGeeX), having better performance than [incoder](https://github.com/dpfried/incoder) (by meta) and codegen with vscode plugin support, able to generate and **translate** code. the info is found on [tuna events](https://tuna.moe/events/) and you can download video/scripts for some events. it also provides [blog](https://tuna.moe/blog/) and [podcast](https://podcast.tuna.moe/)
+tsinghua (again!) introduced a similar open source model called [codegeex](https://github.com/THUDM/CodeGeeX), having better performance than [incoder](https://github.com/dpfried/incoder) (by meta) and codegen with vscode plugin support, able to generate and **translate** code. the info is found on [tuna events](https://tuna.moe/events/) and you can download video/scripts for some events. trained on [humaneval-x](https://huggingface.co/datasets/THUDM/humaneval-x) dataset for code generation. it also provides [blog](https://tuna.moe/blog/) and [podcast](https://podcast.tuna.moe/)
 
 Codegen
 https://github.com/salesforce/CodeGen
