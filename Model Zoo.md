@@ -13,6 +13,8 @@ find things in colab, kaggle, aistudio, bilibili, youtube.
 
 [mindspore model zoo](https://gitee.com/mindspore/models)
 
+[mindspore hub](https://www.mindspore.cn/resources/hub/)
+
 [intel model zoo](https://github.com/IntelAI/models)
 
 run models from intel model zoo in docker container, like [recommendation](https://hub.docker.com/r/intel/recommendation)
