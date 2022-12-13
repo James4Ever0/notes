@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T12:07:39.887Z'
+modified: '2022-12-13T12:14:03.564Z'
 ---
 
 # download/collect info of hack tools
@@ -25,6 +25,8 @@ you also have `brew` `sdkman` `macport` `chocolatey` indexes and more to scrape.
 [cyborg hawx linux](https://launchpad.net/~cyborg-hawk/+archive/ubuntu/stable), backtrack linux may join the parade.
 
 for language specific package indexs, we have `hackage` `CPAN` `CRAN` `crates.io` and more. just check tuna mirror site and get a view on that.
+
+after all these information collecting, you must categorize them, retrieve info when needed.
 
 ## case specific
 
