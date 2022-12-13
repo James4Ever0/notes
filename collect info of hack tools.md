@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-12T21:14:01.339Z'
+modified: '2022-12-13T09:32:33.640Z'
 ---
 
 # download/collect info of hack tools
@@ -43,6 +43,11 @@ parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) wh
 ### blackarch
 
 blackarch is based on archlinux, which has both official repo and user provided packages repo (AUR). the syntax is almost the same for `pacman` and `yaourt` to retrieve all available info of packages.
+
+download main blackarch tool list:
+```bash
+curl https://www.blackarch.org/tools.html > tools.html
+```
 
 ### nuget
 
