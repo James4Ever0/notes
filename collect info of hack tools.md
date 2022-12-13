@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T13:03:51.230Z'
+modified: '2022-12-13T13:04:57.161Z'
 ---
 
 # download/collect info of hack tools
@@ -27,6 +27,8 @@ you also have `brew` `sdkman` `macport` `chocolatey` indexes and more to scrape.
 for language specific package indexs, we have `hackage` `CPAN` `CRAN` `crates.io` and more. just check [tuna mirror site](https://mirrors.tuna.tsinghua.edu.cn/) and get a view on that.
 
 after all these information collecting, you must categorize them (topic modelling), retrieve info when needed (semantic searching? recommendation? dialog based GPT?). you may find many things not obviously a hack tool but in general fit well into specific needs.
+
+with all packages being scraped, you need to deduplicate it a little bit, either by name or homepage.
 
 ## case specific
 
