@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T13:04:57.161Z'
+modified: '2022-12-13T13:07:32.734Z'
 ---
 
 # download/collect info of hack tools
@@ -100,7 +100,7 @@ if you want package dependencies you will also have it.
 
 using `apt` one can retrieve package infos with simple command. find main metapackages like `parrot-tools-full` (parrot) and `kali-linux-everything` (kali) first, then retrieve dependency trees.
 
-parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) which you can retrieve info from there, or "Packages" for general debian package index.
+parrotos has [index.db](https://mirrors.tuna.tsinghua.edu.cn/parrot/index.db) which you can retrieve info from there, or "Packages" for general debian package index, or anything you think is metadata.
 
 ### blackarch
 
