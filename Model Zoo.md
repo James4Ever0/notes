@@ -7,7 +7,7 @@ modified: '2022-12-12T12:47:18.454Z'
 
 # Model Zoo
 
-
+[modelscope](https://modelscope.cn/home) by [mindspore]()
 
 [intel model zoo](https://github.com/IntelAI/models)
 

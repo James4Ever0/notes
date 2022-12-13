@@ -1,14 +1,14 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T14:18:25.243Z'
+modified: '2022-12-13T14:19:16.899Z'
 ---
 
 # download/collect info of hack tools
 
 ## general introduction
 
-this is about information gathering, so you might learn how to scrape AI models, tutorials, code snippets as well.
+this is about information gathering, so you might learn how to scrape AI models, AI notebooks, tutorials, code snippets as well.
 
 given the name of the hack tool, you may not be able to tell what the tool is (written in python? hosted on github? online tool?) and you want to use search engine to find possible entries. you may take snapshots on these pages and index them.
 
