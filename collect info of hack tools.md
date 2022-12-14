@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-14T15:43:34.982Z'
+modified: '2022-12-14T15:49:40.699Z'
 ---
 
 # download/collect info of hack tools
@@ -195,7 +195,8 @@ maven search tools:
 
 ### homebrew
 
-reading the source code, i found [this url](https://formulae.brew.sh/api/formula.json) is for retrieving all formula info on brew index.
+reading the source code, i found [this url](https://formulae.brew.sh/api/formula.json) is for retrieving all formula info on brew index, and [this](https://formulae.brew.sh/api/cask.json) for casks.
+
 
 ### npm
 
