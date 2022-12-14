@@ -1,10 +1,12 @@
 ---
 title: lazero search engine update logic
 created: '2022-12-13T18:09:13.126Z'
-modified: '2022-12-13T18:20:38.808Z'
+modified: '2022-12-14T05:42:17.899Z'
 ---
 
 # lazero search engine update logic
+
+[ColBERT](https://medium.com/@varun030403/colbert-a-complete-guide-1552468335ae) and [RoBERTa]() for document retrieval and embedding
 
 the update process shall be atomic. when the update is successful, there should be a file created under index directory. always check the newest index first. cleanup unusable/incompatible indexs.
 
