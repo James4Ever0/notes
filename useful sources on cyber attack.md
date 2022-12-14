@@ -1,10 +1,12 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-14T22:22:32.251Z'
+modified: '2022-12-14T23:50:44.948Z'
 ---
 
 # useful sources on cyber attack
+
+[burpa](https://github.com/tristanlatr/burpa) burp suite automation tool
 
 [twitter token generator](https://github.com/James4Ever0/Twitter-Token-Gen) register twitter in batch, has a large proxy list
 
