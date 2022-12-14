@@ -1,10 +1,12 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-07T11:45:39.089Z'
+modified: '2022-12-14T22:20:17.932Z'
 ---
 
 # useful sources on cyber attack
+
+[twitter token generator](https://github.com/ogu3/Twitter-Token-Gen) register twitter in batch, have a large proxy list
 
 [i0gan](https://i0gan.github.io/) some hacker with automated tools like [awd_script](https://github.com/i0gan/awd_script/fork)
 
