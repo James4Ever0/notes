@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-14T15:49:58.329Z'
+modified: '2022-12-14T15:51:08.730Z'
 ---
 
 # download/collect info of hack tools
@@ -197,6 +197,10 @@ maven search tools:
 
 reading the source code and according to [brew api docs](https://formulae.brew.sh/docs/api/) i found [this url](https://formulae.brew.sh/api/formula.json) is for retrieving all formula info on brew index, and [this](https://formulae.brew.sh/api/cask.json) for casks.
 
+also run this command for showing local cached package infos:
+```bash
+brew info --json --all
+```
 
 ### npm
 
