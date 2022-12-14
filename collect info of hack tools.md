@@ -1,7 +1,7 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-13T21:07:30.606Z'
+modified: '2022-12-14T15:43:34.982Z'
 ---
 
 # download/collect info of hack tools
@@ -192,6 +192,10 @@ maven search tools:
 [mvn-search](https://github.com/erosb/mvn-search)
 
 [mcs](https://github.com/mthmulders/mcs)
+
+### homebrew
+
+reading the source code, i found [this url](https://formulae.brew.sh/api/formula.json) is for retrieving all formula info on brew index.
 
 ### npm
 
