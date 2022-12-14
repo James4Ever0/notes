@@ -1,11 +1,11 @@
 ---
 created: 2022-11-29T21:38:35+08:00
-modified: 2022-11-29T23:05:05+08:00
+modified: 2022-12-14T16:03:02+08:00
 ---
 
 # hacker forums
 
-social engineering is just a fancy name for gaining trust and do shit.
+social engineering is just a fancy name for spotting candidates, hooking up, gaining trust and doing shit.
 
 in hacking we must be multilingual, as this shit is really hard to get right.
 
