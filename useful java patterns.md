@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T11:55:40.997Z'
+modified: '2022-12-15T11:56:06.959Z'
 ---
 
 # useful java patterns
@@ -42,7 +42,7 @@ while (l.hasNext()){
   System.out.println("INDEX: "+index+" ELEM: "+val);
 }
 
-var istream = IntStream.range(0,a.size()).forEach()
+IntStream.range(0,a.size()).forEach(index -> a.get(index));
 
 ```
 
