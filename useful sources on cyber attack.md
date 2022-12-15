@@ -1,12 +1,14 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-15T15:01:55.764Z'
+modified: '2022-12-15T15:04:00.835Z'
 ---
 
 # useful sources on cyber attack
 
 [kafan virus samples](https://bbs.kafan.cn/forum-31-1.html)
+
+[vbgood](http://www.vbgood.com/)
 
 [debugman](https://debugmen.dev/) reverse engineering
 
