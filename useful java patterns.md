@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T11:57:18.186Z'
+modified: '2022-12-15T11:59:59.701Z'
 ---
 
 # useful java patterns
@@ -50,5 +50,11 @@ for (int i: a){
 }
 ```
 
+list comprehension:
+```java
+var mlist = a.stream().map(x-> x*2).collect(Collectors.toList());
+var evenNums = a.stream().filter(x-> x%2 == 0).collect(Collectors.toList());
+var mmap = a.stream().collect(Collectors.toMap(x->x.getId(),x->x.getName()));
+```
 
 
