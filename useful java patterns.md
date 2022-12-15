@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T11:56:06.959Z'
+modified: '2022-12-15T11:57:18.186Z'
 ---
 
 # useful java patterns
@@ -32,7 +32,7 @@ print(a.min())
 a.reverse()
 ```
 
-iterate lists:
+iterate lists with indices:
 
 ```java
 var l = a.listIterator();
@@ -44,6 +44,10 @@ while (l.hasNext()){
 
 IntStream.range(0,a.size()).forEach(index -> a.get(index));
 
+var index=0;
+for (int i: a){
+  index++;
+}
 ```
 
 
