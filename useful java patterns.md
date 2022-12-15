@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:32:22.983Z'
+modified: '2022-12-15T12:33:17.491Z'
 ---
 
 # useful java patterns
@@ -89,7 +89,7 @@ var mmap = a.stream().collect(Collectors.toMap(x->x.getId(),x->x.getName()));
 ## switch expressions
 
 ```java
-var val  =2;
+var val = 2;
 var mswitch = switch (val){
   case 1,2,3 -> {
     yield "good";
@@ -97,9 +97,15 @@ var mswitch = switch (val){
   case 4,5,6 -> {
     yield "bad";
   } // either throw or yield.
-  default -> System.out.println("out of expectation");
+  default -> {
+    System.out.println("out of expectation");
+    yield "really bad";
+  }
 };
 System.out.println(mswitch);
 ```
 
+```kotlin
+
+```
 
