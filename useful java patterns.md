@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:46:57.417Z'
+modified: '2022-12-15T12:49:31.163Z'
 ---
 
 # useful java patterns
@@ -129,6 +129,7 @@ print(grade)
 
 ```java
 Consumer mcons = (n) -> {System.out.println(n);}
+mcons.andThen(mcons).accept("mval");
 Function <Integer,Integer> mfunc = n-> n+1;
 Supplier msup = () -> 1;
 var mval = msup.get();
