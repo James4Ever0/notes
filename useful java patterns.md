@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T11:53:15.511Z'
+modified: '2022-12-15T11:54:52.980Z'
 ---
 
 # useful java patterns
@@ -35,7 +35,16 @@ a.reverse()
 iterate lists:
 
 ```java
-ListIterator
+var l = a.listIterator();
+while (l.hasNext()){
+  var index = l.nextIndex();
+  var val = l.next();
+  System.out.println("INDEX: "+index+" ELEM: "+val);
+}
+
+
 
 ```
+
+
 
