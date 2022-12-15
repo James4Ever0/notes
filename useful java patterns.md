@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:28:50.901Z'
+modified: '2022-12-15T12:30:04.679Z'
 ---
 
 # useful java patterns
@@ -91,8 +91,15 @@ var mmap = a.stream().collect(Collectors.toMap(x->x.getId(),x->x.getName()));
 ```java
 var val  =2;
 var mswitch = switch (val){
-  case 1,2,3 ->
+  case 1,2,3 -> {
+    yield "good";
+  }
+  case 4,5,6 -> {
+    yield "bad";
+  }
+  default -> System.out.println("out of expectation");
 }
+System.out.println(mswitch);
 ```
 
 
