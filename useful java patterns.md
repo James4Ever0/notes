@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:04:03.589Z'
+modified: '2022-12-15T12:08:29.452Z'
 ---
 
 # useful java patterns
@@ -33,6 +33,8 @@ a.reverse()
 ```
 
 ## iterate lists with indices
+
+java double colon `::` operator acts as anonymous function
 
 ```java
 var l = a.listIterator();
