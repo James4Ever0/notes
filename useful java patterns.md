@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:41:11.497Z'
+modified: '2022-12-15T12:44:01.618Z'
 ---
 
 # useful java patterns
@@ -116,4 +116,9 @@ Consumer mcons = (n) -> {System.out.println(n);}
 Function <Integer,Integer> mfunc = n-> n+1;
 Supplier msup = () -> 1;
 var mval = msup.get();
+```
+
+```kotlin
+var mfunc = {n :Int -> n+1}
+var 
 ```
