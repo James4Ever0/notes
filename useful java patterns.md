@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:17:16.680Z'
+modified: '2022-12-15T12:19:27.027Z'
 ---
 
 # useful java patterns
@@ -63,6 +63,9 @@ for (int i: a){
 }
 ```
 ```kotlin
+
+a.forEachIndexed{ind, elem -> println()}
+
 for (var i in a.indices){
   var elem = a[i]
 }
