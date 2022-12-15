@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:08:29.452Z'
+modified: '2022-12-15T12:12:34.740Z'
 ---
 
 # useful java patterns
@@ -30,6 +30,13 @@ print(a.contentToString())
 print(a.max())
 print(a.min())
 a.reverse()
+```
+
+## creating hashmap
+
+```java
+var ah= new HashMap<>();
+
 ```
 
 ## iterate lists with indices
