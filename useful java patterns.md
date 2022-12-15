@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:49:31.163Z'
+modified: '2022-12-15T12:51:32.756Z'
 ---
 
 # useful java patterns
@@ -107,7 +107,7 @@ System.out.println(mswitch);
 
 ```kotlin
 var grade = 30
-var res =     when(grade) {
+var res =  when(grade) {
         in 0..40 -> "Fail"
         in 41..70 -> "Pass"
         in 71..100 -> "Distinction"
