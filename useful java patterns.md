@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:51:32.756Z'
+modified: '2022-12-15T12:53:36.541Z'
 ---
 
 # useful java patterns
@@ -113,7 +113,15 @@ var res =  when(grade) {
         in 71..100 -> "Distinction"
         else -> false
     }
-print(grade)
+print(res)
+
+var mcase = 1
+var res = when(mcase){
+  1 -> "good"
+  2 -> "bad"
+  else -> "really bad"
+}
+print(res)
 ```
 
 ### count occurance of elements in array
