@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:53:36.541Z'
+modified: '2022-12-15T13:03:23.810Z'
 ---
 
 # useful java patterns
@@ -127,7 +127,20 @@ print(res)
 ### count occurance of elements in array
 
 ```java
+String[] array = {"name1","name2","name3","name4", "name5", "name2"};
+Arrays.stream(array)
+      .collect(Collectors.groupingBy(s -> s))
+      .forEach((k, v) -> System.out.println(k+" "+v.size()));
 
+List asList = Arrays.asList(array);
+Set<String> mySet = new HashSet<String>(asList);
+
+for(String s: mySet){
+ System.out.println(s + " " + Collections.frequency(asList,s));
+}
+
+Map<String, Long> map = Arrays.stream(array)
+    .collect(Collectors.groupingBy(s -> s, Collectors.counting()));
 ```
 
 ```kotlin
