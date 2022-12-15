@@ -1,10 +1,12 @@
 ---
 title: download/collect info of hack tools
 created: '2022-12-12T14:35:02.642Z'
-modified: '2022-12-14T17:06:59.212Z'
+modified: '2022-12-15T00:53:23.604Z'
 ---
 
 # download/collect info of hack tools
+
+what to do when chatgpt is not for everyone?
 
 ## general introduction
 
