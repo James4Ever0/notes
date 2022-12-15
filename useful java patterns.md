@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:35:33.448Z'
+modified: '2022-12-15T12:38:01.798Z'
 ---
 
 # useful java patterns
@@ -113,4 +113,5 @@ System.out.println(mswitch);
 
 ```java
 Consumer mcons = (n) -> {System.out.println(n);}
+Function <Integer,Integer> mfunc = n-> n+1;
 ```
