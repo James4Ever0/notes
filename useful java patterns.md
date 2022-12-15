@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:28:00.473Z'
+modified: '2022-12-15T12:28:50.901Z'
 ---
 
 # useful java patterns
@@ -88,6 +88,11 @@ var mmap = a.stream().collect(Collectors.toMap(x->x.getId(),x->x.getName()));
 
 ## switch expressions
 
-
+```java
+var val  =2;
+var mswitch = switch (val){
+  case 1,2,3 ->
+}
+```
 
 
