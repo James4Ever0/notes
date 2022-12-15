@@ -1,10 +1,12 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-14T23:50:44.948Z'
+modified: '2022-12-15T15:00:06.522Z'
 ---
 
 # useful sources on cyber attack
+
+[debugman](https://debugmen.dev/) reverse engineering
 
 [burpa](https://github.com/tristanlatr/burpa) burp suite automation tool
 
