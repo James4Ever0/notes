@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:12:34.740Z'
+modified: '2022-12-15T12:17:16.680Z'
 ---
 
 # useful java patterns
@@ -36,7 +36,11 @@ a.reverse()
 
 ```java
 var ah= new HashMap<>();
+ah.put(1,2);
+```
 
+```kotlin
+var ah = hashMapOf(1 to 2, 2 to 3)
 ```
 
 ## iterate lists with indices
