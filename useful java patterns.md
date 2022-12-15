@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T13:10:57.058Z'
+modified: '2022-12-15T13:17:28.368Z'
 ---
 
 # useful java patterns
@@ -146,7 +146,9 @@ Map<String, Long> map = Arrays.stream(array)
 ```
 
 ```kotlin
+var a = arrayOf(1,2,3,3,3,3)
 
+a.toSet().forEach{it -> println("elem? $it"); println("count? "+a.count{it2->it2 == it})}
 ```
 ### lambdas
 
