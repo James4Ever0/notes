@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:03:40.316Z'
+modified: '2022-12-15T12:04:03.589Z'
 ---
 
 # useful java patterns
@@ -55,7 +55,8 @@ for (var i in a.indices){
 }
 
 a.indices.forEach {
-  
+  var elem = a[it]
+  elem
 }
 ```
 
