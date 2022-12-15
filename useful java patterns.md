@@ -1,10 +1,12 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T13:03:23.810Z'
+modified: '2022-12-15T13:10:57.058Z'
 ---
 
 # useful java patterns
+
+[java stream guide](https://stackify.com/streams-guide-java-8/)
 
 learn java and kotlin the same time?
 
