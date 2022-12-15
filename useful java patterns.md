@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T11:59:59.701Z'
+modified: '2022-12-15T12:03:40.316Z'
 ---
 
 # useful java patterns
@@ -14,7 +14,7 @@ use v2.1.1 and above for varargs support.
 
 there are eclipse and [jetbrains](https://github.com/perNyfelt/beanshell-intellij-plugin) plugin support for beanshell.
 
-creating lists:
+## creating lists
 
 ```java
 var a = new ArrayList<>(Arrays.asList(1,2,3));
@@ -32,7 +32,7 @@ print(a.min())
 a.reverse()
 ```
 
-iterate lists with indices:
+## iterate lists with indices
 
 ```java
 var l = a.listIterator();
@@ -49,8 +49,17 @@ for (int i: a){
   index++;
 }
 ```
+```kotlin
+for (var i in a.indices){
+  var elem = a[i]
+}
 
-list comprehension:
+a.indices.forEach {
+  
+}
+```
+
+## list comprehension
 ```java
 var mlist = a.stream().map(x-> x*2).collect(Collectors.toList());
 var evenNums = a.stream().filter(x-> x%2 == 0).collect(Collectors.toList());
