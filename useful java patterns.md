@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:27:40.829Z'
+modified: '2022-12-15T12:28:00.473Z'
 ---
 
 # useful java patterns
@@ -85,5 +85,9 @@ var mlist = a.stream().map(x-> x*2).collect(Collectors.toList());
 var evenNums = a.stream().filter(x-> x%2 == 0).collect(Collectors.toList());
 var mmap = a.stream().collect(Collectors.toMap(x->x.getId(),x->x.getName()));
 ```
+
+## switch expressions
+
+
 
 
