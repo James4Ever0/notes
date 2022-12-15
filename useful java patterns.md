@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T11:50:50.772Z'
+modified: '2022-12-15T11:52:14.125Z'
 ---
 
 # useful java patterns
@@ -18,7 +18,9 @@ creating lists:
 
 ```java
 var a = new ArrayList<>(Arrays.asList(1,2,3));
-var mset = new HashSet(a);
+var mset = new HashSet<>();
+mset.addAll(a);
+var mset2 = a.stream().collect(Collectors.toSet());
 
 ```
 
