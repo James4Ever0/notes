@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T11:49:10.472Z'
+modified: '2022-12-15T11:50:17.168Z'
 ---
 
 # useful java patterns
@@ -22,7 +22,9 @@ var a = new ArrayList<>(Arrays.asList(1,2,3));
 
 ```kotlin
 var a = arrayOf(1,2,3);
-print(a.contentAsString())
-
+print(a.contentToString())
+print(a.max())
+print(a.min())
+a.reverse()
 ```
 
