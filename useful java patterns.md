@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:30:04.679Z'
+modified: '2022-12-15T12:31:39.427Z'
 ---
 
 # useful java patterns
@@ -98,7 +98,7 @@ var mswitch = switch (val){
     yield "bad";
   }
   default -> System.out.println("out of expectation");
-}
+};
 System.out.println(mswitch);
 ```
 
