@@ -1,7 +1,7 @@
 ---
 title: useful java patterns
 created: '2022-12-15T10:39:10.028Z'
-modified: '2022-12-15T12:24:52.409Z'
+modified: '2022-12-15T12:27:40.829Z'
 ---
 
 # useful java patterns
@@ -21,7 +21,9 @@ var a = new ArrayList<>(Arrays.asList(1,2,3));
 var mset = new HashSet<>();
 mset.addAll(a);
 var mset2 = a.stream().collect(Collectors.toSet());
-
+var mymin = Collections.min(a);
+var mymax = Collections.max(a);
+Collections.reverse(a);
 ```
 
 ```kotlin
