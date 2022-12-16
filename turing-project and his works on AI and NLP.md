@@ -1,10 +1,12 @@
 ---
 title: turing-project and his works on AI and NLP
-created: '2022-12-13T11:58:10.525Z'
-modified: '2022-12-13T16:10:40.369Z'
+created: 2022-12-13T11:58:10+00:00
+modified: 2022-12-17T01:23:30+08:00
 ---
 
 # turing-project and his works on AI and NLP
+
+he recently interacts with racketeers on wechat, find how to add new friends (and groups if any) on wechat.
 
 the [bilibili user](https://space.bilibili.com/371846699) and [his repo](https://github.com/youngfish42?tab=repositories)
 
