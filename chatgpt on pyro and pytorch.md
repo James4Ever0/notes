@@ -1,13 +1,14 @@
 ---
 title: chatgpt on pyro and pytorch
 created: '2022-12-16T13:08:20.259Z'
-modified: '2022-12-16T13:11:57.469Z'
+modified: '2022-12-16T14:29:31.041Z'
 ---
 
 # chatgpt on pyro and pytorch
 
 you better train a chatgpt yourself. understand the algorithm.
 
+codegeex is not there yet. maybe you can fine-tune it a little bit?
 
 ## use pyro to create a natural language generator
 Pyro is a probabilistic programming language built on top of PyTorch, which can be used for creating probabilistic models and conducting Bayesian inference. One way you can use Pyro to create a natural language generator is by defining a probabilistic model of the language generation process, and using Monte Carlo sampling or variational inference to generate text.
