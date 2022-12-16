@@ -1,10 +1,10 @@
 ---
-title: pyro object detection
+title: 'pyro object detection, 3d convolution on video'
 created: '2022-12-16T20:31:22.493Z'
-modified: '2022-12-16T20:38:15.225Z'
+modified: '2022-12-16T20:39:07.010Z'
 ---
 
-# pyro object detection
+# pyro object detection, 3d convolution on video
 
 ## use pyro to create an object detector
 
