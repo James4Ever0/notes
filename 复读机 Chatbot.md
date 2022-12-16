@@ -1,11 +1,13 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: '2022-07-14T15:35:31.000Z'
-modified: '2022-12-06T16:22:14.020Z'
+created: 2022-07-14T15:35:31+00:00
+modified: 2022-12-16T19:14:44+08:00
 ---
 
 # 复读机 Chatbot
+
+建立用户画像 cache足够多的信息 总结出来足够精确的话题 标签
 
 发点啥吸引人的 提供某种服务 不然就会被踢
 
