@@ -1,10 +1,10 @@
 ---
-title: 'pyro object detection, 3d convolution on video'
+title: 'pyro object detection, 3d convolution on video, remove watermark in video'
 created: '2022-12-16T20:31:22.493Z'
-modified: '2022-12-16T20:39:07.010Z'
+modified: '2022-12-16T20:45:11.433Z'
 ---
 
-# pyro object detection, 3d convolution on video
+# pyro object detection, 3d convolution on video, remove watermark in video
 
 ## use pyro to create an object detector
 
@@ -217,6 +217,82 @@ outputs = [cnn(tensor.unsqueeze(0)) for tensor in tensors]
 ```
 You can then use the output of the CNN to perform various tasks, such as classification or object detection.
 
+I hope this helps! Let me know if you have any questions.
+
+## use 3d convolution to determine location of watermark on video
+To use 3D convolution to determine the location of a watermark on a video, you can build a convolutional neural network (CNN) that takes a sequence of frames from the video as input and outputs a prediction of the watermark's location.
+
+Here is an outline of the process you can follow to build such a CNN using PyTorch:
+
+Collect and preprocess a dataset of videos and annotated watermark locations. To do this, you can manually label the watermark locations in a set of videos, or you can use a watermarked video and its corresponding unwatermarked version to automatically generate labels.
+
+Define a CNN in PyTorch that takes a sequence of frames from a video as input and outputs a prediction of the watermark's location. You can use 3D convolutional layers to extract features from the frames and fully-connected (FC) layers to make the prediction.
+
+Define a loss function that measures the difference between the predicted watermark location and the ground truth location. You can use a regression loss such as mean squared error (MSE) or mean absolute error (MAE).
+
+Use PyTorch's optimization algorithms to optimize the CNN's parameters with respect to the loss function.
+
+Use the trained CNN to make predictions on new videos.
+
+Here is an example of how you can define a simple CNN in PyTorch to determine the location of a watermark on a video:
+
+```python
+import torch
+import torch.nn as nn
+
+class WatermarkCNN(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.conv1 = nn.Conv3d(3, 16, kernel_size=3, stride=1, padding=1)
+        self.conv2 = nn.Conv3d(16, 32, kernel_size=3, stride=1, padding=1)
+        self.pool = nn.MaxPool3d(kernel_size=2, stride=2)
+        self.fc1 = nn.Linear(32 * 7 * 7 * 7, 128)
+        self.fc2 = nn.Linear(128, 4)  # 4 values for (x, y, width, height)
+
+    def forward(self, x):
+        x = self.conv1(x)
+        x = self.pool(x)
+        x = self.conv2(x)
+        x = self.pool(x)
+        x = x.view(-1, 32 * 7 * 7 * 7)
+        x = self.fc1(x)
+        x = self.fc2(x)
+        return x
+```
+To train this CNN, you can loop over the dataset and optimize the CNN's parameters with respect to the loss function. Here is an example of how you can define the loss function and optimizer, and use them to train the CNN:
+
+```python
+import torch
+import torch.nn as nn
+import torch.optim as optim
+
+# Define the loss function
+def loss(predictions, targets):
+    return nn.MSELoss()(predictions, targets)
+
+# Define the model and optimizer
+model = WatermarkCNN()
+optimizer = optim.Adam(model.parameters(), lr=0.001)
+
+# Loop over the dataset and optimize the model
+for frames, watermark_location in dataset:
+    optimizer.zero_grad()
+    predictions = model(frames)
+    loss_value = loss(predictions, watermark_location)
+    loss_value.backward()
+    optimizer.step()
+```
+Once the model is trained, you can use it to make predictions on new videos. To do this, you can pass the frames of the video through the model and use the predicted watermark location to draw a bounding box around the watermark.
+```python
+# Use the trained model to make predictions on new videos
+frames = # Load the frames of a new video
+predictions = model(frames)
+
+# Draw a bounding box around the watermark
+x, y, width, height = predictions
+# Draw the bounding box on the frames
+# ...
+```
 I hope this helps! Let me know if you have any questions.
 
 
