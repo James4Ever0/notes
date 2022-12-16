@@ -1,7 +1,7 @@
 ---
 title: pyro object detection
 created: '2022-12-16T20:31:22.493Z'
-modified: '2022-12-16T20:33:22.435Z'
+modified: '2022-12-16T20:38:15.225Z'
 ---
 
 # pyro object detection
@@ -168,4 +168,58 @@ for bbox, label in zip(bboxes, labels):
 I hope this helps! Let me know if you have any questions.
 
 ```
+## how to do 3d convolution on video with pytorch
+To perform 3D convolution on a video with PyTorch, you can use the nn.Conv3d layer. This layer applies a 3D convolution over the input tensor, which has shape (batch_size, channels, depth, height, width).
+
+Here is an example of how you can define a 3D convolutional neural network (CNN) in PyTorch to process a video:
+
+```python
+import torch
+import torch.nn as nn
+
+class VideoCNN(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.conv1 = nn.Conv3d(3, 16, kernel_size=3, stride=1, padding=1)
+        self.conv2 = nn.Conv3d(16, 32, kernel_size=3, stride=1, padding=1)
+        self.pool = nn.MaxPool3d(kernel_size=2, stride=2)
+        self.fc1 = nn.Linear(32 * 7 * 7 * 7, 128)
+        self.fc2 = nn.Linear(128, 10)
+
+    def forward(self, x):
+        x = self.conv1(x)
+        x = self.pool(x)
+        x = self.conv2(x)
+        x = self.pool(x)
+        x = x.view(-1, 32 * 7 * 7 * 7)
+        x = self.fc1(x)
+        x = self.fc2(x)
+        return x
+```
+To process a video with this CNN, you can first split the video into a sequence of frames, and then pass each frame through the CNN. You can use the torchvision.io.read_video function to read the video and the torchvision.transforms.ToTensor transformation to convert the frames to tensors.
+
+```python
+import torch
+import torchvision
+import torchvision.transforms as transforms
+
+# Read the video and split it into a sequence of frames
+video, _ = torchvision.io.read_video("video.mp4")
+frames = video.permute(0, 3, 1, 2)
+
+# Convert the frames to tensors
+transform = transforms.ToTensor()
+tensors = [transform(frame) for frame in frames]
+
+# Pass the tensors through the CNN
+cnn = VideoCNN()
+outputs = [cnn(tensor.unsqueeze(0)) for tensor in tensors]
+```
+You can then use the output of the CNN to perform various tasks, such as classification or object detection.
+
+I hope this helps! Let me know if you have any questions.
+
+
+
+
 
