@@ -2,10 +2,14 @@
 tags: [courses, entrepreneurship, social media]
 title: 'Jumpcut analysis, social media marketing, blackhat SEO'
 created: '2022-06-09T16:22:06.000Z'
-modified: '2022-12-17T20:30:30.047Z'
+modified: '2022-12-17T20:32:14.620Z'
 ---
 
 # Jumpcut analysis, social media marketing, blackhat SEO
+
+## malware, hacking
+
+do it!
 
 ## referral spam
 
