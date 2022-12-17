@@ -2,14 +2,18 @@
 tags: [lyric generation, music generation, singing, voice changer]
 title: Singing Voice Generation and more
 created: '2022-05-05T02:28:59.000Z'
-modified: '2022-12-17T15:00:57.448Z'
+modified: '2022-12-17T15:02:13.687Z'
 ---
 
 # Singing Voice Generation and more
 
 generate music using diffusion
 
-[riffusion]()
+[riffusion web app](https://github.com/hmartiro/riffusion-app)
+
+[riffusion demo website]()
+
+[riffusion](https://github.com/hmartiro/riffusion-inference)
 
 [ecantorix](https://github.com/divVerent/ecantorix) generate singing voice using lmms and espeak
 
