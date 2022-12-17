@@ -1,14 +1,14 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.000Z'
-modified: '2022-12-17T20:48:04.910Z'
+modified: '2022-12-17T20:51:11.581Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
 
 ## [google research](https://github.com/google-research/google-research)
 
-gwern wrote a [fiction](https://www.gwern.net/fiction/Clippy). he thinks agi starts from [automl-zero](https://github.com/google-research/google-research/tree/master/automl_zero) which is similar to [lazero](https://github.com/James4Ever0/lazero) and [metalazero](https://gitee.com/x00e0d991e368/metalazero) by name.
+gwern wrote a [fiction](https://www.gwern.net/fiction/Clippy). he thinks agi starts from [automl-zero](https://github.com/google-research/google-research/tree/master/automl_zero) which is similar to [lazero](https://github.com/James4Ever0/lazero) and [metalazero](https://gitee.com/x00e0d991e368/metalazero) by name and perspective.
 
 by design lazero can be deeply aligned, inspecting and studying user's actions. it also has its own exploration space. however, these expectations can never be fully satisfied at the same time. if you want more power, you have to let go.
 
