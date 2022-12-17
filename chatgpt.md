@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-17T21:45:02.670Z'
+modified: '2022-12-17T21:51:33.013Z'
 ---
 
 # chatgpt
@@ -10,9 +10,11 @@ this gpt seems really good. currently only api access.
 
 ## analysis about how to make such model
 
-two similar models by openai: webgpt and instructgpt
+two similar models by openai: [webgpt](https://openai.com/blog/webgpt/#samples) and instructgpt
 
 ### details on webgpt environment
+
+guess: create states by performing actions, then generate templates to allow model filling blanks.
 ```
 Our text-based web-browsing environment is written mostly in Python with some JavaScript. For a
 high-level overview, see Section 2. Further details are as follows:
