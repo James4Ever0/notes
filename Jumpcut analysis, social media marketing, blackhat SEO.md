@@ -2,16 +2,21 @@
 tags: [courses, entrepreneurship, social media]
 title: 'Jumpcut analysis, social media marketing, blackhat SEO'
 created: '2022-06-09T16:22:06.000Z'
-modified: '2022-12-17T20:27:20.678Z'
+modified: '2022-12-17T20:29:54.989Z'
 ---
 
 # Jumpcut analysis, social media marketing, blackhat SEO
+
+## referral spam
+
 
 ## keyword stuffing
 
 encourage you to add more "hot" words, by training language model in a supervised way, or just use plain replace hacks.
 
 ## open graph metadata tag, easy for sharing/advertising webpages to social media
+
+change open graph data for same page once in a while
 
 [open graph tutorial](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/#:~:text=Open%20Graph%20is%20an%20internet%20protocol%20that%20was,as%20specific%20as%20the%20duration%20of%20a%20video.)
 
