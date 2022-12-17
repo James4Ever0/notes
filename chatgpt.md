@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-17T21:51:33.013Z'
+modified: '2022-12-17T22:02:29.627Z'
 ---
 
 # chatgpt
@@ -9,6 +9,10 @@ modified: '2022-12-17T21:51:33.013Z'
 this gpt seems really good. currently only api access.
 
 ## analysis about how to make such model
+
+gpt3 is capable of imitation (cause it is unsupervised.)
+
+but! if you want to get things done (when you really need it!), you better want some aligned AI.
 
 two similar models by openai: [webgpt](https://openai.com/blog/webgpt/#samples) and instructgpt
 
