@@ -1,11 +1,27 @@
 ---
 tags: [courses, entrepreneurship, social media]
-title: Jumpcut analysis
+title: 'Jumpcut analysis, social media marketing, blackhat SEO'
 created: '2022-06-09T16:22:06.000Z'
-modified: '2022-08-18T15:30:35.075Z'
+modified: '2022-12-17T20:16:28.531Z'
 ---
 
-# Jumpcut analysis
+# Jumpcut analysis, social media marketing, blackhat SEO
+
+## social media automation tools
+
+Instagram: Instagress
+G+: Circlescope
+Linkedin: Elink
+Twitter: Managedflitter and Twitter toolkit
+chrome extension
+Youtube: [Tubebuddy](https://www.tubebuddy.com/)
+Facebook: Facebook automation toolkit
+chrome extension
+Pinterest: NinjaPinner
+Tumblr (blogging platform): [Tumbleninja](https://tumbleninja.software.informer.com/)
+Email: Pitchbox
+
+## jumpcut courses
 
 jumpcut.com provides digital marketing courses:
 viral academy(free as youtube influencer 101 course), automated income machine(forbidden), video ads bootscamp(nothing, avaliable on freecoursedl.com), contageous content(currently premium)
