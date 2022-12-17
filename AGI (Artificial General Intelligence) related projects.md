@@ -1,10 +1,14 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
-created: 2022-09-17T19:14:19+08:00
-modified: 2022-10-02T01:35:41+08:00
+created: '2022-09-17T11:14:19.000Z'
+modified: '2022-12-17T20:39:14.821Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
+
+## [google research](https://github.com/google-research/google-research)
+
+gwern wrote a fiction. he thinks agi starts from [automl-zero](https://github.com/google-research/google-research/tree/master/automl_zero) which is similar to lazero by name.
 
 ## [lucidrains](https://github.com/lucidrains?tab=repositories) repositories
 
