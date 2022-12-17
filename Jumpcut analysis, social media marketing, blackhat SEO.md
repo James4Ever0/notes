@@ -2,10 +2,14 @@
 tags: [courses, entrepreneurship, social media]
 title: 'Jumpcut analysis, social media marketing, blackhat SEO'
 created: '2022-06-09T16:22:06.000Z'
-modified: '2022-12-17T20:25:07.350Z'
+modified: '2022-12-17T20:26:52.677Z'
 ---
 
 # Jumpcut analysis, social media marketing, blackhat SEO
+
+## keyword stuffing
+
+encourage you to add more "hot" words, by training language model in a supervised way, or just use plain replace hacks.
 
 ## open graph metadata tag, easy for sharing/advertising webpages to social media
 
