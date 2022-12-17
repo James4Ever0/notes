@@ -1,10 +1,12 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-15T15:04:00.835Z'
+modified: '2022-12-17T12:59:22.709Z'
 ---
 
 # useful sources on cyber attack
+
+open source virus/malware in your arsenal
 
 [kafan virus samples](https://bbs.kafan.cn/forum-31-1.html)
 
