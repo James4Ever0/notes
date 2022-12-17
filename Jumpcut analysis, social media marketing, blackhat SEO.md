@@ -2,13 +2,15 @@
 tags: [courses, entrepreneurship, social media]
 title: 'Jumpcut analysis, social media marketing, blackhat SEO'
 created: '2022-06-09T16:22:06.000Z'
-modified: '2022-12-17T20:29:54.989Z'
+modified: '2022-12-17T20:30:30.047Z'
 ---
 
 # Jumpcut analysis, social media marketing, blackhat SEO
 
 ## referral spam
 
+Referral spam is used to get into a **targeted businesses analytics** by visiting their
+site multiple times with **different IP’s** from the domain you’re trying to market.
 
 ## keyword stuffing
 
