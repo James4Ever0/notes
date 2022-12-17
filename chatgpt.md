@@ -1,12 +1,16 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-12T17:16:02.203Z'
+modified: '2022-12-17T21:27:19.114Z'
 ---
 
 # chatgpt
 
 this gpt seems really good. currently only api access.
+
+## analysis about how to make such model
+
+two similar models by openai: webgpt and 
 
 ## projects related to chatgpt
 
