@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-17T21:27:19.114Z'
+modified: '2022-12-17T21:27:51.076Z'
 ---
 
 # chatgpt
@@ -10,7 +10,7 @@ this gpt seems really good. currently only api access.
 
 ## analysis about how to make such model
 
-two similar models by openai: webgpt and 
+two similar models by openai: webgpt and instructgpt
 
 ## projects related to chatgpt
 
