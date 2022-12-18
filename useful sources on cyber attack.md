@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T19:25:32.680Z'
+modified: '2022-12-18T19:31:08.191Z'
 ---
 
 # useful sources on cyber attack
@@ -16,6 +16,8 @@ modified: '2022-12-18T19:25:32.680Z'
 
 ### virus samples
 
+[open source malware on github, repo list](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
+
 [virus for win10](https://github.com/R3YW1N/Virus-for-win-10)
 
 [kafan virus samples](https://bbs.kafan.cn/forum-31-1.html)
@@ -26,7 +28,7 @@ modified: '2022-12-18T19:25:32.680Z'
 
 ----
 
-[official blackhat arsenal](https://github.com/toolswatch/blackhat-arsenal-tools) and [toolswatch](https://toolswatch.org/)
+[official blackhat arsenal](https://github.com/toolswatch/blackhat-arsenal-tools) under [toolswatch](https://toolswatch.org/) category [arsenal](https://www.toolswatch.org/category/arsenal/)
 
 [massive hacking tools collection](https://github.com/EgeBalci/Mass-Hacker-Arsenal)
 
