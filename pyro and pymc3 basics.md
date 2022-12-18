@@ -1,7 +1,7 @@
 ---
 title: pyro and pymc3 basics
 created: '2022-12-18T19:35:17.500Z'
-modified: '2022-12-18T20:47:44.136Z'
+modified: '2022-12-18T20:52:06.901Z'
 ---
 
 # pyro and pymc3 basics
@@ -34,6 +34,7 @@ samples = posterior.sample((1000,))
 print(samples.mean())
 print(samples.std())
 ```
+
 In this example, we define a simple model that samples a value from a normal distribution and conditions it on a Bernoulli distribution. We then use the SVI (stochastic variational inference) algorithm to perform approximate Bayesian inference on the model. Finally, we sample from the posterior distribution and print the mean and standard deviation of the samples.
 
 This is just a simple example of what you can do with Pyro. There are many more advanced features and techniques available in the library, including support for discrete and continuous latent variables, transformations, and more. You can find more information about Pyro in the documentation and examples available on the Pyro website.
