@@ -1,7 +1,7 @@
 ---
 title: pyro audio segmentation and classification
 created: '2022-12-16T14:50:48.942Z'
-modified: '2022-12-16T14:52:30.537Z'
+modified: '2022-12-18T20:57:45.683Z'
 ---
 
 # pyro audio segmentation and classification
@@ -148,5 +148,6 @@ samples = mcmc.get_samples()
 # Use the samples to estimate the posterior distribution of the latent variables
 segment_boundaries_posterior = samples["segment_boundaries"]
 class_labels_posterior = samples["class_labels"]
-I hope this example helps to illustrate the process of building and using a probabilistic model for audio segmentation and classification with Pyro. Let me know if you have any questions!
 ```
+I hope this example helps to illustrate the process of building and using a probabilistic model for audio segmentation and classification with Pyro. Let me know if you have any questions!
+
