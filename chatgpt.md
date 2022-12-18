@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:46:48.255Z'
+modified: '2022-12-18T21:50:03.923Z'
 ---
 
 # chatgpt
@@ -39,7 +39,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 [lm-human-preferences](https://github.com/openai/lm-human-preferences) by openai
 
-[rlhf-magic](https://github.com/TheExGenesis/rlhf-magic) using [trlx](https://github.com/CarperAI/trlx) which has PPO and [ILQL](https://github.com/Sea-Snell/Implicit-Language-Q-Learning) (as trainable model)
+[rlhf-magic](https://github.com/TheExGenesis/rlhf-magic) using [trlx](https://github.com/CarperAI/trlx) (supports GPT3-like models) which has PPO and [ILQL](https://github.com/Sea-Snell/Implicit-Language-Q-Learning) (as trainable model)
 
 [trl](https://github.com/lvwerra/trl) only has PPO on GPT2
 
