@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T19:33:56.172Z'
+modified: '2022-12-18T20:09:40.196Z'
 ---
 
 # chatgpt
@@ -17,6 +17,8 @@ the elo rating system is the key to facebook social network, many zero-sum games
 according to the training process of instructgpt and webgpt, we know that gpt has learned more by interacting with people (multiple QA), doing self-examination (learning a reward model) and performing actions (searching and quoting on web).
 
 ### RLHF
+
+### datasets
 
 ### GPT3-like models
 
