@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T20:47:10.812Z'
+modified: '2022-12-18T21:13:08.532Z'
 ---
 
 # chatgpt
@@ -29,6 +29,8 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 ### GPT3-like models
 
 gpt3 is gpt2 with [sparse attension](https://github.com/openai/sparse_attention), which enables it to generate long sequence
+
+[PaLM](https://github.com/lucidrains/PaLM-pytorch)
 
 [metaseq](https://github.com/facebookresearch/metaseq) provides OPT, which is basically GPT3
 
