@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:35:30.331Z'
+modified: '2022-12-18T21:36:09.888Z'
 ---
 
 # chatgpt
@@ -31,6 +31,8 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 [minRLHF](https://github.com/thomfoster/minRLHF)
 
 [webgpt-cli](https://github.com/mukulpatnaik/webgpt-cli/blob/main/webgpt.py) interface openai api to browse web and answer questions
+
+[lm-human-preferences](https://github.com/openai/lm-human-preferences) by openai
 
 ### datasets
 
