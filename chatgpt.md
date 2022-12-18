@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T22:16:06.222Z'
+modified: '2022-12-18T22:27:37.174Z'
 ---
 
 # chatgpt
@@ -30,6 +30,8 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](https://github.com/grantCelley/FewShotRLGPT) (no updates till now?)
 
 #### RLHF language models
+
+[PaLM-RLHF](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 [RL4LMs](https://github.com/allenai/RL4LMs)
 
