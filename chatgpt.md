@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T20:09:40.196Z'
+modified: '2022-12-18T20:15:10.579Z'
 ---
 
 # chatgpt
@@ -21,6 +21,8 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 ### datasets
 
 ### GPT3-like models
+
+[metaseq](https://github.com/facebookresearch/metaseq) provides OPT, which is basically GPT3
 
 ### autonomous learning
 
