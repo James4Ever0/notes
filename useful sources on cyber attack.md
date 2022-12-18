@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T19:17:21.606Z'
+modified: '2022-12-18T19:19:45.174Z'
 ---
 
 # useful sources on cyber attack
@@ -10,9 +10,9 @@ modified: '2022-12-18T19:17:21.606Z'
 
 ### post-exploit framework, evasion
 
-[thefatrat](https://github.com/screetsec/TheFatRat) is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.
+[thefatrat](https://github.com/screetsec/TheFatRat) is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. [the author](https://github.com/screetsec) has some tools to share.
 
-
+[pupy](https://github.com/n1nj4sec/pupy) is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 
 ### virus samples
 
