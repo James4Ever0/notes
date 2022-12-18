@@ -1,12 +1,12 @@
 ---
 title: elo rating system
 created: '2022-12-18T18:42:44.068Z'
-modified: '2022-12-18T18:43:26.994Z'
+modified: '2022-12-18T20:10:04.932Z'
 ---
 
 # elo rating system
 
-Elo rating system is a method for calculating the relative skill levels of players in two-player games such as chess. It is named after its creator Arpad Elo, a Hungarian-American physics professor.
+[Elo rating system](https://github.com/theubermanishere/elo-rating-system) is a method for calculating the relative skill levels of players in two-player games such as chess. It is named after its creator Arpad Elo, a Hungarian-American physics professor.
 
 The basic idea behind the Elo rating system is that each player is assigned a rating, and the difference between the ratings of two players determines the expected outcome of a match between them. If a higher-rated player wins, their rating will increase, while the rating of the lower-rated player will decrease. If the lower-rated player wins, the opposite will happen. The amount of change in the ratings depends on the difference between the ratings and the result of the match.
 
