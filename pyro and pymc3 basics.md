@@ -1,7 +1,7 @@
 ---
 title: pyro and pymc3 basics
 created: '2022-12-18T19:35:17.500Z'
-modified: '2022-12-18T21:25:56.890Z'
+modified: '2022-12-18T21:31:13.207Z'
 ---
 
 # pyro and pymc3 basics
@@ -99,6 +99,7 @@ with pm.Model() as model:
 with model:
     trace = pm.sample(draws=1000, tune=1000, chains=4)
 ```
+
 This model defines a Beta-Binomial distribution as the likelihood function, with alpha and beta as the model parameters. The alpha and beta parameters are given Gamma priors, which are a type of continuous probability distribution.
 
 To train the model, we can use the sample function from PyMC3 to fit the model to the data using Markov chain Monte Carlo (MCMC) techniques. The draws argument specifies the number of samples to draw from the posterior distribution, the tune argument specifies the number of tuning samples to use, and the chains argument specifies the number of chains to run.
