@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T18:00:23.467Z'
+modified: '2022-12-18T18:04:41.228Z'
 ---
 
 # chatgpt
@@ -10,7 +10,7 @@ this gpt seems really good. currently only api access.
 
 ## via approaches to chatgpt
 
-according to my point of view, chatgpt is just specialized on chat.
+according to my point of view, chatgpt is just specialized on chat, or socialized in other words.
 
 ## analysis about how to make such model
 
