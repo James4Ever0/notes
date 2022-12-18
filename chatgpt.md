@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:42:54.420Z'
+modified: '2022-12-18T21:45:12.481Z'
 ---
 
 # chatgpt
@@ -25,7 +25,7 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 [stable-baselines 3](https://github.com/DLR-RM/stable-baselines3)
 
 [SetFit](https://huggingface.co/blog/setfit) 
-Efficient few-shot learning with Sentence Transformers
+Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](https://github.com/grantCelley/FewShotRLGPT) (no updates till now?)
 
 #### RLHF language models
 
@@ -37,7 +37,9 @@ Efficient few-shot learning with Sentence Transformers
 
 [lm-human-preferences](https://github.com/openai/lm-human-preferences) by openai
 
-[rlhf-magic](https://github.com/TheExGenesis/rlhf-magic) using [trlx]() which has PPO and 
+[rlhf-magic](https://github.com/TheExGenesis/rlhf-magic) using [trlx]() which has PPO and [ILQL](https://github.com/Sea-Snell/Implicit-Language-Q-Learning)
+
+[trl](https://github.com/lvwerra/trl) only has PPO on GPT2
 
 ### datasets
 
