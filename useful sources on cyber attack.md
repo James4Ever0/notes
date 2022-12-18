@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T20:43:28.177Z'
+modified: '2022-12-18T20:43:42.133Z'
 ---
 
 # useful sources on cyber attack
@@ -15,6 +15,8 @@ modified: '2022-12-18T20:43:28.177Z'
 [pupy](https://github.com/n1nj4sec/pupy) is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 
 ### virus samples
+
+
 
 [the malware repo](https://github.com/Da2dalus/The-MALWARE-Repo)
 
