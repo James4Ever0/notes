@@ -1,12 +1,20 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T19:16:11.744Z'
+modified: '2022-12-18T19:17:21.606Z'
 ---
 
 # useful sources on cyber attack
 
 ## open source virus/malware in your arsenal
+
+### post-exploit framework, evasion
+
+[thefatrat](https://github.com/screetsec/TheFatRat) is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.
+
+
+
+### virus samples
 
 [virus for win10](https://github.com/R3YW1N/Virus-for-win-10)
 
