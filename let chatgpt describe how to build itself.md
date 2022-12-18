@@ -1,11 +1,12 @@
 ---
 title: let chatgpt describe how to build itself
 created: '2022-12-18T01:15:55.131Z'
-modified: '2022-12-18T01:21:18.245Z'
+modified: '2022-12-18T01:40:38.284Z'
 ---
 
 # let chatgpt describe how to build itself
 
+Autonomous artificial intelligence, autobomous learning, AGI
 
 ## demonstrate reinforcement learning with human feedback with GPT2 model and pytorch
 Reinforcement learning is a type of machine learning in which an agent learns to interact with its environment in order to maximize a reward. One way to implement reinforcement learning with human feedback is to use a reinforcement learning algorithm and a language model such as GPT-2.
