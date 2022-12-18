@@ -1,12 +1,16 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-17T22:02:29.627Z'
+modified: '2022-12-18T18:00:23.467Z'
 ---
 
 # chatgpt
 
 this gpt seems really good. currently only api access.
+
+## via approaches to chatgpt
+
+according to my point of view, chatgpt is just specialized on chat.
 
 ## analysis about how to make such model
 
@@ -15,6 +19,10 @@ gpt3 is capable of imitation (cause it is unsupervised.)
 but! if you want to get things done (when you really need it!), you better want some aligned AI.
 
 two similar models by openai: [webgpt](https://openai.com/blog/webgpt/#samples) and instructgpt
+
+### about instructgpt
+
+it is first fine-tuned on supervised datasets, then train some reward model, then use the reward model to handle prompts and do reinforcement learning with PPO.
 
 ### details on webgpt environment
 
