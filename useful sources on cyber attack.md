@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T20:12:53.732Z'
+modified: '2022-12-18T20:13:26.923Z'
 ---
 
 # useful sources on cyber attack
@@ -15,6 +15,8 @@ modified: '2022-12-18T20:12:53.732Z'
 [pupy](https://github.com/n1nj4sec/pupy) is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 
 ### virus samples
+
+[open source virus](https://github.com/jaredsburrows/open-virus)
 
 [thezoo](https://github.com/ytisf/theZoo) A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 
