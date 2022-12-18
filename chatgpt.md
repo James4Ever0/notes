@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:15:28.750Z'
+modified: '2022-12-18T21:16:34.099Z'
 ---
 
 # chatgpt
@@ -29,6 +29,8 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 [minRLHF](https://github.com/thomfoster/minRLHF)
 
 ### datasets
+
+[hh-rlhf](https://github.com/anthropics/hh-rlhf)
 
 ### GPT3-like models
 
