@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T20:20:12.155Z'
+modified: '2022-12-18T20:20:44.075Z'
 ---
 
 # chatgpt
@@ -30,7 +30,7 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 
 [GPT-NeoX]()
 
-[Bloom]() large language model by bigscience
+[Bloom](https://huggingface.co/bigscience/bloom) large language model by bigscience
 
 ### autonomous learning
 
