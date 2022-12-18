@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T18:42:42.134Z'
+modified: '2022-12-18T18:58:30.656Z'
 ---
 
 # chatgpt
@@ -13,6 +13,8 @@ this gpt seems really good. currently only api access.
 according to my point of view, chatgpt is just specialized on chat, or socialized in other words.
 
 the elo rating system is the key to facebook social network, many zero-sum games. basically it is some revolution rating system. to do such rating system effectively one shall use along with classifiers and embeddings.
+
+according to the training process of instructgpt and webgpt, we know that gpt has learned more by interacting with people, doing self-examination and performing actions.
 
 ## analysis about how to make such model
 
