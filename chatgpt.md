@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:18:40.992Z'
+modified: '2022-12-18T21:35:30.331Z'
 ---
 
 # chatgpt
@@ -30,13 +30,19 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 
 [minRLHF](https://github.com/thomfoster/minRLHF)
 
+[webgpt-cli](https://github.com/mukulpatnaik/webgpt-cli/blob/main/webgpt.py) interface openai api to browse web and answer questions
+
 ### datasets
 
 [hh-rlhf](https://github.com/anthropics/hh-rlhf)
 
+[instructgpt samples](https://github.com/openai/following-instructions-human-feedback)
+
 ### GPT3-like models
 
 gpt3 is gpt2 with [sparse attension](https://github.com/openai/sparse_attention), which enables it to generate long sequence
+
+[Diffusion-LM](https://github.com/XiangLi1999/Diffusion-LM)
 
 [PaLM](https://github.com/lucidrains/PaLM-pytorch)
 
