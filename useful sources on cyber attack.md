@@ -1,18 +1,22 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-17T12:59:22.709Z'
+modified: '2022-12-18T19:15:53.466Z'
 ---
 
 # useful sources on cyber attack
 
-open source virus/malware in your arsenal
+## open source virus/malware in your arsenal
+
+
 
 [kafan virus samples](https://bbs.kafan.cn/forum-31-1.html)
 
 [vbgood](http://www.vbgood.com/)
 
 [debugman](https://debugmen.dev/) reverse engineering
+
+----
 
 [burpa](https://github.com/tristanlatr/burpa) burp suite automation tool
 
