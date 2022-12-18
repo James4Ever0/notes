@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T20:30:30.966Z'
+modified: '2022-12-18T20:41:10.634Z'
 ---
 
 # chatgpt
@@ -26,7 +26,7 @@ gpt3 is gpt2 with sparse attension, which enables it to generate long sequence
 
 [metaseq](https://github.com/facebookresearch/metaseq) provides OPT, which is basically GPT3
 
-[GPT-JT]() altered in many ways
+[GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) altered in many ways, trained on natural instructions
 
 [GPT-J]()
 
