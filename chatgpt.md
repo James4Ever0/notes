@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:36:09.888Z'
+modified: '2022-12-18T21:38:06.225Z'
 ---
 
 # chatgpt
@@ -24,9 +24,12 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 
 [stable-baselines 3](https://github.com/DLR-RM/stable-baselines3)
 
-[SetFit](https://huggingface.co/blog/setfit)
+[SetFit](https://huggingface.co/blog/setfit) 
+Efficient few-shot learning with Sentence Transformers
 
 #### RLHF language models
+
+[RL4LMs](https://github.com/allenai/RL4LMs)
 
 [minRLHF](https://github.com/thomfoster/minRLHF)
 
