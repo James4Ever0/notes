@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:50:03.923Z'
+modified: '2022-12-18T22:02:45.268Z'
 ---
 
 # chatgpt
@@ -48,6 +48,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [hh-rlhf](https://github.com/anthropics/hh-rlhf)
 
 [instructgpt samples](https://github.com/openai/following-instructions-human-feedback)
+
+[natural instructions](https://github.com/allenai/natural-instructions)
 
 ### GPT3-like models
 
