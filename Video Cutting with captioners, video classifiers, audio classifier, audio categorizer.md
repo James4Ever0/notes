@@ -1,11 +1,13 @@
 ---
 tags: [audio analysis, audio classification, auto edit, transcription, video auto edit, video understanding]
-title: 'Video Cutting with audio classifier, audio categorizer'
+title: 'Video Cutting with captioners, video classifiers, audio classifier, audio categorizer'
 created: '2022-05-10T15:43:25.000Z'
-modified: '2022-09-17T06:48:39.764Z'
+modified: '2022-12-18T22:38:16.761Z'
 ---
 
-# Video Cutting with audio classifier, audio categorizer
+# Video Cutting with captioners, video classifiers, audio classifier, audio categorizer
+
+[COCA](https://github.com/lucidrains/CoCa-pytorch) using vit and palm for video captioning
 
 [audio classifier tutorial](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2022-04-01-tensorflow-audio-classifier/2022-04-01/)
 
