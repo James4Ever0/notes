@@ -1,16 +1,18 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T18:04:41.228Z'
+modified: '2022-12-18T18:14:43.612Z'
 ---
 
 # chatgpt
 
 this gpt seems really good. currently only api access.
 
-## via approaches to chatgpt
+## viable approaches to chatgpt
 
 according to my point of view, chatgpt is just specialized on chat, or socialized in other words.
+
+the elo rating system is the key to facebook social network, many zero-sum games. basically it is some revolution rating system.
 
 ## analysis about how to make such model
 
