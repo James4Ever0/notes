@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T20:12:03.678Z'
+modified: '2022-12-18T20:12:53.732Z'
 ---
 
 # useful sources on cyber attack
@@ -16,7 +16,9 @@ modified: '2022-12-18T20:12:03.678Z'
 
 ### virus samples
 
-[malwares](https://github.com/malwares) repo
+[thezoo](https://github.com/ytisf/theZoo) A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+
+[malwares](https://github.com/malwares) codebase, botnet
 
 [open source malware on github, repo list](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
 
