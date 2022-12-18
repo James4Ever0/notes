@@ -1,14 +1,14 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T19:15:53.466Z'
+modified: '2022-12-18T19:16:11.744Z'
 ---
 
 # useful sources on cyber attack
 
 ## open source virus/malware in your arsenal
 
-
+[virus for win10](https://github.com/R3YW1N/Virus-for-win-10)
 
 [kafan virus samples](https://bbs.kafan.cn/forum-31-1.html)
 
