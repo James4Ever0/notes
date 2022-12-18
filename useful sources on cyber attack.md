@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T19:19:45.174Z'
+modified: '2022-12-18T19:25:32.680Z'
 ---
 
 # useful sources on cyber attack
@@ -25,6 +25,10 @@ modified: '2022-12-18T19:19:45.174Z'
 [debugman](https://debugmen.dev/) reverse engineering
 
 ----
+
+[official blackhat arsenal](https://github.com/toolswatch/blackhat-arsenal-tools) and [toolswatch](https://toolswatch.org/)
+
+[massive hacking tools collection](https://github.com/EgeBalci/Mass-Hacker-Arsenal)
 
 [burpa](https://github.com/tristanlatr/burpa) burp suite automation tool
 
