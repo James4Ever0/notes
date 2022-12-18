@@ -2,10 +2,12 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: '2022-06-09T06:38:29.000Z'
-modified: '2022-11-05T15:27:41.613Z'
+modified: '2022-12-18T22:20:27.537Z'
 ---
 
 # quantative financial stock market analysis
+
+[time-series-transformers](https://huggingface.co/blog/time-series-transformers) huggingface blog
 
 深入浅出Python量化交易 [配套代码](https://www.wqyunpan.com/resourceDetail.html?id=257365&openId=oUgl9wSv5p1X-HH-MnP4jFvTIlHM&qrcodeId=219912&sign=ZTVkOGM1MGRhZDJjLTE2NjE3NjA4MDQyNzQ=)
 
