@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T22:27:37.174Z'
+modified: '2022-12-18T22:30:02.359Z'
 ---
 
 # chatgpt
@@ -31,7 +31,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 #### RLHF language models
 
-[PaLM-RLHF](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+[PaLM-RLHF](https://github.com/lucidrains/PaLM-rlhf-pytorch) claims [RETRO](https://github.com/lucidrains/RETRO-pytorch) will be integrated soon?
 
 [RL4LMs](https://github.com/allenai/RL4LMs)
 
