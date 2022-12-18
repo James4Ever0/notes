@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:16:34.099Z'
+modified: '2022-12-18T21:18:40.992Z'
 ---
 
 # chatgpt
@@ -21,6 +21,8 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 #### RL algorithms, tools for providing feedback
 
 [openai baselines](https://github.com/openai/baselines)
+
+[stable-baselines 3](https://github.com/DLR-RM/stable-baselines3)
 
 [SetFit](https://huggingface.co/blog/setfit)
 
@@ -52,7 +54,7 @@ gpt3 is gpt2 with [sparse attension](https://github.com/openai/sparse_attention)
 
 ### autonomous learning
 
-[autonomous-learning-library](https://autonomous-learning-library.readthedocs.io/en/stable/)
+[autonomous-learning-library doc](https://autonomous-learning-library.readthedocs.io/en/stable/) and [repo](https://github.com/cpnota/autonomous-learning-library)
 
 [Gu-X](https://github.com/Gu-X) doing god-knows-what experiments
 
