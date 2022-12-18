@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T22:02:45.268Z'
+modified: '2022-12-18T22:16:06.222Z'
 ---
 
 # chatgpt
@@ -42,6 +42,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [rlhf-magic](https://github.com/TheExGenesis/rlhf-magic) using [trlx](https://github.com/CarperAI/trlx) (supports GPT3-like models) which has PPO and [ILQL](https://github.com/Sea-Snell/Implicit-Language-Q-Learning) (as trainable model)
 
 [trl](https://github.com/lvwerra/trl) only has PPO on GPT2
+
+[Tk-Instruct](https://github.com/yizhongw/Tk-Instruct) T5 trained on natural instruct dataset. is it trained on RLHF systems?
 
 ### datasets
 
