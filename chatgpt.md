@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T21:13:08.532Z'
+modified: '2022-12-18T21:15:28.750Z'
 ---
 
 # chatgpt
@@ -18,11 +18,15 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 
 ### RLHF
 
-#### RL algorithms
+#### RL algorithms, tools for providing feedback
 
 [openai baselines](https://github.com/openai/baselines)
 
+[SetFit](https://huggingface.co/blog/setfit)
+
 #### RLHF language models
+
+[minRLHF](https://github.com/thomfoster/minRLHF)
 
 ### datasets
 
@@ -35,6 +39,8 @@ gpt3 is gpt2 with [sparse attension](https://github.com/openai/sparse_attention)
 [metaseq](https://github.com/facebookresearch/metaseq) provides OPT, which is basically GPT3
 
 [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) altered in many ways, trained on natural instructions
+
+[GPT-Neo](https://huggingface.co/EleutherAI/gpt-neo-125M)
 
 [GPT-J]()
 
