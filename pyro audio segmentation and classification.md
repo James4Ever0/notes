@@ -1,7 +1,7 @@
 ---
 title: pyro audio segmentation and classification
 created: '2022-12-16T14:50:48.942Z'
-modified: '2022-12-18T20:58:16.935Z'
+modified: '2022-12-18T21:25:00.194Z'
 ---
 
 # pyro audio segmentation and classification
@@ -27,8 +27,6 @@ This will reload the module with the given name at runtime, and if an exception 
 Note that this approach will only work if the module has been imported at least once before, as the importlib.reload() function can only reload modules that are already imported into the current Python environment. If the module has not been imported yet, you will need to use the importlib.import_module() function to import it first.
 
 I hope this helps! Let me know if you have any questions.
-
-
 
 ## optimize GPT2 output with human feedback
 There are a few ways you can optimize the output of a GPT-2 model with human feedback. Here are a few options you might consider:
