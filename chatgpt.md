@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-19T12:51:16.354Z'
+modified: '2022-12-19T12:54:08.431Z'
 ---
 
 # chatgpt
@@ -10,7 +10,7 @@ this gpt seems really good. currently only api access.
 
 but it is provided by openai which is no longer so "open" in the sense of "open-source".
 
-[stability.ai](https://stability.ai/) is providing alternative open-source implementations of SOTA AI algorithms, which includes carper.ai, eleuther.ai, dreamstudio, [harmonai](https://github.com/Harmonai-org/) (audio)
+[stability.ai](https://stability.ai/) is providing alternative open-source implementations of SOTA AI algorithms, which includes carper.ai, eleuther.ai, dreamstudio, [harmonai](https://github.com/Harmonai-org/) (audio), [laion.ai](https://laion.ai) (datasets and projects)
 
 ## viable approaches to chatgpt
 
