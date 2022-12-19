@@ -1,10 +1,12 @@
 ---
 title: AGI (Artificial General Intelligence) related projects
 created: '2022-09-17T11:14:19.000Z'
-modified: '2022-12-17T20:51:11.581Z'
+modified: '2022-12-19T23:23:53.135Z'
 ---
 
 # AGI (Artificial General Intelligence) related projects
+
+said by HTM, AGI knows what it did to the world (self-awareness), also signals from sensors.
 
 ## [google research](https://github.com/google-research/google-research)
 
