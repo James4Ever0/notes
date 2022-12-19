@@ -1,7 +1,7 @@
 ---
 title: 语音转文字 stt speech to text
 created: '2022-09-17T12:42:12.000Z'
-modified: '2022-12-19T17:18:55.523Z'
+modified: '2022-12-19T17:19:11.538Z'
 ---
 
 # 语音转文字 asr stt speech to text
@@ -30,4 +30,4 @@ paddlespeech
 
 [whisper gui buzz](https://github.com/chidiwilliams/buzz)
 
-[whisper](https://github.com/openai/whisper)by openai, with **multilingual and translation** avaliable, can detect background music, slience
+[whisper](https://github.com/openai/whisper)by openai, with **multilingual and translation** avaliable, can detect background music, slience, noise
