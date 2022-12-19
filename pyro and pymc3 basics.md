@@ -1,10 +1,12 @@
 ---
 title: pyro and pymc3 basics
 created: '2022-12-18T19:35:17.500Z'
-modified: '2022-12-18T21:31:13.207Z'
+modified: '2022-12-19T12:56:47.581Z'
 ---
 
 # pyro and pymc3 basics
+
+[using pyro for mnist classification](https://github.com/paraschopra/bayesian-neural-network-mnist)
 
 ## demonstrate basic usage of [pyro](http://pyro.ai/examples/intro_long.html)
 Pyro is a probabilistic programming language developed by Uber that allows users to define complex probabilistic models and perform Bayesian inference on them. Here is a simple example of how Pyro can be used to define and sample from a simple probabilistic model:

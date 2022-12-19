@@ -2,10 +2,12 @@
 tags: [advertising, chatbot, graph database, pyjom, recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2022-09-13T09:57:42.751Z'
+modified: '2022-12-19T12:56:08.286Z'
 ---
 
 # 推荐系统 GNN
+
+linkedin [gdmix](https://github.com/linkedin/gdmix) simple and memory effective personalized ranking
 
 datawhale [fun-rec 推荐系统入门教程](https://github.com/datawhalechina/fun-rec)
 datawhale [rechub](https://github.com/datawhalechina/torch-rechub)
