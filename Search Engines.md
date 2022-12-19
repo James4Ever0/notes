@@ -2,14 +2,14 @@
 tags: [diy, search engine, self-hosted]
 title: Search Engines
 created: '2022-06-08T13:57:58.000Z'
-modified: '2022-12-18T22:33:14.902Z'
+modified: '2022-12-19T12:07:09.137Z'
 ---
 
 # Search Engines DIY
 
 ## my custom search engine built upon thesaurus/synonyms/antenyms, fzf and grep
 
-[RETRO](https://github.com/lucidrains/RETRO-pytorch) retrieval based attention net, though using faiss, unclear if it is search related.
+[RETRO](https://github.com/lucidrains/RETRO-pytorch) retrieval based attention net, though using faiss, unclear if it is search related. on page 8 of the [paper](https://arxiv.org/pdf/2112.04426.pdf) there are different retrieval based models for selections. 
 
 download nltk data [here](http://www.nltk.org/nltk_data/). when downloading manually, beware of the url path and id, so you would put things in order.
 

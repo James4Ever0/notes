@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-19T11:37:00.065Z'
+modified: '2022-12-19T12:07:03.425Z'
 ---
 
 # chatgpt
@@ -57,7 +57,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 ### GPT3-like models
 
-[RETRO](https://github.com/lucidrains/RETRO-pytorch) another model with GPT-3 capabilities with fewer parameters?
+[RETRO](https://github.com/lucidrains/RETRO-pytorch) another model with GPT-3 capabilities with fewer parameters? 
 
 gpt3 is gpt2 with [sparse attension](https://github.com/openai/sparse_attention), which enables it to generate long sequence
 
