@@ -1,10 +1,12 @@
 ---
 title: video generation from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2022-10-10T17:08:07.900Z'
+modified: '2022-12-19T17:03:26.010Z'
 ---
 
 # video generation from text
+
+high quality! [imagegen-video code](https://github.com/lucidrains/imagen-pytorch/blob/main/imagen_pytorch/imagen_video.py) with [demo](https://imagen.research.google/video/) and [paper](https://arxiv.org/pdf/2210.02303.pdf)
 
 抄视频 视频的时间要讲究 看看是抄一年前的好还是抄刚刚发布的好
 
