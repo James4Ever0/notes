@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-18T22:30:02.359Z'
+modified: '2022-12-19T00:06:46.897Z'
 ---
 
 # chatgpt
@@ -33,7 +33,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 [PaLM-RLHF](https://github.com/lucidrains/PaLM-rlhf-pytorch) claims [RETRO](https://github.com/lucidrains/RETRO-pytorch) will be integrated soon?
 
-[RL4LMs](https://github.com/allenai/RL4LMs)
+[RL4LMs](https://github.com/allenai/RL4LMs) with multiple rl methods
 
 [minRLHF](https://github.com/thomfoster/minRLHF)
 
@@ -69,9 +69,9 @@ gpt3 is gpt2 with [sparse attension](https://github.com/openai/sparse_attention)
 
 [GPT-Neo](https://huggingface.co/EleutherAI/gpt-neo-125M)
 
-[GPT-J]()
+[GPT-J](https://huggingface.co/docs/transformers/model_doc/gptj)
 
-[GPT-NeoX]()
+[GPT-NeoX](https://github.com/EleutherAI/gpt-neox)
 
 [Bloom](https://huggingface.co/bigscience/bloom) large language model by bigscience
 
