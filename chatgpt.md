@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-19T12:55:01.888Z'
+modified: '2022-12-20T22:59:43.912Z'
 ---
 
 # chatgpt
@@ -60,6 +60,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [natural instructions](https://github.com/allenai/natural-instructions)
 
 ### GPT3-like models
+
+[T0PP](https://huggingface.co/bigscience/T0pp) T0 optimized for zero-shot prompts, despite much smaller than GPT-3
 
 [RETRO](https://github.com/lucidrains/RETRO-pytorch) another model with GPT-3 capabilities with fewer parameters? 
 
