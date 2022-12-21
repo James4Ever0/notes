@@ -1,7 +1,7 @@
 ---
 title: chatgpt
-created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-20T22:59:43.912Z'
+created: 2022-12-06T07:37:08+00:00
+modified: 2022-12-22T05:26:16+08:00
 ---
 
 # chatgpt
@@ -34,6 +34,8 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](https://github.com/grantCelley/FewShotRLGPT) (no updates till now?)
 
 #### RLHF language models
+
+[textrl](https://github.com/voidful/TextRL) 100+stars
 
 [PaLM-RLHF](https://github.com/lucidrains/PaLM-rlhf-pytorch) claims [RETRO](https://github.com/lucidrains/RETRO-pytorch) will be integrated soon?
 
