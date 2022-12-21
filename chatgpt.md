@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2022-12-22T05:26:16+08:00
+modified: 2022-12-22T05:46:48+08:00
 ---
 
 # chatgpt
@@ -33,7 +33,19 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 [SetFit](https://huggingface.co/blog/setfit) 
 Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](https://github.com/grantCelley/FewShotRLGPT) (no updates till now?)
 
-#### RLHF language models
+#### RLHF models
+
+##### non-language models
+
+[image_to_text_rlhf](https://github.com/anshradh/image_to_text_rlhf)
+
+[algorithm-distillation-rlhf](https://github.com/CarperAI/Algorithm-Distillation-RLHF)
+
+##### language models
+
+[baby-rlhf](https://www.github.com/jordan-schneider/baby-rlhf/) both cartpole and languge model
+
+[rlhf-shapespeare](https://github.com/ckkissane/rlhf-shakespeare)
 
 [textrl](https://github.com/voidful/TextRL) 100+stars
 
