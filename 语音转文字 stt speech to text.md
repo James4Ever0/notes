@@ -1,7 +1,7 @@
 ---
 title: 语音转文字 stt speech to text
-created: '2022-09-17T12:42:12.000Z'
-modified: '2022-12-19T20:21:29.301Z'
+created: 2022-09-17T12:42:12+00:00
+modified: 2022-12-21T23:27:49+08:00
 ---
 
 # 语音转文字 asr stt speech to text
@@ -28,6 +28,8 @@ vosk
 
 paddlespeech
 
+[whisperx](https://github.com/m-bain/whisperX) improve time accuracy with forced alignment
+
 [whisper gui buzz](https://github.com/chidiwilliams/buzz)
 
-[whisper](https://github.com/openai/whisper) by openai, with **multilingual and translation** avaliable, can detect under background music and noise, with slience, 
+[whisper](https://github.com/openai/whisper) by openai, with **multilingual and translation** avaliable, can detect under background music and noise, with slience,
