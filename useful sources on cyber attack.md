@@ -1,12 +1,14 @@
 ---
 title: useful sources on cyber attack
-created: '2022-12-07T09:57:39.188Z'
-modified: '2022-12-18T20:43:59.560Z'
+created: 2022-12-07T09:57:39+00:00
+modified: 2022-12-21T23:26:55+08:00
 ---
 
 # useful sources on cyber attack
 
 ## open source virus/malware in your arsenal
+
+[powershell obfuscator](https://github.com/H4de5-7/powershell-obfuscation)  advanced, will bypass any av
 
 ### post-exploit framework, evasion
 
