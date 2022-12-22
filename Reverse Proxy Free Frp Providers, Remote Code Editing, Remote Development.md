@@ -2,10 +2,12 @@
 tags: [p2p, remote control, sync]
 title: 'Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development'
 created: '2022-08-04T15:49:02.000Z'
-modified: '2022-08-18T08:10:12.729Z'
+modified: '2022-12-22T14:12:35.884Z'
 ---
 
 # Reverse Proxy Free Frp Providers, Remote Code Editing, Remote Development
+
+if you install p2p server nodes on primary server (with hard-to-crack password and proper configs (no brute-forcing)?) you might want to add that n2n server node at home.
 
 ## p2p network
 
