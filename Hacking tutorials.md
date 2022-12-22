@@ -1,11 +1,13 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: 'Hacking tutorials, tools'
-created: '2022-07-11T15:43:20.000Z'
-modified: '2022-12-12T15:37:37.296Z'
+title: Hacking tutorials, tools
+created: 2022-07-11T15:43:20+00:00
+modified: 2022-12-23T06:11:42+08:00
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[mosint](https://github.com/alpkeskin/mosint) email  osint
 
 [payloadallthethings](https://github.com/swisskyrepo/PayloadsAllTheThings) (40k stars!) by [swisskyrepo](https://github.com/swisskyrepo)
 
