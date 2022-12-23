@@ -1,11 +1,14 @@
 ---
 tags: [chatbot, cloud, conversation, model zoo, pyjom, training data, 白嫖]
-title: Chatbot
+title: 'Chatbot, Self-hosted Model, Cloud Deploy, Cloud services, Free website hosting service'
 created: '2022-07-14T14:19:56.000Z'
-modified: '2022-08-18T08:01:17.191Z'
+modified: '2022-12-23T00:07:34.087Z'
 ---
 
-# Chatbot Self-hosted Model Cloud Deploy
+# Chatbot, Self-hosted Model, Cloud Deploy, Cloud services, Free website hosting service
+
+[vercel](https://vercel.com/) hosts frontend only apps, could be useful if you want.
+
 
 可以提取关键词然后到百度必应上面搜索 获取相关内容 注意语种一致性
 
