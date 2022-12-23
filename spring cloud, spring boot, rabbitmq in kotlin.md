@@ -1,7 +1,7 @@
 ---
 title: 'spring cloud, spring boot, rabbitmq in kotlin'
 created: '2022-12-23T00:53:27.742Z'
-modified: '2022-12-23T00:58:37.374Z'
+modified: '2022-12-23T01:31:54.684Z'
 ---
 
 # spring cloud, spring boot, rabbitmq in kotlin
@@ -343,4 +343,41 @@ You can find more information about the BasicProperties class and the different 
 
 
 ## write spring boot hello world with kotlin
+
+To write a "Hello, World!" program in Spring Boot using Kotlin, you can follow these steps:
+
+Create a new Spring Boot project using the Spring Initializr. You can do this by visiting https://start.spring.io/ and selecting "Kotlin" as the programming language. Select the "Web" dependency, and then click on "Generate" to download the project as a ZIP file.
+
+Extract the ZIP file and open the project in your preferred development environment.
+
+In the src/main/kotlin directory, create a new Kotlin file called HelloController.kt. This file will contain a simple controller that will handle HTTP requests to the root path of the application.
+
+In HelloController.kt, define a controller class and annotate it with @RestController. This will enable the class to handle HTTP requests and return responses to the client.
+```kotlin
+import org.springframework.web.bind.annotation.RestController
+
+@RestController
+class HelloController {
+
+}
+```
+Inside the HelloController class, define a method that will handle HTTP GET requests to the root path of the application. Annotate this method with @GetMapping("/").
+```kotlin
+import org.springframework.web.bind.annotation.GetMapping
+
+@RestController
+class HelloController {
+
+    @GetMapping("/")
+    fun sayHello(): String {
+        return "Hello, World!"
+    }
+}
+```
+Run the Spring Boot application by running the main method in the Application class. You should now be able to visit http://localhost:8080/ in your web browser and see the message "Hello, World!" displayed.
+That's it! You have now written a simple "Hello, World!" program in Spring Boot using Kotlin.
+
+
+
+
 
