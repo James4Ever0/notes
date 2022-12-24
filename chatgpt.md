@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-24T01:43:13.053Z'
+modified: '2022-12-24T01:43:34.001Z'
 ---
 
 # chatgpt
 
-since many different models are derived from the original pretrained language model, [opendelta](https://opendelta.readthedocs.io/en/latest/) can save disk space by freezing main parameters.
+since many different models are derived from the original pretrained language model, [opendelta](https://opendelta.readthedocs.io/en/latest/) can save disk space by freezing main parameters, only tuning few of them.
 
 this gpt seems really good. currently only api access.
 
