@@ -1,7 +1,7 @@
 ---
 title: 语音转文字 stt speech to text
-created: 2022-09-17T12:42:12+00:00
-modified: 2022-12-21T23:27:49+08:00
+created: '2022-09-17T12:42:12.000Z'
+modified: '2022-12-25T21:27:51.941Z'
 ---
 
 # 语音转文字 asr stt speech to text
@@ -21,6 +21,8 @@ https://github.com/cuberwr/bilibiliSTT
 https://github.com/1c7/Translate-Subtitle-File
 
 ## offline
+
+[pyannote](https://huggingface.co/pyannote/segmentation) segment audio according to different speakers, detect voice activity
 
 [speechbrain](https://speechbrain.github.io/) very advanced speech related ai library, with almost everything related to speech
 
