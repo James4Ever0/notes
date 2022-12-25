@@ -1,10 +1,12 @@
 ---
 title: video generation from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2022-12-19T17:03:26.010Z'
+modified: '2022-12-25T21:47:51.597Z'
 ---
 
 # video generation from text
+
+[recurrent-interface-network-pytorch](https://github.com/lucidrains/recurrent-interface-network-pytorch) using diffusion to generate images and video
 
 high quality! [imagegen-video code](https://github.com/lucidrains/imagen-pytorch/blob/main/imagen_pytorch/imagen_video.py) with [demo](https://imagen.research.google/video/) and [paper](https://arxiv.org/pdf/2210.02303.pdf)
 
