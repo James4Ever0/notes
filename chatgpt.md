@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-24T01:43:34.001Z'
+modified: '2022-12-25T21:46:11.614Z'
 ---
 
 # chatgpt
@@ -44,6 +44,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [algorithm-distillation-rlhf](https://github.com/CarperAI/Algorithm-Distillation-RLHF)
 
 ##### language models
+
+[medicine-chatgpt](https://github.com/lucidrains/medical-chatgpt) shit sick of COVID-19
 
 [baby-rlhf](https://www.github.com/jordan-schneider/baby-rlhf/) both cartpole and languge model
 
