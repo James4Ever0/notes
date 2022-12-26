@@ -2,14 +2,14 @@
 tags: [model zoo, pyjom, stub]
 title: Model Zoo
 created: '2022-08-17T09:48:18.000Z'
-modified: '2022-12-25T21:29:35.525Z'
+modified: '2022-12-26T10:27:33.209Z'
 ---
 
 # Model Zoo
 
 find things in colab, kaggle, aistudio, bilibili, youtube.
 
-see in [huggingface tasks](https://huggingface.co/tasks) to find task-specific models
+see in [huggingface tasks](https://huggingface.co/tasks) to find task-specific models, also [huggingface spaces](https://huggingface.co/spaces) for demo on models
 
 [modelscope](https://modelscope.cn/home) by alibaba supports tensorflow and pytorch
 
