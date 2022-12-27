@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-27T18:16:55.993Z'
+modified: '2022-12-27T18:17:46.773Z'
 ---
 
 # chatgpt
@@ -172,6 +172,28 @@ in the format [<quote number>] <quote page title> (<quote page domain>)
 ## projects related to chatgpt
 
 [galgame using chatgpt](https://www.bilibili.com/video/BV1Gv4y1z7tN/)
+
+记笔记
+12.27更新了一个更精简的应用
+强烈建议部署到服务器上
+huggingface参考：https://huggingface.co/spaces/Mahiruoshi/Lovelive-Nijigasaku-Chat-iSTFT-GPT3
+GitHub：https://github.com/Paraworks/vits_with_chatgpt-gpt3
+地址：https://drive.google.com/drive/folders/1vtootVMQ7wTOQwd15nJe6akzJUYNOw4d?usp=share_link
+你可以先尝试在服务器上部署，之后可以直接解压进文件夹后运行exe（mac、安卓端需要用renpy自行编译）
+去https://beta.openai.com/account/api-keys获取api-key
+参数照着敲就好了
+人物id通常是从0开始的数字，我的模型最大到12
+api部署方法：把inference_api.py放入你的vits目录下，进入文件修改config和checkpoint.pth的路径，比起应用程序来说十分简单，可以自行设计。码龄三个月写出的的雪山代码警告
+——————————————————————————————————————————————————
+Chatgpt部署方法已于12.26更新（视频后部分）
+vits参考：https://github.com/CjangCjengh/vits
+服务器端建议用ISTFT VITS：https://github.com/innnky/MB-iSTFT-VITS
+model库：https://github.com/CjangCjengh/TTSModels
+也可以用我的https://huggingface.co/spaces/Mahiruoshi/MIT-VITS-Nijigaku
+CHATGPT参考：https://github.com/rawandahmad698/PyChatGPT
+示例视频（纯服务器api，gpt3）https://www.bilibili.com/video/BV1hP4y1B7wH/?spm_id_from=333.999.0.0&vd_source=7e8cf9f5c840ec4789ccb5657b2f0512
+穗乃果配音来自缪斯的模型﻿@Freeze_Phoenix
+gpt3加载参考﻿@ぶらぶら散策中
 
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
