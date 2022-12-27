@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-25T21:46:11.614Z'
+modified: '2022-12-27T18:16:55.993Z'
 ---
 
 # chatgpt
@@ -170,6 +170,8 @@ in the format [<quote number>] <quote page title> (<quote page domain>)
 <double new line><quote extract>■.
 ```
 ## projects related to chatgpt
+
+[galgame using chatgpt](https://www.bilibili.com/video/BV1Gv4y1z7tN/)
 
 [chatgpt use cases curated list](https://github.com/jqueryscript/ChatGPT)
 
