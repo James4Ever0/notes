@@ -1,12 +1,12 @@
 ---
 title: teach puppies to speak english (video script)
 created: '2022-12-28T18:14:43.563Z'
-modified: '2022-12-28T18:19:18.814Z'
+modified: '2022-12-28T18:23:15.865Z'
 ---
 
 # teach puppies to speak english (video script)
 
-you create a intro for this article? outro? all with chatgpt.
+you create a **stylish** intro for this script? outro? joke? all with chatgpt.
 
 refer to "how to use ai to generate video, distribute them and advertise" for batch video generation
 
