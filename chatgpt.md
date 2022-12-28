@@ -1,10 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-27T18:17:46.773Z'
+modified: '2022-12-28T02:37:54.093Z'
 ---
 
 # chatgpt
+
+[discord chatroom](https://discord.gg/xBPBXfcFHd) for reproducing chatgpt
 
 since many different models are derived from the original pretrained language model, [opendelta](https://opendelta.readthedocs.io/en/latest/) can save disk space by freezing main parameters, only tuning few of them.
 
