@@ -1,14 +1,14 @@
 ---
 title: 'how to use ai to generate video, distribute them and advertise'
 created: '2022-12-28T12:20:53.313Z'
-modified: '2022-12-28T18:31:38.253Z'
+modified: '2022-12-28T18:34:47.377Z'
 ---
 
 # how to use ai to generate video, distribute them and advertise
 
 notice: QA based websites are popular now. inspired by that and jumpcut, you can mine summaries/questions/prompts/examples relating to some topic, **generating answers/scripts from chatgpt** (imagination is the limit)
 
-videos are similar by title, author and topic. you demand the bot to generate new embeddings by any "abstractive" means, giving sample embeddings, and output needed embeddings. cool!
+videos are similar by title, author and topic. you demand the bot to generate new embeddings by any "abstractive" means, giving sample embeddings (subtitles, voice, sentiment, music, scene), and output needed embeddings. cool!
 
 There are a few different ways you can use AI to generate video content and distribute it for advertising purposes. Here are a few options:
 
