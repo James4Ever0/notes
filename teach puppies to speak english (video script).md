@@ -1,12 +1,14 @@
 ---
-title: teach puppies to speak english
+title: teach puppies to speak english (video script)
 created: '2022-12-28T18:14:43.563Z'
-modified: '2022-12-28T18:17:17.206Z'
+modified: '2022-12-28T18:19:18.814Z'
 ---
 
-# teach puppies to speak english
+# teach puppies to speak english (video script)
 
-refer to [this note](./"how to use ai to generate video, distribute them and advertise.md") for batch video generation
+you create a intro for this article? outro? all with chatgpt.
+
+refer to "how to use ai to generate video, distribute them and advertise" for batch video generation
 
 ## if i put a puppy into a group of fake puppies controlled by humans, interacting with the puppy and speak English only to the puppy, will the puppy speak English?
 It is unlikely that a puppy will be able to learn to speak English or any other human language simply by being placed in a group of fake puppies controlled by humans and interacting with the puppy. While puppies are highly intelligent and capable of learning, they do not have the cognitive abilities necessary to understand and produce human language.
