@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-28T02:37:54.093Z'
+modified: '2022-12-30T22:08:57.460Z'
 ---
 
 # chatgpt
@@ -240,6 +240,8 @@ https://github.com/transitive-bullshit/chatgpt-api
 https://github.com/rawandahmad698/PyChatGPT
 
 ## models like chatgpt
+
+[lfqa](https://yjernite.github.io/lfqa.html) retrival based generative QA
 
 [lm-human-preferences](https://github.com/openai/lm-human-preferences) by openai
 
