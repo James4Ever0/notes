@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2022-12-30T22:08:57.460Z'
+modified: '2023-01-02T19:18:32.429Z'
 ---
 
 # chatgpt
@@ -72,6 +72,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [Tk-Instruct](https://github.com/yizhongw/Tk-Instruct) T5 trained on natural instruct dataset. is it trained on RLHF systems?
 
 ### datasets
+
+[whisperhub](https://rootsignals.ai/W/all) collection of chatgpt prompts by plugin
 
 [hh-rlhf](https://github.com/anthropics/hh-rlhf)
 
