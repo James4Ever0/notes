@@ -2,10 +2,12 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2022-11-05T10:11:01.089Z'
+modified: '2023-01-02T21:31:57.493Z'
 ---
 
 # Video delogo/inpainting
+
+you can use [clip](https://github.com/LAION-AI/LAION-5B-WatermarkDetection) for watermark detection, but you don't know where. fuck.
 
 ## image local contrast enhancement, for removing hard-to-detect watermarks
 
