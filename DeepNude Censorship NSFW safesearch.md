@@ -1,11 +1,13 @@
 ---
 tags: [censorship, NSFW]
-title: DeepNude Censorship
+title: DeepNude Censorship NSFW safesearch
 created: '2022-05-31T04:00:06.000Z'
-modified: '2022-09-17T03:08:37.154Z'
+modified: '2023-01-02T19:25:29.419Z'
 ---
 
-# DeepNude Censorship NSFW
+# DeepNude Censorship NSFW safesearch
+
+you can turn on/off safesearch by changing ip to iran. is there better options, doing this programmatically?
 
 [nsfw createml imageclassifier](https://github.com/anupamchugh/iowncode/tree/master/NSFWCreateMLImageClassifier/NSFWCreateMLImageClassifier) with pretrained model
 
