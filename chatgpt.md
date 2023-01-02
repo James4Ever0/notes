@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T20:07:37.751Z'
+modified: '2023-01-02T20:09:59.569Z'
 ---
 
 # chatgpt
@@ -86,6 +86,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [natural instructions](https://github.com/allenai/natural-instructions)
 
 ### GPT3-like models
+
+[bloomz](https://huggingface.co/bigscience/bloomz) and [mt0](https://huggingface.co/bigscience/mt0-large) trained on 
 
 [T0PP](https://huggingface.co/bigscience/T0pp) T0 optimized for zero-shot prompts, despite much smaller than GPT-3
 
