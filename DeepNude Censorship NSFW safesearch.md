@@ -2,10 +2,12 @@
 tags: [censorship, NSFW]
 title: DeepNude Censorship NSFW safesearch
 created: '2022-05-31T04:00:06.000Z'
-modified: '2023-01-02T19:25:29.419Z'
+modified: '2023-01-02T21:32:23.198Z'
 ---
 
 # DeepNude Censorship NSFW safesearch
+
+[clip-based-nsfw-detector](https://github.com/LAION-AI/CLIP-based-NSFW-Detector)
 
 you can turn on/off safesearch by changing ip to iran. is there better options, doing this programmatically?
 
