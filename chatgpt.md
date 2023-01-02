@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T20:23:57.543Z'
+modified: '2023-01-02T20:51:11.485Z'
 ---
 
 # chatgpt
@@ -89,7 +89,13 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 [open-chatgpt-prompt-collective](https://github.com/SurfaceData/open-chatgpt-prompt-collective)
 
+### reward models
+
+
+
 ### GPT3-like models
+
+[galactica](https://huggingface.co/facebook/galactica-1.3b) is opt trained on scientific data
 
 [bloomz](https://huggingface.co/bigscience/bloomz) and [mt0](https://huggingface.co/bigscience/mt0-large) trained on [xP3](https://huggingface.co/datasets/bigscience/xP3) (multilingual prompts and code)
 
