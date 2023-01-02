@@ -1,10 +1,12 @@
 ---
 title: lazero search engine update logic
 created: '2022-12-13T18:09:13.126Z'
-modified: '2022-12-14T05:42:24.741Z'
+modified: '2023-01-02T21:00:54.175Z'
 ---
 
 # lazero search engine update logic
+
+[docprompting](https://github.com/shuyanzhou/docprompting) generate code from doc retrieval, using [tldr](https://github.com/tldr-pages/tldr) and [CoNaLa](https://conala-corpus.github.io/) for training code generation from prompt
 
 [ColBERT](https://medium.com/@varun030403/colbert-a-complete-guide-1552468335ae) and [RoBERTa](https://medium.com/dataseries/roberta-robustly-optimized-bert-pretraining-approach-d033464bd946) for document retrieval and embedding
 

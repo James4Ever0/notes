@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T20:57:59.455Z'
+modified: '2023-01-02T20:59:36.572Z'
 ---
 
 # chatgpt
@@ -94,6 +94,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [open-chatgpt-prompt-collective](https://github.com/SurfaceData/open-chatgpt-prompt-collective)
 
 [crowd-kit](https://github.com/Toloka/crowd-kit) purify noisy data
+
+[promptsource](https://github.com/bigscience-workshop/promptsource)
 
 ### reward models
 
