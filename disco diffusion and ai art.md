@@ -1,11 +1,13 @@
 ---
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
-created: 2022-08-08T20:52:28+08:00
-modified: 2022-12-24T00:49:44+08:00
+created: '2022-08-08T12:52:28.000Z'
+modified: '2023-01-02T20:12:58.603Z'
 ---
 
 # disco diffusion and ai art
+
+[dalle2-laion](https://github.com/LAION-AI/dalle2-laion)
 
 [custom diffusion](https://github.com/adobe-research/custom-diffusion) rlhf?
 
