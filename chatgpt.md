@@ -1,10 +1,14 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T19:18:32.429Z'
+modified: '2023-01-02T20:06:00.706Z'
 ---
 
 # chatgpt
+
+from my point of view, this is a service you cannot replicate at home, either requires smaller models with different architecture, or requires crowd-sourced computational power.
+
+bigscience [pedals colab](https://colab.research.google.com/drive/1Ervk6HPNS6AYVr3xVdQnY5a-TjjmLCdQ?usp=sharing#scrollTo=VsXHWJLuowcn)
 
 [discord chatroom](https://discord.gg/xBPBXfcFHd) for reproducing chatgpt
 
