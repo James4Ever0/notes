@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T20:54:29.884Z'
+modified: '2023-01-02T20:55:33.525Z'
 ---
 
 # chatgpt
@@ -51,7 +51,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 ##### language models
 
-[openchatgpt-neox-125m](https://huggingface.co/mrsteyk/openchatgpt-neox-125m) trained on chatgpt prompts, can be tested [here](https://huggingface.co/spaces/mrsteyk/mrsteyk-openchatgpt-neox-125m), trained from [pythia]
+[openchatgpt-neox-125m](https://huggingface.co/mrsteyk/openchatgpt-neox-125m) trained on chatgpt prompts, can be tested [here](https://huggingface.co/spaces/mrsteyk/mrsteyk-openchatgpt-neox-125m), trained from [pythia](https://huggingface.co/EleutherAI/pythia-6.7b-deduped)
 
 [copycat](https://github.com/theblackcat102/copycat) chatgpt replicate
 
