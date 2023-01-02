@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T20:11:51.417Z'
+modified: '2023-01-02T20:23:57.543Z'
 ---
 
 # chatgpt
@@ -84,6 +84,10 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [instructgpt samples](https://github.com/openai/following-instructions-human-feedback)
 
 [natural instructions](https://github.com/allenai/natural-instructions)
+
+### dataset building tools
+
+[open-chatgpt-prompt-collective](https://github.com/SurfaceData/open-chatgpt-prompt-collective)
 
 ### GPT3-like models
 
@@ -180,6 +184,8 @@ in the format [<quote number>] <quote page title> (<quote page domain>)
 <double new line><quote extract>■.
 ```
 ## projects related to chatgpt
+
+[chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) things related to chatgpt
 
 [galgame using chatgpt](https://www.bilibili.com/video/BV1Gv4y1z7tN/)
 
