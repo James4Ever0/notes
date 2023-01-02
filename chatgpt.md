@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T20:59:36.572Z'
+modified: '2023-01-02T21:06:08.629Z'
 ---
 
 # chatgpt
@@ -99,6 +99,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 ### reward models
 
+[rankgen](https://github.com/martiansideofthemoon/rankgen) scores model generations given a prefix (or prompt)
+
 [electra-webgpt-rm](https://huggingface.co/theblackcat102/electra-large-webgpt-rm) and [electra-large-reward-model](https://huggingface.co/theblackcat102/electra-large-reward-model) is based on [electra](https://huggingface.co/google/electra-small-discriminator) discriminator
 
 ### GPT3-like models
@@ -119,7 +121,7 @@ gpt3 is gpt2 with [sparse attension](https://github.com/openai/sparse_attention)
 
 [metaseq](https://github.com/facebookresearch/metaseq) provides OPT, which is basically GPT3
 
-[GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) altered in many ways, trained on natural instructions
+[GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) altered in many ways, trained on natural instructions [huggingface space](https://huggingface.co/spaces/togethercomputer/GPT-JT)
 
 [GPT-Neo](https://huggingface.co/EleutherAI/gpt-neo-125M)
 
