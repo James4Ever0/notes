@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T20:51:11.485Z'
+modified: '2023-01-02T20:54:29.884Z'
 ---
 
 # chatgpt
@@ -51,6 +51,10 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 ##### language models
 
+[openchatgpt-neox-125m](https://huggingface.co/mrsteyk/openchatgpt-neox-125m) trained on chatgpt prompts, can be tested [here](https://huggingface.co/spaces/mrsteyk/mrsteyk-openchatgpt-neox-125m), trained from [pythia]
+
+[copycat](https://github.com/theblackcat102/copycat) chatgpt replicate
+
 [medicine-chatgpt](https://github.com/lucidrains/medical-chatgpt) shit sick of COVID-19
 
 [baby-rlhf](https://www.github.com/jordan-schneider/baby-rlhf/) both cartpole and languge model
@@ -91,7 +95,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 ### reward models
 
-
+[electra-webgpt-rm](https://huggingface.co/theblackcat102/electra-large-webgpt-rm) and [electra-large-reward-model](https://huggingface.co/theblackcat102/electra-large-reward-model) is based on [electra](https://huggingface.co/google/electra-small-discriminator) discriminator
 
 ### GPT3-like models
 
