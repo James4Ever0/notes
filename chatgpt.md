@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T21:13:27.131Z'
+modified: '2023-01-02T21:14:18.403Z'
 ---
 
 # chatgpt
@@ -51,7 +51,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 ##### language models
 
-[openassistant]c
+[openassistant](https://github.com/LAION-AI/Open-Assistant)
 
 [openchatgpt-neox-125m](https://huggingface.co/mrsteyk/openchatgpt-neox-125m) trained on chatgpt prompts, can be tested [here](https://huggingface.co/spaces/mrsteyk/mrsteyk-openchatgpt-neox-125m), trained from [pythia](https://huggingface.co/EleutherAI/pythia-6.7b-deduped)
 
@@ -279,7 +279,7 @@ https://github.com/rawandahmad698/PyChatGPT
 
 [trl](https://github.com/lvwerra/trl) Train transformer language models with reinforcement learning based on gpt2
 
-[trix](https://github.com/CarperAI/trlx) A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) by CarperAI
+[trlx](https://github.com/CarperAI/trlx) A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) by CarperAI
 
 [RL4LMs](https://github.com/allenai/RL4LMs) A modular RL library to fine-tune language models to human preferences
 
