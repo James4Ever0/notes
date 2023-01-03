@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-03T16:05:30.182Z'
+modified: '2023-01-03T16:08:29.519Z'
 ---
 
 # chatgpt
@@ -53,7 +53,7 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 
 ##### language models
 
-[blenderbot2]() a bot which can search internet, blenderbot3 is US only.
+[blenderbot2]() a bot which can search internet, blenderbot3 is US only. install [ParlAI]() then clone [ParlAI_Internet](). [tutorial](https://dev.to/naruaika/how-i-managed-to-run-blenderbot-20-1jac)
 
 [promptCLUE](https://github.com/clue-ai/PromptCLUE) based on T5, created by [clueai](https://www.clueai.cn/doc), trained on [pCLUE](https://github.com/CLUEbenchmark/pCLUE)
 
