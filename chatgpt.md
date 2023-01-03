@@ -1,12 +1,14 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-03T15:45:09.065Z'
+modified: '2023-01-03T15:46:52.540Z'
 ---
 
 # chatgpt
 
 from my point of view, this is a service you cannot replicate at home, either requires smaller models with different architecture, or requires crowd-sourced computational power.
+
+saying chatgpt is powered by [ray](), increasing parallelism
 
 bigscience [petals colab](https://colab.research.google.com/drive/1Ervk6HPNS6AYVr3xVdQnY5a-TjjmLCdQ?usp=sharing#scrollTo=VsXHWJLuowcn) and [petals repo](https://github.com/bigscience-workshop/petals)
 
