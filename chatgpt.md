@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-02T21:14:18.403Z'
+modified: '2023-01-03T15:44:03.756Z'
 ---
 
 # chatgpt
@@ -50,6 +50,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [algorithm-distillation-rlhf](https://github.com/CarperAI/Algorithm-Distillation-RLHF)
 
 ##### language models
+
+[]
 
 [openassistant](https://github.com/LAION-AI/Open-Assistant)
 
