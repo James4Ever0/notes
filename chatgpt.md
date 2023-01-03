@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-03T15:47:21.498Z'
+modified: '2023-01-03T16:04:59.286Z'
 ---
 
 # chatgpt
@@ -52,6 +52,8 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [algorithm-distillation-rlhf](https://github.com/CarperAI/Algorithm-Distillation-RLHF)
 
 ##### language models
+
+[blenderbot2]() a bot which can search internet
 
 [promptCLUE](https://github.com/clue-ai/PromptCLUE) based on T5, created by [clueai](https://www.clueai.cn/doc), trained on [pCLUE](https://github.com/CLUEbenchmark/pCLUE)
 
