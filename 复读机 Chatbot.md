@@ -1,11 +1,15 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: 2022-07-14T15:35:31+00:00
-modified: 2022-12-16T19:14:49+08:00
+created: '2022-07-14T15:35:31.000Z'
+modified: '2023-01-05T22:38:30.296Z'
 ---
 
 # 复读机 Chatbot
+
+get bilibili user email address by asking them from chat. if they give the email address, send setu as gift
+
+of course you need to pass uid to us.
 
 建立用户画像 cache足够多的信息 总结出来足够精确的话题 标签
 
