@@ -2,10 +2,18 @@
 tags: [dancing, motion driven video, stub, video generator]
 title: Jiggy boring still image to funny dance video 跳舞 舞蹈
 created: 2022-05-31T03:44:18+00:00
-modified: 2022-10-27T15:05:16+08:00
+modified: 2023-01-06T05:55:56+08:00
 ---
 
 # Jiggy boring still image to funny dance video
+
+最新版代码:
+https://github.com/transpchan/Live3D-v2
+MMD 格式转换工具：
+https://github.com/KurisuMakise004/MMD2UDP
+官网：https://transpchan.github.io/live3d/
+Colab:https://colab.research.google.com/github/transpchan/Live3D-v2/blob/main/notebook.ipynb
+CoNR群：362985749
 
 【[ai绘画]仅用4张图片合成一段舞蹈视频-哔哩哔哩】 https://b23.tv/NaF20nA
 
