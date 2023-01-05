@@ -2,12 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2023-01-05T22:38:48.008Z'
+modified: '2023-01-05T22:39:04.491Z'
 ---
 
 # 复读机 Chatbot
 
-get bilibili user email address by asking them from chat. if they give the email address, send setu as gift
+get bilibili user email address by asking them from chat. if they give the email address, send setu as gift (regularly?)
 
 of course you need to pass uid to us. either by parameters or by asking.
 
