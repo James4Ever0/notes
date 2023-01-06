@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2023-01-05T22:39:04.491Z'
+modified: '2023-01-06T04:57:10.112Z'
 ---
 
 # 复读机 Chatbot
+
+对于qq上面聊骚的可以发a片给他们
 
 get bilibili user email address by asking them from chat. if they give the email address, send setu as gift (regularly?)
 
