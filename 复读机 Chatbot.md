@@ -2,12 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2023-01-06T05:41:27.169Z'
+modified: '2023-01-06T05:46:00.891Z'
 ---
 
 # 复读机 Chatbot
 
-for our potential viewers, you may send them popular/hot things, place trackers on those links, guess their favourites.
+for our potential viewers, you may send them popular/hot things, place trackers (短链接统计) on those links, guess their favourites.
 
 对于qq上面聊骚的可以发a片给他们
 
