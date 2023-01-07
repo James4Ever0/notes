@@ -1,12 +1,12 @@
 ---
 title: 'Public APIs, GIF Websites Funny Video Sources'
 created: '2022-07-09T16:16:55.000Z'
-modified: '2023-01-07T19:08:58.652Z'
+modified: '2023-01-07T19:17:48.387Z'
 ---
 
 # Public APIs, GIF Websites Funny Video Sources
 
-[rapidapi](https://rapidapi.com/)
+~~[rapidapi](https://rapidapi.com/)~~ do not use this
 
 [imgur](https://pypi.org/project/imgur-scraper/) funny gifs
 
