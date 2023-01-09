@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-09T20:45:04.161Z'
+modified: '2023-01-09T20:46:42.425Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video
@@ -16,4 +16,6 @@ modified: '2023-01-09T20:45:04.161Z'
 
 #### [Predictube](https://github.com/dubstack/Predictube)
 
-[Peak]
+[peak_detection.py](https://github.com/dubstack/Predictube/blob/master/predictube/analyze/peak_detection/peak_detection.py) use daily view count to categorize and identify trends. "MonoIncr" might be our desired category.
+
+#### 
