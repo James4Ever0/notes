@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T20:03:41.707Z'
+modified: '2023-01-10T20:06:37.030Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -24,7 +24,17 @@ There are some [cool text effects](https://zulko.github.io/moviepy/examples/movi
 
 ### Data collect/analyze
 
-####
+#### [Youtube Viral Video Machine Learning Analysis](https://github.com/gdemos01/yttresearch-machine-learning-algorithms-analysis)
+
+
+
+Dataset creation:
+
+Monitoring video right at the time it is posted, monitor for a few days, calculate features, then wait for a month or two (it must stablize then), judge the video is viral or not by view counts.
+
+Using multiple machine learning techniques, there are some top features matters the most for viral video forecasting:
+
+
 
 #### [ViralCaster](https://github.com/jjbreen/ViralCaster)
 
