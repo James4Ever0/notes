@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T00:50:33.911Z'
+modified: '2023-01-10T00:57:22.311Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video
@@ -17,6 +17,10 @@ Adding text to video, has typing effects, written in haskell. You can add `-m` f
 #### [Backgroundremover](https://github.com/nadermx/backgroundremover)
 
 A commandline tool powered by torch, removing background from images and video
+
+#### [Moviepy](https://github.com/Zulko/moviepy)
+
+Why my exported clip is slient?
 
 ### Data collect/analyze
 
