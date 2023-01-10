@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T20:07:27.865Z'
+modified: '2023-01-10T20:08:00.104Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -34,7 +34,9 @@ Monitoring video right at the time it is posted, monitor for a few days, calcula
 
 Using multiple machine learning techniques, there are some top features matters the most for viral video forecasting:
 
-
+| Feature Importance | | |
+_________________________
+| | | |
 
 #### [ViralCaster](https://github.com/jjbreen/ViralCaster)
 
