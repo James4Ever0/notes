@@ -1,10 +1,16 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-09T20:46:42.425Z'
+modified: '2023-01-10T00:41:10.901Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video
+
+## Video editors
+
+### Gifcurry
+
+Adding text to video, has typing effects, written in haskell.
 
 ## Viral videos
 
