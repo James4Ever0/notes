@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T01:05:45.755Z'
+modified: '2023-01-10T01:07:20.544Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video
@@ -18,7 +18,7 @@ Adding text to video, has typing effects, written in haskell. You can add `-m` f
 
 A commandline tool powered by torch, removing background from images and video
 
-#### [Moviepy](https://github.com/Zulko/moviepy)
+#### [Moviepy](https://github.com/Zulko/moviepy) most loved commandline video editor?
 
 Why my exported clip is slient? Anyway there are some [cool text effects](https://zulko.github.io/moviepy/examples/moving_letters.html) called "Text with moving letters" (PPT-like), and a [dancing video generator](https://zulko.github.io/moviepy/examples/dancing_knights.html) based on tempo finder and video loop maker
 
