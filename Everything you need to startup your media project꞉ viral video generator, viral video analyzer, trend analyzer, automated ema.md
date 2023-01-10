@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T00:42:03.659Z'
+modified: '2023-01-10T00:42:08.186Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video
@@ -10,7 +10,7 @@ modified: '2023-01-10T00:42:03.659Z'
 
 ### Video editors
 
-#### [Gifcurry]()
+#### [Gifcurry](https://github.com/lettier/gifcurry)
 
 Adding text to video, has typing effects, written in haskell.
 
