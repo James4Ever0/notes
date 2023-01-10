@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T20:13:14.902Z'
+modified: '2023-01-10T20:15:17.684Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -32,7 +32,7 @@ Dataset creation:
 
 Monitoring video right at the time it is posted, monitor for a few days, calculate features, then wait for a month or two (it must stablize then), judge the video is viral or not by view counts.
 
-Using multiple machine learning techniques, there are some top features matters the most for viral video forecasting, though you can derive your own by collecting more data (like the follower-view theory if applied):
+Using multiple machine learning techniques, there are some top features matters the most for viral video forecasting (though you can derive your own by collecting more data (like the follower-view theory if applied), and beware if your video all sucks, you may not get an accurate model out of your data alone):
 
 | Feature Importance | Feature Name| Importance|
 |_____|_______________|_|
@@ -41,7 +41,10 @@ Using multiple machine learning techniques, there are some top features matters 
 |3 | ageRatioReviews_1 | 9%|
 |4|video_duration| 9%|
 |5|comments_1| 5%|
-|6|
+|6|channel_uploads|5%|
+|7|ageRatioLikes_1 | 4%|
+|8|comments_acc |4%|
+|9 |channel_views|4%|
 
 #### [ViralCaster](https://github.com/jjbreen/ViralCaster)
 
