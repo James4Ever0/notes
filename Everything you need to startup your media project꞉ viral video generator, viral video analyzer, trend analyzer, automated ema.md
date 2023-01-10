@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T00:57:22.311Z'
+modified: '2023-01-10T01:01:46.861Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video
@@ -20,7 +20,7 @@ A commandline tool powered by torch, removing background from images and video
 
 #### [Moviepy](https://github.com/Zulko/moviepy)
 
-Why my exported clip is slient?
+Why my exported clip is slient? Anyway there are some [cool text effects](https://zulko.github.io/moviepy/examples/moving_letters.html) called "Text with moving letters" (PPT-like)
 
 ### Data collect/analyze
 
