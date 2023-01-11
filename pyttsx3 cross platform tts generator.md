@@ -1,7 +1,7 @@
 ---
 title: pyttsx3 cross platform tts generator
 created: '2023-01-11T03:53:36.660Z'
-modified: '2023-01-11T04:01:45.029Z'
+modified: '2023-01-11T04:55:35.739Z'
 ---
 
 # pyttsx3 cross platform tts generator
@@ -9,10 +9,14 @@ modified: '2023-01-11T04:01:45.029Z'
 It will leverage default TTS engine on Windows and macOS, but for linux you must install espeak.
 
 ```python
->>> import pyttsx3
->>> engine = pyttsx3.init()
-^[[Aengine.save_to_file("你好 世界",'output.wav')
+import pyttsx3
+engine = pyttsx3.init()
+
+engine.save_to_file("你好 世界",'output.wav')
 >>> engine.runAndWait()
+
+engine.setProperty('rate', 125)     # setting up new voice rate
+
 >>> engine.save_to_file("你好，世界",tput.wav')
 >>> engine.runAndWait()
 ['age', 'gender', 'id', 'languages', 'name']
