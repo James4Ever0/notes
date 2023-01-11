@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-11T23:20:20.949Z'
+modified: '2023-01-11T23:22:05.009Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -24,7 +24,7 @@ B站撞车搬运检测：
 
 #### [reddit hot videos to youtube](https://github.com/spantheslayer/yt-upload-automation)
 
-In reddit channel
+In "TiktokCringe" reddit channel, we are able to get hot posts and video links (from tiktok to reddit) in json format: `https://www.reddit.com/r/TikTokCringe/hot.json?limit=12`. The way to extract video links
 
 ### Video editors
 
