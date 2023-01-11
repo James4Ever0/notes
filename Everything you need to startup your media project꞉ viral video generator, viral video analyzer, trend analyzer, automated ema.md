@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-11T23:35:04.788Z'
+modified: '2023-01-11T23:35:13.573Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -24,7 +24,7 @@ B站撞车搬运检测：
 
 #### [reddit hot videos to youtube](https://github.com/spantheslayer/yt-upload-automation)
 
-In "TiktokCringe" reddit channel, we are able to get hot posts and video links prefixed by `` (from tiktok to reddit) in json format: `https://www.reddit.com/r/TikTokCringe/hot.json?limit=12`. This link looks like some API or subscription. Maybe Bilibili and other sites have similar "hot" json urls. The way to extract video links is in [atmt.sh](https://github.com/spantheslayer/yt-upload-automation/blob/main/atmt.sh). It adds transitions to every video clip.
+In "TiktokCringe" reddit channel, we are able to get hot posts and video links prefixed by `https://v.redd.it` (from tiktok to reddit) in json format: `https://www.reddit.com/r/TikTokCringe/hot.json?limit=12`. This link looks like some API or subscription. Maybe Bilibili and other sites have similar "hot" json urls. The way to extract video links is in [atmt.sh](https://github.com/spantheslayer/yt-upload-automation/blob/main/atmt.sh). It adds transitions to every video clip.
 
 ### Video editors
 
