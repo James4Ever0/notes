@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T08:48:56.950Z'
+modified: '2023-01-11T08:54:12.046Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -16,9 +16,9 @@ B站撞车搬运检测：
 
 ### Video editors
 
-#### [Pictory]()
+#### [Pictory](https://pictory.ai/)
 
-Leveraging 3 millions of video snippets,
+Leveraging 3 millions of tagged video clips and audio, choosing most semantically similar clip to current scene (by extracting keyword -> search images -> compare images to video sources with all embedding things going under the hood (CLIP)), map video word by word to the timeline (to create extractive highlights and remove unwanted words like "um")
 
 #### [Wisecut](https://www.wisecut.video)
 
