@@ -1,17 +1,16 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T05:37:16.577Z'
+modified: '2023-01-11T05:39:13.886Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
 B站撞车搬运检测：
 
-通过搜索Weibo Tumblr Tiktok Youtube的视频ID，可以找出视频是否被转载
+通过B站搜索Weibo Tumblr Tiktok Youtube的视频ID，可以找出视频是否被转载
 
 通过搜索其他网站的前缀 比如`https://www.youtube.com` 可以得到被转载视频的链接 但是感觉数据不是很靠谱 不是很火的那种 要看大流量的还是得爬首页推荐链接 根据话题搜索
-
 
 ## Viral videos
 
@@ -19,7 +18,7 @@ B站撞车搬运检测：
 
 #### [Jumpcutter](https://github.com/potato3d/jumpcutter)
 
-An audio-slience based video cutter. In `jumpcut_file.py` it chops audio into chunks and decide to It has audio acceleration methods
+An audio-slience based video cutter. In `jumpcut_file.py` it chops audio into chunks and decide if it is slience or not. It has audio acceleration methods from `audiotsm`
 
 #### [Gifcurry](https://github.com/lettier/gifcurry)
 
