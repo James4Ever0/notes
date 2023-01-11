@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T06:05:58.591Z'
+modified: '2023-01-11T06:09:47.119Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -20,7 +20,7 @@ B站撞车搬运检测：
 
 An audio-slience based video cutter. In `jumpcut_file.py` it chops audio into chunks and decide if it is slience or not. The core logic is to first compare max volume of each chunk against threshold, then check in neighbors of every chunk if all of them are slient and cut them out. It has audio speed changing methods from [audiotsm](https://pypi.org/project/audiotsm/).
 
-In another implementation, it uses ring buffer by `collections.deque` and applies VAD (Voice Activity Detetion) by [webrtcvad](https://pypi.org/project/webrtcvad/) to every chunk of audio.
+In [another implementation](https://github.com/madsbacha/jumpcut/blob/master/jumpcut.py), it uses ring buffer by `collections.deque` and applies VAD (Voice Activity Detetion) by [webrtcvad](https://pypi.org/project/webrtcvad/) to every chunk of audio.
 
 #### [Gifcurry](https://github.com/lettier/gifcurry)
 
