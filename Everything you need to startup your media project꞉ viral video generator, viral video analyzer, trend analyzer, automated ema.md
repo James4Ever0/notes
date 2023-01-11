@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T08:16:21.859Z'
+modified: '2023-01-11T08:42:04.716Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -15,6 +15,10 @@ B站撞车搬运检测：
 ## Viral videos
 
 ### Video editors
+
+#### [Pictory]()
+
+
 
 #### [Wisecut](https://www.wisecut.video)
 
