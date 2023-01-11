@@ -1,10 +1,12 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: 2023-01-09T03:22:12+00:00
-modified: 2023-01-12T00:31:11+08:00
+modified: 2023-01-12T04:36:29+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+for information cascade, treat recommendation system as your target data, and fit your content into the prediction of "to-view" video of popular videos
 
 分析弹幕关键词是否与大量其他视频标题相重合
 
