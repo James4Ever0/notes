@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T08:11:05.518Z'
+modified: '2023-01-11T08:13:20.062Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -18,7 +18,7 @@ B站撞车搬运检测：
 
 #### [Wisecut](https://www.wisecut.video)
 
-[Make short videos](https://www.wisecut.video/post/leverage-short-videos-to-grow-your-audience) with music, subtitles and facial recognition auto-reframe
+Short videos can attract your viewers and converting them into followers (to view more of your long videos). [Make short videos](https://www.wisecut.video/post/leverage-short-videos-to-grow-your-audience) with music, subtitles and facial recognition auto-reframe
 
 It is listed among an [AI marketing tools list](https://github.com/mhmmyu/awesomeAI), which mentions copywriting, social media/email/blog marketing text/content generation, text to video
 
