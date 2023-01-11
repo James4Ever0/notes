@@ -1,12 +1,12 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: 2023-01-09T03:22:12+00:00
-modified: 2023-01-12T00:30:52+08:00
+modified: 2023-01-12T00:31:11+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
-分析弹幕关键词是否与其他视频标题相重合
+分析弹幕关键词是否与大量其他视频标题相重合
 
 B站撞车搬运检测：
 
