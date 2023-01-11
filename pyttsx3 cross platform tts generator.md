@@ -1,12 +1,12 @@
 ---
 title: pyttsx3 cross platform tts generator
 created: '2023-01-11T03:53:36.660Z'
-modified: '2023-01-11T05:05:33.650Z'
+modified: '2023-01-11T06:00:02.465Z'
 ---
 
 # pyttsx3 cross platform tts generator
 
-By looking into the `NaturalLanguage` Framework on macOS, I find text classifier inside.
+By looking into the [NaturalLanguage Framework]() on macOS, I find text classifier and embeddings inside.
 
 It will leverage default TTS engine on Windows and macOS, but for linux you must install espeak.
 
