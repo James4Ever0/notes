@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T05:48:36.800Z'
+modified: '2023-01-11T05:49:48.430Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -18,7 +18,7 @@ B站撞车搬运检测：
 
 #### [Jumpcutter](https://github.com/potato3d/jumpcutter)
 
-An audio-slience based video cutter. In `jumpcut_file.py` it chops audio into chunks and decide if it is slience or not. The core logic is to first compare max volume of each chunk against threshold, then check in  It has audio acceleration methods from `audiotsm`
+An audio-slience based video cutter. In `jumpcut_file.py` it chops audio into chunks and decide if it is slience or not. The core logic is to first compare max volume of each chunk against threshold, then check in neighbors of every chunk if all of them are slient and cut them out. It has audio acceleration methods from `audiotsm`
 
 #### [Gifcurry](https://github.com/lettier/gifcurry)
 
