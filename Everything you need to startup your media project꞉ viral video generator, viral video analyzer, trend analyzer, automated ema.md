@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-11T23:13:01.130Z'
+modified: '2023-01-11T23:20:20.949Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -22,9 +22,9 @@ B站撞车搬运检测：
 
 ### Video collectors
 
-#### []()
+#### [reddit hot videos to youtube](https://github.com/spantheslayer/yt-upload-automation)
 
-
+In reddit channel
 
 ### Video editors
 
