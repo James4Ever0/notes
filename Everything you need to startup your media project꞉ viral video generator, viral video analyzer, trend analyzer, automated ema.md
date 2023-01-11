@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T08:08:39.284Z'
+modified: '2023-01-11T08:10:34.238Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -17,6 +17,8 @@ B站撞车搬运检测：
 ### Video editors
 
 #### Wisecut
+
+Make short videos with music, subtitles and facial recognition auto-reframe
 
 It is listed among an [AI marketing tools list](https://github.com/mhmmyu/awesomeAI), which mentions copywriting, social media/email/blog marketing text/content generation, text to video
 
