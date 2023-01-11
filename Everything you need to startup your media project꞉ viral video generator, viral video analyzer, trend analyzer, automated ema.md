@@ -1,10 +1,17 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-10T20:27:04.944Z'
+modified: '2023-01-11T02:04:11.012Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+B站撞车搬运检测：
+
+通过搜索Weibo Tumblr Tiktok Youtube的视频ID，可以找出视频是否被转载
+
+通过搜索其他网站的前缀 可以得到被转载视频的链接
+
 
 ## Viral videos
 
