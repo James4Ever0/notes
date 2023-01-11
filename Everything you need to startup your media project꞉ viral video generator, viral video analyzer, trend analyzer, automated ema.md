@@ -1,10 +1,12 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
-created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T08:54:12.046Z'
+created: 2023-01-09T03:22:12+00:00
+modified: 2023-01-12T00:30:52+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+分析弹幕关键词是否与其他视频标题相重合
 
 B站撞车搬运检测：
 
@@ -81,4 +83,4 @@ Using multiple machine learning techniques, there are some top features matters 
 
 [peak_detection.py](https://github.com/dubstack/Predictube/blob/master/predictube/analyze/peak_detection/peak_detection.py) use daily view count to categorize and identify trends. "MonoIncr" might be our desired category.
 
-#### 
+####
