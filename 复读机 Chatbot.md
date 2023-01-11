@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2023-01-06T05:47:39.644Z'
+modified: '2023-01-11T14:57:03.688Z'
 ---
 
 # 复读机 Chatbot
+
+classify bilibili video which users recommend, then train the model against recent chats and topics with video tags
 
 for our potential viewers, you may send them popular/hot things, place trackers (短链接统计) on those links, guess their favourites.
 
