@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.950Z'
-modified: '2023-01-11T05:34:52.734Z'
+modified: '2023-01-11T05:35:04.224Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -19,7 +19,7 @@ B站撞车搬运检测：
 
 #### [Jumpcutter](https://github.com/potato3d/jumpcutter)
 
-An audio-slience based video cutter. In `jumpcut_file.py`
+An audio-slience based video cutter. In `jumpcut_file.py` I see
 
 #### [Gifcurry](https://github.com/lettier/gifcurry)
 
