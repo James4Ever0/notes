@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T22:53:31.524Z'
+modified: '2023-01-12T22:59:34.693Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -20,7 +20,9 @@ B站撞车搬运检测：
 
 ## Download a portion of video
 
+first acquire download url: `youtube-dl -g "https://www.youtube.com/watch?v=V_f2QkBdbRI"`
 
+then 
 
 ## Viral videos
 
