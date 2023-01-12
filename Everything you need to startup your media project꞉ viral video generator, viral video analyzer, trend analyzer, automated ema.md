@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T03:58:06.359Z'
+modified: '2023-01-12T04:00:46.831Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -130,7 +130,7 @@ Use sirx over sir.
 
 I think it is hard to use. Many "presumed" parameters are out there.
 
-alpha beta (infection rate), gamma (recovery rate)
+beta (infection rate), gamma (recovery rate). while in 
 
 #### [Youtube Viral Video Machine Learning Analysis](https://github.com/gdemos01/yttresearch-machine-learning-algorithms-analysis)
 
