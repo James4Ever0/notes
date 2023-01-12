@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T00:03:05.827Z'
+modified: '2023-01-12T00:05:02.931Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -24,7 +24,7 @@ B站撞车搬运检测：
 
 #### [botTuber: a instagram compilation reposter to youtube](https://github.com/sam5epi0l/BotTuber)
 
-Using `instaloader` and `instalooter`, it can download videos from instagram. It merges a series of video and add intro and outro.
+Using `instaloader` and `instalooter`, it can download videos from instagram. It merges a series of video and add intro and outro. It only contains one default title starts with "TRY NOT TO LAUGH" in its "auto" mode.
 
 #### [reddit hot videos to youtube](https://github.com/spantheslayer/yt-upload-automation)
 
