@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T03:03:54.991Z'
+modified: '2023-01-12T03:04:25.174Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -34,7 +34,7 @@ API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potent
 | --- | ---  | --------| ---------| --- |
 |  全站热榜  | top-all | yes |today, weekly, monthly |  |
 | 微博 | weibo |topic | search, topic | yes |
-| V2EX | v2ex | 
+| V2EX | v2ex | | hot | yes|
 | 知乎 | zhihu |  |  | yes |
 | 微博 | weibo
 | 哔哩哔哩  | bilibili
