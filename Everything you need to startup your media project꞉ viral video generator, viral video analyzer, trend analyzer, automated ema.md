@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T04:01:35.008Z'
+modified: '2023-01-12T04:04:54.031Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -128,7 +128,7 @@ There are some [cool text effects](https://zulko.github.io/moviepy/examples/movi
 
 Use sirx over sir.
 
-I think it is hard to use. Many "presumed" parameters are out there.
+I think it is hard to use. Many "presumed" parameters are out there. It can fit "reproduction rate" but no individual "alpha" and "beta" values.
 
 In tradirional SIR models, beta is infection rate, gamma is recovery rate. While in open-sir it is different. alpha now is beta, beta now is gamma.
 
