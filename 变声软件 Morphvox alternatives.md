@@ -1,11 +1,21 @@
 ---
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
-created: 2022-05-29T00:14:51+08:00
-modified: 2022-10-25T01:15:34+08:00
+created: '2022-05-28T16:14:51.000Z'
+modified: '2023-01-12T22:27:48.967Z'
 ---
 
 # 变声软件 Morphvox alternatives
+
+感谢关注，UP在B站制作各种AI变声器模型。
+AI白菜原创变声器软件下载链接：
+https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/vits_vc_gpu.7z
+有超级会员的建议下度盘
+https://pan.baidu.com/s/1EyM7SzFUpxlemJlrqaJbdQ
+提取码j24b
+已开源的模型在线使用链接（很久以前了）：
+https://huggingface.co/spaces/innnky/trump
+https://huggingface.co/spaces/innnky/nanami
 
 [白嫖微软azure tts](https://github.com/skygongque/tts/blob/main/python_cli_demo/readme.md)
 
