@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T00:18:54.187Z'
+modified: '2023-01-12T00:21:06.614Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -34,7 +34,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 #### [Auto-Editor](https://github.com/WyattBlue/auto-editor)
 
-By passing `--edit` option, you can remove unwanted parts identified by motion or audio (can be combined). It can import clip with manual "cut-out"
+By passing `--edit` option, you can remove unwanted parts identified by motion or audio (can be combined). It can import clip with manual "cut-out". It can export as json.
 
 #### [Pictory](https://pictory.ai/)
 
