@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T01:48:15.476Z'
+modified: '2023-01-12T01:57:26.240Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -31,6 +31,8 @@ B站撞车搬运检测：
 ### Image recognizers
 
 #### [Baidu Image recognizer](https://github.com/chenguanyou/BaiduSerchImgApi) 百度识图
+
+与此相关的识图项目位置：`pyjom/tests/search_engine_suggestion_based_qa_bot`
 
 可以获取关键字，标签，同样的图，秒懂百科视频，百度百科数据，包含图片的信息，颜值信息
 
