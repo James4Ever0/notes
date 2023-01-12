@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T03:04:25.174Z'
+modified: '2023-01-12T03:06:19.411Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -30,28 +30,27 @@ API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potent
 
 知乎有个专门的热榜，地址：``
 
-| name | tab | page | sub_tab | date_type| 
-| --- | ---  | --------| ---------| --- |
-|  全站热榜  | top-all | yes |today, weekly, monthly |  |
-| 微博 | weibo |topic | search, topic | yes |
-| V2EX | v2ex | | hot | yes|
-| 知乎 | zhihu |  |  | yes |
-| 微博 | weibo
-| 哔哩哔哩  | bilibili
-| GitHub |  github
-| 抖音 | douyin
-| 技术期刊  |journal-tech
-| 虎扑|  hupu
-| 少数派  | sspai
-| 百度  | baidu
-| 36氪  | 36kr
-| 天涯 |  tianya
-| 吾爱破解 | 52pojie
-| IT之家 | ithome
-|全站24小时  | top-daylong
-|直播吧 | zhibo8
-|小众软件   |appinn
-|反斗限免|  apprcn
+| name | tab |
+| --- | ---  | 
+|  全站热榜  | top-all |
+| 微博 | weibo |
+| V2EX | v2ex | 
+| 知乎 | zhihu | 
+| 哔哩哔哩  | bilibili|
+| GitHub |  github|
+| 抖音 | douyin|
+| 技术期刊  |journal-tech|
+| 虎扑|  hupu|
+| 少数派  | sspai|
+| 百度  | baidu|
+| 36氪  | 36kr|
+| 天涯 |  tianya|
+| 吾爱破解 | 52pojie|
+| IT之家 | ithome|
+|全站24小时  | top-daylong|
+|直播吧 | zhibo8|
+|小众软件   |appinn|
+|反斗限免|  apprcn|
 
 #### [番茄数据](https://www.tomatodata.cn/news/1355.html)
 
