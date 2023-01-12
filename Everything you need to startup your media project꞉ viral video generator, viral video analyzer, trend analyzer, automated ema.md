@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T01:40:11.926Z'
+modified: '2023-01-12T01:41:02.554Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -38,9 +38,9 @@ B站撞车搬运检测：
 
 位置：`pyjom/tests/viral_video_experiments/BaiduSerchImgApi`
 
-通过http改成https 修改好了[360识图的接口]()
+通过http改成https 修改好了[360识图的接口](https://github.com/chenguanyou/360ImageSearch)
 
-位置：`pyjom/tests/viral_video_experiments/BaiduSerchImgApi`
+位置：`tests/viral_video_experiments/360ImageSearch`
 
 ### Video collectors
 
