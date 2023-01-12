@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T01:35:29.911Z'
+modified: '2023-01-12T01:40:11.926Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -30,11 +30,15 @@ B站撞车搬运检测：
 
 ### Image recognizers
 
-#### [Baidu Image recognizer](https://github.com/Augu1sto/Rubindemo/blob/0ffe52af74643db8d8bfae048ee256824836e277/src/main/java/com/rubin/demo/Utils/BaiduSerchImgApi-master/functions.py) 百度识图
+#### [Baidu Image recognizer](https://github.com/chenguanyou/BaiduSerchImgApi) 百度识图
 
 可以获取关键字，标签，同样的图，秒懂百科视频，百度百科数据，包含图片的信息，颜值信息
 
 通过把上传接口修改 以及http改成https 现在可以继续使用
+
+位置：`pyjom/tests/viral_video_experiments/BaiduSerchImgApi`
+
+通过http改成https 修改好了[360识图的接口]()
 
 位置：`pyjom/tests/viral_video_experiments/BaiduSerchImgApi`
 
