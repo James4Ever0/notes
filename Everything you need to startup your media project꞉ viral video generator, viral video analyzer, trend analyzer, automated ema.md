@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-11T23:40:43.432Z'
+modified: '2023-01-12T00:01:40.814Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -21,6 +21,10 @@ B站撞车搬运检测：
 ## Viral videos
 
 ### Video collectors
+
+#### [botTuber: a instagram compilation reposter to youtube](https://github.com/sam5epi0l/BotTuber)
+
+Using ``
 
 #### [reddit hot videos to youtube](https://github.com/spantheslayer/yt-upload-automation)
 
