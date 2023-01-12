@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T23:00:14.962Z'
+modified: '2023-01-12T23:00:54.159Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -20,7 +20,7 @@ B站撞车搬运检测：
 
 ## Download a portion of video
 
-first acquire download url: `youtube-dl -g "https://www.youtube.com/watch?v=V_f2QkBdbRI"`
+first acquire download url: `youtube-dl [--youtube-skip-dash-manifest] -g "https://www.youtube.com/watch?v=V_f2QkBdbRI"`
 
 then use ffmpeg with the url to chop the slice: `ffmpeg -ss 00:00:15.00 -i "OUTPUT-OF-FIRST URL" -t 00:00:10.00 -c copy out.mp4`
 
