@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T02:59:19.588Z'
+modified: '2023-01-12T03:02:46.139Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -26,16 +26,16 @@ B站撞车搬运检测：
 
 提供全站 知乎 微博 IT之家 百度 虎扑 直播吧 少数派 36氪 吾爱破解 天涯 小众软件 反斗限免 哔哩哔哩 抖音 技术期刊 v2ex GitHub的热榜
 
-API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potential parameters: sub_tab, date_type)
+API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potential parameters: sub_tab, date_type (default:now))
 
 知乎有个专门的热榜，地址：``
 
 | name | tab | page | sub_tab | date_type| 
 | --- | ---  | --------| ---------| --- |
-|  全站热榜  | top-all | yes |today, weekly, monthly | no |
-| 微博 | weibo | | search 
-| V2EX | v2ex
-| 知乎 | zhihu
+|  全站热榜  | top-all | yes |today, weekly, monthly |  |
+| 微博 | weibo | | search, topic
+| V2EX | v2ex | 
+| 知乎 | zhihu |  |  | yes |
 | 微博 | weibo
 | 哔哩哔哩  | bilibili
 | GitHub |  github
