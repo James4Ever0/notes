@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T05:05:41.535Z'
+modified: '2023-01-12T05:05:51.176Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -92,7 +92,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 #### [watson based video maker](https://github.com/talesdsp/video-maker)
 
-It first 
+It first download wikipedia 
 
 #### [Auto-Editor](https://github.com/WyattBlue/auto-editor)
 
