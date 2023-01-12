@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T01:57:26.240Z'
+modified: '2023-01-12T02:09:28.945Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -45,6 +45,10 @@ B站撞车搬运检测：
 位置：`tests/viral_video_experiments/360ImageSearch`
 
 ### Video collectors
+
+#### [WeiboSpider](https://github.com/nghuyong/WeiboSpider)
+
+需要cookie 收集用户信息 用户粉丝列表 用户关注列表 微博采集 微博评论采集 微博转发采集 基于关键词的微博检索
 
 #### [botTuber: a instagram compilation reposter to youtube](https://github.com/sam5epi0l/BotTuber)
 
