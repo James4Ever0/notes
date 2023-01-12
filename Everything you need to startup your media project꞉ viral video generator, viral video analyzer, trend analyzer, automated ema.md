@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T05:25:45.802Z'
+modified: '2023-01-12T06:40:25.511Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -29,6 +29,8 @@ B站撞车搬运检测：
 API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potential parameters: sub_tab, date_type (default:now))
 
 知乎有个专门的热榜，地址：`https://www.zhihu.com/billboard`
+
+[知乎圆桌](https://www.zhihu.com/roundtable) [知乎发现](https://www.zhihu.com/explore)
 
 | name | tab |
 | --- | ---  | 
