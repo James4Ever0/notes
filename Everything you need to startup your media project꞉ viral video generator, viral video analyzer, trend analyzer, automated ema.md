@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T02:48:43.901Z'
+modified: '2023-01-12T02:50:10.549Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -30,10 +30,52 @@ API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potent
 
 知乎有个专门的热榜，地址：``
 
-| name| tab | page | sub_tab | date_type| 
-| --- | ---  | --------| ---------| --- |
-| 全站 | top-all | yes |today, weekly, monthly | no |
-| 微博 ｜ weibo | | search
+```javascript
+export const TAB_NAME_ENUM = {
+    V2EX: "v2ex",
+    ZHIHU: "zhihu",
+    WEIBO: "weibo",
+    BILIBILI: "bilibili",
+    GITHUB: "github",
+    DOUYIN: "douyin",
+    JOURNAL_TECH: "journal-tech",
+    HUPU: "hupu",
+    SSPAI: "sspai",
+    BAIDU: "baidu",
+    KR36: "36kr",
+    Tianya: "tianya",
+    Pojie52: "52pojie",
+    Ithome: "ithome",
+    TOP_ALL: "top-all",
+    TOP_DAYLONG: "top-daylong",
+    ZHIBO8: "zhibo8",
+    APPINN: "appinn",
+    APPRCN: "apprcn",
+}
+
+export const TAB_NAME_CHINESE_ENUM = {
+    [TAB_NAME_ENUM.V2EX]: "V2EX",
+    [TAB_NAME_ENUM.ZHIHU]: "知乎",
+    [TAB_NAME_ENUM.WEIBO]: "微博",
+    [TAB_NAME_ENUM.BILIBILI]: "哔哩哔哩",
+    [TAB_NAME_ENUM.GITHUB]: "GitHub",
+    [TAB_NAME_ENUM.DOUYIN]: "抖音",
+    [TAB_NAME_ENUM.JOURNAL_TECH]: "技术期刊",
+    [TAB_NAME_ENUM.HUPU]: "虎扑",
+    [TAB_NAME_ENUM.SSPAI]: "少数派",
+    [TAB_NAME_ENUM.BAIDU]: "百度",
+    [TAB_NAME_ENUM.KR36]: "36氪",
+    [TAB_NAME_ENUM.Tianya]: "天涯",
+    [TAB_NAME_ENUM.Pojie52]: "吾爱破解",
+    [TAB_NAME_ENUM.Ithome]: "IT之家",
+    [TAB_NAME_ENUM.TOP_ALL]: "全站热榜",
+    [TAB_NAME_ENUM.TOP_DAYLONG]: "全站24小时",
+    [TAB_NAME_ENUM.ZHIBO8]: "直播吧",
+    [TAB_NAME_ENUM.APPINN]: "小众软件",
+    [TAB_NAME_ENUM.APPRCN]: "反斗限免",
+}
+
+```
 
 #### [番茄数据](https://www.tomatodata.cn/news/1355.html)
 
