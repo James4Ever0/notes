@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T05:07:24.165Z'
+modified: '2023-01-12T05:07:37.097Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -92,7 +92,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 #### [watson based video maker](https://github.com/talesdsp/video-maker)
 
-It first downloads wikipedia content from algorithmia, then uses watson AI for sentence cutting, uses regex to filter out unwanted parts, set a limit for max sentences (notice: not summarization), then
+It first downloads wikipedia content from algorithmia, then uses watson AI for sentence cutting, uses regex to filter out unwanted parts, set a limit for max sentences (notice: not summarization), then search image with keywords, finally
 
 #### [Auto-Editor](https://github.com/WyattBlue/auto-editor)
 
