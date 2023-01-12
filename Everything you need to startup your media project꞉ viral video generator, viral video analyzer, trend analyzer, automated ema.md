@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T05:23:09.867Z'
+modified: '2023-01-12T05:25:45.802Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -94,7 +94,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 It first downloads wikipedia content from algorithmia, then uses regex to filter out unwanted parts, uses watson AI for sentence cutting, set a limit for max sentences (notice: not summarization), then search image with keywords, finally create video.
 
-In [another similar project](https://github.com/maykbrito/automatic-video-creator/blob/b37d93651e016ac3f8a0731289d84764802c7afc/robots/input/trends.js) IMDB and Google search trends (as RSS) are included.
+In [another similar project](https://github.com/maykbrito/automatic-video-creator/blob/b37d93651e016ac3f8a0731289d84764802c7afc/robots/input/trends.js) IMDB (Popular Film/TV series) and Google search trends (as RSS) are included.
 
 #### [Auto-Editor](https://github.com/WyattBlue/auto-editor)
 
