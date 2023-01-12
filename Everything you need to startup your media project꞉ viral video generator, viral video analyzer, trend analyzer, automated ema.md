@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T03:50:48.659Z'
+modified: '2023-01-12T03:53:14.496Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -126,9 +126,9 @@ There are some [cool text effects](https://zulko.github.io/moviepy/examples/movi
 
 #### [open-sir](https://github.com/open-sir/open-sir)
 
-Use sirx over sir. 
+Use sirx over sir.
 
-I 
+I think it is hard to use.
 
 #### [Youtube Viral Video Machine Learning Analysis](https://github.com/gdemos01/yttresearch-machine-learning-algorithms-analysis)
 
