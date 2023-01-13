@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T12:00:13.652Z'
+modified: '2023-01-13T12:02:55.685Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -49,6 +49,8 @@ then use ffmpeg with the url to chop the slice: `ffmpeg -ss 00:00:15.00 -i "OUTP
 ### [RangeDownloader](https://github.com/A-Soul-Database/RangeDownloader) by A-Soul-Database
 
 A-Soul-Database is a live-streaming replay record database designed for vtubers, organized in some way for easy information retrieval.
+
+RangeDownloader is acting like a server, though sometimes we are not sure how fast(er) it can really be.
 
 ## Viral videos
 
