@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T12:36:58.745Z'
+modified: '2023-01-13T12:37:13.216Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -130,7 +130,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 #### openshot and libopenshot (for python bindings)
 
-Nightcore is accelerating audio and raising pitch, also showing audio wave shape with 
+Nightcorify is accelerating audio and raising pitch, also showing audio wave shape with `showwaves`
 
 #### [keybert and summarization transformer pipeline](https://github.com/pawanreddy-u/videocreation/blob/main/generateVideo.py)
 
