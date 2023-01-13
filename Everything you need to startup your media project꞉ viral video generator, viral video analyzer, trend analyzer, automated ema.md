@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T12:39:31.434Z'
+modified: '2023-01-13T12:41:47.632Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -130,7 +130,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 #### openshot and libopenshot (for python bindings)
 
-[Nightcorify](https://github.com/thomashuss/nightcoreify/blob/545265c054c0d127b6dd81d4038f56c8c092a739/nightcorei.py#L38) is accelerating audio and raising pitch (`asetrate` strenches the timeline to change sample rate while `aresample` changes the sample rate but not timeline), also showing audio wave shape with `showwaves`
+[Nightcorify](https://github.com/thomashuss/nightcoreify/blob/545265c054c0d127b6dd81d4038f56c8c092a739/nightcorei.py#L38) is accelerating audio and raising pitch (`asetrate` strenches the timeline to change sample rate, `atempo` (not used in here) change the timeline but not the pitch, while `aresample` changes the sample rate but not timeline), also showing audio wave shape with `showwaves`
 
 #### [keybert and summarization transformer pipeline](https://github.com/pawanreddy-u/videocreation/blob/main/generateVideo.py)
 
