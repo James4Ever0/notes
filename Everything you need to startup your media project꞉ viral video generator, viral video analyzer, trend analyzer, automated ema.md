@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T00:12:53.474Z'
+modified: '2023-01-13T02:03:27.688Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -33,6 +33,8 @@ then use ffmpeg with the url to chop the slice: `ffmpeg -ss 00:00:15.00 -i "OUTP
 ### Data sources and monitors
 
 #### [Rebang.today](https://www.rebang.today)
+
+通过B站推荐标签接口可以得到观众的实时需求
 
 提供全站 知乎 微博 IT之家 百度 虎扑 直播吧 少数派 36氪 吾爱破解 天涯 小众软件 反斗限免 哔哩哔哩 抖音 技术期刊 v2ex GitHub的热榜
 
