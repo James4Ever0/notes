@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T12:02:55.685Z'
+modified: '2023-01-13T12:07:40.868Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -131,6 +131,8 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 #### [keybert and summarization transformer pipeline](https://github.com/pawanreddy-u/videocreation/blob/main/generateVideo.py)
 
 Check [docs on transformers pipelines](https://huggingface.co/transformers/v4.10.1/_modules/transformers/pipelines.html) for default and fine-tuned task-specific models for each pipeline.
+
+[Keybert](https://pypi.org/project/keybert/) uses "sentence-transformers". The author would advise either "all-MiniLM-L6-v2" for English documents or "paraphrase-multilingual-MiniLM-L12-v2" for multi-lingual documents or any other language.
 
 #### [watson based video maker](https://github.com/talesdsp/video-maker)
 
