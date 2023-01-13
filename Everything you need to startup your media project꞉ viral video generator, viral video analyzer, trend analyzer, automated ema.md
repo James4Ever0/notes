@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-12T23:25:13.238Z'
+modified: '2023-01-13T00:09:51.208Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -19,6 +19,8 @@ B站撞车搬运检测：
 通过搜索其他网站的前缀 比如`https://www.youtube.com` 可以得到被转载视频的链接 但是感觉数据不是很靠谱 不是很火的那种 要看大流量的还是得爬首页推荐链接 根据话题搜索
 
 ## Download a portion of video
+
+**SINCE YT-DLP IS UPDATED YOU CAN USE `--download-sections` ARGUMENT FOR YOUTUBE**
 
 first acquire download url: `youtube-dl [--youtube-skip-dash-manifest] [-f 18] -g "https://www.youtube.com/watch?v=V_f2QkBdbRI"` (you need to force the format.)
 
