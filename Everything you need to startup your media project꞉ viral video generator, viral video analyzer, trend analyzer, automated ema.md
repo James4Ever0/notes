@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T07:53:14.742Z'
+modified: '2023-01-13T07:54:44.547Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -41,7 +41,9 @@ first acquire download url: `youtube-dl [--youtube-skip-dash-manifest] [-f 18] -
 
 then use ffmpeg with the url to chop the slice: `ffmpeg -ss 00:00:15.00 -i "OUTPUT-OF-FIRST URL" -t 00:00:10.00 -c copy out.mp4`
 
-### 
+### RangeDownloader by A-Soul-Database
+
+A-Soul-Database is a live-streaming replay record database designed for vtubers, organized in some way for easy information retrieval.
 
 ## Viral videos
 
