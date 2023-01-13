@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T08:26:18.431Z'
+modified: '2023-01-13T09:00:35.416Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -33,6 +33,8 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 ### yt-dlp (latest)
 
 **SINCE YT-DLP IS UPDATED YOU CAN USE `--download-sections` ARGUMENT FOR YOUTUBE** 
+
+If you want to download multiple sections of same video, you must specify video output format string via `-o`
 
 But when using that without "--force-keyframes-at-cuts" (skip re-encoding which can speed up thing but not ensuring quality of video at tail), you better keep margin at tail for 10 seconds (could glitch at last 5 seconds) and head for 5 seconds (maybe head margin is not needed?).
 
