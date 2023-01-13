@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T09:25:49.846Z'
+modified: '2023-01-13T09:30:17.359Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -128,7 +128,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 #### [keybert and summarization transformer pipeline](https://github.com/pawanreddy-u/videocreation/blob/main/generateVideo.py)
 
-Why transformers pipeline taking huge VRAM but not CPU RAM?
+Check [docs on transformers pipelines](https://huggingface.co/transformers/v3.0.2/main_classes/pipelines.html) for default and fine-tuned task-specific models for each pipeline.
 
 #### [watson based video maker](https://github.com/talesdsp/video-maker)
 
