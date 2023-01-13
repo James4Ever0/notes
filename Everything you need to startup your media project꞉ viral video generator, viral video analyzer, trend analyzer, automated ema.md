@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T07:52:06.562Z'
+modified: '2023-01-13T07:52:27.386Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -25,6 +25,7 @@ youtube-dl "ytsearch[optional_result_limit]:[query]"
 
 # pass query url directly to allow pagination or filters
 
+youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+app+in+android+studio&page=1"
 ```
 
 ## Download a portion of video
