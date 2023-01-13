@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T12:15:29.165Z'
+modified: '2023-01-13T12:16:37.994Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -132,7 +132,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 Check [docs on transformers pipelines](https://huggingface.co/transformers/v4.10.1/_modules/transformers/pipelines.html) for default and fine-tuned task-specific models for each pipeline.
 
-[Keybert](https://pypi.org/project/keybert/) uses "sentence-transformers". The author would advise either "all-MiniLM-L6-v2" for English documents or "paraphrase-multilingual-MiniLM-L12-v2" for multi-lingual documents or any other language. [Search](https://huggingface.co/models?pipeline_tag=summarization&sort=downloads&search=multi) for "multi" with tag "summarization in huggingface, then you would get huge models.
+[Keybert](https://pypi.org/project/keybert/) uses "sentence-transformers". The author would advise either "all-MiniLM-L6-v2" for English documents or "paraphrase-multilingual-MiniLM-L12-v2" for multi-lingual documents or any other language. [Search](https://huggingface.co/models?pipeline_tag=summarization&sort=downloads&search=multi) for "multi" with tag "summarization in huggingface, then you would get huge models. A [mT5](https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum) model is very large, size upto 2.33GB
 
 Keywords-image pairs can be used for CLIP model training.
 
