@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T09:24:10.765Z'
+modified: '2023-01-13T09:24:31.950Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -126,7 +126,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 ### Video editors
 
-#### [keybert and summari]
+#### [keybert and summarization transformer pipeline]
 
 #### [watson based video maker](https://github.com/talesdsp/video-maker)
 
