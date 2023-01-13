@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-13T07:52:27.386Z'
+modified: '2023-01-13T07:53:14.742Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -30,13 +30,18 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 
 ## Download a portion of video
 
+### yt-dlp (latest)
 **SINCE YT-DLP IS UPDATED YOU CAN USE `--download-sections` ARGUMENT FOR YOUTUBE** 
 
 But when using that without "--force-keyframes-at-cuts" (which can speed up thing but not ensuring quality of video at tail), you better keep margin at tail for 10 seconds (could glitch at last 5 seconds) and head for 5 seconds (maybe head margin is not needed?).
 
+### youtube-dl
+
 first acquire download url: `youtube-dl [--youtube-skip-dash-manifest] [-f 18] -g "https://www.youtube.com/watch?v=V_f2QkBdbRI"` (you need to force the format.)
 
 then use ffmpeg with the url to chop the slice: `ffmpeg -ss 00:00:15.00 -i "OUTPUT-OF-FIRST URL" -t 00:00:10.00 -c copy out.mp4`
+
+### 
 
 ## Viral videos
 
