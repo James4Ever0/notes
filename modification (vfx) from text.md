@@ -1,10 +1,12 @@
 ---
-title: video generation from text
+title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2022-12-25T21:47:51.597Z'
+modified: '2023-01-13T12:32:49.627Z'
 ---
 
-# video generation from text
+# video generation/modification (vfx) from text
+
+[text2live](https://github.com/omerbt/Text2LIVE) modify video by text prompt (such as add fire in mouth)
 
 [recurrent-interface-network-pytorch](https://github.com/lucidrains/recurrent-interface-network-pytorch) using diffusion to generate images and video
 
