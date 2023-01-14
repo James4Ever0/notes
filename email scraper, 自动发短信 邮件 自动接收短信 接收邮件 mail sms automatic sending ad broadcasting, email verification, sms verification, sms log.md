@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T05:13:16.555Z'
+modified: '2023-01-14T05:14:45.602Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
@@ -17,7 +17,7 @@ modified: '2023-01-14T05:13:16.555Z'
 
 #### [muumuu (which reminds me of someone) email registration using 2captcha, selenium and pyautogui](https://github.com/KenshiroSugiyama/automation_email_create/blob/main/create.py)
 
-the muumuu mail is programmatically connectable using account and password. POP3 is for both sending and receiving. IMAP is for receiving. SMTP is for sending.
+the muumuu mail is programmatically connectable using account and password. seems it is using default ports for these services. [POP3]() is for both sending and receiving. [IMAP]() is for receiving. [SMTP]() is for sending.
 
 this guy stored potential password combinations and also registered accounts (need testing, some may not work) on [this google doc](). you can download the sheet by [this api](), method described [here]().
 
