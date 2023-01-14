@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: '自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T01:45:19.799Z'
+modified: '2023-01-14T01:46:03.662Z'
 ---
 
 # 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
@@ -10,6 +10,8 @@ modified: '2023-01-14T01:45:19.799Z'
 email bulk senders are equipped with email templates, statistics (like opened or not, click data monitoring)
 
 vary your email style and content unless you want to get blocked/trashed by servers
+
+searching for "site:pastebin.com @yahoo.com" to get some email addresses
 
 [erine.email](https://erine.email) email proxy for resending email to you
 
