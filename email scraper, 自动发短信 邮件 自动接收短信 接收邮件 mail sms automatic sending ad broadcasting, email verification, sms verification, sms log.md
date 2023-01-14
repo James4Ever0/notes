@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T20:30:42.568Z'
+modified: '2023-01-14T20:31:20.476Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -76,6 +76,10 @@ email marketing is quantity over quality. know your customers' preference by lin
 email bulk senders are equipped with email templates, statistics (like opened or not, click data monitoring)
 
 vary your email style and content unless you want to get blocked/trashed by servers
+
+#### email templates
+
+
 
 ## SMS
 
