@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T20:28:24.023Z'
+modified: '2023-01-14T20:30:42.568Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -14,6 +14,8 @@ modified: '2023-01-14T20:28:24.023Z'
 #### check registration account with email
 
 [reg007 counterpart](https://github.com/CreditTone/regchecker) only check if that account "exists", but not actual account shown. [search for reg007 on github](https://github.com/search?p=1&q=reg007.com&type=Code) you will get a bunch of links relating to OSINT.
+
+[holehe](https://github.com/megadose/holehe) only check if an email address is registered as account elsewhere using "forget my password" APIs.
 
 #### email account verifier
 
