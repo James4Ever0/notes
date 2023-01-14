@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T05:31:22.390Z'
+modified: '2023-01-14T05:32:03.904Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
@@ -35,7 +35,7 @@ email proxy for resending email to you, which I used for github registration (bu
 
 ### email aliasing for sending
 
-icloud's "hide my email" service seems only provide few email aliases. but according to [3rd party icloud alias generator](https://github.com/rtunazzz/hidemyemail-generator) (cannot be used for chinese version of icloud) you can generate at least 10 aliases. or use  account registered from web without logged in any apple device (maybe virtualbox -> macos has a shot?) will not have email service.
+icloud's "hide my email" service seems only provide few email aliases. but according to [3rd party icloud alias generator](https://github.com/rtunazzz/hidemyemail-generator) (cannot be used for chinese version of icloud) you can generate at least 10 aliases. or use [hidemyemail-api](https://github.com/liej6799/hidemyemail-api) to login with pyicloud and get aliases as API service. account registered from web without logged in any apple device (maybe virtualbox -> macos has a shot?) will not have email service.
 
 to send email from alias, you can try setting "FROM" address as your alias via smtp protocol, but the credential shall stay the same. the working approach could be platform specific
 
