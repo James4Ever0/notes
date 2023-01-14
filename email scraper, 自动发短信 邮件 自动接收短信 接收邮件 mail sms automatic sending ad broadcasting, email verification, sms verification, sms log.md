@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T20:27:38.499Z'
+modified: '2023-01-14T20:28:12.893Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -17,7 +17,7 @@ modified: '2023-01-14T20:27:38.499Z'
 
 #### email account verifier
 
-Usually it only verify existance of given email, like [emailhippo](https://tools.verifyemailaddress.io/) (100 requests free per day per ip)
+Usually it only verify existance of given email, like [emailhippo](https://tools.verifyemailaddress.io/) (100 requests free per day per ip), or [mailforguess](https://github.com/WildSiphon/Mailfoguess) checking 
 
 Some of them verify email with password: [verify email address and password with API of my.com](https://github.com/MachineKillin/Email-Account-Generator-Checker/blob/main/main.py)
 
