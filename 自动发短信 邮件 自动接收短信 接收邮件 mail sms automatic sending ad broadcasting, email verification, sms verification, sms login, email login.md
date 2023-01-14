@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: '自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T02:01:42.579Z'
+modified: '2023-01-14T02:03:41.512Z'
 ---
 
 # 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
@@ -40,7 +40,7 @@ https://textbelt.com/
 https://github.com/HACK3RY2J/Anon-SMS
 https://github.com/typpo/textbelt
 
-freesms: (don't work for my phone number as recipient though, but I found [some interesting projects](https://github.com/search?q=afreesms.com&type=code) on github relating to free SMS sending, some using OCR to crack captcha and access API)
+freesms: (don't work for my phone number as recipient though, but I found [some interesting projects](https://github.com/search?q=afreesms.com&type=code) on github relating to free SMS sending, [some using OCR](https://github.com/seadog007/FreeSMS-OCR) to crack captcha and access API)
 https://www.afreesms.com/freesms/
 
 yoy might want phone number lists for sending ads via free sms providers
