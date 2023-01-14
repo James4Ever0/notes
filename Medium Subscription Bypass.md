@@ -1,10 +1,12 @@
 ---
 title: Medium Subscription Bypass
 created: '2023-01-13T04:01:08.123Z'
-modified: '2023-01-13T09:36:17.821Z'
+modified: '2023-01-14T02:59:03.798Z'
 ---
 
 # Medium Subscription Bypass
+
+this site only unblock "restricted" articles. it does not offer "trending" "user homepage" "most read" "recommendation" things which you can get from official medium website.
 
 map `*.medium.com/[URL]` to `scribe.rip/[URL]`
 
