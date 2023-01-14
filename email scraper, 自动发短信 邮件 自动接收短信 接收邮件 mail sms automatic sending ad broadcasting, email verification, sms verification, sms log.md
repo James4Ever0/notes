@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T02:53:56.449Z'
+modified: '2023-01-14T05:07:47.323Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
@@ -13,8 +13,11 @@ modified: '2023-01-14T02:53:56.449Z'
 
 [proton mail unofficial client in python](https://github.com/ShellCode33/ProtonMail)
 
-
 ### email registration
+
+#### [mumu mail registration using 2captcha, selenium and ](https://github.com/KenshiroSugiyama/automation_email_create/blob/main/create.py)
+
+
 
 ### receiving-only email services
 
