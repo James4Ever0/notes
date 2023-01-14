@@ -2,10 +2,12 @@
 tags: [advertising, mail sending, SMS]
 title: '自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T01:51:42.379Z'
+modified: '2023-01-14T01:53:48.564Z'
 ---
 
 # 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
+
+email marketing is quantity over quality. know your customers' preference by linking their accounts on other platforms, telemetry.
 
 icloud's "hide my email" service seems only provide few email aliases. account registered from web without logged in any apple device (maybe virtualbox has a shot?) will not have email service.
 
