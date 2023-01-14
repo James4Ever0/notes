@@ -1,7 +1,7 @@
 ---
 title: 'recaptcha solving, proxy providers'
 created: '2023-01-14T05:45:51.604Z'
-modified: '2023-01-14T07:12:20.274Z'
+modified: '2023-01-14T07:12:28.256Z'
 ---
 
 # recaptcha solving, proxy providers
@@ -14,7 +14,7 @@ modified: '2023-01-14T07:12:20.274Z'
 
 ### free libraries
 
-[botright]() can solve recaptcha, hcaptcha, 
+[botright](https://github.com/Vinyzu/Botright) can solve recaptcha, hcaptcha, 
 
 ### paid services
 
