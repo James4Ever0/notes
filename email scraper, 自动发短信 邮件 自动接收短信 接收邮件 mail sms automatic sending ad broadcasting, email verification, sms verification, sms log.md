@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T02:14:33.772Z'
+modified: '2023-01-14T02:16:58.884Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
@@ -12,6 +12,8 @@ modified: '2023-01-14T02:14:33.772Z'
 email marketing is quantity over quality. know your customers' preference by linking their accounts on other platforms, telemetry.
 
 icloud's "hide my email" service seems only provide few email aliases. account registered from web without logged in any apple device (maybe virtualbox has a shot?) will not have email service.
+
+to send email from alias, you can try setting "FROM" address as your alias via smtp protocol, but the credential shall stay the same. the working approach could be platform specific
 
 yahoo provides the most email alias up to 500, but 10 for send only emails. however to get one yahoo account one needs offshore phone numbers. online sms receivers are not so reliable (not even usable for yahoo registration), and those found from google searches (like [free receive sms](https://www.freereceivesms.com/) (这个网站有反js调试 打开debugger自动暂停执行), which has simple interface for fetching data, and you can [search this site on github](https://github.com/search?q=freereceivesms.com&type=code) to get more sources and potential API adaptors like [disposable phonebook](https://github.com/anroots/disposable-phonebook/blob/769bc2b23071ba4c854a00a5012cf5c2b7a2036f/dphonebook/lib/providers/free_receive_sms_com.py)) have chances to get registered yahoo accounts.
 
