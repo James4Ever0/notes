@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T20:31:41.789Z'
+modified: '2023-01-14T20:33:58.558Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -79,7 +79,7 @@ vary your email style and content unless you want to get blocked/trashed by serv
 
 #### email templates
 
-[premail](https://github.com/premail/premail) is an easy-to-use component-based build system for MJML, the email templating language
+[premail](https://github.com/premail/premail) is an easy-to-use component-based build system for [MJML](https://mjml.io/), the email templating language
 
 ## SMS
 
