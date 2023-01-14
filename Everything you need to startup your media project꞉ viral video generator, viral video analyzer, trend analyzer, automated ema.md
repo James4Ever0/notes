@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-14T03:23:34.494Z'
+modified: '2023-01-14T03:25:50.313Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -20,7 +20,7 @@ B站撞车搬运检测：
 
 ## recaptcha solving service
 
-[anycaptcha.com](https://anycaptcha.com/)
+[anycaptcha.com](https://anycaptcha.com/) is an AI captcha solving service
 
 ## youtube-dl search youtube video
 
