@@ -1,11 +1,13 @@
 ---
 tags: [advertising, mail sending, SMS]
-title: '自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
+title: 'email scraper 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T02:09:13.936Z'
+modified: '2023-01-14T02:13:42.391Z'
 ---
 
-# 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
+# email scraper 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
+
+[mailcat](https://github.com/sharsil/mailcat) find email address by nickname (check if deliverable?)
 
 email marketing is quantity over quality. know your customers' preference by linking their accounts on other platforms, telemetry.
 
