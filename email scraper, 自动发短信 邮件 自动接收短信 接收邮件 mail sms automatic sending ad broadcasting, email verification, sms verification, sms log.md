@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T22:34:06.523Z'
+modified: '2023-01-14T23:54:37.932Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -30,6 +30,10 @@ Some of them verify email with password: [verify email address and password with
 [proton mail unofficial client in python](https://github.com/ShellCode33/ProtonMail)
 
 ### email registration
+
+#### [outlook email generator](https://github.com/MatrixTM/OutlookGen)
+
+using 2captcha and anycaptcha for captcha solving (paid)
 
 #### [muumuu (which reminds me of someone) email registration using 2captcha, selenium and pyautogui](https://github.com/KenshiroSugiyama/automation_email_create/blob/main/create.py)
 
