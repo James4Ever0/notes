@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-14T05:15:50.198Z'
+modified: '2023-01-14T05:16:12.001Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail
@@ -19,7 +19,7 @@ modified: '2023-01-14T05:15:50.198Z'
 
 the [muumuu mail](https://muumuu-mail.com/) is programmatically connectable using account and password. seems it is using default ports for these services. [POP3](pop3.muumuu-mail.com) is for both sending and receiving. [IMAP](imap4.muumuu-mail.com) is for receiving. [SMTP](smtp.muumuu-mail.com) is for sending.
 
-this guy stored potential password combinations and also registered accounts (need testing, some may not work) on [this google doc](). you can download the sheet by [this api](), method described [here]().
+this guy stored potential password combinations and also registered accounts (need testing, some may not work) on [this google doc](). you can download the sheet by [this api](), method described [here](https://chewett.co.uk/blog/2445/how-to-use-an-api-to-download-a-google-docs-sheets-spreadsheet-as-csv/).
 
 ### receiving-only email services
 
