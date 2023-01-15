@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T13:40:39.645Z'
+modified: '2023-01-15T13:40:50.560Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -29,7 +29,7 @@ you typically find links to these databases on `anonfiles.com` (or else), so que
 
 [breachedforum's index](https://breached.vc/Announcement-Database-Index) contains "credits only" threads which requires 4-8 credits to unlock. to get credits you need to create thread (which will earn 0 credit) and get 1 credit per reply. post to trivial threads like manga.
 
-in [leakbase]() you earn credits and download leaked databases easier. it has official telegram bot](https://t.me/leakbase_official) claims to leak free databases everyday.
+in [leakbase]() you earn credits and download leaked databases easier. it has [official telegram bot](https://t.me/leakbase_official) claims to leak free databases everyday.
 
 ##### telegram bots
 
