@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T14:00:43.763Z'
+modified: '2023-01-15T14:01:40.559Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -33,7 +33,7 @@ in [leakbase](https://leakbase.cc/) you earn credits and download leaked databas
 
 ##### telegram bots
 
-find telegram bots collection in [privacy.club](https://www.privacys.club/)
+find telegram bots collection in [privacy.club](https://www.privacys.club/) and [here](https://www.ff98sha.me/archives/147)
 
 [SGKmainNEWbot](https://t.me/SGKmainNEWbot?start=IVT1073A377)
 
