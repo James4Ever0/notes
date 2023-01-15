@@ -1,7 +1,7 @@
 ---
 title: 'opentimelineio: unified format for media editors?'
 created: '2023-01-15T03:38:39.566Z'
-modified: '2023-01-15T03:57:03.431Z'
+modified: '2023-01-15T04:58:07.810Z'
 ---
 
 # opentimelineio: unified format for media editors?
@@ -14,4 +14,4 @@ it has simple python interface.
 
 but! many adapters are incomplete right now.
 
-limited [otio mlt adapter/](https://pypi.org/project/otio-mlt-adapter/)
+limited [otio mlt adapter](https://pypi.org/project/otio-mlt-adapter/)
