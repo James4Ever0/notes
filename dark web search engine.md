@@ -1,12 +1,33 @@
 ---
 title: dark web search engine
 created: '2022-09-24T16:45:35.000Z'
-modified: '2023-01-15T05:48:54.559Z'
+modified: '2023-01-15T05:50:05.194Z'
 ---
 
 # dark web search engine
 
 [OnionSearch](https://github.com/megadose/OnionSearch) commandline all-in-one darknet search tool, install via `pip3 install onionsearch` (of course you need proxy)
+
+Supporting:
+
+```
+ahmia
+darksearchio
+onionland
+notevil
+darksearchenginer
+phobos
+onionsearchserver
+torgle
+onionsearchengine
+tordex
+tor66
+tormax
+haystack
+multivac
+evosearch
+deeplink
+```
 
 https://dark.link/torch-darkweb-search-engine-links/
 
