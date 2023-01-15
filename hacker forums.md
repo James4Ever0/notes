@@ -1,9 +1,12 @@
 ---
-created: 2022-11-29T21:38:35+08:00
-modified: 2022-12-14T16:03:02+08:00
+title: hacker forums
+created: '2022-11-29T13:38:35.000Z'
+modified: '2023-01-15T05:44:20.693Z'
 ---
 
 # hacker forums
+
+[wooyun.org mirror site](https://wooyun.hctrah.com/) wooyun is dead/closed since 2016
 
 social engineering is just a fancy name for spotting candidates, hooking up, gaining trust and doing shit.
 
