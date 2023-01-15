@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T10:04:14.279Z'
+modified: '2023-01-15T10:09:03.098Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -20,8 +20,6 @@ loading/transforming leaked txt files will be time-consuming. use pypy to speedu
 ##### leaks from forums
 
 [breachedforum's index](https://breached.vc/Announcement-Database-Index) contains "credits only" threads which requires 4-8 credits to unlock. to get credits you need to create thread (which will earn 0 credit) and get 1 credit per reply. post to trivial threads like manga.
-
-
 
 ##### telegram bots
 
@@ -85,6 +83,8 @@ ed2k://|file|2013.06-Myspace.com-36021万-txt.7z|12419587039|A1B14F88891885D636D
 [reg007 counterpart](https://github.com/CreditTone/regchecker) only check if that account "exists", but no actual account shown. [search for reg007 on github](https://github.com/search?p=1&q=reg007.com&type=Code) you will get a bunch of links relating to OSINT.
 
 [holehe](https://github.com/megadose/holehe) only check if an email address is registered as account elsewhere using "forget my password" APIs.
+
+[]()
 
 #### email account verifier
 
