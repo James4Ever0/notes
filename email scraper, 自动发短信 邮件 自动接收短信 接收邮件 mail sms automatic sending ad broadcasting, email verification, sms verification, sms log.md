@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T14:03:24.411Z'
+modified: '2023-01-15T15:42:34.462Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -51,7 +51,7 @@ find telegram bots collection in [privacy.club](https://www.privacys.club/) (onl
 
 although i find many leaked databases as torrent, but those torrent search engines usually collect video/movies instead of anything related to leaked database.
 
-[44.65GB QQ 微博社工库](http://4563.org/?p=201481) or [qq8e/qq](https://github.com/qq8e/qq) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库 使用这个数据库的还有[aiuys's retrofit](https://privacy.aiuys.com/) 后台是[privacy](https://github.com/Chordp/privacy) (只是部分的可以导入 其他的自行处理)
+[44.65GB QQ 微博社工库](http://4563.org/?p=201481) or [qq8e/qq](https://github.com/qq8e/qq) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库 使用这个数据库的还有 [q绑](http://qb.shegongk.com/) (有反调试 带去水印工具 但是其实这个到处都有吧) [aiuys's retrofit](https://privacy.aiuys.com/) 后台是[privacy](https://github.com/Chordp/privacy) (只是部分的可以导入 其他的自行处理)
 
 Using aMule on macOS, Kad is firewalled (2.2.1 works well [said by people](http://bugs.amule.org/view.php?id=1368), but I'd not use macOS), reason unclear. Maybe on Linux or Windows it will be different.
 
