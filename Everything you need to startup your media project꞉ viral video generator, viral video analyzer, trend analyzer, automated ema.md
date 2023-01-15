@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-15T08:37:18.528Z'
+modified: '2023-01-15T08:38:00.702Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -176,7 +176,7 @@ Leveraging 3 millions of tagged video clips and audio, choosing most semanticall
 
 #### [Wisecut](https://www.wisecut.video)
 
-Short videos can attract your viewers and converting them into followers (to view more of your long videos). [Make short videos](https://www.wisecut.video/post/leverage-short-videos-to-grow-your-audience) with music, subtitles and facial recognition auto-reframe (detect main speaker). It match the right BGM with the type of content, with audio ducking, which can be achieved with ffmpeg .
+Short videos can attract your viewers and converting them into followers (to view more of your long videos). [Make short videos](https://www.wisecut.video/post/leverage-short-videos-to-grow-your-audience) with music, subtitles and facial recognition auto-reframe (detect main speaker). It match the right BGM with the type of content, with audio ducking, which can be achieved with ffmpeg or editly.
 
 It is listed among an [AI marketing tools list](https://github.com/mhmmyu/awesomeAI), which mentions copywriting, social media/email/blog marketing text/content generation (like [copy.ai](https://copy.ai)), text to video
 
