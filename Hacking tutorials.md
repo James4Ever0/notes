@@ -2,12 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-15T11:15:09.418Z'
+modified: '2023-01-15T11:16:08.774Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
 
-[socialfish](https://github.com/UndeadSec/SocialFish) clone website and collect credentials
+[socialfish](https://github.com/UndeadSec/SocialFish) clone website and collect credentials (phishing) with web controller interfaces
 
 [sploitus](https://sploitus.com/) search for latest sploits and POC-code (usually after patching is done)
 
