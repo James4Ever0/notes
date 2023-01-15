@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T10:11:26.346Z'
+modified: '2023-01-15T10:13:46.724Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -14,6 +14,10 @@ modified: '2023-01-15T10:11:26.346Z'
 OSINT/recon 其实就是社工 但是一般人喜欢把社工库和社工分开 因为社工库是社工收集来的数据集合 而社工则是一个过程
 
 loading/transforming leaked txt files will be time-consuming. use pypy to speedup the process. use database specific batch processing method to import the data.
+
+#### email collector
+
+[gitscan](https://github.com/sea-god/gitscan/blob/master/gitscan.py) scan for email and password (if possible) with predefined domains and rules by searching github
 
 #### leaked email and data
 
