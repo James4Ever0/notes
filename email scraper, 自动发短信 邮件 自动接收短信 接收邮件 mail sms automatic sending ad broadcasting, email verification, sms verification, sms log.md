@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T13:45:07.595Z'
+modified: '2023-01-15T13:52:23.923Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -47,7 +47,7 @@ in [leakbase](https://leakbase.cc/) you earn credits and download leaked databas
 
 although i find many leaked databases as torrent, but those torrent search engines usually collect video/movies instead of anything related to leaked database.
 
-[44.65GB QQ 微博社工库](http://4563.org/?p=201481) or [qq8e/qq](https://github.com/qq8e/qq) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库
+[44.65GB QQ 微博社工库](http://4563.org/?p=201481) or [qq8e/qq](https://github.com/qq8e/qq) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库 使用这个数据库的还有
 
 Using aMule on macOS, Kad is firewalled (2.2.1 works well [said by people](http://bugs.amule.org/view.php?id=1368), but I'd not use macOS), reason unclear. Maybe on Linux or Windows it will be different.
 
