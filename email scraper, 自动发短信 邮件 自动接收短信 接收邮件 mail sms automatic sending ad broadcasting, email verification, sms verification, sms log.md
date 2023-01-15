@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T05:32:43.040Z'
+modified: '2023-01-15T05:42:50.986Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -14,6 +14,10 @@ modified: '2023-01-15T05:32:43.040Z'
 OSINT/recon 其实就是社工 但是一般人喜欢把社工库和社工分开 因为社工库是社工收集来的数据集合 而社工则是一个过程
 
 #### leaked email and data
+
+##### telegram bots
+
+##### download links
 
 [44.65GB QQ 微博社工库](http://4563.org/?p=201481) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库
 
