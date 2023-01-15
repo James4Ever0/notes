@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T10:21:49.754Z'
+modified: '2023-01-15T11:12:57.422Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -28,6 +28,8 @@ loading/transforming leaked txt files will be time-consuming. use pypy to speedu
 ##### telegram bots
 
 [SGKmainNEWbot](https://t.me/SGKmainNEWbot?start=IVT1073A377)
+
+[sgkmainbot](https://t.me/sgkmainbot?start=IVT7FBE782B)
 
 (gone?) [FreeSGKbot](https://t.me/FreeSGKbot?start=SGKETRAYJU)
 
