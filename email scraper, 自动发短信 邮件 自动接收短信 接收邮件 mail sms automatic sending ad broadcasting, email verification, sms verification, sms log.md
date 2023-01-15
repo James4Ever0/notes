@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T06:34:38.429Z'
+modified: '2023-01-15T07:25:20.809Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -25,7 +25,7 @@ OSINT/recon 其实就是社工 但是一般人喜欢把社工库和社工分开 
 
 although i find many leaked databases as torrent, but those torrent search engines usually collect video/movies instead of anything related to leaked database.
 
-[44.65GB QQ 微博社工库](http://4563.org/?p=201481) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库
+[44.65GB QQ 微博社工库](http://4563.org/?p=201481) or [qq8e/qq](https://github.com/qq8e/qq) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库
 
 #### check registration account with email
 
