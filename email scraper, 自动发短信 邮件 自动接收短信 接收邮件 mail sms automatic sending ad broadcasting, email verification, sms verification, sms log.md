@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T08:01:47.418Z'
+modified: '2023-01-15T08:11:12.275Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -16,6 +16,8 @@ OSINT/recon 其实就是社工 但是一般人喜欢把社工库和社工分开 
 #### leaked email and data
 
 ##### telegram bots
+
+(gone?) [FreeSGKbot](https://t.me/FreeSGKbot?start=SGKETRAYJU)
 
 [FreeSGKbot4](https://t.me/s/FreeSGKbot4?before=123)
 
