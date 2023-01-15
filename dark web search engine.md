@@ -1,12 +1,12 @@
 ---
 title: dark web search engine
 created: '2022-09-24T16:45:35.000Z'
-modified: '2023-01-15T05:48:21.304Z'
+modified: '2023-01-15T05:48:54.559Z'
 ---
 
 # dark web search engine
 
-[OnionSearch](https://github.com/megadose/OnionSearch) commandline all-in-one darknet search tool, install via `pip3 install onionsearch`
+[OnionSearch](https://github.com/megadose/OnionSearch) commandline all-in-one darknet search tool, install via `pip3 install onionsearch` (of course you need proxy)
 
 https://dark.link/torch-darkweb-search-engine-links/
 
