@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-15T02:01:43.318Z'
+modified: '2023-01-15T02:02:38.306Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -129,6 +129,8 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 ### Video editors
 
 #### [回声工坊 TRPG Replay Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator)
+
+based on pygame
 
 TRPG：桌上角色扮演游戏 有丢骰子（随机元素）的RPG
 
