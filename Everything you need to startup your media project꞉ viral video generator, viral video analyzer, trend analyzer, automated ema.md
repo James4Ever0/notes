@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-15T01:54:43.725Z'
+modified: '2023-01-15T01:55:51.914Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -132,7 +132,7 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 TRPG：桌上角色扮演游戏 有丢骰子（随机元素）的RPG
 
-角色立绘可以是动态的
+角色立绘可以是动态的 但是是多个png文件
 
 Has special requirements to media sources. Use `.ogg` format for BGM. Use `.wav` format for AFX and voices. Use `.png` for image. Cannot get video layers working so you might consider some "green screen" effects.
 
