@@ -1,7 +1,7 @@
 ---
 title: 'free proxies: openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2023-01-15T14:06:39.208Z'
+modified: '2023-01-15T14:08:30.080Z'
 ---
 
 # free proxies: openit proxy pool has been seized, what to do
@@ -22,7 +22,7 @@ or you could use lantern.
 
 ### self-hosted or cloud/CI based
 
-[]() has stopped working since broken github action settings, though []() still works (collecting unchecked proxies via travis-ci)
+[proxylist](https://github.com/fate0/proxylist) by fate0 has stopped working since broken github action settings, though [getproxy](https://github.com/fate0/getproxy) still works (collecting unchecked proxies via travis-ci)
 
 ## tools
 
