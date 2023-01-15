@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T08:11:12.275Z'
+modified: '2023-01-15T08:40:28.696Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -29,7 +29,7 @@ although i find many leaked databases as torrent, but those torrent search engin
 
 [44.65GB QQ 微博社工库](http://4563.org/?p=201481) or [qq8e/qq](https://github.com/qq8e/qq) 基本上传的就是这个了 或许可以在QQ群里面找到一些别的社工库
 
-Some links of other databases in ed2k emule format
+Some (dead) links of other databases in ed2k emule format
 ```
 ed2k://|file|2010.06-江西移动全库-408万-access.7z|1329999527|5231E1EC5EE1123C6E694AD6399F9807|h=DORZC7XFNG63ZWX6C3RSN3Q7CWZXG5G4|/
 ed2k://|file|2012.01-千脑-70万-csv.rar|34017079|A30DD3EF32C03C86E71032CDCA1C5EF9|h=2Z7TKJED7P2NJCKUCINNHMWLXV3KVVS4|/
