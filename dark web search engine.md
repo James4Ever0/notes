@@ -1,12 +1,12 @@
 ---
 title: dark web search engine
 created: '2022-09-24T16:45:35.000Z'
-modified: '2023-01-15T05:47:50.593Z'
+modified: '2023-01-15T05:48:00.443Z'
 ---
 
 # dark web search engine
 
-commandline all-in-one darknet search tool
+[OnionSearch](https://github.com/megadose/OnionSearch) commandline all-in-one darknet search tool
 
 https://dark.link/torch-darkweb-search-engine-links/
 
