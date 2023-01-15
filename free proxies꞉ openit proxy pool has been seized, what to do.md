@@ -1,10 +1,10 @@
 ---
-title: 'openit proxy pool has been seized, what to do'
+title: 'free proxies: openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2022-12-11T13:10:03.570Z'
+modified: '2023-01-15T06:48:44.234Z'
 ---
 
-# openit proxy pool has been seized, what to do
+# free proxies: openit proxy pool has been seized, what to do
 
 there are some code in his repo about scraping proxies. running this on kaggle or github ci providers.
 
