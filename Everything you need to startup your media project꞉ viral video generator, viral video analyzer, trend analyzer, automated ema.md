@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-15T02:57:58.786Z'
+modified: '2023-01-15T02:58:43.098Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -131,6 +131,8 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 #### [meme video maker](https://github.com/FOLLGAD/meme-video-maker/blob/a9bc7bc3f804da05353faa23fde56cff410f16bb/server/src/video.ts)
 
 It uses google cloud to select "English" words on image, enable the user to edit the "stage" to show meme step by step.
+
+It requires amazon cloud services and google cloud services.
 
 #### [回声工坊 TRPG Replay Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator)
 
