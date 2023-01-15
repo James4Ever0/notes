@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-15T13:30:37.456Z'
+modified: '2023-01-15T13:32:04.868Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -21,7 +21,7 @@ loading/transforming leaked txt files will be time-consuming. use pypy to speedu
 
 #### leaked email and data
 
-occrp (anti corruption & crime) aleph is a bad source for getting email (anonymous/unauthorized user can only get hundreds, having no clue what the email relates to). however, it has a tool called [follow the money]() which works with csv files and exports cypher to neo4j
+occrp (anti corruption & crime) aleph is a bad source for getting email (anonymous/unauthorized user can only get hundreds, having no clue what the email relates to). however, it has a tool called [follow the money](https://followthemoney.readthedocs.io/) which works with csv files and exports cypher to neo4j
 
 ##### leaks from forums
 
