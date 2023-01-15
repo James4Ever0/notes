@@ -2,12 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-15T09:41:54.784Z'
+modified: '2023-01-15T09:50:13.531Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
 
-[社火工程工具列表](https://github.com/euphrat1ca/Security-List/blob/master/wiki_SocialSec.md) 是[security list](https://github.com/euphrat1ca/Security-List)的一部分
+[社会工程工具列表](https://github.com/euphrat1ca/Security-List/blob/master/wiki_SocialSec.md) 是[security list](https://github.com/euphrat1ca/Security-List)的一部分 其中推荐[独立开发者怎么赚钱](https://github.com/loonggg/DevMoneySharing) -> [独立开发者项目列表]() -> []()
 
 内容包括：
 ```
@@ -20,7 +20,6 @@ modified: '2023-01-15T09:41:54.784Z'
 密码破解还原
 在线密码破解
 ```
-
 
 [mosint](https://github.com/alpkeskin/mosint) email  osint
 
