@@ -1,7 +1,7 @@
 ---
 title: 'free proxies: openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2023-01-15T06:49:13.352Z'
+modified: '2023-01-15T06:49:23.171Z'
 ---
 
 # free proxies: openit proxy pool has been seized, what to do
@@ -16,7 +16,7 @@ or you could use lantern.
 
 ### telegram bots
 
-
+[high quality proxy](https://t.me/HQPROX)
 
 ## tools
 
