@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-15T01:58:01.304Z'
+modified: '2023-01-15T02:01:43.318Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -134,7 +134,7 @@ TRPG：桌上角色扮演游戏 有丢骰子（随机元素）的RPG
 
 角色立绘可以是动态的 但是是多个png文件
 
-背景可以设定为 {'black','white','greenscreen'} 中的一个，以建立纯色背景
+背景可以设定为 `{'black','white','greenscreen'}` 中的一个，以建立纯色背景
 
 Has special requirements to media sources. Use `.ogg` format for BGM. Use `.wav` format for AFX and voices. Use `.png` for image. Cannot get background video layers working so you might consider some "green screen" effects.
 
