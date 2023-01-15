@@ -1,7 +1,7 @@
 ---
 title: torrent search engines
 created: '2023-01-15T06:42:07.935Z'
-modified: '2023-01-15T06:44:37.965Z'
+modified: '2023-01-15T06:44:46.588Z'
 ---
 
 # torrent search engines
@@ -10,4 +10,4 @@ modified: '2023-01-15T06:44:37.965Z'
 
 [torrent search api](https://github.com/JimmyLaurent/torrent-search-api): a multi torrent search api in nodejs
 
-[notflix](https://github.com/Bugswriter/notflix) search for magnet links on 1337x
+[notflix](https://github.com/Bugswriter/notflix) search for magnet links on 1337x and stream it on peerflix
