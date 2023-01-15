@@ -1,7 +1,7 @@
 ---
 title: 'free proxies: openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2023-01-15T14:05:23.835Z'
+modified: '2023-01-15T14:06:39.208Z'
 ---
 
 # free proxies: openit proxy pool has been seized, what to do
@@ -20,7 +20,9 @@ or you could use lantern.
 
 [socks5 bot](https://t.me/socks5_bot)
 
-### CI based
+### self-hosted or cloud/CI based
+
+[]() has stopped working since broken github action settings, though []() still works (collecting unchecked proxies via travis-ci)
 
 ## tools
 
