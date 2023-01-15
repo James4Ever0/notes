@@ -1,11 +1,26 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
-title: Hacking tutorials, tools
-created: 2022-07-11T15:43:20+00:00
-modified: 2022-12-23T06:11:42+08:00
+title: 'Hacking tutorials, tools'
+created: '2022-07-11T15:43:20.000Z'
+modified: '2023-01-15T09:40:05.116Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[社火工程工具列表](https://github.com/euphrat1ca/Security-List/blob/master/wiki_SocialSec.md)
+
+内容包括：
+```
+虚拟身份
+钓鱼框架
+网站克隆
+邮件伪造
+服务密码爆破
+测试字典集
+密码破解还原
+在线密码破解
+```
+
 
 [mosint](https://github.com/alpkeskin/mosint) email  osint
 
