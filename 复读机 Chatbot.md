@@ -2,10 +2,12 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: '2022-07-14T15:35:31.000Z'
-modified: '2023-01-11T14:57:03.688Z'
+modified: '2023-01-16T08:45:08.841Z'
 ---
 
 # 复读机 Chatbot
+
+带二维码的图片 二维码对比度要低 避免被qq管家撤回
 
 classify bilibili video which users recommend, then train the model against recent chats and topics with video tags
 
