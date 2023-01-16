@@ -1,12 +1,14 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T06:48:17.658Z'
+modified: '2023-01-16T06:51:09.543Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 
 准备片头和片尾 准备视频模版 每个片段不要太长 适当处理视频 防止撞车
+
+如果要剪短视频 多用转场效果
 
 首先收集b站的动漫高能剪辑视频
 
