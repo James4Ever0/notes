@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T09:14:23.102Z'
+modified: '2023-01-16T09:15:25.120Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -26,7 +26,7 @@ modified: '2023-01-16T09:14:23.102Z'
 
 识别截图中的文字 查看是否有重复的 包含有番剧名称 可以用来查找动漫
 
-利用动漫素材来源定位网站可以锁定剪辑位置 裁剪时间长度要控制 只选取匹配度高的 NSFW的不要 另外图像尺寸要合适 要正好是视频截图 不要裁剪 图片可能加了一些番剧没有的字符或者装饰 ([saucenao](https://saucenao.com/)>75, [trace.moe](https://trace.moe)>75, select top-most) 如果匹配度不高就算了 找下一个
+利用动漫素材来源定位网站可以锁定剪辑位置 裁剪时间长度要控制 只选取匹配度高的 NSFW的不要 另外图像尺寸要合适 要正好是视频截图 注意网上的图片不一定是视频截图 最好直接在视频里面找 不要裁剪 图片可能加了一些番剧没有的字符或者装饰 ([saucenao](https://saucenao.com/)>75, [trace.moe](https://trace.moe)>75, select top-most) 如果匹配度不高就算了 找下一个
 
 因为大家都喜欢看中文字幕 (谁听得懂日语 或者一边听日语一边看英文字幕啊) 尽量不用国外的片源
 
