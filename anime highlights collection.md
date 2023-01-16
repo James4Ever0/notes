@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T07:07:14.477Z'
+modified: '2023-01-16T07:14:02.213Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -18,7 +18,7 @@ modified: '2023-01-16T07:07:14.477Z'
 
 提取标题 标签 封面
 
-寻找类似封面 根据封面生成标签 或者根据标签寻找封面
+寻找类似封面 根据封面生成标签 或者根据标签寻找封面 (视频里面找 或者类似图片)
 
 训练根据封面和标签生成标题的模型 或者自行发挥 尝试 只要看起来还行
 
