@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T07:16:41.325Z'
+modified: '2023-01-16T07:24:00.087Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -33,6 +33,8 @@ modified: '2023-01-16T07:16:41.325Z'
 下载下来之后 得到视频字幕 进行标记 (打上标签) 方便以后创作类似视频的时候查找 以及作为数据集 训练模型 根据字幕/弹幕 (弹幕得去b站找并且自行提取) 或者结合视频内容 (算力够么 需要人肉标记 还是反复调用识图API进行标记 或者用jina (fine-tuned?) 计算图像相似度) 预测不同类型高能片段的标签
 
 到国内番剧种子站去找片源 下载 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭
+
+这些种子站一般都会把新番做成rss 用来订阅 做新番推荐比较合适 需要找到番剧介绍的文章来转化 资源的名称遵循某种格式 
 
 如果要实时看云电脑的进度可以自己搭建一个netprogressbar server 根据约定好的url和密码 (read-only and write-only password, or both, by setting different privilege) 来上报和接收进度 server要及时回收资源
 
