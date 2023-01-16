@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T06:59:47.186Z'
+modified: '2023-01-16T07:00:31.990Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -34,6 +34,6 @@ modified: '2023-01-16T06:59:47.186Z'
 
 番剧信息包括名称 类型 标签 具体第几话 如果是多季的话需要研究如何找出来
 
-有[提取画面中动漫人物信息以及所属番剧的网站](https://ai.animedb.cn) 只支持日漫 [该网站在b站的使用方法介绍](https://www.bilibili.com/read/cv17700107) 注册码是hello2023 可以用来做单个人物合集 在发送截图之前先用模型扫描一下到底有没有动漫人脸 如果没有就不用上传了 识别不出来
+有[提取画面中动漫人物信息以及所属番剧的网站](https://ai.animedb.cn) [Python API](https://github.com/itoukou1/zhenxun_plugin_animetrace/blob/main/__init__.py) 只支持日漫 [该网站在b站的使用方法介绍](https://www.bilibili.com/read/cv17700107) 注册码目前是`hello2023` 可以用来做单个人物合集 在发送截图之前先用模型扫描一下到底有没有动漫人脸 如果没有就不用上传了 识别不出来
 
 trailer也可以用来训练视频摘要模型 提取番剧精彩片段 可以作为素材
