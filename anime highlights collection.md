@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T09:56:09.557Z'
+modified: '2023-01-16T09:58:34.826Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -36,7 +36,7 @@ modified: '2023-01-16T09:56:09.557Z'
 
 ```bash
 aria2c --show-files target.torrent
-aria2c -x 16 --enable-dht=false --file-allocation=none --select-file=<file_index> target.torrent
+aria2c -x 16 --file-allocation=none --select-file=<file_index> target.torrent
 ```
 
 得到了番剧命名格式之后建议利用第三方搜索引擎搜索
