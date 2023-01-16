@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T07:29:42.780Z'
+modified: '2023-01-16T07:35:15.988Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -36,7 +36,7 @@ modified: '2023-01-16T07:29:42.780Z'
 
 得到了番剧命名格式之后建议利用第三方搜索引擎搜索
 
-这些种子站一般都会把新番做成rss 用来订阅 做新番推荐比较合适 需要找到番剧介绍的文章来转化 资源的名称遵循某种格式 番剧名称会用不同语言标注 提示字幕的格式 番剧番号用空格 英文或者中文括号括住 一般至少两位数 小于两位会补零 如果是海贼王那种 
+这些种子站一般都会把新番做成rss 用来订阅 做新番推荐比较合适 需要找到番剧介绍的文章来转化 资源的名称遵循某种格式 番剧名称会用不同语言标注 提示字幕的格式 番剧番号用空格 英文或者中文括号括住 一般至少两位数 小于两位会补零
 
 如果要实时看云电脑的进度可以自己搭建一个netprogressbar server 根据约定好的url和密码 (read-only and write-only password, or both, by setting different privilege) 来上报和接收进度 server要及时回收资源
 
