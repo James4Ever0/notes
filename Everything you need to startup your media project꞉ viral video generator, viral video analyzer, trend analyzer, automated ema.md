@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-15T08:38:00.702Z'
+modified: '2023-01-16T09:07:38.478Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -14,7 +14,9 @@ for information cascade, treat recommendation system as your target data, and fi
 
 B站撞车搬运检测：
 
-通过B站搜索Weibo Tumblr Tiktok Youtube的视频ID，可以找出视频是否被转载
+油管有带有英文番剧名称的AMV/MAD剪辑
+
+通过B站搜索Weibo Tumblr Tiktok Youtube的视频ID 或者名称，可以找出视频是否被转载
 
 通过搜索其他网站的前缀 比如`https://www.youtube.com` 可以得到被转载视频的链接 但是感觉数据不是很靠谱 不是很火的那种 要看大流量的还是得爬首页推荐链接 根据话题搜索
 
