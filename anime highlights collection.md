@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T06:42:58.508Z'
+modified: '2023-01-16T06:44:03.831Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -30,6 +30,6 @@ modified: '2023-01-16T06:42:58.508Z'
 
 如果要实时看云电脑的进度可以自己搭建一个netprogressbar server 根据约定好的url和密码 (read-only and write-only password, or both, by setting different privilege) 来上报和接收进度 server要及时回收资源
 
-番剧信息包括名称 类型 标签  
+番剧信息包括名称 类型 标签 具体第几话 如果是多季的话需要研究如何找出来
 
 
