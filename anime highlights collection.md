@@ -1,10 +1,14 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T07:06:25.585Z'
+modified: '2023-01-16T07:07:14.477Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
+
+观众情绪是唯一的标准。
+
+-------
 
 准备片头和片尾 准备视频模版 每个片段不要太长 适当处理视频 防止撞车
 
