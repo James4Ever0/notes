@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-16T07:26:11.334Z'
+modified: '2023-01-16T07:27:01.186Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -34,7 +34,7 @@ modified: '2023-01-16T07:26:11.334Z'
 
 到国内番剧种子站去找片源 下载 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭
 
-这些种子站一般都会把新番做成rss 用来订阅 做新番推荐比较合适 需要找到番剧介绍的文章来转化 资源的名称遵循某种格式 番剧名称会用不同语言标注 提示字幕的格式 番剧番号用空格 英文或者中文括号括住 一般都是两位数 会补零 如果是海贼王那种 
+这些种子站一般都会把新番做成rss 用来订阅 做新番推荐比较合适 需要找到番剧介绍的文章来转化 资源的名称遵循某种格式 番剧名称会用不同语言标注 提示字幕的格式 番剧番号用空格 英文或者中文括号括住 一般至少两位数 小于两位会补零 如果是海贼王那种 
 
 如果要实时看云电脑的进度可以自己搭建一个netprogressbar server 根据约定好的url和密码 (read-only and write-only password, or both, by setting different privilege) 来上报和接收进度 server要及时回收资源
 
