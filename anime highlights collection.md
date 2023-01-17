@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T06:46:26.947Z'
+modified: '2023-01-17T06:53:18.887Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -26,7 +26,7 @@ modified: '2023-01-17T06:46:26.947Z'
 
 识别截图中的文字 查看是否有重复的 包含有番剧名称 可以用来查找动漫
 
-利用动漫素材来源定位网站可以锁定剪辑位置 裁剪时间长度要控制 只选取匹配度高的 NSFW的不要 另外图像尺寸要合适 要正好是视频截图 注意网上的图片不一定是视频截图 最好直接在视频里面找 不要裁剪 图片可能加了一些番剧没有的字符或者装饰 ([saucenao](https://saucenao.com/)>75 (能识别出来老番 比如“没有钱” 但是老番一般没啥人做种 下载可能很慢), [trace.moe](https://trace.moe)>75, both can detect latest (ongoing) bangume, select top-most) 如果匹配度不高就算了 找下一个
+利用动漫素材来源定位网站可以锁定剪辑位置 裁剪时间长度要控制 只选取匹配度高的 NSFW的不要 另外图像尺寸要合适 要正好是视频截图 注意网上的图片不一定是视频截图 最好直接在视频里面找 不要裁剪 图片可能加了一些番剧没有的字符或者装饰 ([saucenao](https://saucenao.com/)>75 (能识别出来老番 比如“没有钱” 但是老番一般没啥人做种 下载可能很慢 不如直接放弃), [trace.moe](https://trace.moe)>75, both can detect latest (ongoing) bangume, select top-most) 如果匹配度不高就算了 找下一个
 
 因为大家都喜欢看中文字幕 (谁听得懂日语 或者一边听日语一边看英文字幕啊) 尽量不用国外的片源 如果只有国外的 直接机器翻译能找到的公开字幕 或者直接语音转文字 图片转文字 不过话说回来 种子下载慢 国内网站广告又多 如果能[单独下载字幕](https://github.com/foxofice/sub_share) (vcb的有单独分开的字幕可以下载) 对得上时间长度的话 就可以获取到带字幕的老番
 
@@ -36,7 +36,7 @@ modified: '2023-01-17T06:46:26.947Z'
 
 [tracker list for anime](https://github.com/DeSireFire/animeTrackerList)
 
-到[国内番剧种子站](https://www.bilibili.com/read/cv7338766/)去找片源 (这些站基本一个样) 新番下载较快 老番下载会非常慢 几乎龟速 (检查有没有seeder 一个都没有就别想下了 以及监控下载进度 一段时间没有进度基本凉了) 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭 如果是合集 需要[选择指定的对象进行下载](https://github.com/aria2/aria2/issues/843)
+到[国内番剧种子站](https://www.bilibili.com/read/cv7338766/)去找片源 (这些站基本一个样) 新番下载较快 老番下载会非常慢 几乎龟速 (检查有没有seeder 一个都没有就别想下了 直接放弃 以及监控下载进度 一段时间没有进度基本凉了) 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭 如果是合集 需要[选择指定的对象进行下载](https://github.com/aria2/aria2/issues/843)
 
 ```bash
 aria2c --show-files target.torrent
@@ -49,7 +49,7 @@ aria2c -x 16 --file-allocation=none --select-file=<file_index> target.torrent
 
 如果要实时看云电脑的进度可以自己搭建一个netprogressbar server 根据约定好的url和密码 (read-only and write-only password, or both, by setting different privilege) 来上报和接收进度 server要及时回收资源
 
-番剧信息包括名称 类型 标签 具体第几话 如果是多季的话需要研究如何找出来
+番剧信息包括名称 类型 标签 具体第几话 单季和多季有别 如果是多季的话需要研究如何找出来
 
 有[提取画面中动漫人物信息以及所属番剧的网站](https://ai.animedb.cn) [Python API](https://github.com/itoukou1/zhenxun_plugin_animetrace/blob/main/__init__.py) 只支持日漫 [该网站在b站的使用方法介绍](https://www.bilibili.com/read/cv17700107) 注册码目前是`hello2023` 可以用来做单个人物合集 在发送截图之前先用模型扫描一下到底有没有动漫人脸 如果没有就不用上传了 识别不出来
 
