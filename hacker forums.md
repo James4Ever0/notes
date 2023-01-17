@@ -1,12 +1,14 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-17T12:28:14.720Z'
+modified: '2023-01-17T12:41:27.071Z'
 ---
 
 # hacker forums
 
 some hacker forums like leakbase has [rss feed](https://leakbase.cc/forums/-/index.rss)
+
+leakbase has [proxy section](https://leakbase.cc/forums/proxy/) in which you may find fresh proxy lists (may not work in mainland, but who knows?)
 
 search with the name or link of these forums in github and you will get more info about hacking.
 
