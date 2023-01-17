@@ -1,7 +1,7 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-17T03:38:14.923Z'
+modified: '2023-01-17T03:57:12.327Z'
 ---
 
 # hacker forums
@@ -15,6 +15,8 @@ modified: '2023-01-17T03:38:14.923Z'
 [dublikat](https://dublikat.cc)
 [Vlmi](https://vlmi.ws)
 [Omrt](https://omrt.cc)
+Nulled
+nulled.to
 [Cracked](https://cracked.to)
 [Coockie](https://coockie.pro)
 [Altenens](https://altenens.is)
