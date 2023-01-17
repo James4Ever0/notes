@@ -2,12 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-17T23:20:37.428Z'
+modified: '2023-01-17T23:22:22.353Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
 
-botnets
+botnet ips are detected by some websites like [](). there's a tendency to use common passwords to bruteforce the credential for such botnets. setting botnets by yourself has advantage of connecting to machines without public ip.
 
 [MHDDoS](https://github.com/MatrixTM/MHDDoS) best ddos tool (someone may make living on that), providing multiple WAF bypass techniques (what about Akamai?)
 
