@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T13:33:16.752Z'
+modified: '2023-01-17T13:36:19.432Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -37,6 +37,10 @@ anime downloaders:
 [animdl](https://github.com/justfoolingaround/animdl) supports time ranges
 
 [monkey-dl](https://github.com/Oshan96/monkey-dl)
+
+[ani-cli](https://github.com/pystardust/ani-cli)
+
+[jerry](https://github.com/justchokingaround/jerry) with subtitle language specification
 
 下载下来之后 得到视频字幕 进行标记 (打上标签) 方便以后创作类似视频的时候查找 以及作为数据集 训练模型 根据字幕/弹幕 (弹幕得去b站找并且自行提取) 或者结合视频内容 (算力够么 需要人肉标记 还是反复调用识图API进行标记 或者用jina (fine-tuned?) 计算图像相似度) 预测不同类型高能片段的标签
 
