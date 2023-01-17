@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T13:30:44.586Z'
+modified: '2023-01-17T13:33:16.752Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -34,7 +34,7 @@ modified: '2023-01-17T13:30:44.586Z'
 
 anime downloaders:
 
-[animdl](https://github.com/justfoolingaround/animdl) supports time ranges,
+[animdl](https://github.com/justfoolingaround/animdl) supports time ranges
 
 [monkey-dl](https://github.com/Oshan96/monkey-dl)
 
