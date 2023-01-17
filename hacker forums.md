@@ -1,10 +1,12 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-17T03:57:49.165Z'
+modified: '2023-01-17T11:09:35.699Z'
 ---
 
 # hacker forums
+
+search with the name or link of these forums in github and you will get more info about hacking.
 
 [a bunch of hacker forums](https://robbing.cash/), including:
 
