@@ -2,10 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-16T06:49:50.858Z'
+modified: '2023-01-17T04:02:15.148Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+
 
 [psauxx](https://twitter.com/ps_aux_) (twitter) created multiple accounts on github. [the original one （in archive)](https://web.archive.org/web/20210822152959/https://github.com/psauxx?tab=repositories) is deactivated, now named as [l4tt](https://github.com/l4tt). vulnnr (auto exploiter) has some tutorials from [geekforgeeks](https://www.geeksforgeeks.org/vulnnr-vulnerability-scanner-and-auto-exploiter-in-kali-linux/) and [xploitlab](https://xploitlab.com/vulnnr-vulnerability-scanner-and-mass-exploiter/) (linked to other interesting tools), and is renamed as [uscan](https://github.com/l4tt/uscan). search for vulnnr in github and there is [a favourite hack tool collection](https://github.com/nair0lf32/zer0ne/blob/cfb9ea559391540c91d7930f52941247b81d7fc9/content/posts/My-Favorite-Tools.md)
 
