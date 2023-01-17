@@ -1,13 +1,16 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-17T03:57:12.327Z'
+modified: '2023-01-17T03:57:49.165Z'
 ---
 
 # hacker forums
 
 [a bunch of hacker forums](https://robbing.cash/), including:
 
+[Breached](breached.vc)
+[Xss](xss.is)
+[Exploit](exploit.in)
 [0x00sec](https://0x00sec.org)
 [lolz](https://lolz.guru)
 [Leakzone](https://leakzone.net)
@@ -15,8 +18,7 @@ modified: '2023-01-17T03:57:12.327Z'
 [dublikat](https://dublikat.cc)
 [Vlmi](https://vlmi.ws)
 [Omrt](https://omrt.cc)
-Nulled
-nulled.to
+[Nulled](nulled.to)
 [Cracked](https://cracked.to)
 [Coockie](https://coockie.pro)
 [Altenens](https://altenens.is)
