@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T11:15:52.173Z'
+modified: '2023-01-17T11:45:19.446Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -37,6 +37,8 @@ modified: '2023-01-17T11:15:52.173Z'
 老番可以在国内番剧网站寻找 b站有免费的那么可以尝试下载
 
 [tracker list for anime](https://github.com/DeSireFire/animeTrackerList)
+
+
 
 到[国内番剧种子站](https://www.bilibili.com/read/cv7338766/)去找片源 (这些站基本一个样) 新番下载较快 老番下载会非常慢 几乎龟速 (检查有没有seeder 一个都没有就别想下了 直接放弃 以及监控下载进度 一段时间没有进度基本凉了) 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭 如果是合集 需要[选择指定的对象进行下载](https://github.com/aria2/aria2/issues/843)
 
