@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-17T13:47:50.198Z'
+modified: '2023-01-17T13:48:16.962Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
@@ -10,6 +10,8 @@ modified: '2023-01-17T13:47:50.198Z'
 [MHDDoS](https://github.com/MatrixTM/MHDDoS) best ddos tool (someone may make living on that), providing multiple WAF bypass techniques (what about Akamai?)
 
 although sqlmap is somehow out-of-date (wracked by WAF, unable to exploit latest nodedb library), there is a tendency to combine subdirectory/url collector like [subfinder](https://github.com/projectdiscovery/subfinder) with it like [codewatchorg/sqlipy](https://github.com/codewatchorg/sqlipy) and [zt2/sqli-hunter](https://github.com/zt2/sqli-hunter), automate the exploitation. search for sql injection (deep/machine learning) in github for latest tools and wiki.
+
+is it coincidence?
 
 [psauxx](https://twitter.com/ps_aux_) (twitter) created multiple accounts on github. [the original one （in archive)](https://web.archive.org/web/20210822152959/https://github.com/psauxx?tab=repositories) is deactivated, now named as [l4tt](https://github.com/l4tt). vulnnr (auto exploiter) has some tutorials from [geekforgeeks](https://www.geeksforgeeks.org/vulnnr-vulnerability-scanner-and-auto-exploiter-in-kali-linux/) and [xploitlab](https://xploitlab.com/vulnnr-vulnerability-scanner-and-mass-exploiter/) (linked to other interesting tools), and is renamed as [uscan](https://github.com/l4tt/uscan). search for vulnnr in github and there is [a favourite hack tool collection](https://github.com/nair0lf32/zer0ne/blob/cfb9ea559391540c91d7930f52941247b81d7fc9/content/posts/My-Favorite-Tools.md)
 
