@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T10:01:15.668Z'
+modified: '2023-01-17T11:15:52.173Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -14,7 +14,7 @@ modified: '2023-01-17T10:01:15.668Z'
 
 如果要剪短视频 多用转场效果 提取正在说话 动作幅度大 或者模型认为比较高能的片段
 
-首先收集b站的动漫高能剪辑视频
+首先收集b站的[动漫高能剪辑视频](https://www.bilibili.com/video/BV1e54y1y7qy)
 
 提取标题 标签 封面
 
