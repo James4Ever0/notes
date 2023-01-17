@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T06:53:18.887Z'
+modified: '2023-01-17T07:02:04.736Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -26,7 +26,7 @@ modified: '2023-01-17T06:53:18.887Z'
 
 识别截图中的文字 查看是否有重复的 包含有番剧名称 可以用来查找动漫
 
-利用动漫素材来源定位网站可以锁定剪辑位置 裁剪时间长度要控制 只选取匹配度高的 NSFW的不要 另外图像尺寸要合适 要正好是视频截图 注意网上的图片不一定是视频截图 最好直接在视频里面找 不要裁剪 图片可能加了一些番剧没有的字符或者装饰 ([saucenao](https://saucenao.com/)>75 (能识别出来老番 比如“没有钱” 但是老番一般没啥人做种 下载可能很慢 不如直接放弃), [trace.moe](https://trace.moe)>75, both can detect latest (ongoing) bangume, select top-most) 如果匹配度不高就算了 找下一个
+利用动漫素材来源定位网站可以锁定剪辑位置 裁剪时间长度要控制 只选取匹配度高的 NSFW的不要 另外图像尺寸要合适 要正好是视频截图 注意网上的图片不一定是视频截图 最好直接在视频里面找 不要裁剪 图片可能加了一些番剧没有的字符或者装饰 ([saucenao](https://saucenao.com/)>75 (能识别出来老番 比如“没有钱” 但是老番一般没啥人做种 下载可能很慢 不如直接放弃 有几率搜出来pixiv的插画 显然不能拿来剪视频), [trace.moe](https://trace.moe)>75, both can detect latest (ongoing) bangume, select top-most) 如果匹配度不高就算了 找下一个
 
 因为大家都喜欢看中文字幕 (谁听得懂日语 或者一边听日语一边看英文字幕啊) 尽量不用国外的片源 如果只有国外的 直接机器翻译能找到的公开字幕 或者直接语音转文字 图片转文字 不过话说回来 种子下载慢 国内网站广告又多 如果能[单独下载字幕](https://github.com/foxofice/sub_share) (vcb的有单独分开的字幕可以下载) 对得上时间长度的话 就可以获取到带字幕的老番
 
