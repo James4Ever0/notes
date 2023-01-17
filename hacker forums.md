@@ -1,10 +1,12 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-15T05:44:20.693Z'
+modified: '2023-01-17T03:35:37.953Z'
 ---
 
 # hacker forums
+
+[a bunch of hacker forums](https://robbing.cash/)
 
 [wooyun.org mirror site](https://wooyun.hctrah.com/) wooyun is dead/closed since 2016
 
