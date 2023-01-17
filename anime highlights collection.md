@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T13:36:19.432Z'
+modified: '2023-01-17T13:39:32.864Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -38,7 +38,7 @@ anime downloaders:
 
 [monkey-dl](https://github.com/Oshan96/monkey-dl)
 
-[ani-cli](https://github.com/pystardust/ani-cli)
+[ani-cli](https://github.com/pystardust/ani-cli) ([animixplay](https://animixplay.to/) is gone, fixing?)
 
 [jerry](https://github.com/justchokingaround/jerry) with subtitle language specification
 
