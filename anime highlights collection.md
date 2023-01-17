@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-17T11:51:53.195Z'
+modified: '2023-01-17T11:57:40.476Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -38,7 +38,7 @@ modified: '2023-01-17T11:51:53.195Z'
 
 [tracker list for anime](https://github.com/DeSireFire/animeTrackerList)
 
-种子站要能够根据seeder降序排序 []()支持该功能 [API]() 这个站将番剧分类为原盘 英文翻译版 其他语言翻译版 中文翻译属于其他语言翻译版 如果要找中文翻译版本 先选定类型 然后查找文件名是否包含指定代号 有字幕文件的话先下载看看 检测下主语言类别
+种子站要能够根据seeder降序排序 [vcb](https://vcb-s.com/)的一般seeder会很多 但是其他字幕组的新番即使seeder比较少 下载速度也会很快 看情况而定 vcb只负责压制 其他字幕组提供单独分开的字幕 两者要单独下载 []()支持该功能 [Nyaa API](https://github.com/Kylart/Nyaapi) 这个站将番剧分类为原盘 英文翻译版 其他语言翻译版 中文翻译属于其他语言翻译版 如果要找中文翻译版本 先选定类型 然后查找文件名是否包含指定代号 有字幕文件的话先下载看看 检测下主语言类别
 
 到[国内番剧种子站](https://www.bilibili.com/read/cv7338766/)去找片源 (这些站基本一个样) 新番下载较快 老番下载会非常慢 几乎龟速 (检查有没有seeder 一个都没有就别想下了 直接放弃 以及监控下载进度 一段时间没有进度基本凉了) 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭 如果是合集 需要[选择指定的对象进行下载](https://github.com/aria2/aria2/issues/843)
 
