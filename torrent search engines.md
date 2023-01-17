@@ -1,7 +1,7 @@
 ---
 title: torrent search engines
 created: '2023-01-15T06:42:07.935Z'
-modified: '2023-01-17T12:44:34.307Z'
+modified: '2023-01-17T12:46:30.059Z'
 ---
 
 # torrent search engines
@@ -16,4 +16,6 @@ modified: '2023-01-17T12:44:34.307Z'
 
 ## anime torrent searching
 
+[Nyaa](https://nyaa.si/) which supports sorting
 
+[Bangume.moe](https://Bangume.moe)
