@@ -1,46 +1,26 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-17T03:36:44.392Z'
+modified: '2023-01-17T03:38:14.923Z'
 ---
 
 # hacker forums
 
-[a bunch of hacker forums](https://robbing.cash/)
+[a bunch of hacker forums](https://robbing.cash/), including:
 
-including:
+[0x00sec](https://0x00sec.org)
+[lolz](https://lolz.guru)
+[Leakzone](https://leakzone.net)
+[Enclave](https://enclave.cc)
+[dublikat](https://dublikat.cc)
+[Vlmi](https://vlmi.ws)
+[Omrt](https://omrt.cc)
+[Cracked](https://cracked.to)
+[Coockie](https://coockie.pro)
+[Altenens](https://altenens.is)
+[Bidencash](https://bidencash.cc)
 
-0x00sec
-0x00sec.org
-Xss
-xss.is
-Exploit
-exploit.in
-Bhf
-breached.vc
-lolz
-lolz.guru
-Leakzone
-leakzone.net
-Enclave
-enclave.cc
-dublikat
-dublikat.cc
-Vlmi
-vlmi.ws
-Omrt
-omrt.cc
-Nulled
-nulled.to
-Cracked
-cracked.to
-Coockie
-coockie.pro
-Altenens
-altenens.is
-Bidencash
-bidencash.cc
-```
+----
 
 [wooyun.org mirror site](https://wooyun.hctrah.com/) wooyun is dead/closed since 2016
 
