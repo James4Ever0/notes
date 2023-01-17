@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-17T13:07:29.618Z'
+modified: '2023-01-17T13:57:42.823Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -27,7 +27,7 @@ occrp (anti corruption & crime) aleph is a bad source for getting email (anonymo
 
 search for leaked database on github
 
-[linkedin database leak 2021](https://github.com/guptaofficial17/Linkedin-Leak-2021/blob/main/Leak/Leak.txt)
+[linkedin database leak 2021](https://github.com/guptaofficial17/Linkedin-Leak-2021/blob/main/Leak/Leak.txt) (hate mega since it has download quota)
 
 ##### leaks from forums
 
