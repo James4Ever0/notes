@@ -1,10 +1,12 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-17T11:09:35.699Z'
+modified: '2023-01-17T12:28:14.720Z'
 ---
 
 # hacker forums
+
+some hacker forums like leakbase has [rss feed](https://leakbase.cc/forums/-/index.rss)
 
 search with the name or link of these forums in github and you will get more info about hacking.
 
