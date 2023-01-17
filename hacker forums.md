@@ -1,7 +1,7 @@
 ---
 title: hacker forums
 created: '2022-11-29T13:38:35.000Z'
-modified: '2023-01-17T03:36:26.941Z'
+modified: '2023-01-17T03:36:44.392Z'
 ---
 
 # hacker forums
@@ -9,8 +9,7 @@ modified: '2023-01-17T03:36:26.941Z'
 [a bunch of hacker forums](https://robbing.cash/)
 
 including:
-Breached
-breached.vc
+
 0x00sec
 0x00sec.org
 Xss
