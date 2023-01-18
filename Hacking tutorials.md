@@ -2,14 +2,36 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-18T07:51:18.628Z'
+modified: '2023-01-18T07:51:50.637Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
 
 [oneforall](https://github.com/shmilylty/OneForAll) subdomain finder
 
-[hack in one](https://github.com/Coldwave96/HackINonE)
+[hack in one](https://github.com/Coldwave96/HackINonE) including:
+
+```
+Anonymously Hiding Tools
+Information gathering tools
+Wordlist Generator
+Wireless attack tools
+SQL Injection Tools
+Phishing attack tools
+Web Attack tools
+Post exploitation tools
+Forensic tools
+Payload creation tools
+Exploit framework
+Reverse engineering tools
+DDOS Attack Tools
+Remote Administrator Tools (RAT)
+XSS Attack Tools
+Steganograhy tools
+Vulnerablities Scanner
+IOT Tools
+Other tools
+```
 
 [all defense tool](https://github.com/guchangan1/All-Defense-Tool): `半/全自动化利用工具, 信息收集工具, 漏洞利用工具, 内网渗透工具, 运维&甲方&防守方工具, 安全资料整理`
 
