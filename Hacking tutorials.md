@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-17T23:36:03.660Z'
+modified: '2023-01-18T04:32:25.447Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
@@ -22,6 +22,8 @@ although sqlmap is somehow out-of-date (wracked by WAF, unable to exploit latest
 [sploitus](https://sploitus.com/) search for latest sploits and POC-code (usually after patching is done)
 
 [bearSG](https://github.com/kracer127/bearSG) 符合国人习惯的社工密码生成器 java开发 自带GUI
+
+[cupper](https://github.com/Saferman/cupper) 
 
 [社会工程工具列表](https://github.com/euphrat1ca/Security-List/blob/master/wiki_SocialSec.md) 是[security list](https://github.com/euphrat1ca/Security-List)的一部分 其中推荐[独立开发者怎么赚钱](https://github.com/loonggg/DevMoneySharing) (有[免费API接口介绍](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=400044525&idx=1&sn=04d1b413c90d0cac43788be033b2e420&scene=21#wechat_redirect) 但是有的站已经没了) -> [国内独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) -> [bufpay](https://bufpay.com/) 免签支付 (需要按月交费)
 
