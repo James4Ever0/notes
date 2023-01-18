@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:31:32.286Z'
+modified: '2023-01-18T08:36:27.571Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -107,7 +107,6 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 though the idea is correct by posting original content to multiple platforms to prevent pirating, but the description/title generation is a vital part of the process, which must be done intelligibly (AI or human). as for now the repo is just full of links. if you want tools you click given link.
 
 
-
 ## Download a portion of video
 
 ### yt-dlp (latest)
@@ -193,6 +192,10 @@ API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potent
 位置：`tests/viral_video_experiments/360ImageSearch`
 
 ### Video collectors
+
+#### [tiktok compilation video generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator)
+
+collect popular video on tiktok by multiple filters such as hashtags, categories , popularities and search queries
 
 #### [WeiboSpider](https://github.com/nghuyong/WeiboSpider)
 
