@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T03:55:42.935Z'
+modified: '2023-01-18T03:55:49.910Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -120,7 +120,9 @@ Some of them verify email with password: [verify email address and password with
 
 [h8mail](https://github.com/khast3x/h8mail) email osint tool, can chase and link to social profile, with many API-key required free services
 
-[ignorant](https://github.com/megadose/ignorant) checks if a phone number is used for 
+[ignorant](https://github.com/megadose/ignorant) checks if a phone number is used for snapchat/instagram
+
+
 
 ### email connectors/client
 
