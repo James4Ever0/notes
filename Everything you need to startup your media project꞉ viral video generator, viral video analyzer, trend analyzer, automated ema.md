@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T06:31:18.306Z'
+modified: '2023-01-18T06:47:14.588Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -45,7 +45,21 @@ tools for startup companies, including:
 a list of live streaming and content creation tools:
 
 ```
-
+[Content Creation]
+[Sponsors And Affiliate]
+[Setup Guides]
+[Branding]
+[Discord Creation]
+[Brand Website]
+[Uncopyrighted Music]
+[FPS Accuracy]
+[Subathon Framework]
+[Video Editing]
+[OpSec]
+[Stat Tracking]
+[Game Development]
+[V-Tubing]
+[How To Start An LLC]
 ```
 
 收集大up主的名字 根据提取出来的名词 清除文案中的含有名字的句子
