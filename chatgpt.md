@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-18T02:30:20.804Z'
+modified: '2023-01-18T12:39:26.559Z'
 ---
 
 # chatgpt
 
-my account has been banned from trying chatgpt. though it is not going to be free forever, you need to moderate your input (multi-language support, not only english but chinese) using some api to prevent similar incidents.
+my account has been banned from trying chatgpt. though it is not going to be free forever, you need to moderate your input (multi-language support, not only english but chinese) using some api to prevent similar incidents. also some topics outside of blacklist are banned intentionally so you need to check if the model is really producing the answer. if not you should avoid or change the way of asking it.
 
 from my point of view, this is a service you cannot replicate at home, either requires smaller models with different architecture, or requires crowd-sourced computational power.
 
