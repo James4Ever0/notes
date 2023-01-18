@@ -1,7 +1,7 @@
 ---
 title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-18T04:52:31.809Z'
+modified: '2023-01-18T06:19:58.094Z'
 ---
 
 # 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -28,7 +28,7 @@ modified: '2023-01-18T04:52:31.809Z'
 
 asoul database有[识别截图出处](https://github.com/A-Soul-Database/PhotoSearch/blob/42ce7f8877938b52cbcae6a61edb90a547894a23/main.py)的思路
 
-asoul
+asoul 
 
 利用动漫素材来源定位网站可以锁定剪辑位置 裁剪时间长度要控制 只选取匹配度高的 NSFW的不要 另外图像尺寸要合适 要正好是视频截图 注意网上的图片不一定是视频截图 最好直接在视频里面找 不要裁剪 图片可能加了一些番剧没有的字符或者装饰 ([saucenao](https://saucenao.com/)>75 (能识别出来老番 比如“没有钱” 但是老番一般没啥人做种 下载可能很慢 不如直接放弃 有几率搜出来pixiv的插画 显然不能拿来剪视频), [trace.moe](https://trace.moe)>75, both can detect latest (ongoing) bangume, select top-most) 如果匹配度不高就算了 找下一个 即使匹配度高也要充分怀疑 同一段视频的某段区域 多截图几次 如果出来的不是同一个番 或者不是同一个番的同一集 或者不是连续的时间段 (分别探讨以上情况 如果是番剧的开始/结束片段那么可能同时出现在多个分集里面 如果确实是开头公用的画面 必然会反复出现相同番剧的名字 在这种情况下 优先选取之前已经下载过的视频) 那么就说明结果不对头 即使验证通过 也得对剪出来的片段进行二次验证 检测片段是否存在那个画面 当然对于快速切换画面的 确实有大量不同番剧片段出现在同一个视频的 那就有待进一步探讨了
 
