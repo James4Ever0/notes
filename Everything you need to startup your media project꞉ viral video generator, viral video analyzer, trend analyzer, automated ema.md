@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:36:27.571Z'
+modified: '2023-01-18T08:47:23.055Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -83,6 +83,12 @@ B站撞车搬运检测：
 通过B站搜索Weibo Tumblr Tiktok Youtube的视频ID 或者名称，可以找出视频是否被转载
 
 通过搜索其他网站的前缀 比如`https://www.youtube.com` 可以得到被转载视频的链接 但是感觉数据不是很靠谱 不是很火的那种 要看大流量的还是得爬首页推荐链接 根据话题搜索
+
+## video highlights extraction
+
+although you may want to train/extract that manually, it would sure be tedious and not self-updating (unless using reinforcement learning).
+
+
 
 ## youtube-dl search youtube video
 
