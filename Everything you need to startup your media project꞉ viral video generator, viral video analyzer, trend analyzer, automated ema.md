@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T09:34:43.601Z'
+modified: '2023-01-18T09:52:56.092Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -91,6 +91,11 @@ although you may want to train/extract that manually, it would sure be tedious a
 often we determine highlights by sound, visual and voice together. highlights often can be identified without too much context, so it can be chunk based.
 
 [b站的高能进度条](https://github.com/SocialSIsterYi/bilibili-API-collect/blob/master/video/pbp.md) 在油管被叫做"most replayed"
+
+youtube's most played data can be extracted by:
+
+[youtube-heatmap](https://www.npmjs.com/package/youtube-heatmap) (nodejs, using puppeteer (bad!))
+[]()
 
 b站有弹幕 所以可以根据弹幕找到精彩片段 [VClimax](https://github.com/baolintian/VClimax)是一个浏览器插件 可以通过弹幕单位时间增长速率，设置相关的阈值，来定位最精彩的内容 (弹幕密度怕还是得要分析) 跳转部分番剧OP 视频搞笑片段精准定位 (怕还得是要机器学习)
 
