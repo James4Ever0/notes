@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-18T13:43:23.481Z'
+modified: '2023-01-18T13:46:10.777Z'
 ---
 
 # 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -10,7 +10,7 @@ modified: '2023-01-18T13:43:23.481Z'
 
 -------
 
-影视剪辑比较杂乱 现在喜欢随便混搭 意识流剪辑
+影视剪辑比较杂乱 现在喜欢随便混搭 意识流剪辑 当然拿来做一般的素材也行 不过就需要自己搭建处理了 而且
 
 [film.ai](https://beta.flim.ai/) now can query screenshot and movie name by description and download thumbnails of movies (not latest, not mainland), but without subscription you cannot get accurate seek time (though it will never be accurate)
 
