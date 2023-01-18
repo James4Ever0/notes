@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T00:24:23.546Z'
+modified: '2023-01-18T00:25:53.548Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -235,6 +235,16 @@ http://en.wikipedia.org/wiki/List_of_carriers_providing_Email_or_Web_to_SMS
 online sms receivers are not so reliable (not even usable for yahoo registration), and those found from google searches (like [free receive sms](https://www.freereceivesms.com/) (这个网站有反js调试 [打开debugger自动暂停执行](http://learnspider.evilrecluse.top/)), which has simple interface for fetching data, and you can [search this site on github](https://github.com/search?q=freereceivesms.com&type=code) to get more sources and potential API adaptors like [disposable phonebook](https://github.com/anroots/disposable-phonebook/blob/769bc2b23071ba4c854a00a5012cf5c2b7a2036f/dphonebook/lib/providers/free_receive_sms_com.py)) have chances to get registered yahoo accounts.
 
 ## account registration helpers: verification, captcha solving, proxies
+
+[account generator helper](https://github.com/Dionis1902/AccountGeneratorHelper) including:
+
+```
+Temp email services
+Receive SMS
+Generate data
+Proxy parser
+Captcha solving
+```
 
 ### proxies
 
