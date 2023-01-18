@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:14:57.026Z'
+modified: '2023-01-18T08:16:44.594Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -200,7 +200,9 @@ In "TiktokCringe" reddit channel, we are able to get hot posts and video links p
 
 ### Video editors
 
-#### []
+#### [videofy](https://github.com/mohtamohit/Videofy)
+
+it is a self-hosted service, summarize article, get relevant determine mood to select BGM
 
 #### [meme video maker](https://github.com/FOLLGAD/meme-video-maker/blob/a9bc7bc3f804da05353faa23fde56cff410f16bb/server/src/video.ts)
 
