@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T03:55:49.910Z'
+modified: '2023-01-18T03:56:11.007Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -112,7 +112,7 @@ ed2k://|file|2013.06-Myspace.com-36021万-txt.7z|12419587039|A1B14F88891885D636D
 
 [sreg](https://github.com/n0tr00t/Sreg) is found from a collection of [security tools](https://github.com/jay900323/securitytools), which is a deprecated tool for getting registration status with phone/email/username on multiple chinese platforms.
 
-#### email account verifier
+#### (email) account verifier
 
 Usually it only verify existance of given email, like [emailhippo](https://tools.verifyemailaddress.io/) (100 requests free per day per ip), or [mailforguess](https://github.com/WildSiphon/Mailfoguess) checking "gmail","laposte","protonmail","yahoo" emails
 
@@ -120,9 +120,9 @@ Some of them verify email with password: [verify email address and password with
 
 [h8mail](https://github.com/khast3x/h8mail) email osint tool, can chase and link to social profile, with many API-key required free services
 
+[]()
+
 [ignorant](https://github.com/megadose/ignorant) checks if a phone number is used for snapchat/instagram
-
-
 
 ### email connectors/client
 
