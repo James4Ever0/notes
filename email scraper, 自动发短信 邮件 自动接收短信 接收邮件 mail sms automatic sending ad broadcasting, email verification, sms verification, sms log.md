@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T03:56:53.262Z'
+modified: '2023-01-18T04:08:29.512Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -20,6 +20,8 @@ loading/transforming leaked txt files will be time-consuming. use pypy to speedu
 [gitscan](https://github.com/sea-god/gitscan/blob/master/gitscan.py) scan for email and password (if possible) with predefined domains and rules by searching github
 
 [ghunt](https://github.com/mxrch/ghunt) needs companion browser plugin to get credentials. can collect info on given email
+
+[EMAGNET](https://github.com/wuseman/EMAGNET) collect database leaks, email and password from recent pastebin records
 
 #### leaked email and data
 
