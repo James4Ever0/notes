@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T03:45:23.429Z'
+modified: '2023-01-18T03:47:04.421Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -118,7 +118,7 @@ Usually it only verify existance of given email, like [emailhippo](https://tools
 
 Some of them verify email with password: [verify email address and password with API of my.com](https://github.com/MachineKillin/Email-Account-Generator-Checker/blob/main/main.py)
 
-[h8mail](https://github.com/khast3x/h8mail) 
+[h8mail](https://github.com/khast3x/h8mail) email osint tool, can chase and link to social profile, with many API-key required free services
 
 ### email connectors/client
 
