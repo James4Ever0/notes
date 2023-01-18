@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:26:02.341Z'
+modified: '2023-01-18T08:28:12.303Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -100,7 +100,9 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 
 其实直播回放没有什么好看的 很单调 另外b站上传之后可以获得视频预测标签
 
-[youtube automation toolkit](https://github.com/wanghaisheng/youtube-automation-toolkit) post same content to multiple platforms: 
+[youtube automation toolkit](https://github.com/wanghaisheng/youtube-automation-toolkit) post same content to multiple platforms: bilibili, douyin, douyu, instagram, reddit, spotify, tiktok, twitch
+
+though the idea is correct by posting original content to multiple platforms to prevent pirating, but the description/title generation is a vital part of the process, which must be done intelligically
 
 ## Download a portion of video
 
