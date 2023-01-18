@@ -2,14 +2,14 @@
 tags: [crypto mining, github, hacking, monero, stub]
 title: github挖币
 created: '2022-05-22T10:19:25.000Z'
-modified: '2023-01-18T23:25:12.419Z'
+modified: '2023-01-18T23:26:10.320Z'
 ---
 
 # github挖币 xmr xmrig Monero
 
 by reading the report of a south african hacktivist doing github crypto mining since the end of 2022 on breachedforum, i understand this is just part of his job (he hacks for living), also he uses professional polyglot multi-crypto mining 
 
-
+t
 
 playwright完成网页操作 共用session 有保存和设置cookie的功能 如果有一般的螺旋验证码可以yolo识别 如果遇到未知验证码需要接2captcha或者手动操作
 cirrus ci, codeship
