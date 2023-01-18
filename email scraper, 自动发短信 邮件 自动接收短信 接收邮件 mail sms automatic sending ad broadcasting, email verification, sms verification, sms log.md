@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T08:42:00.981Z'
+modified: '2023-01-18T08:42:53.134Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -15,7 +15,7 @@ OSINT/recon 其实就是社工 但是一般人喜欢把社工库和社工分开 
 
 loading/transforming leaked txt files will be time-consuming. use pypy to speedup the process. use database specific batch processing method to import the data.
 
-[followthmoney]() is kind of for "entity recognition in multiple social platforms"
+[entity fragmentation in followthmoney](https://followthemoney.readthedocs.io/en/latest/fragments.html) is kind of for "entity recognition in multiple social platforms", suitable for finding patterns/clients in large leaked databases.
 
 #### email collector
 
