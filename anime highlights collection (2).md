@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-18T13:52:09.847Z'
+modified: '2023-01-18T13:53:03.156Z'
 ---
 
 # 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -14,7 +14,7 @@ modified: '2023-01-18T13:52:09.847Z'
 
 爱奇艺有以图搜片 不过只能搜爱奇艺有版权的
 
-[33台词](https://33.agilestudio.cn/) 根据电影台词来搜索电影出处 同时有根据画面描述搜索视频片段
+[33台词](https://33.agilestudio.cn/) 根据电影台词来搜索电影出处 同时有[根据画面描述搜索视频片段](https://fse.agilestudio.cn/)
 
 [film.ai](https://beta.flim.ai/) now can query screenshot and movie name by description and download thumbnails of movies (not latest, not mainland), but without subscription you cannot get accurate seek time (though it will never be accurate)
 
