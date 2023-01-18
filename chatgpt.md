@@ -1,10 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-03T16:09:45.555Z'
+modified: '2023-01-18T02:30:20.804Z'
 ---
 
 # chatgpt
+
+my account has been banned from trying chatgpt. though it is not going to be free forever, you need to moderate your input (multi-language support, not only english but chinese) using some api to prevent similar incidents.
 
 from my point of view, this is a service you cannot replicate at home, either requires smaller models with different architecture, or requires crowd-sourced computational power.
 
