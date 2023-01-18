@@ -2,10 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'Hacking tutorials, tools'
 created: '2022-07-11T15:43:20.000Z'
-modified: '2023-01-18T04:32:32.373Z'
+modified: '2023-01-18T07:01:52.063Z'
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[all defense tool](https://github.com/guchangan1/All-Defense-Tool): 半/全自动化利用工具,
 
 botnet ips are detected by some websites like [URLHaus](https://urlhaus.abuse.ch/). there's a tendency to use common passwords to bruteforce the credential for such botnets, such as [inori miral cnc scraper](https://github.com/PyLore/Inori-Mirai-CNC-Scraper-V.1), [l4tt/Botnet-Reaper](https://github.com/l4tt/Botnet-Reaper). setting botnets by yourself has advantage of connecting to machines without public ip.
 
