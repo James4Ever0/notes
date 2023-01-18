@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T10:22:15.101Z'
+modified: '2023-01-18T10:28:45.239Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -95,6 +95,8 @@ often we determine highlights by sound, visual and voice together. highlights of
 [b站的高能进度条](https://github.com/SocialSIsterYi/bilibili-API-collect/blob/master/video/pbp.md) 在油管被叫做"most replayed"
 
 b站有弹幕 所以可以根据弹幕找到精彩片段 [VClimax](https://github.com/baolintian/VClimax)是一个浏览器插件 可以通过弹幕单位时间增长速率，设置相关的阈值，来定位最精彩的内容 (弹幕密度怕还是得要分析) 跳转部分番剧OP 视频搞笑片段精准定位 (怕还得是要机器学习)
+
+[bilibili Danmaku Skip](https://github.com/ZhangEliot/bilibiliDanmuSkip)
 
 ### youtube
 
