@@ -1,12 +1,16 @@
 ---
-title: 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
+title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-18T06:27:16.848Z'
+modified: '2023-01-18T13:36:46.122Z'
 ---
 
-# 番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
+# 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 
 观众情绪是唯一的标准。
+
+-------
+
+影视剪辑比较杂乱 现在喜欢随便混搭 意识流剪辑
 
 -------
 
