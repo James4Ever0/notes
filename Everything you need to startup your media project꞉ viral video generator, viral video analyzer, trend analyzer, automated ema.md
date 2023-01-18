@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T01:49:06.250Z'
+modified: '2023-01-18T06:30:49.555Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -39,6 +39,8 @@ tools for startup companies, including:
 [Launch]
 [Other]
 ```
+
+[Awesome Streaming](https://github.com/VertioseLabs/Awesome-Streaming)
 
 收集大up主的名字 根据提取出来的名词 清除文案中的含有名字的句子
 
