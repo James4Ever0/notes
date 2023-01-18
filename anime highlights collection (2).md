@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-18T13:39:40.270Z'
+modified: '2023-01-18T13:42:35.430Z'
 ---
 
 # 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -14,7 +14,7 @@ modified: '2023-01-18T13:39:40.270Z'
 
 [film.ai](https://beta.flim.ai/) now can query screenshot and movie name by description and download thumbnails of movies (not latest, not mainland), but without subscription you cannot get accurate seek time (though it will never be accurate)
 
-in [imdb]() can pass film name in multiple languages and get the english name, then query for it in [1337x](https://1337x.to/)
+in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages and get the english name (and trailer video), then query for it in [1337x](https://1337x.to/)
 
 -------
 
