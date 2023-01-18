@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T00:21:39.369Z'
+modified: '2023-01-18T00:22:06.626Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -124,7 +124,7 @@ Some of them verify email with password: [verify email address and password with
 
 #### [yandexmail account creator](https://github.com/hendrikbgr/YandexMail-Account-Creator)
 
-before it was using 2captcha, now using 5sim
+before it was using 2captcha, now using [5sim]() to receive sms
 
 only login such account through pop3 and imap to prevent revocation
 
