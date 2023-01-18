@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T06:53:32.654Z'
+modified: '2023-01-18T07:13:29.476Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -93,6 +93,10 @@ youtube-dl "ytsearch[optional_result_limit]:[query]"
 
 youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+app+in+android+studio&page=1"
 ```
+
+## record live streaming video, upload video
+
+其实直播回放没有什么好看的 很单调 另外b站上传之后可以获得视频预测标签 而biliup封装太多
 
 ## Download a portion of video
 
