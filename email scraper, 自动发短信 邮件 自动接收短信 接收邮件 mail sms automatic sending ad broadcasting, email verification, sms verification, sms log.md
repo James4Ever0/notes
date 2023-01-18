@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T07:38:34.447Z'
+modified: '2023-01-18T07:38:57.504Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -17,7 +17,7 @@ loading/transforming leaked txt files will be time-consuming. use pypy to speedu
 
 #### email collector
 
-[emailAll](https://github.com/Taonn/EmailAll) collect email
+[emailAll](https://github.com/Taonn/EmailAll) collect email by passing domain
 
 [theHarvestor](https://github.com/laramies/theHarvester) email, subdomain and names collector
 
