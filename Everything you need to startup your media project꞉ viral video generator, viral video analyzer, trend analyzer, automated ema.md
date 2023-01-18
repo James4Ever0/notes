@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T10:33:16.443Z'
+modified: '2023-01-18T10:33:53.070Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -104,7 +104,7 @@ youtube's most played data can be extracted by:
 
 [youtube-heatmap](https://www.npmjs.com/package/youtube-heatmap) (nodejs, using puppeteer (bad!))
 
-[youtube operational api](https://github.com/Benjamin-Loison/YouTube-operational-API)'s (powered by shared API keys and info extractors without key), while apparantly [](https://github.com/Woojin-Choi/youtube-most-replayed/blob/master/src/App.js) is using this service to retrieve the data from 
+[youtube operational api](https://github.com/Benjamin-Loison/YouTube-operational-API)'s (powered by shared API keys and info extractors without key), while apparantly [youtube-most-replayed](https://github.com/Woojin-Choi/youtube-most-replayed/blob/master/src/App.js) is using this service to retrieve the data from [yt.lemonslife.com](https://yt.lemnoslife.com) powered by this library
 
 [heatmap extractor](https://github.com/Benjamin-Loison/YouTube-operational-API/blob/main/videos.php)
 
