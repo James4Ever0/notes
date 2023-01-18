@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T07:15:11.065Z'
+modified: '2023-01-18T07:46:50.877Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -96,7 +96,7 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 
 ## record live streaming video, upload video
 
-[biliup](https://github.com/biliup/biliup/) 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口
+[biliup](https://github.com/biliup/biliup/) & [biliup-rs]() 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口
 
 其实直播回放没有什么好看的 很单调 另外b站上传之后可以获得视频预测标签
 

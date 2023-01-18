@@ -2,7 +2,7 @@
 tags: [advertising, mail sending, SMS]
 title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
 created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-18T07:43:40.244Z'
+modified: '2023-01-18T07:46:11.830Z'
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -19,11 +19,11 @@ loading/transforming leaked txt files will be time-consuming. use pypy to speedu
 
 [socialscan](https://github.com/iojw/socialscan) Python library for accurately querying username and email usage on online platforms
 
-[]
+[]()
 
 [Zen](https://github.com/s0md3v/Zen) collect email on github
 
-[maigret](https://github.com/soxoj/maigret) a powerful fork of [sherlock]() (customizable, finding accounts by username)
+[maigret](https://github.com/soxoj/maigret) a powerful fork of [sherlock](https://github.com/sherlock-project/sherlock) (customizable, finding accounts by username, but only [having 300+ sites](https://github.com/sherlock-project/sherlock/blob/master/sites.md) ) with 2000+ sites
 
 [emailAll](https://github.com/Taonn/EmailAll) collect email by passing domain
 
