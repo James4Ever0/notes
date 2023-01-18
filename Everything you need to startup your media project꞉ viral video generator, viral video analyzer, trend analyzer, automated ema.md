@@ -1,14 +1,16 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T06:52:18.674Z'
+modified: '2023-01-18T06:52:25.541Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
 models for content generation:
 
-[one-for-all](https://github.com/OFA-Sys/OFA) multi-modal
+[one-for-all](https://github.com/OFA-Sys/OFA) multi-modal generation
+
+[]
 
 [视频创作导航](https://www.aewz.com/) 可以用来找自动化创作视频的思路
 
