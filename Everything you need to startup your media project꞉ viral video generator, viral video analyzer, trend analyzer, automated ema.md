@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-17T13:52:44.469Z'
+modified: '2023-01-18T01:09:22.788Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -9,6 +9,14 @@ modified: '2023-01-17T13:52:44.469Z'
 [视频创作导航](https://www.aewz.com/) 可以用来找自动化创作视频的思路
 
 [字由](https://www.hellofont.cn/font-list) 识别字体 下载免费字体
+
+[Startup Toolbox](https://github.com/alexanderisora/startuptoolbox/blob/master/README.md)
+
+tools for startup companies, including:
+
+```
+
+```
 
 收集大up主的名字 根据提取出来的名词 清除文案中的含有名字的句子
 
