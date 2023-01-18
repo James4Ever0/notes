@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T06:52:30.221Z'
+modified: '2023-01-18T06:53:32.654Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -10,7 +10,7 @@ models for content generation:
 
 [one-for-all](https://github.com/OFA-Sys/OFA) multi-modal generation
 
-[]
+[magma](https://github.com/Aleph-Alpha/magma): a GPT-style multimodal model that can understand any combination of images and language
 
 ----
 
