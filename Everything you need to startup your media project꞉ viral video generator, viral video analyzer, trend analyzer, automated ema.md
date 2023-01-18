@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:17:03.761Z'
+modified: '2023-01-18T08:19:41.907Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -199,6 +199,12 @@ Using `instaloader` and `instalooter`, it can download videos from instagram. It
 In "TiktokCringe" reddit channel, we are able to get hot posts and video links prefixed by `https://v.redd.it` (from tiktok to reddit) in json format: `https://www.reddit.com/r/TikTokCringe/hot.json?limit=12`. This link looks like some API or subscription. Maybe Bilibili and other sites have similar "hot" json urls. The way to extract video links is in [atmt.sh](https://github.com/spantheslayer/yt-upload-automation/blob/main/atmt.sh). It adds transitions to every video clip.
 
 ### Video editors
+
+#### [vced](https://github.com/datawhalechina/vced)
+
+i think it needs to be fine-tuned on large diversive training data.
+
+VCED 可以通过你的文字描述来自动识别视频中相符合的片段进行视频剪辑。该项目基于跨模态搜索与向量检索技术搭建，通过前后端分离的模式，帮助你快速的接触新一代搜索技术。
 
 #### [videofy](https://github.com/mohtamohit/Videofy)
 
