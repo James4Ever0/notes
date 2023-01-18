@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:55:13.700Z'
+modified: '2023-01-18T09:15:40.947Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -91,6 +91,8 @@ although you may want to train/extract that manually, it would sure be tedious a
 often we determine highlights by sound, visual and voice together. highlights often can be identified without too much context, so it can be chunk based.
 
 b站的高能进度条 在油管被叫做"most replayed"
+
+b站有弹幕 所以可以根据弹幕找到精彩片段
 
 ## youtube-dl search youtube video
 
