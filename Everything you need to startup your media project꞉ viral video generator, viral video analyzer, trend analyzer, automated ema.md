@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:29:40.142Z'
+modified: '2023-01-18T08:31:32.286Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -104,7 +104,7 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 
 ### [youtube automation toolkit](https://github.com/wanghaisheng/youtube-automation-toolkit) post same content to multiple platforms: bilibili, douyin, douyu, instagram, reddit, spotify, tiktok, twitch
 
-though the idea is correct by posting original content to multiple platforms to prevent pirating, but the description/title generation is a vital part of the process, which must be done intelligibly (AI or human). as for now the repo is just **EMPTY** so don't expect anything from it.
+though the idea is correct by posting original content to multiple platforms to prevent pirating, but the description/title generation is a vital part of the process, which must be done intelligibly (AI or human). as for now the repo is just full of links. if you want tools you click given link.
 
 
 
