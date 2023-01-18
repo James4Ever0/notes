@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T08:28:12.303Z'
+modified: '2023-01-18T08:29:40.142Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -96,13 +96,17 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 
 ## record live streaming video, upload video
 
-[biliup](https://github.com/biliup/biliup/) & [biliup-rs](https://github.com/ForgQi/biliup-rs) (commandline program) 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口
+### [biliup](https://github.com/biliup/biliup/) & [biliup-rs](https://github.com/ForgQi/biliup-rs) (commandline program)
+
+全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口
 
 其实直播回放没有什么好看的 很单调 另外b站上传之后可以获得视频预测标签
 
-[youtube automation toolkit](https://github.com/wanghaisheng/youtube-automation-toolkit) post same content to multiple platforms: bilibili, douyin, douyu, instagram, reddit, spotify, tiktok, twitch
+### [youtube automation toolkit](https://github.com/wanghaisheng/youtube-automation-toolkit) post same content to multiple platforms: bilibili, douyin, douyu, instagram, reddit, spotify, tiktok, twitch
 
-though the idea is correct by posting original content to multiple platforms to prevent pirating, but the description/title generation is a vital part of the process, which must be done intelligically
+though the idea is correct by posting original content to multiple platforms to prevent pirating, but the description/title generation is a vital part of the process, which must be done intelligibly (AI or human). as for now the repo is just **EMPTY** so don't expect anything from it.
+
+
 
 ## Download a portion of video
 
