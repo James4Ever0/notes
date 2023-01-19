@@ -2,12 +2,12 @@
 tags: [crypto mining, github, hacking, monero, stub]
 title: github挖币
 created: '2022-05-22T10:19:25.000Z'
-modified: '2023-01-18T23:32:47.445Z'
+modified: '2023-01-19T00:19:20.779Z'
 ---
 
 # github挖币 xmr xmrig Monero
 
-by reading the report of a south african hacktivist doing github crypto mining since the end of 2022 on breachedforum, i understand this is just part of his job (he hacks for living), also he uses professional polyglot multi-crypto mining software, also some template engine to hide his trace/mark (of course)
+by reading the report of a south african hacktivist doing github crypto mining since the end of 2022 on breachedforum, i understand this is just part of his job (he hacks for living), also he uses professional polyglot multi-crypto mining software, also some template engine to hide his trace/mark (of course).
 
 monero is traceable if not doing laundering by churning (recommend by [greenyfinancial](https://greeneryfinancial.com/monero-mixer/), using multiple monero accounts to transfer for obfuscation) or tumbling/mixing (using public mixing pool). both have antimeasures.
 
