@@ -1,8 +1,8 @@
 ---
 tags: [advertising, mail sending, SMS]
-title: 'email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT'
-created: '2022-07-04T12:47:02.000Z'
-modified: '2023-01-19T12:57:34.773Z'
+title: email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
+created: 2022-07-04T12:47:02+00:00
+modified: 2023-01-19T22:00:33+08:00
 ---
 
 # email scraper, 自动发短信 邮件 自动接收短信 接收邮件 mail sms automatic sending ad broadcasting, email verification, sms verification, sms login, email login, temp mail, email OSINT
@@ -201,6 +201,8 @@ searching for "site:pastebin.com @yahoo.com" to get some email addresses, also s
 [domain and email collector](https://awesomeopensource.com/project/bit4woo/teemo)
 
 ### email marketing
+
+use other's links/contents to increase diversity and increase anonymity. put your related contents among them.
 
 email marketing is quantity over quality. know your customers' preferences and behaviors (language, country, life schedule (by year? month? week? time in a day?)) by linking their accounts on other platforms, telemetry.
 
