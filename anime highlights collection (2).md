@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.260Z'
-modified: '2023-01-18T14:00:58.024Z'
+modified: '2023-01-20T00:54:09.633Z'
 ---
 
 # 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -64,7 +64,7 @@ anime downloaders: (hard to find chinese subtitles huh?)
 
 [tracker list for anime](https://github.com/DeSireFire/animeTrackerList)
 
-种子站要能够根据seeder降序排序 [vcb](https://vcb-s.com/)的一般seeder会很多 但是其他字幕组的新番即使seeder比较少 下载速度也会很快 看情况而定 vcb只负责压制 其他字幕组提供单独分开的字幕 两者要单独下载 [Nyaa](https://nyaa.si/)支持该功能 [Nyaa API](https://github.com/Kylart/Nyaapi) 这个站将番剧分类为原盘 英文翻译版 其他语言翻译版 中文翻译属于其他语言翻译版 如果要找中文翻译版本 先选定类型 然后查找文件名是否包含指定代号 有字幕文件的话先下载看看 检测下主语言类别
+种子站要能够根据seeder降序排序 [vcb](https://vcb-s.com/)的一般seeder会很多 但是其他字幕组的新番即使seeder比较少 下载速度也会很快 看情况而定 vcb只负责压制 其他字幕组提供单独分开的字幕 两者要单独下载 [Nyaa](https://nyaa.si/)支持该功能 [Nyaa API](https://github.com/Kylart/Nyaapi) 这个站将番剧分类为原盘 英文翻译版 (这个分类经常会把多语言版本分类到这个区域) 其他语言翻译版 中文翻译属于其他语言翻译版 如果要找中文翻译版本 先选定类型 然后查找文件名是否包含指定代号 有字幕文件的话先下载看看 检测下主语言类别
 
 aria2c can be controlled via python (to make sure it will exit immediately after finishing download instead of seeding and blocking, though can be achieved with some tweaks on commandline arguments to execute command after download finished signal emitted): [aria2p](https://github.com/pawamoy/aria2p) (can be used both as a library or cli program), [pyaria2](https://github.com/zhenlohuang/pyaria2) (old) searching aria2 in github, i found some repos relating to baidunetdisk.
 
