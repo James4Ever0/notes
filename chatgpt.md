@@ -1,12 +1,12 @@
 ---
 title: chatgpt
-created: '2022-12-06T07:37:08.000Z'
-modified: '2023-01-18T12:39:26.559Z'
+created: 2022-12-06T07:37:08+00:00
+modified: 2023-01-22T18:19:12+08:00
 ---
 
 # chatgpt
 
-my account has been banned from trying chatgpt. though it is not going to be free forever, you need to moderate your input (multi-language support, not only english but chinese) using some api to prevent similar incidents. also some topics outside of blacklist are banned intentionally so you need to check if the model is really producing the answer. if not you should avoid or change the way of asking it.
+my account has been banned from trying chatgpt. though it is not going to be free forever, you need to [moderate your input](https://github.com/golfzert/chatgpt-chinese-prompt-hack) (multi-language support, not only english but chinese) using some api to prevent similar incidents. also some topics outside of blacklist are banned intentionally so you need to check if the model is really producing the answer. if not you should avoid or change the way of asking it.
 
 from my point of view, this is a service you cannot replicate at home, either requires smaller models with different architecture, or requires crowd-sourced computational power.
 
@@ -34,6 +34,12 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 
 ### RLHF
 
+#### chainer, prompt engineering
+
+[awesome chatgpt prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+[langchain](https://langchain.readthedocs.io/) extending llm by advanced prompts
+
 #### RL algorithms, tools for providing feedback
 
 [Awesome-RLHF](https://github.com/andy-yangz/Awesome-RLHF) paper and code about RLHF
@@ -54,6 +60,10 @@ Efficient few-shot learning with Sentence Transformers, used by [FewShotRLGPT](h
 [algorithm-distillation-rlhf](https://github.com/CarperAI/Algorithm-Distillation-RLHF)
 
 ##### language models
+
+[chatrwkv](https://github.com/BlinkDL/ChatRWKV) pure rnn language model, with chinese support
+
+[lamda-rlhf-chatgpt](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
 
 [blenderbot2](https://huggingface.co/facebook/blenderbot-3B) a bot which can search internet, blenderbot3 is US only. install [ParlAI](https://github.com/facebookresearch/ParlAI) then clone [ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine). [tutorial](https://dev.to/naruaika/how-i-managed-to-run-blenderbot-20-1jac)
 
@@ -210,6 +220,18 @@ in the format [<quote number>] <quote page title> (<quote page domain>)
 <double new line><quote extract>■.
 ```
 ## projects related to chatgpt
+
+### voice assistants
+
+[voice assistant](https://github.com/tiansztiansz/voice-assistant) in cpp
+
+[ChatWaifu](https://github.com/cjyaddone/ChatWaifu) with anime voice, [ChatWaifu with live2d](https://github.com/cjyaddone/ChatWaifuL2D)
+
+### hacking
+
+[hackgpt](https://github.com/NoDataFound/hackGPT) exploit vulnerabilities
+
+[vulchatgpt](https://github.com/ke0z/VulChatGPT) ida plugin for reverse engineering
 
 [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) things related to chatgpt
 
