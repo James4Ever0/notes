@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-22T07:59:29.833Z'
+modified: '2023-01-22T07:59:37.555Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -363,4 +363,4 @@ Using multiple machine learning techniques, there are some top features matters 
 
 #### [Video Viralization Tool](https://github.com/FilipePires98/VideoViralizationTool)
 
-It uses relative infection ratio instead of absolute to predict the trend. By "information cascade" it means statistics can be used to predict future view counts. It considers individuals and viewers as nodes. It suggests different relationships between parameters in SIR model and data (likes, shares, comments, new subscribers, subscribers, length, quality, tag keywords, description keywords)
+It uses relative infection ratio instead of absolute to predict the trend. By "information cascade" it means statistics can be used to predict future view counts. It considers individuals and viewers as nodes. It suggests different relationships between parameters in SIR model and data (likes, shares, comments, new subscribers, subscribers, length, quality, tag keywords, description keywords).
