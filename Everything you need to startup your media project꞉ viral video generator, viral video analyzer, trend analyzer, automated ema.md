@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-01-18T10:33:53.070Z'
+modified: '2023-01-22T07:53:12.351Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -131,7 +131,6 @@ youtube-dl "https://www.youtube.com/results?search_query=how+to+create+android+a
 ### [youtube automation toolkit](https://github.com/wanghaisheng/youtube-automation-toolkit) post same content to multiple platforms: bilibili, douyin, douyu, instagram, reddit, spotify, tiktok, twitch
 
 though the idea is correct by posting original content to multiple platforms to prevent pirating, but the description/title generation is a vital part of the process, which must be done intelligibly (AI or human). as for now the repo is just full of links. if you want tools you click given link.
-
 
 ## Download a portion of video
 
@@ -362,4 +361,4 @@ Using multiple machine learning techniques, there are some top features matters 
 
 [peak_detection.py](https://github.com/dubstack/Predictube/blob/master/predictube/analyze/peak_detection/peak_detection.py) use daily view count to categorize and identify trends. "MonoIncr" might be our desired category.
 
-####
+#### []
