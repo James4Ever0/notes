@@ -1,10 +1,12 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2023-01-22T18:19:12+08:00
+modified: 2023-01-22T18:20:21+08:00
 ---
 
 # chatgpt
+
+it is adviced to run this chatgpt program with libraries instead of manually, to prevent issues.
 
 my account has been banned from trying chatgpt. though it is not going to be free forever, you need to [moderate your input](https://github.com/golfzert/chatgpt-chinese-prompt-hack) (multi-language support, not only english but chinese) using some api to prevent similar incidents. also some topics outside of blacklist are banned intentionally so you need to check if the model is really producing the answer. if not you should avoid or change the way of asking it.
 
