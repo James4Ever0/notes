@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2023-01-22T18:20:21+08:00
+modified: 2023-01-22T18:38:22+08:00
 ---
 
 # chatgpt
@@ -40,7 +40,7 @@ according to the training process of instructgpt and webgpt, we know that gpt ha
 
 [awesome chatgpt prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-[langchain](https://langchain.readthedocs.io/) extending llm by advanced prompts
+[langchain](https://langchain.readthedocs.io/) extending llm by advanced prompts, llm wrappers actions, databases and memories
 
 #### RL algorithms, tools for providing feedback
 
