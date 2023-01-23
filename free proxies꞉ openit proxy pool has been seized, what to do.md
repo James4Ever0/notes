@@ -1,7 +1,7 @@
 ---
 title: 'free proxies: openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2023-01-15T14:10:34.479Z'
+modified: '2023-01-23T11:06:43.347Z'
 ---
 
 # free proxies: openit proxy pool has been seized, what to do
@@ -49,6 +49,8 @@ or you could use lantern.
 ## providers
 
 ### subscription links
+
+[proxy-list]()
 
 [freefq](https://github.com/freefq/free)
 
