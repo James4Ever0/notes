@@ -1,10 +1,12 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-01-13T12:32:49.627Z'
+modified: '2023-01-23T11:08:10.195Z'
 ---
 
 # video generation/modification (vfx) from text
+
+[instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) requires 16GB+ VRAM
 
 [text2live](https://github.com/omerbt/Text2LIVE) modify video by text prompt (such as add fire in mouth)
 
