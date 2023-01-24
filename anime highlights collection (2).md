@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: 2023-01-16T06:20:31+00:00
-modified: 2023-01-24T23:46:53+08:00
+modified: 2023-01-24T23:47:14+08:00
 ---
 
 # 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -81,7 +81,7 @@ aria2c -x 16 --file-allocation=none --select-file=<file_index> target.torrent
 
 如果要实时看云电脑的进度可以自己搭建一个netprogressbar server 根据约定好的url和密码 (read-only and write-only password, or both, by setting different privilege) 来上报和接收进度 server要及时回收资源
 
-番剧信息包括名称 类型 标签 具体第几话 单季和多季有别 如果是多季的话需要研究如何找出来 提取名字要完整 如果有续集 (比如"Yahari Ore no Seishun Lovecome wa Machigatte Iru.") 那么要改进parse逻辑 准确识别 (要么在番剧名字alias识别上下功夫 要么找到续集名字 过滤掉续集名字并保留alias名字 看看名字之间是不是有包含关系)
+番剧信息包括名称 类型 标签 具体第几话 单季和多季有别 如果是多季的话需要研究如何找出来 提取名字要完整 如果有续集 (比如"Yahari Ore no Seishun Lovecome wa Machigatte Iru.") 那么要改进parse逻辑 准确识别 (要么在番剧名字alias识别上下功夫 要么找到续集名字 过滤掉续集名字并保留alias名字 看看名字之间是不是有包含关系 到anidb.net找)
 
 有[提取画面中动漫人物信息以及所属番剧的网站](https://ai.animedb.cn) [Python API](https://github.com/itoukou1/zhenxun_plugin_animetrace/blob/main/__init__.py) 只支持日漫 [该网站在b站的使用方法介绍](https://www.bilibili.com/read/cv17700107) 注册码目前是`hello2023` 可以用来做单个人物合集 在发送截图之前先用模型扫描一下到底有没有动漫人脸 如果没有就不用上传了 识别不出来
 
