@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
-created: 2023-01-16T06:20:31+00:00
-modified: 2023-01-24T23:48:13+08:00
+created: '2023-01-16T06:20:31.000Z'
+modified: '2023-01-26T16:42:01.432Z'
 ---
 
 # 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -34,7 +34,7 @@ in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages a
 
 训练根据封面和标签生成标题的模型 或者自行发挥 尝试 只要看起来还行
 
-分段分析视频片段 用yolo找出视频正在播放的区域 方便裁剪识别动漫
+分段分析视频片段 [用yolov8找出视频正在播放的区域](https://huggingface.co/James4Ever0/yolov8_pip_ultralytics) (画中画区域识别) 方便裁剪识别动漫
 
 识别截图中的文字 查看是否有重复的 包含有番剧名称 可以用来查找动漫
 
