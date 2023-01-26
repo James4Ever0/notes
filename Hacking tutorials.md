@@ -2,10 +2,12 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: Hacking tutorials, tools
 created: 2022-07-11T15:43:20+00:00
-modified: 2023-01-23T23:50:20+08:00
+modified: 2023-01-27T00:58:21+08:00
 ---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
+
+[stryker: wifi hacking tool](https://github.com/stryker-project/app) includes dust attack, pin attack
 
 found multiple websites on lonely planet tourist guide of america (all over the place!)
 
