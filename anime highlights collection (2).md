@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-01-27T17:27:05.687Z'
+modified: '2023-01-27T17:35:50.216Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -22,7 +22,7 @@ in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages a
 
 -------
 
-用webtorrent替代aria2c 可以下载视频指定区域 下载速度特别快
+用[webtorrent](https://github.com/webtorrent/webtorrent)替代aria2c 可以下载视频指定区域 下载速度特别快 记得及时关闭下载释放内存 看看[webtorrent-cli](https://github.com/webtorrent/webtorrent-cli)是怎么实现seek的 如何对接ffmpeg
 
 ~~yt-dlp不一定能下载b站视频指定区域 如果下载失败 得到视频原地址之后执行：~~
 ~~`ffmpeg -ss <start> -to <end> -c copy <video_url>`~~
