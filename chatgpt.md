@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: 2022-12-06T07:37:08+00:00
-modified: 2023-01-22T18:38:22+08:00
+modified: 2023-01-27T20:24:48+08:00
 ---
 
 # chatgpt
@@ -230,6 +230,10 @@ in the format [<quote number>] <quote page title> (<quote page domain>)
 [ChatWaifu](https://github.com/cjyaddone/ChatWaifu) with anime voice, [ChatWaifu with live2d](https://github.com/cjyaddone/ChatWaifuL2D)
 
 ### hacking
+
+[give longterm memory and external resources to gpt3](https://github.com/daveshap/LongtermChatExternalSources)
+
+[write backend logic with gpt](https://github.com/TheAppleTucker/backend-GPT)
 
 [hackgpt](https://github.com/NoDataFound/hackGPT) exploit vulnerabilities
 
