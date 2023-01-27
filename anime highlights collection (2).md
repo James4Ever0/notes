@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
-created: 2023-01-16T06:20:31+00:00
-modified: 2023-01-26T16:42:01+00:00
+created: '2023-01-16T06:20:31.000Z'
+modified: '2023-01-27T17:04:42.316Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -21,6 +21,8 @@ modified: 2023-01-26T16:42:01+00:00
 in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages and get the english name (and trailer video), then query for it in [1337x](https://1337x.to/) (results sorted by seeder counts)
 
 -------
+
+用webtorrent替代aria2c 可以下载视频指定区域 下载速度特别快
 
 准备片头和片尾 准备视频模版 每个片段不要太长 选取多个番剧 适当处理视频 防止撞车
 
@@ -68,7 +70,7 @@ anime downloaders: (hard to find chinese subtitles huh?)
 
 aria2c can be controlled via python (to make sure it will exit immediately after finishing download instead of seeding and blocking, though can be achieved with some tweaks on commandline arguments to execute command after download finished signal emitted): [aria2p](https://github.com/pawamoy/aria2p) (can be used both as a library or cli program), [pyaria2](https://github.com/zhenlohuang/pyaria2) (old) searching aria2 in github, i found some repos relating to baidunetdisk.
 
-到[国内番剧种子站](https://www.bilibili.com/read/cv7338766/)去找片源 (这些站基本一个样) 新番下载较快 老番下载会非常慢 几乎龟速 (检查有没有seeder 一个都没有就别想下了 直接放弃 以及监控下载进度 一段时间没有进度基本凉了) 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭 如果是合集 需要[选择指定的对象进行下载](https://github.com/aria2/aria2/issues/843)
+到[国内番剧种子站](https://www.bilibili.com/read/cv7338766/)去找片源 (这些站基本一个样) 新番下载较快 老番下载会非常慢 几乎龟速 (检查有没有seeder 一个都没有就别想下了 直接放弃 以及监控下载进度 一段时间没有进度基本凉了) 而不是一些在线观看的网站 (视频不清晰 还有广告在里面) 由于没法用yt-dlp选取段落下载 (但是webtorrent可以) 最好用云电脑下载然后回传 关掉aria2c的做种选项 下完自动关闭 如果是合集 需要[选择指定的对象进行下载](https://github.com/aria2/aria2/issues/843)
 
 ```bash
 aria2c --show-files target.torrent
