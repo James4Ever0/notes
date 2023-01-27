@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-01-27T17:04:42.316Z'
+modified: '2023-01-27T17:12:04.138Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -23,6 +23,8 @@ in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages a
 -------
 
 用webtorrent替代aria2c 可以下载视频指定区域 下载速度特别快
+
+yt-dlp不一定能下载b站视频指定区域 如果下载失败 得到视频原地址之后用ffmpeg seek (-c copy)指定片段
 
 准备片头和片尾 准备视频模版 每个片段不要太长 选取多个番剧 适当处理视频 防止撞车
 
