@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: 2023-01-16T06:20:31+00:00
-modified: 2023-01-29T00:40:30+08:00
+modified: 2023-01-29T00:41:01+08:00
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -22,7 +22,7 @@ in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages a
 
 -------
 
-when transcoding using ffmpeg tweak parameters. set low profile with high threads count
+when transcoding (with seeking?) using ffmpeg tweak parameters. set low profile with high threads count
 
 使用网络链接进行ffmpeg seek (-c copy)如果不准确 那么就是片子太短了或者是截取的片段太短了 尝试下载全片之后在本地截取
 
