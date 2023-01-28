@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-01-27T17:35:50.216Z'
+modified: '2023-01-28T10:53:20.547Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -21,6 +21,8 @@ modified: '2023-01-27T17:35:50.216Z'
 in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages and get the english name (and trailer video), then query for it in [1337x](https://1337x.to/) (results sorted by seeder counts)
 
 -------
+
+使用网络链接进行ffmpeg seek (-c copy)如果不准确 那么就是片子太短了或者是截取的片段太短了 尝试下载全片之后在本地截取
 
 用[webtorrent](https://github.com/webtorrent/webtorrent)替代aria2c 可以下载视频指定区域 下载速度特别快 记得及时关闭下载释放内存 看看[webtorrent-cli](https://github.com/webtorrent/webtorrent-cli)是怎么实现seek的 如何对接ffmpeg
 
