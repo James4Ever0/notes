@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: 2023-01-16T06:20:31+00:00
-modified: 2023-01-29T01:19:11+08:00
+modified: 2023-01-29T01:35:01+08:00
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -22,7 +22,7 @@ in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages a
 
 -------
 
-when transcoding (with seeking?) using ffmpeg tweak parameters. set low profile with high threads count (higher crf will result in poor quality but faster speed):
+when transcoding (with seeking?) using ffmpeg tweak parameters. set low profile with high threads count (higher crf will result in poor quality but faster speed), although all these flags may result into unplayable video for some players.
 
 ```bash
 ffmpeg -ss <seek_start> -to <seek_end> -i <video_url> -c:v libx264 -c:a [aac/copy] -threads 8 -crf 28 -preset ultrafast -tune zerolatency -movflags isml+frag_keyframe+empty_moov+faststart+delay_moov -f ismv -maxrate 2500k -bufsize 5000k <output_path>
