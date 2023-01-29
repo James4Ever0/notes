@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: 2023-01-16T06:20:31+00:00
-modified: 2023-01-29T01:35:01+08:00
+modified: 2023-01-29T20:22:51+08:00
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -21,6 +21,8 @@ modified: 2023-01-29T01:35:01+08:00
 in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages and get the english name (and trailer video), then query for it in [1337x](https://1337x.to/) (results sorted by seeder counts)
 
 -------
+
+文本分类式的番剧剪辑 需要分割时间段 即每隔一分钟分割对应的弹幕并摘要或者字幕 合并并进行打标签 训练
 
 when transcoding (with seeking?) using ffmpeg tweak parameters. set low profile with high threads count (higher crf will result in poor quality but faster speed), although all these flags may result into unplayable video for some players.
 
