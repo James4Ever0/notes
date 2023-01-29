@@ -2,10 +2,13 @@
 tags: [model training, pyjom, speech synthesis, stub, voice changer, vst]
 title: 变声软件 Morphvox alternatives
 created: '2022-05-28T16:14:51.000Z'
-modified: '2023-01-12T22:27:48.967Z'
+modified: '2023-01-29T17:00:05.328Z'
 ---
 
 # 变声软件 Morphvox alternatives
+
+
+[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) by CorentinJ
 
 感谢关注，UP在B站制作各种AI变声器模型。
 AI白菜原创变声器软件下载链接：
