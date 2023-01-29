@@ -2,12 +2,12 @@
 tags: [browser extension, cloud sync, extension, image sources, information gathering, search engine, sync, text sources, video sources]
 title: Netdisk managers, Userscript and info_data collection
 created: 2022-04-25T20:54:07+00:00
-modified: 2023-01-30T04:50:26+08:00
+modified: 2023-01-30T04:50:36+08:00
 ---
 
 # Userscript and info/data collection
 
-[Alisa](https://github.com/alist-org/alist) a filelist manager for all common cloud storage providers
+[Alist](https://github.com/alist-org/alist) a filelist manager for all common cloud storage providers
 
 for site collection list you could just search for it.
 
