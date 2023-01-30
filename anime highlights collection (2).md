@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
-created: 2023-01-16T06:20:31+00:00
-modified: 2023-01-29T20:25:40+08:00
+created: '2023-01-16T06:20:31.000Z'
+modified: '2023-01-30T09:36:58.319Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -21,6 +21,8 @@ modified: 2023-01-29T20:25:40+08:00
 in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages and get the english name (and trailer video), then query for it in [1337x](https://1337x.to/) (results sorted by seeder counts)
 
 -------
+
+nyaa.si国内访问不上 [nyaa镜像站列表](https://nyaatorrents.info/) 
 
 文本分类式的番剧剪辑 需要分割时间段 即每隔一分钟分割对应的弹幕并摘要或者字幕 合并并进行打标签 训练 注意不要包括片头和片尾
 
