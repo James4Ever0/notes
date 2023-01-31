@@ -1,11 +1,13 @@
 ---
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
-created: '2022-07-14T15:35:31.000Z'
-modified: '2023-01-16T08:45:08.841Z'
+created: 2022-07-14T15:35:31+00:00
+modified: 2023-01-31T20:38:03+08:00
 ---
 
 # 复读机 Chatbot
+
+测试聊天机器人的方式就是对聊 测试自媒体可以用自动测试 假数据进行测试
 
 带二维码的图片 二维码对比度要低 避免被qq管家撤回
 
