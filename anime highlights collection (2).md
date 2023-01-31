@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-01-30T13:27:12.951Z'
+modified: '2023-01-31T14:28:57.729Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -9,6 +9,8 @@ modified: '2023-01-30T13:27:12.951Z'
 观众情绪是唯一的标准。
 
 -------
+
+影视 番剧 是可以通过专门的网站查找得到英文名称和中文名称的关联的 可以利用这个关系得到YouTube上面的影评并生成中文标题
 
 影视剪辑比较杂乱 现在喜欢随便混搭 意识流剪辑 当然拿来做一般的素材也行 不过就需要自己搭建处理了
 
