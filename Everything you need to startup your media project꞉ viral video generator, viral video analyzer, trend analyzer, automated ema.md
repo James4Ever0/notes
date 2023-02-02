@@ -1,10 +1,12 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-02-02T13:54:04.014Z'
+modified: '2023-02-02T14:18:43.229Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+youtube now can auto generate video chapters, which might be part of text/video summarization.
 
 multinational, multilingual, subtitles, localizations
 
