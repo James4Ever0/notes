@@ -1,11 +1,13 @@
 ---
 tags: [lyric generation, music generation, singing, voice changer]
 title: Singing Voice Generation and more
-created: '2022-05-05T02:28:59.000Z'
-modified: '2022-12-17T15:02:36.593Z'
+created: 2022-05-05T02:28:59+00:00
+modified: 2023-02-02T09:02:48+08:00
 ---
 
 # Singing Voice Generation and more
+
+[audio ai timeline](https://github.com/archinetai/audio-ai-timeline) best audio generation models
 
 generate music using diffusion
 
