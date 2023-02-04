@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-04T14:17:28.855Z'
+modified: '2023-02-04T14:35:06.470Z'
 ---
 
 # chatgpt
 
-[many alternatives](https://alternativeto.net/software/chatgpt/), but many are specialized in marketing and content generation, some are chatgpt replica.
+[many alternatives](https://alternativeto.net/software/chatgpt/), but many are specialized in marketing and content generation, some are chatgpt replica, like []
 
 it is adviced to run this chatgpt program with libraries instead of manually, to prevent issues.
 
