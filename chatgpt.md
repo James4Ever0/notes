@@ -1,14 +1,14 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-05T09:48:08.145Z'
+modified: '2023-02-05T09:49:32.714Z'
 ---
 
 # chatgpt
 
 [many alternatives](https://alternativeto.net/software/chatgpt/), but many are specialized in marketing and content generation, some are chatgpt replica, like [chatsonic](https://app.writesonic.com/) (with google knowledge) and [youchat](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat) (from [you.com](https://you.com/) (awesome!))
 
-open assistant now has a [data collection website](https://open-assistant.io/dashboard), in which you can only submit feedback but not any prompt.
+open assistant now has a [data collection website](https://open-assistant.io/dashboard), in which you can only perform tasks given and earn points.
 
 it is adviced to run this chatgpt program with libraries instead of manually, to prevent issues.
 
