@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-05T14:25:52.128Z'
+modified: '2023-02-05T14:57:09.122Z'
 ---
 
 # chatgpt
 
-Rallio67 has released [multiple chatgpt-like models](https://huggingface.co/Rallio67) on huggingface. namely, [joi](https://huggingface.co/Rallio67/joi_20B_instruct_alpha), [chip](https://huggingface.co/Rallio67/chip_20B_instruct_alpha) and [rosey](https://huggingface.co/Rallio67/rosey_12B_instruct_alpha), all based on [pythia](https://huggingface.co/EleutherAI/pythia-12b) or neox-20b. laion people tend to share loads to CPU in order to run these huge models properly.
+Rallio67 builds [dataset for RLHF](https://github.com/Rallio67/language-model-agents) and has released [multiple chatgpt-like models](https://huggingface.co/Rallio67) on huggingface. namely, [joi](https://huggingface.co/Rallio67/joi_20B_instruct_alpha), [chip](https://huggingface.co/Rallio67/chip_20B_instruct_alpha) and [rosey](https://huggingface.co/Rallio67/rosey_12B_instruct_alpha), all based on [pythia](https://huggingface.co/EleutherAI/pythia-12b) or neox-20b. laion people tend to share loads to CPU in order to run these huge models properly.
 
 [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) considered [OPT](https://huggingface.co/facebook/opt-2.7b) and [GPT-Neo](https://huggingface.co/EleutherAI/gpt-neo-2.7B) as generic LMs. special models like NSFW shits may serve some purposes better.
 
