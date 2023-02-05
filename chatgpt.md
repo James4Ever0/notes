@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-05T13:58:22.125Z'
+modified: '2023-02-05T13:58:51.436Z'
 ---
 
 # chatgpt
 
-[KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) considered OPT and GPT-Neo as generic LMs.
+[KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) considered [OPT](https://huggingface.co/facebook/opt-2.7b) and GPT-Neo as generic LMs.
 
 [many alternatives](https://alternativeto.net/software/chatgpt/), but many are specialized in marketing and content generation, some are chatgpt replica, like [chatsonic](https://app.writesonic.com/) (with google knowledge) and [youchat](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat) (from [you.com](https://you.com/) (awesome!))
 
