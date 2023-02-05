@@ -1,7 +1,7 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-02-05T13:48:22.709Z'
+modified: '2023-02-05T13:51:40.211Z'
 ---
 
 # video generation/modification (vfx) from text
@@ -26,7 +26,6 @@ use editly smooth/slick transitions and subtitles to beat the copy-detection alg
 
 动态 专栏也可以抄
 
-phenaki
-https://makeavideo.studio/
+[make-a-video](https://github.com/lucidrains/make-a-video-pytorch)
 
 谷歌AI歌手震撼来袭！AudioLM简单听几秒，便能谱曲写歌 https://www.kuxai.com/article/398
