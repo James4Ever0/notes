@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-02-02T14:18:43.229Z'
+modified: '2023-02-05T13:40:38.180Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -13,6 +13,8 @@ multinational, multilingual, subtitles, localizations
 ---- 
 
 models for content generation:
+
+[LAVIS](https://github.com/salesforce/LAVIS)
 
 [one-for-all](https://github.com/OFA-Sys/OFA) multi-modal generation
 
