@@ -1,10 +1,12 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-02-05T13:44:10.393Z'
+modified: '2023-02-05T13:48:22.709Z'
 ---
 
 # video generation/modification (vfx) from text
+
+[Phenaki Video](https://github.com/lucidrains/phenaki-pytorch), which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch
 
 [dreamix](https://dreamix-video-editing.github.io/) (not open-source)
 
