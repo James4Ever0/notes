@@ -1,12 +1,12 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-02-05T13:53:00.222Z'
+modified: '2023-02-05T13:54:57.517Z'
 ---
 
 # video generation/modification (vfx) from text
 
-[lucidrains](https://github.com/lucidrains) is a workaholic on transformer implementations. we should scrape all the repos and index them.
+[lucidrains](https://github.com/lucidrains) is a workaholic on transformer implementations. we should scrape all the repos and index them. there are faster language models to train.
 
 -----
 
