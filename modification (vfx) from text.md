@@ -1,10 +1,12 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-01-23T11:08:10.195Z'
+modified: '2023-02-05T13:44:10.393Z'
 ---
 
 # video generation/modification (vfx) from text
+
+[dreamix](https://dreamix-video-editing.github.io/) (not open-source)
 
 [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) requires 16GB+ VRAM
 
