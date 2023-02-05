@@ -1,10 +1,14 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
-created: '2023-01-09T03:22:12.000Z'
-modified: '2023-02-05T14:08:21.195Z'
+created: 2023-01-09T03:22:12+00:00
+modified: 2023-02-06T06:14:03+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+如果封面提取关键词进行训练并更换 尝试自己生成配图和文字的方法难以实现 可以考虑更换字体和色彩 文字内容不变
+
+----
 
 youtube now can auto generate video chapters, which might be part of text/video summarization.
 
@@ -13,8 +17,6 @@ multinational, multilingual, subtitles, localizations
 ---- 
 
 models for content generation:
-
-[LAVIS](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence
 
 [one-for-all](https://github.com/OFA-Sys/OFA) multi-modal generation
 
@@ -225,10 +227,6 @@ API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potent
 位置：`tests/viral_video_experiments/360ImageSearch`
 
 ### Video collectors
-
-#### [InstaLooter](https://github.com/althonos/InstaLooter)
-
-Another API-less Instagram pictures and videos downloader.
 
 #### [tiktok compilation video generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator)
 
