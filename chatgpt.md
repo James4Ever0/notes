@@ -1,10 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-05T13:59:03.756Z'
+modified: '2023-02-05T14:19:55.478Z'
 ---
 
 # chatgpt
+
+
 
 [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) considered [OPT](https://huggingface.co/facebook/opt-2.7b) and [GPT-Neo](https://huggingface.co/EleutherAI/gpt-neo-2.7B) as generic LMs.
 
