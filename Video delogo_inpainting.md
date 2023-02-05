@@ -2,7 +2,7 @@
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
 created: '2022-05-31T06:13:58.000Z'
-modified: '2023-02-05T13:33:06.287Z'
+modified: '2023-02-05T13:33:26.380Z'
 ---
 
 # Video delogo/inpainting
@@ -10,7 +10,42 @@ modified: '2023-02-05T13:33:06.287Z'
 you can use [clip](https://github.com/LAION-AI/LAION-5B-WatermarkDetection) for watermark detection, but you don't know where. fuck. you better train it yourself.
 
 
-[watermark detection model]
+[watermark detection model](https://wandb.ai/arkseal/laion-watermark-detection/artifacts/model/model/f88165bb9d2cbccc51b5)
+
+```python
+import timm
+# all other pytorch imports
+
+# Not used but necessary when running on images
+transforms = T.Compose([
+    T.Resize((256, 256)),
+    T.ToTensor(),
+    T.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+])
+
+# Create model
+model = timm.create_model('efficientnet_b3a', pretrained=False, num_classes=2)
+model.classifier = nn.Sequential(
+    nn.Linear(in_features=1536, out_features=625),
+    nn.ReLU(),
+    nn.Dropout(p=0.3),
+    nn.Linear(in_features=625, out_features=256),
+    nn.ReLU(),
+    nn.Linear(in_features=256, out_features=2)
+)
+
+# Load model weights
+state_dict = torch.load('./model.pt')
+model.load_state_dict(state_dict).eval().to(device)
+
+# Sample Image
+im = torch.randn(8, 3, 256, 256)
+with torch.no_grad():
+    pred = model(im)
+syms = F.softmax(pred, dim=1).detach().cpu().numpy().tolist()
+for water_sym, clear_sym in syms:
+    # Do whatever you want with the watermark simlarity
+```
 
 
 ## image local contrast enhancement, for removing hard-to-detect watermarks
