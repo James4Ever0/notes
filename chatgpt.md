@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-05T14:19:55.478Z'
+modified: '2023-02-05T14:22:37.412Z'
 ---
 
 # chatgpt
 
-
+Rallio67 has released [multiple chatgpt-like models](https://huggingface.co/Rallio67) on huggingface. namely, [joi](https://huggingface.co/Rallio67/joi_20B_instruct_alpha), [chip](https://huggingface.co/Rallio67/chip_20B_instruct_alpha) and [rosey](https://huggingface.co/Rallio67/rosey_12B_instruct_alpha). laion people tend to share loads to CPU in order to run these huge models properly.
 
 [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) considered [OPT](https://huggingface.co/facebook/opt-2.7b) and [GPT-Neo](https://huggingface.co/EleutherAI/gpt-neo-2.7B) as generic LMs.
 
