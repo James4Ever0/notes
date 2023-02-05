@@ -1,11 +1,13 @@
 ---
 tags: [lyric generation, music generation, singing, voice changer]
 title: Singing Voice Generation and more
-created: 2022-05-05T02:28:59+00:00
-modified: 2023-02-02T09:02:48+08:00
+created: '2022-05-05T02:28:59.000Z'
+modified: '2023-02-05T01:57:00.347Z'
 ---
 
 # Singing Voice Generation and more
+
+generate audio and music: [audiolm](https://github.com/lucidrains/audiolm-pytorch)
 
 [audio ai timeline](https://github.com/archinetai/audio-ai-timeline) best audio generation models
 
