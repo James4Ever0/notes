@@ -1,7 +1,7 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-02-02T14:18:43.229Z'
+modified: '2023-02-05T14:08:21.195Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
@@ -13,6 +13,8 @@ multinational, multilingual, subtitles, localizations
 ---- 
 
 models for content generation:
+
+[LAVIS](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence
 
 [one-for-all](https://github.com/OFA-Sys/OFA) multi-modal generation
 
@@ -223,6 +225,10 @@ API：`https://api.rebang.today/v1/items?tab=<TAB_NAME>&page=<PAGE_NUM>` (potent
 位置：`tests/viral_video_experiments/360ImageSearch`
 
 ### Video collectors
+
+#### [InstaLooter](https://github.com/althonos/InstaLooter)
+
+Another API-less Instagram pictures and videos downloader.
 
 #### [tiktok compilation video generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator)
 

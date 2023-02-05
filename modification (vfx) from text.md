@@ -1,10 +1,18 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-01-23T11:08:10.195Z'
+modified: '2023-02-05T14:02:08.527Z'
 ---
 
 # video generation/modification (vfx) from text
+
+[lucidrains](https://github.com/lucidrains) is a workaholic on transformer implementations. we should scrape all the repos and index them. there are [faster language models](https://github.com/lucidrains/memory-efficient-attention-pytorch) to train.
+
+-----
+
+[Phenaki Video](https://github.com/lucidrains/phenaki-pytorch), which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch
+
+[dreamix](https://dreamix-video-editing.github.io/) (not open-source)
 
 [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) requires 16GB+ VRAM
 
@@ -22,7 +30,6 @@ use editly smooth/slick transitions and subtitles to beat the copy-detection alg
 
 动态 专栏也可以抄
 
-phenaki
-https://makeavideo.studio/
+[make-a-video](https://github.com/lucidrains/make-a-video-pytorch)
 
 谷歌AI歌手震撼来袭！AudioLM简单听几秒，便能谱曲写歌 https://www.kuxai.com/article/398

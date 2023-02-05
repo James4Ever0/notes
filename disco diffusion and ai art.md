@@ -2,12 +2,16 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2023-01-02T20:12:58.603Z'
+modified: '2023-02-05T13:29:03.464Z'
 ---
 
 # disco diffusion and ai art
 
+[karlo](https://github.com/kakaobrain/karlo): dalle2 replicate, [karlo huggingface space](https://huggingface.co/spaces/kakaobrain/karlo), text to image (can be used for semantic search)
+
 [dalle2-laion](https://github.com/LAION-AI/dalle2-laion)
+
+[DiT](https://github.com/facebookresearch/DiT) diffusion with transformer
 
 [custom diffusion](https://github.com/adobe-research/custom-diffusion) rlhf?
 
