@@ -1,10 +1,14 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-02-05T13:51:40.211Z'
+modified: '2023-02-05T13:53:00.222Z'
 ---
 
 # video generation/modification (vfx) from text
+
+[lucidrains](https://github.com/lucidrains) is a workaholic on transformer implementations. we should scrape all the repos and index them.
+
+-----
 
 [Phenaki Video](https://github.com/lucidrains/phenaki-pytorch), which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch
 
