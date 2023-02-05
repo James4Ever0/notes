@@ -1,14 +1,14 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: 2023-01-09T03:22:12+00:00
-modified: 2023-02-06T06:15:51+08:00
+modified: 2023-02-06T06:16:10+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
 如果封面提取关键词进行训练并更换 尝试自己生成配图和文字的方法难以实现 可以考虑更换字体和色彩 文字内容不变
 
-封面文字遵循一定的阅读顺序 从上到下 从左到右 可以设立排版规则
+封面文字遵循一定的阅读顺序 从上到下 从左到右 可以设立排版以及合并（用于训练）规则
 
 ----
 
