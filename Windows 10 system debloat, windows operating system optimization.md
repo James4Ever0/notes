@@ -1,12 +1,17 @@
 ---
 title: 'Windows 10 system debloat, windows operating system optimization'
 created: '2023-02-08T01:02:43.458Z'
-modified: '2023-02-08T11:58:33.066Z'
+modified: '2023-02-08T11:59:02.020Z'
 ---
 
 # Windows 10 system debloat, windows operating system optimization
 
 to activate windows 10, use KMS tool.
+
+----
+
+[Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+
 
 [optimizer](https://github.com/hellzerg/optimizer) able to:
 
