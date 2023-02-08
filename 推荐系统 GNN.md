@@ -2,10 +2,42 @@
 tags: [advertising, chatbot, graph database, pyjom, recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2022-12-19T12:56:08.286Z'
+modified: '2023-02-08T03:23:32.247Z'
 ---
 
 # 推荐系统 GNN
+
+1、muricoca/crab
+https://github.com/muricoca/crab
+
+2、ibayer/fastFM
+https://github.com/ibayer/fastFM
+
+3、Mendeley/mrec
+https://github.com/mendeley/mrec
+
+4、MrChrisJohnson/logistic-mf
+https://github.com/MrChrisJohnson/logistic-mf
+
+5、jadianes/winerama-recommender-tutorial
+https://github.com/jadianes/winerama-recommender-tutorial
+
+6、ocelma/python-recsys
+https://github.com/ocelma/python-recsys
+
+7、benfred/implicit
+https://github.com/benfred/implicit
+
+8、lyst/lightfm
+https://github.com/lyst/lightfm
+
+9、python-recsys/crab
+https://github.com/python-recsys/crab
+
+10、NicolasHug/Surprise
+https://github.com/NicolasHug/Surprise
+
+----
 
 linkedin [gdmix](https://github.com/linkedin/gdmix) simple and memory effective personalized ranking
 
