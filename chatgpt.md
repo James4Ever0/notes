@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-08T05:14:45.095Z'
+modified: '2023-02-08T05:15:19.251Z'
 ---
 
 # chatgpt
 
-[Merlin](http://getmerlin.in/) is an extension based on ChatGPT which is avaliable for free and all countries. Pro subscriptions incoming.
+[Merlin](http://getmerlin.in/) is an extension based on ChatGPT which is avaliable for free and all countries, with 11 queries for free each day. Pro subscriptions incoming.
 
 Rallio67 builds [dataset for RLHF](https://github.com/Rallio67/language-model-agents) and has released [multiple chatgpt-like models](https://huggingface.co/Rallio67) on huggingface. namely, [joi](https://huggingface.co/Rallio67/joi_20B_instruct_alpha), [chip](https://huggingface.co/Rallio67/chip_20B_instruct_alpha) and [rosey](https://huggingface.co/Rallio67/rosey_12B_instruct_alpha), all based on [pythia](https://huggingface.co/EleutherAI/pythia-12b) or neox-20b. laion people tend to share loads to CPU in order to run these huge models properly.
 
