@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-09T01:18:26.729Z'
+modified: '2023-02-09T01:21:55.143Z'
 ---
 
 # chatgpt
@@ -20,7 +20,7 @@ it is adviced to run this chatgpt program with libraries instead of manually, to
 
 my account has been banned from trying chatgpt. though it is not going to be free forever, you need to [moderate your input](https://github.com/golfzert/chatgpt-chinese-prompt-hack) (multi-language support, not only english but chinese) using some api to prevent similar incidents. also some topics outside of blacklist are banned intentionally so you need to check if the model is really producing the answer. if not you should avoid or change the way of asking it.
 
-moderation via [official openai api](https://platform.openai.com/docs/api-reference/moderations), [perspective api](https://developers.perspectiveapi.com/s/?language=en_US) (free), or via some projects like [content moderation deeplearning](https://github.com/fcakyon/content-moderation-deep-learning), [bert text moderation](https://github.com/NanoNets/bert-text-moderation), [bert-base-uncased-hatexplain](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain), [toxic-bert](https://huggingface.co/unitary/toxic-bert) and [multilingual-hate-speech-robacofi](https://huggingface.co/Andrazp/multilingual-hate-speech-robacofi), train on datasets like [hate_speech_offensive](https://huggingface.co/datasets/SetFit/hate_speech_offensive), [toxicity](https://github.com/surge-ai/toxicity) (by surge-ai, a dataset labelling workforce) and [multilingual-hate-speech](https://huggingface.co/datasets/vidhur2k/multilingual-hate-speech/)
+moderation via [official openai api](https://platform.openai.com/docs/api-reference/moderations), [perspective api](https://developers.perspectiveapi.com/s/?language=en_US) (free), or via some projects like [content moderation deeplearning](https://github.com/fcakyon/content-moderation-deep-learning), [bert text moderation](https://github.com/NanoNets/bert-text-moderation), [bert-base-uncased-hatexplain](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain), [toxic-bert](https://huggingface.co/unitary/toxic-bert), [copilot-toxicity](https://github.com/surge-ai/copilot-toxicity/blob/main/copilot-toxicity.ipynb) and [multilingual-hate-speech-robacofi](https://huggingface.co/Andrazp/multilingual-hate-speech-robacofi), train on datasets like [hate_speech_offensive](https://huggingface.co/datasets/SetFit/hate_speech_offensive), [toxicity](https://github.com/surge-ai/toxicity) (by surge-ai, a dataset labelling workforce) and [multilingual-hate-speech](https://huggingface.co/datasets/vidhur2k/multilingual-hate-speech/)
 
 from my point of view, this is a service you cannot replicate at home, either requires smaller models with different architecture, or requires crowd-sourced computational power.
 
