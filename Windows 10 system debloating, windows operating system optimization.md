@@ -1,10 +1,10 @@
 ---
-title: 'Windows 10 system debloat, windows operating system optimization'
+title: 'Windows 10 system debloating, windows operating system optimization'
 created: '2023-02-08T01:02:43.458Z'
-modified: '2023-02-08T11:59:57.427Z'
+modified: '2023-02-09T07:11:45.721Z'
 ---
 
-# Windows 10 system debloat, windows operating system optimization
+# Windows 10 system debloating, windows operating system optimization
 
 to activate windows 10, use KMS tool.
 
