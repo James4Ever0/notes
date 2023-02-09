@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-08T05:15:19.251Z'
+modified: '2023-02-09T01:06:56.351Z'
 ---
 
 # chatgpt
@@ -19,6 +19,8 @@ open assistant now has a [data collection website](https://open-assistant.io/das
 it is adviced to run this chatgpt program with libraries instead of manually, to prevent issues.
 
 my account has been banned from trying chatgpt. though it is not going to be free forever, you need to [moderate your input](https://github.com/golfzert/chatgpt-chinese-prompt-hack) (multi-language support, not only english but chinese) using some api to prevent similar incidents. also some topics outside of blacklist are banned intentionally so you need to check if the model is really producing the answer. if not you should avoid or change the way of asking it.
+
+moderation via official openai api, or via some projects like [content moderation deeplearning](https://github.com/fcakyon/content-moderation-deep-learning), [bert text moderation](https://github.com/NanoNets/bert-text-moderation), train on datasets like [hate_speech_offensive](https://huggingface.co/datasets/SetFit/hate_speech_offensive)
 
 from my point of view, this is a service you cannot replicate at home, either requires smaller models with different architecture, or requires crowd-sourced computational power.
 
