@@ -1,10 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-10T02:07:03.823Z'
+modified: '2023-02-10T12:30:20.601Z'
 ---
 
 # chatgpt
+
+in order to be unblocked by chatgpt just because we are using static ip of corp's wifi, we can connect through our phone's hotspot.
 
 Microsoft's [EdgeGPT](https://bing.com/chat) needs you to open in Edge browser and join the waitlist of [new Bing](https://bing.com/new), having 3rd party API [here](https://github.com/acheong08/EdgeGPT)
 
