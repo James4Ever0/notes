@@ -1,10 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-09T01:21:55.143Z'
+modified: '2023-02-10T02:07:03.823Z'
 ---
 
 # chatgpt
+
+Microsoft's [EdgeGPT](https://bing.com/chat) needs you to open in Edge browser and join the waitlist of [new Bing](https://bing.com/new), having 3rd party API [here](https://github.com/acheong08/EdgeGPT)
 
 [Merlin](http://getmerlin.in/) is an extension based on ChatGPT which is avaliable for free and all countries, with 11 queries for free each day. Pro subscriptions incoming.
 
