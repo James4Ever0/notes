@@ -1,7 +1,7 @@
 ---
 title: proxy.py forward localhost proxy to public ip address
 created: '2023-02-13T06:51:19.585Z'
-modified: '2023-02-13T06:53:47.705Z'
+modified: '2023-02-13T06:54:19.938Z'
 ---
 
 # proxy.py forward localhost proxy to public ip address
@@ -11,9 +11,7 @@ say if you only have one such proxy on localhost, not exposed on router: `localh
 you execute the command, using `proxy.py`:
 
 ```bash
-
-proxy -\
+proxy --port <public_proxy_port> --host <public_proxy_ip_address> \
     --plugins proxy.plugin.ProxyPoolPlugin \
     --proxy-pool localhost:8981
-
 ```
