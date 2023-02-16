@@ -1,10 +1,16 @@
 ---
-title: 'Windows 10 system debloating, windows operating system optimization'
+title: 'Windows 10 system debloating, windows operating system optimization, winget, windows commandline package manager'
 created: '2023-02-08T01:02:43.458Z'
-modified: '2023-02-09T07:11:45.721Z'
+modified: '2023-02-16T03:42:33.953Z'
 ---
 
-# Windows 10 system debloating, windows operating system optimization
+# Windows 10 system debloating, windows operating system optimization, winget, windows commandline package manager
+
+[winget usage and recommended windows tools](https://blog.csdn.net/taurusbt/article/details/124472397)
+
+winget is slow due to missing mirror site in china. consider using proxy.
+
+----
 
 to activate windows 10, use KMS tool.
 
