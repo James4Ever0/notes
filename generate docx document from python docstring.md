@@ -1,7 +1,7 @@
 ---
 title: generate docx document from python docstring
 created: '2023-02-19T03:08:01.292Z'
-modified: '2023-02-19T06:20:16.297Z'
+modified: '2023-02-19T06:22:02.456Z'
 ---
 
 # generate docx document from python docstring
@@ -27,4 +27,4 @@ for composing docx from hand, use [python-docx](https://python-docx.readthedocs.
 to insert page break into converted docx, there are two ways (maybe):
 
 1. [change css](https://www.techjunkie.com/how-to-use-page-breaks-in-html) in the original html code
-2. 
+2. [insert page break](https://github.com/4teamwork/docxcompose/issues/89) while concatenating
