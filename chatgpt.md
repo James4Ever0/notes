@@ -1,10 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-10T12:30:20.601Z'
+modified: '2023-02-19T06:22:39.200Z'
 ---
 
 # chatgpt
+
+the syntax of chatgpt's response is obviously markdown.
 
 in order to be unblocked by chatgpt just because we are using static ip of corp's wifi, we can connect through our phone's hotspot.
 
