@@ -1,7 +1,7 @@
 ---
 title: generate docx document from python docstring
 created: '2023-02-19T03:08:01.292Z'
-modified: '2023-02-19T04:29:05.770Z'
+modified: '2023-02-19T06:20:16.297Z'
 ---
 
 # generate docx document from python docstring
@@ -23,3 +23,8 @@ pandoc -o <output_docx_filename> <input_html_path>
 remove unwanted parts from html (`beautifulsoup`), and split index from main content (split and concat with [docxcompose](https://github.com/4teamwork/docxcompose))
 
 for composing docx from hand, use [python-docx](https://python-docx.readthedocs.io/en/latest/index.html). for template based docx generating, use [docxtpl](https://docxtpl.readthedocs.io/en/latest/)
+
+to insert page break into converted docx, there are two ways (maybe):
+
+1. [change css](https://www.techjunkie.com/how-to-use-page-breaks-in-html) in the original html code
+2. 
