@@ -1,7 +1,7 @@
 ---
 title: generate docx document from python docstring
 created: '2023-02-19T03:08:01.292Z'
-modified: '2023-02-19T03:59:48.300Z'
+modified: '2023-02-19T04:00:01.652Z'
 ---
 
 # generate docx document from python docstring
@@ -13,7 +13,7 @@ pip install pdoc3
 pdoc --html [-o <output_dir>] <python_script_or_module_path> # default output directory of "html" is `./html`
 ```
 
-install and use `pandoc`, on its [homepage](https://pandoc.org/) we find some slideshow backends like [reveal.js](https://revealjs.com/), [dzslides](https://github.com/paulrouget/dzslides), [](), []() (alternative to microsoft powerpoint, may help rendering video, or let's use libreoffice instead? or some dedicated video editing library like moviepy)
+install and use `pandoc`, on its [homepage](https://pandoc.org/) we find some slideshow backends like [reveal.js](https://revealjs.com/), [dzslides](https://github.com/paulrouget/dzslides), [s5](https://meyerweb.com/eric/tools/s5/), []() (alternative to microsoft powerpoint, may help rendering video, or let's use libreoffice instead? or some dedicated video editing library like moviepy)
 
 ```bash
 # let's convert the html version of 
