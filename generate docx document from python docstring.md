@@ -1,7 +1,7 @@
 ---
 title: generate docx document from python docstring
 created: '2023-02-19T03:08:01.292Z'
-modified: '2023-02-19T03:19:52.597Z'
+modified: '2023-02-19T03:26:09.043Z'
 ---
 
 # generate docx document from python docstring
@@ -17,5 +17,7 @@ install and use `pandoc`
 
 ```bash
 # let's convert the html version of 
-pandoc 
+pandoc -o <output_docx_filename> <input_html_path>
 ```
+
+in order to remove unwanted parts from html, and split index from main content
