@@ -1,7 +1,7 @@
 ---
 title: generate docx document from python docstring
 created: '2023-02-19T03:08:01.292Z'
-modified: '2023-02-19T04:05:23.721Z'
+modified: '2023-02-19T04:21:18.346Z'
 ---
 
 # generate docx document from python docstring
@@ -20,4 +20,4 @@ install and use `pandoc`, on its [homepage](https://pandoc.org/) we find some sl
 pandoc -o <output_docx_filename> <input_html_path>
 ```
 
-in order to remove unwanted parts from html, and split index from main content
+remove unwanted parts from html (`beautifulsoup`), and split index from main content (split and concat with `` and ``), 
