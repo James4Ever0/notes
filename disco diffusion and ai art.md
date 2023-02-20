@@ -1,8 +1,8 @@
 ---
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
-created: '2022-08-08T12:52:28.000Z'
-modified: '2023-02-05T13:29:03.464Z'
+created: 2022-08-08T12:52:28+00:00
+modified: 2023-02-20T21:42:27+08:00
 ---
 
 # disco diffusion and ai art
@@ -14,6 +14,8 @@ modified: '2023-02-05T13:29:03.464Z'
 [DiT](https://github.com/facebookresearch/DiT) diffusion with transformer
 
 [custom diffusion](https://github.com/adobe-research/custom-diffusion) rlhf?
+
+[scribble-diffusion](https://github.com/replicate/scribble-diffusion) turn sketch into drawings
 
 [stable diffusion on macos](https://github.com/apple/ml-stable-diffusion)
 
