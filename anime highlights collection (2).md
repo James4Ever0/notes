@@ -1,10 +1,12 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-02-26T09:50:44.207Z'
+modified: '2023-02-26T09:55:27.843Z'
 ---
 
-1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
+影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
+
+[query controllable video summarization](https://github.com/Jhhuangkay/Query-controllable-Video-Summarization)
 
 观众情绪是唯一的标准。
 
