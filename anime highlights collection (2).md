@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-02-26T09:18:07.460Z'
+modified: '2023-02-26T09:42:29.202Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -73,6 +73,10 @@ asoul database有[识别截图出处](https://github.com/A-Soul-Database/PhotoSe
 番剧搜索引擎里面出现的问题 比如不同番剧相似画面的相似度不应该那么高 可以通过自监督强化学习解决 另外画面裁剪的问题 (画中画 裁剪小了或者大了 或者有画面延伸) 都需要进一步改进 最主要的还是要有大量的 不断更新的数据 当然目前来看这些不需要处理
 
 因为大家都喜欢看中文字幕 (谁听得懂日语 或者一边听日语一边看英文字幕啊) 尽量不用国外的片源 如果只有国外的 直接机器翻译能找到的公开字幕 或者直接语音转文字 图片转文字 不过话说回来 种子下载慢 国内网站广告又多 如果能[单独下载字幕](https://github.com/foxofice/sub_share) (vcb的有单独分开的字幕可以下载) 对得上时间长度的话 就可以获取到带字幕的老番
+
+[parse and extract subtitle files from mkv video](https://github.com/jorti/extract-subs/blob/master/extract-subs.py)
+
+[videocr: extract hard-coded subtitles from video by OCR](https://pypi.org/project/videocr)
 
 anime downloaders: (hard to find chinese subtitles huh?)
 
