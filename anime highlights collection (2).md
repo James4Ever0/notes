@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-02-26T10:23:09.534Z'
+modified: '2023-02-26T10:24:19.995Z'
 ---
 
 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -51,6 +51,8 @@ in [imdb](https://www.imdb.com) can pass film/anime name in multiple languages a
 nyaa.si国内访问不上 [nyaa镜像站列表](https://nyaatorrents.info/) 比如 https://nyaa.unblockit.ink/ ([navigate all unblockit sites](https://unblockit.bio/), though nyaa is currently not mirrored by this site)https://nyaa.ink/  其中有些NSFW的 里面也搜不到番剧
 
 [nyaapy wiki](https://github.com/JuanjoSalvador/NyaaPy/wiki/Docs-for-Nyaa.si)
+
+[nyaapi wiki](https://github.com/Kylart/Nyaapi/wiki/Nyaa.si) (nodejs)
 
 [torrent file parser and writer](https://github.com/7sDream/torrent_parser) (python)
 
@@ -148,6 +150,8 @@ aria2c -x 16 --file-allocation=none --select-file=<file_index> target.torrent
 anidb搜索有时会直接跳转到[指定番剧页面](https://anidb.net/anime/9310) 需要根据链接地址和内容判断是否存在跳转 以及如何分别进行解析
 
 [anilist python wiki](https://github.com/ReZeroE/AnilistPython/wiki)
+
+[anilist api v2 docs](https://anilist.gitbook.io/anilist-apiv2-docs/)
 
 有[提取画面中动漫人物信息以及所属番剧的网站](https://ai.animedb.cn) [Python API](https://github.com/itoukou1/zhenxun_plugin_animetrace/blob/main/__init__.py) 只支持日漫 [该网站在b站的使用方法介绍](https://www.bilibili.com/read/cv17700107) 注册码目前是`hello2023` 可以用来做单个人物合集 在发送截图之前先用模型扫描一下到底有没有动漫人脸 如果没有就不用上传了 识别不出来
 
