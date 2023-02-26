@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-02-26T10:09:50.616Z'
+modified: '2023-02-26T10:12:27.395Z'
 ---
 
 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -19,6 +19,12 @@ modified: '2023-02-26T10:09:50.616Z'
 ## fuzzy search
 
 [fuzzywuzzy tutorial](https://www.geeksforgeeks.org/fuzzywuzzy-python-library/)
+
+## data humanization
+
+[python-humanize](https://python-humanize.readthedocs.io/en/latest/time/)
+
+[thefuzz](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
 
 -------
 
