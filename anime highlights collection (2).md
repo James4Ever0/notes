@@ -1,7 +1,7 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-02-26T09:44:25.049Z'
+modified: '2023-02-26T09:49:39.634Z'
 ---
 
 1. 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
@@ -79,6 +79,8 @@ asoul database有[识别截图出处](https://github.com/A-Soul-Database/PhotoSe
 [parse and extract subtitle files from mkv video](https://github.com/jorti/extract-subs/blob/master/extract-subs.py)
 
 [videocr: extract hard-coded subtitles from video by OCR](https://pypi.org/project/videocr)
+
+[extract-subtitles](https://github.com/shawnsky/extract-subtitles)
 
 anime downloaders: (hard to find chinese subtitles huh?)
 
