@@ -1,18 +1,26 @@
 ---
 title: 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 created: '2023-01-16T06:20:31.000Z'
-modified: '2023-02-26T10:06:23.482Z'
+modified: '2023-02-26T10:09:50.616Z'
 ---
 
 影视/番剧素材查找 番剧精彩片段制作 create bangumi/anime highlights collection
 
-[query controllable video summarization](https://github.com/Jhhuangkay/Query-controllable-Video-Summarization)
+## controllable video summarization
+
+[query controllable video summarization](https://github.com/Jhhuangkay/Query-controllable-Video-Summarization) and [paper](https://deepai.org/publication/query-controllable-video-summarization)
 
 [DeepQAMVS](https://deepai.org/publication/deepqamvs-query-aware-hierarchical-pointer-networks-for-multi-video-summarization): Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization
 
 [CLIP-It! Language-Guided Video Summarization](https://deepai.org/publication/clip-it-language-guided-video-summarization)
 
 [Convolutional Hierarchical Attention Network for Query-Focused Video Summarization](https://deepai.org/publication/convolutional-hierarchical-attention-network-for-query-focused-video-summarization)
+
+## fuzzy search
+
+[fuzzywuzzy tutorial](https://www.geeksforgeeks.org/fuzzywuzzy-python-library/)
+
+-------
 
 观众情绪是唯一的标准。
 
