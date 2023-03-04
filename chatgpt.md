@@ -1,10 +1,16 @@
 ---
 title: chatgpt
-created: '2022-12-06T07:37:08.000Z'
-modified: '2023-02-19T06:22:39.200Z'
+created: 2022-12-06T07:37:08+00:00
+modified: 2023-03-04T21:10:27+08:00
 ---
 
 # chatgpt
+
+now colossalai supports chatgpt training with a single gpu, using open-source code
+
+check [humata](https://app.humata.ai) for paper QA and information extraction/language understanding from PDF files
+
+----
 
 the syntax of chatgpt's response is obviously markdown.
 
