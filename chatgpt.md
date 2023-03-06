@@ -1,10 +1,14 @@
 ---
 title: chatgpt
-created: 2022-12-06T07:37:08+00:00
-modified: 2023-03-04T21:10:27+08:00
+created: '2022-12-06T07:37:08.000Z'
+modified: '2023-03-06T17:54:14.043Z'
 ---
 
 # chatgpt
+
+besides from decent processors, RAM and optimized runtime, in order to load LLMs fast everytime, one would store the model weights on SSDs.
+
+----
 
 now colossalai supports chatgpt training with a single gpu, using open-source code
 
