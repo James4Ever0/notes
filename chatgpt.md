@@ -1,12 +1,12 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-03-06T17:54:14.043Z'
+modified: '2023-03-06T17:54:29.874Z'
 ---
 
 # chatgpt
 
-besides from decent processors, RAM and optimized runtime, in order to load LLMs fast everytime, one would store the model weights on SSDs.
+besides from decent processors, RAM and optimized runtime, in order to load LLMs fast, one would store the model weights on SSDs.
 
 ----
 
