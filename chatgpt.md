@@ -1,14 +1,16 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-03-09T07:23:42.435Z'
+modified: '2023-03-09T07:24:59.372Z'
 ---
 
 # chatgpt
 
-三个国内镜像站：
+[三个国内镜像站](https://www.ooopn.com/tool/chatgpt/)：
 
 https://chat.forchange.cn
+https://aigcfun.com
+https://ai.askai.top
 
 ---
 
