@@ -1,7 +1,7 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-03-09T07:24:59.372Z'
+modified: '2023-03-10T04:32:35.332Z'
 ---
 
 # chatgpt
@@ -18,7 +18,7 @@ besides from decent processors, RAM and optimized runtime, in order to load LLMs
 
 ----
 
-now colossalai supports chatgpt training with a single gpu, using open-source code
+now [colossalai](https://github.com/hpcaitech/ColossalAI) supports chatgpt training with a single gpu, using open-source code
 
 check [humata](https://app.humata.ai) for paper QA and information extraction/language understanding from PDF files
 
