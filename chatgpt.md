@@ -1,10 +1,14 @@
 ---
 title: chatgpt
 created: '2022-12-06T07:37:08.000Z'
-modified: '2023-03-10T04:32:35.332Z'
+modified: '2023-03-15T23:50:16.926Z'
 ---
 
 # chatgpt
+
+GPT4 is out.
+
+---
 
 [三个国内镜像站](https://www.ooopn.com/tool/chatgpt/)：
 
