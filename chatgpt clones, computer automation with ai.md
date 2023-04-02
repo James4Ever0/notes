@@ -130,7 +130,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of BigKnow2022
 
-[Kinda LLaMA](https://github.com/yuxdux/kinda-llama) replicates LLaMA dataset, including 
+[Kinda LLaMA](https://github.com/yuxdux/kinda-llama) replicates LLaMA dataset, including scraped webpages
 
 ## dataset preprocessing
 
