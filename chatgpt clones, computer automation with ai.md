@@ -118,7 +118,7 @@ similar website: [typeset.io](https://typeset.io/) (can ask questions and explai
 
 related projects: 
 
-ChatReviewer 	利用ChatGPT对论文进行预审稿 	访问ShiwenNi/ChatReviewer 使用 	Animation Demo 	原项目地址
+[ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatReviewer) 	利用ChatGPT对论文进行预审稿 	访问ShiwenNi/ChatReviewer 使用 	Animation Demo 	原项目地址
 ChatImprovement 	利用ChatGPT对论文初稿进行润色、翻译等 	访问wangrongsheng/ChatImprovement 使用 	Animation Demo 	原项目地址
 ChatResponse
 ## datasets
