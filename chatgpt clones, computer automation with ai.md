@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T12:33:47.423Z'
+modified: '2023-04-02T12:39:37.674Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -25,6 +25,10 @@ researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreas
 ### openflamingo
 
 using [CLIP ViT-L](https://huggingface.co/openai/clip-vit-large-patch14) and [LLaMA-7B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), model weights on [huggingface](https://huggingface.co/openflamingo/OpenFlamingo-9B)
+
+### cerebras gpt
+
+open sourced [model weights]() and training code
 
 ## enhancements
 
