@@ -54,6 +54,10 @@ model arch is gpt-j, trained on alpaca dataset
 
 model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
+### [alpaca]()
+
+alpaca is LLaMA tuned on 
+
 ### togethercomputer
 
 released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) and [pythia](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B), [moderation model](https://huggingface.co/togethercomputer/GPT-JT-Moderation-6B) using gpt-jt
