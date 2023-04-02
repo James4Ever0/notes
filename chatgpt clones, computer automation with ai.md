@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:31:58.913Z'
+modified: '2023-04-02T13:33:05.653Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -69,6 +69,8 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 [Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of BigKnow2022
 
 ## interfaces
+
+[serge](https://github.com/nsarrazin/serge) is dockerized and the needs of RAM is according to the size of the model (alpaca), using CPU only
 
 
 
