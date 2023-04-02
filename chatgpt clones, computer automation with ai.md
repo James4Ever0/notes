@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T15:25:54.978Z'
+modified: '2023-04-02T15:26:22.766Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -36,7 +36,7 @@ cpp, only compile from source
 
 ### [flexgen](https://github.com/FMInference/FlexGen)
 
-gpu is mandatory, better than deepspeed and 
+gpu is mandatory, better than deepspeed and Hugging Face Accelerate
 
 ## open source model and weights
 
