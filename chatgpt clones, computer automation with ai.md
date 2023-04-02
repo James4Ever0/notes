@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:27:07.943Z'
+modified: '2023-04-02T13:30:09.912Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -60,6 +60,12 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 [long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j, gpt-4chan, rwkv and support quantization/acceleration)
 
+## datasets
 
+### assistant dialogue
+
+### 
+
+[Fandom23K]
 
 
