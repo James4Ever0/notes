@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:30:09.912Z'
+modified: '2023-04-02T13:31:58.913Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -64,8 +64,12 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 ### assistant dialogue
 
-### 
+### unsupervised pretraining
 
-[Fandom23K]
+[Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of BigKnow2022
+
+## interfaces
+
+
 
 
