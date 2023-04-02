@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T12:54:40.199Z'
+modified: '2023-04-02T13:14:20.481Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -28,6 +28,7 @@ you need to install nomic to run the model:
 pip3 install nomic
 ```
 
+to run this on gpu, you need to install [this]()
 ### openassistant
 
 researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreaskoepf) has releasesed [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) and still updating
