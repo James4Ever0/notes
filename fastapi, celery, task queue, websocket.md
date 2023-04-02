@@ -1,7 +1,7 @@
 ---
 title: 'fastapi, celery, task queue, websocket'
 created: '2023-04-02T10:40:24.782Z'
-modified: '2023-04-02T11:44:17.029Z'
+modified: '2023-04-02T11:45:26.542Z'
 ---
 
 # fastapi, celery, task queue, websocket
@@ -19,4 +19,4 @@ websockets are async. will it block the server?
 happen to found akismet (proprietary wordpress spam protection). oss alternatives are:
 
 - [Youtube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
-- []()
+- [forget spam comment](https://github.com/thegulshankumar/forget-spam-comment/) (js plugin for wordpress)
