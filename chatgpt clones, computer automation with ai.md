@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T15:23:07.553Z'
+modified: '2023-04-02T15:23:16.480Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -34,7 +34,7 @@ able to install from pip
 
 cpp, only compile from source
 
-
+### flexgen
 ## open source model and weights
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
