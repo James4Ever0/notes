@@ -48,7 +48,9 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
 
-### [dolly](https://github.com/databrickslabs/dolly) 
+### [dolly](https://github.com/databrickslabs/dolly)
+
+
 
 ### togethercomputer
 
