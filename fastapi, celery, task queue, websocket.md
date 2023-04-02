@@ -1,7 +1,7 @@
 ---
 title: 'fastapi, celery, task queue, websocket'
 created: '2023-04-02T10:40:24.782Z'
-modified: '2023-04-02T11:43:24.923Z'
+modified: '2023-04-02T11:43:36.454Z'
 ---
 
 # fastapi, celery, task queue, websocket
@@ -18,4 +18,4 @@ websockets are async. will it block the server?
 
 happen to found akismet (proprietary wordpress spam protection). oss alternatives are:
 
-- 
+-
