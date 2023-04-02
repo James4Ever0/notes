@@ -52,7 +52,7 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 model arch is gpt-j
 
-model weights of [dolly-v1-6b]()
+model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 ### togethercomputer
 
