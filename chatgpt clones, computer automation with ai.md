@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T15:54:22.790Z'
+modified: '2023-04-02T15:56:41.419Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -19,8 +19,6 @@ convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com
 ### models
 
 [video pretraining](https://openai.com/research/vpt) can perform minecraft diamond mining tasks with keyboard and mouse movements
-
-[code and model](https://github.com/openai/Video-Pre-Training)
 
 ### spaces
 
@@ -47,6 +45,10 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 ## open source model and weights
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
+
+### togethercomputer
+
+released chat models like [gpt-xt]() and [pythia](), moderation model
 
 ### RWKV
 
@@ -99,8 +101,6 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 ### assistant dialogue
 
 [botbots](https://github.com/radi-cho/botbots/) dataset (two chatgpt talking to each other), created by using [datasetGPT](https://github.com/radi-cho/datasetGPT) (LLM automation tool)
-
-[ShareGPT52k](https://huggingface.co/datasets/RyokoAI/ShareGPT52K), also [ShareGPT90k](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) (Vicuna)
 
 ### unsupervised pretraining
 
