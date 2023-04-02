@@ -1,7 +1,7 @@
 ---
 title: 语音转文字 stt speech to text
 created: '2022-09-17T12:42:12.000Z'
-modified: '2022-12-25T21:27:51.941Z'
+modified: '2023-04-02T15:15:11.097Z'
 ---
 
 # 语音转文字 asr stt speech to text
@@ -29,6 +29,8 @@ https://github.com/1c7/Translate-Subtitle-File
 vosk
 
 paddlespeech
+
+[whisper.cpp]()
 
 [whisperx](https://github.com/m-bain/whisperX) improve time accuracy with forced alignment
 
