@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:19:12.672Z'
+modified: '2023-04-02T13:25:06.107Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -52,7 +52,7 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 ## enhancements
 
-### tool using
+### using external tools
 
 [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) (WORK IN PROGRESS)
 
