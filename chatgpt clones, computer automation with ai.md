@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T12:49:16.470Z'
+modified: '2023-04-02T12:49:36.480Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -32,7 +32,7 @@ open sourced [model weights](https://huggingface.co/cerebras) and [training code
 
 ### ColossalChat
 
-Coati-7B has no public model weights, but claimed to be trained efficiently
+[Coati-7B]() has no public model weights, but claimed to be trained efficiently
 
 you need to install [LLaMA compatible transformers library](https://github.com/hpcaitech/transformers)
 
