@@ -132,7 +132,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ## dataset preprocessing
 
-[deduplicate text dataset]()
+[deduplicate text dataset](https://github.com/google-research/deduplicate-text-datasets)
 
 ## interfaces
 
