@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T16:03:24.714Z'
+modified: '2023-04-02T16:03:38.341Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -50,7 +50,7 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 ### togethercomputer
 
-released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) and [pythia](), moderation model using gpt-jt
+released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) and [pythia](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B), moderation model using gpt-jt
 
 ### RWKV
 
