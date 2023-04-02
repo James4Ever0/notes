@@ -10,7 +10,7 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 
 convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com/) (you will have a better view than before) code [on github](https://github.com/arxiv-vanity/arxiv-vanity)
 
-someone prefers [bert4keras]() since it implements multiple LLM into Keras, also easy for LoRA training (by adding a single layer)
+someone prefers [bert4keras]() since it implements multiple LLM into Keras, also easy for GPT-2 LoRA training (by adding a single layer)
 
 ## computer automation with ai
 
