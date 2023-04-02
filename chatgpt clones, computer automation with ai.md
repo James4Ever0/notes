@@ -50,7 +50,7 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 ### [dolly](https://github.com/databrickslabs/dolly)
 
-model arch is gpt-j
+model arch is gpt-j, trained on alpaca dataset
 
 model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
