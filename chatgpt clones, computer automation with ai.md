@@ -10,7 +10,7 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 
 convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com/) (you will have a better view than before) code [on github](https://github.com/arxiv-vanity/arxiv-vanity)
 
-
+someone prefers []
 
 ## computer automation with ai
 
