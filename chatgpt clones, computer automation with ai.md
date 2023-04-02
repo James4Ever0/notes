@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:33:05.653Z'
+modified: '2023-04-02T13:38:45.140Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -63,6 +63,8 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 ## datasets
 
 ### assistant dialogue
+
+[botbots](https://github.com/radi-cho/botbots/) dataset (two chatgpt talking to each other), created by using [datasetGPT](https://github.com/radi-cho/datasetGPT) (LLM automation tool)
 
 ### unsupervised pretraining
 
