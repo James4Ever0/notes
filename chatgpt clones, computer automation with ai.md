@@ -120,7 +120,7 @@ related projects:
 
 [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatReviewer)
 [ChatImprovement](https://huggingface.co/spaces/wangrongsheng/ChatImprovement) 	利用ChatGPT对论文初稿进行润色、翻译等 	访问wangrongsheng/ChatImprovement 使用 	Animation Demo 	原项目地址
-ChatResponse
+[ChatResponse]
 ## datasets
 
 ### assistant dialogue
