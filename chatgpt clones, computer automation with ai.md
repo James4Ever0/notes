@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T15:18:28.092Z'
+modified: '2023-04-02T15:21:49.931Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -23,6 +23,10 @@ convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com
 ### spaces
 
 openai [universe]() (blog post [here]()) and [starter agents]()
+
+## accelerators
+
+### [cformer](https://github.com/NolanoOrg/cformers/)
 
 ## open source model and weights
 
