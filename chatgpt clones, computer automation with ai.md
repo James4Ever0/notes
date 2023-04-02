@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:41:11.419Z'
+modified: '2023-04-02T13:41:49.373Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -18,7 +18,7 @@ convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com
 
 ## open source model and weights
 
-[awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed 
+[awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
