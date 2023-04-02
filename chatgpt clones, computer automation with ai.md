@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:45:31.598Z'
+modified: '2023-04-02T15:18:28.092Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -27,6 +27,10 @@ openai [universe]() (blog post [here]()) and [starter agents]()
 ## open source model and weights
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
+
+### RWKV
+
+now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp), build upon ggml and sure it works on cpu.
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
