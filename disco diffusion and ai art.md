@@ -1,11 +1,13 @@
 ---
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
-created: 2022-08-08T12:52:28+00:00
-modified: 2023-02-20T21:42:27+08:00
+created: '2022-08-08T12:52:28.000Z'
+modified: '2023-04-02T13:23:51.647Z'
 ---
 
 # disco diffusion and ai art
+
+now you can use [controlnet](https://github.com/Mikubill/sd-webui-controlnet) to enhance the generation, give the figure skeleton
 
 [karlo](https://github.com/kakaobrain/karlo): dalle2 replicate, [karlo huggingface space](https://huggingface.co/spaces/kakaobrain/karlo), text to image (can be used for semantic search)
 

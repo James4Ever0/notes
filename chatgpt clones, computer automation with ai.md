@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:18:19.677Z'
+modified: '2023-04-02T13:19:12.672Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -18,7 +18,7 @@ convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com
 
 ## open source model and weights
 
-### [gpt4all]() by nomic
+### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
 LLaMA trained on massive collection of clean assistant dialog data, with model weights
 
