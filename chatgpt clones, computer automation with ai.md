@@ -12,7 +12,7 @@ convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com
 
 someone prefers [bert4keras](https://github.com/bojone/bert4keras) since it implements multiple LLM into Keras, also easy for GPT-2 LoRA training (by adding a single layer)
 
-people love to post uncensorable links and torrents to [internet archive]() and the-eye, just like the gpt-4cha
+people love to post uncensorable links and torrents to [internet archive]() and the-eye, just like the gpt-4chan
 
 ## computer automation with ai
 
