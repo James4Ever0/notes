@@ -56,7 +56,7 @@ model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 ### [alpaca]()
 
-alpaca is LLaMA tuned on 
+alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just code and dataset, 
 
 ### togethercomputer
 
