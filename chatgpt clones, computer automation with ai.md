@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:44:23.395Z'
+modified: '2023-04-02T13:45:31.598Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -18,7 +18,7 @@ convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com
 
 ### models
 
-
+[video pretraining](https://openai.com/research/vpt) can perform minecraft diamond mining tasks with keyboard and mouse movements
 
 ### spaces
 
