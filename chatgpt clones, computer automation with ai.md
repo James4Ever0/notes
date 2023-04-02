@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T12:41:05.323Z'
+modified: '2023-04-02T12:45:19.883Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -29,6 +29,10 @@ using [CLIP ViT-L](https://huggingface.co/openai/clip-vit-large-patch14) and [LL
 ### [cerebras gpt](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
 
 open sourced [model weights](https://huggingface.co/cerebras) and [training code](https://github.com/Cerebras/modelzoo)
+
+### ColossalChat
+
+no model weights, but claimed to be trained efficiently
 
 ## enhancements
 
