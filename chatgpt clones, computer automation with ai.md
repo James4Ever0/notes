@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T12:31:27.980Z'
+modified: '2023-04-02T12:31:43.958Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -24,7 +24,7 @@ researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreas
 
 ### openflamingo
 
-using CLIP ViT
+using CLIP ViT-L and LLaMA-7B, 
 
 ## enhancements
 
