@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T12:28:21.202Z'
+modified: '2023-04-02T12:28:51.738Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -26,6 +26,8 @@ researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreas
 
 ### retrieval plugins
 
-[long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j)
+[long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j, gpt-4chan, rwkv and support quantization/acceleration)
+
+
 
 
