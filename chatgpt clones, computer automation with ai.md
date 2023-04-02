@@ -110,7 +110,7 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 [long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j, gpt-4chan, rwkv and support quantization/acceleration)
 
-[chatpaper]()
+[chatpaper](https://github.com/kaixindelele/ChatPaper) summarize paper content 
 
 ## datasets
 
