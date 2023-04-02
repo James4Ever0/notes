@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:25:06.107Z'
+modified: '2023-04-02T13:27:07.943Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -34,7 +34,7 @@ to run it on gpu, you need to install [this](https://github.com/nomic-ai/nomic/t
 
 researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreaskoepf) has releasesed [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) and still updating
 
-### openflamingo
+### [openflamingo](https://github.com/mlfoundations/open_flamingo)
 
 using [CLIP ViT-L](https://huggingface.co/openai/clip-vit-large-patch14) and [LLaMA-7B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), model weights on [huggingface](https://huggingface.co/openflamingo/OpenFlamingo-9B)
 
