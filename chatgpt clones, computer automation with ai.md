@@ -118,8 +118,7 @@ similar website: [typeset.io](https://typeset.io/) (can ask questions and explai
 
 related projects: 
 
-[ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatReviewer)
-[ChatImprovement](https://huggingface.co/spaces/wangrongsheng/ChatImprovement)
+[ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatReviewer) [ChatImprovement](https://huggingface.co/spaces/wangrongsheng/ChatImprovement)
 [ChatResponse](https://huggingface.co/spaces/ShiwenNi/ChatResponse)
 ## datasets
 
