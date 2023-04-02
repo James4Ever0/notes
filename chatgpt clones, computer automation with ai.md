@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T15:54:22.790Z'
+modified: '2023-04-02T16:03:07.560Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -47,6 +47,10 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 ## open source model and weights
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
+
+### togethercomputer
+
+released chat models like [gpt-xt]() and [pythia](), moderation model using gpt-jt
 
 ### RWKV
 
