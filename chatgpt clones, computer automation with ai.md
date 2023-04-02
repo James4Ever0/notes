@@ -114,10 +114,9 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 [chatpaper](https://github.com/kaixindelele/ChatPaper) summarize paper content.
 
-similar website:
-[typeset.io](https://typeset.io/) (can ask questions and explain confusing text, math symbols and tables)
+similar website: [typeset.io](https://typeset.io/) (can ask questions and explain confusing text, math symbols and tables)
 
-related projects:
+related projects: 
 
 ## datasets
 
