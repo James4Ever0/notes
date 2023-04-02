@@ -1,7 +1,7 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T15:21:49.931Z'
+modified: '2023-04-02T15:23:07.553Z'
 ---
 
 # chatgpt clones, computer automation with ai
@@ -27,6 +27,13 @@ openai [universe]() (blog post [here]()) and [starter agents]()
 ## accelerators
 
 ### [cformer](https://github.com/NolanoOrg/cformers/)
+
+able to install from pip
+
+### [ggml]()
+
+cpp, only compile from source
+
 
 ## open source model and weights
 
