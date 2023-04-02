@@ -1,11 +1,11 @@
 ---
 title: 'chatgpt clones, computer automation with ai'
 created: '2023-04-02T10:39:51.304Z'
-modified: '2023-04-02T13:45:31.598Z'
+modified: '2023-04-02T15:47:17.114Z'
 ---
 
 # chatgpt clones, computer automation with ai
-
+ 
 simply because the original note on chatgpt is too long, we start a new one, with more topics and more resources.
 
 convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com/) (you will have a better view than before) code [on github](https://github.com/arxiv-vanity/arxiv-vanity)
@@ -24,9 +24,31 @@ convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com
 
 openai [universe]() (blog post [here]()) and [starter agents]()
 
+## accelerators
+
+### [cformer](https://github.com/NolanoOrg/cformers/)
+
+cpu only
+
+able to install from pip
+
+### [ggml](https://github.com/ggerganov/ggml)
+
+cpu only
+
+cpp, only compile from source
+
+### [flexgen](https://github.com/FMInference/FlexGen)
+
+gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://github.com/huggingface/accelerate)
+
 ## open source model and weights
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
+
+### RWKV
+
+now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp), build upon ggml and sure it works on cpu.
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
