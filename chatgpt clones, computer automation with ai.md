@@ -28,7 +28,7 @@ people love to post uncensorable links and torrents to [internet archive](https:
 
 ### spaces
 
-openai [universe](https://github.com/openai/universe) (blog post [here](https://openai.com/blog/universe/)) and [starter agents](https://github.com/openai/universe-starter-agent), remotes are using vnc protocol
+openai [universe](https://github.com/openai/universe) (blog post [here](https://openai.com/blog/universe/)) and [starter agents](https://github.com/openai/universe-starter-agent), remotes are using vnc protocol and a reward 
 
 ## accelerators
 
