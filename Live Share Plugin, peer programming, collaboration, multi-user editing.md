@@ -1,7 +1,7 @@
 ---
 title: 'Live Share Plugin, peer programming, collaboration, multi-user editing'
 created: '2023-02-26T09:20:23.644Z'
-modified: '2023-04-03T03:34:40.991Z'
+modified: '2023-04-03T07:47:30.279Z'
 ---
 
 # Live Share Plugin, peer programming, collaboration, multi-user editing
@@ -16,7 +16,7 @@ windows+v now act as [multi-clipboard](https://github.com/brentvollebregt/multi-
 
 you can sync clipboard across computers via [crossclip](https://github.com/yue/crossclip)
 
-you can also setup your own sync app via instant messaging services.
+you can also setup your own sync app via [instant messaging](https://github.com/topics/instant-messaging) services.
 
 ----
 
