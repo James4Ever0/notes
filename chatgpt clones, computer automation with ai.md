@@ -160,11 +160,13 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [Kinda LLaMA](https://github.com/yuxdux/kinda-llama) replicates LLaMA dataset, including scraped webpages, code and stackexchange data.
 
+[oscar-corpus](https://huggingface.co/oscar-corpus) needs to be downloaded with access token, by agreeing to the 
+
 ## dataset preprocessing
 
 [deduplicate text dataset](https://github.com/google-research/deduplicate-text-datasets) in rust, may remove verbose substrings like "to go to the"
 
-
+[oscar project]() contains some tool for adult content filtering and deduplication.
 
 ## interfaces
 
