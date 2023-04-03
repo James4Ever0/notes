@@ -132,7 +132,7 @@ community model weights:
 | [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca | chavinlo | 
 | [GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) | 13B | Alpaca | chavinlo |
 | [Toolpaca](https://huggingface.co/chavinlo/toolpaca) | 13B | Alpaca | chavinlo |
-| [](https://huggingface.co/nlpcloud/instruct-gpt-j-fp16) | | | nlpcloud |
+| [instruct-gpt-j-fp16](https://huggingface.co/nlpcloud/instruct-gpt-j-fp16) |  | | nlpcloud |
 
 ----
 
