@@ -42,7 +42,7 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 ### virtual machines and environments
 
-it is not feasible to install [ubuntu arm](https://ubuntu.com/download/server/arm) on macos m1 with virtualbox. use [utm.app](https://getutm.app/) instead.
+it is not feasible to install [ubuntu arm](https://ubuntu.com/download/server/arm) on macos m1 with virtualbox. use [utm.app](https://getutm.app/) instead. [instructions on installing ubuntu with utm](https://docs.getutm.app/guides/ubuntu/) includes guides on sharing clipboard and directory.
 
 ### papers
 
