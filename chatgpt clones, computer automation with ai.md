@@ -78,7 +78,7 @@ community model weights:
 
 [vicuna2](https://huggingface.co/chavinlo/vicuna2)
 
-### [Alpaca]()
+### [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
 alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just code and dataset, model weights are community provided.
 
