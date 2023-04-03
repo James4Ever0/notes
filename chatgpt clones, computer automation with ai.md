@@ -26,6 +26,10 @@ people love to post uncensorable links and torrents to [internet archive](https:
 
 to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](https://github.com/lhenault/simpleAI)
 
+## fine-tuning and tricks
+
+[PEFT](https://github.com/huggingface/peft) (Parameter Efficient Fine Tuning) supports 
+
 ## computer automation with ai
 
 ### papers
