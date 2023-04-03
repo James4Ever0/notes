@@ -52,7 +52,9 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 ### data collectors and controllers
 
-[]()
+[mss](https://python-mss.readthedocs.io/)
+
+[]
 
 ----
 
