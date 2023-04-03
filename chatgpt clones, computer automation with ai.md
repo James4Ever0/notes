@@ -56,6 +56,8 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 [go-vncdriver](https://github.com/openai/go-vncdriver) by openai, to compile you need to clone the repo and modify code to find headers for libjpeg-turbo and python.
 
+[pynput]() as input event listener and actor, listener may have some strange keycodes when pressing modifier keys on windows.
+
 ----
 
 [ViT-pytorch](https://github.com/lucidrains/vit-pytorch) can be used in many ViT-based models, listed and implemented in the repo.
