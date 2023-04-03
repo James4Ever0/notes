@@ -91,10 +91,10 @@ model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 community model weights:
 
 
-| weight path | weight size| model name | author |
+| weight path | weight size | model name | author |
 | -- | -- | -- | -- |
-[vicuna](https://huggingface.co/chavinlo/vicuna)
-[vicuna2](https://huggingface.co/chavinlo/vicuna2)
+| [vicuna](https://huggingface.co/chavinlo/vicuna) | | Vicuna | chavinlo |
+| [vicuna2](https://huggingface.co/chavinlo/vicuna2) | |  Vicuna | chavinlo |
 
 ### [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
