@@ -107,11 +107,11 @@ community model weights:
 | weight path | model name | author |
 | -- | -- | -- |
 | [vicuna](https://huggingface.co/chavinlo/vicuna) | Vicuna | chavinlo |
-| [vicuna2](https://huggingface.co/chavinlo/vicuna2) |  Vicuna | chavinlo |
+| [vicuna2](https://huggingface.co/chavinlo/vicuna2) | Vicuna | chavinlo |
 
 ### Bloom-z
 
-there is [bloomz.cpp]()
+there is [bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp), converted model weights on [huggingface](https://huggingface.co/models?other=bloom&other=ggml)
 
 ### [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
