@@ -126,7 +126,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ----
 
-
+[chatgpt retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin) 
 
 ## datasets
 
