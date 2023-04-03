@@ -153,7 +153,7 @@ pip3 install nomic
 
 to run it on gpu, you need to install [this](https://github.com/nomic-ai/nomic/tree/main/bin)
 
-### openassistant
+### [openassistant]()
 
 researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreaskoepf) has releasesed [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) and still updating
 
