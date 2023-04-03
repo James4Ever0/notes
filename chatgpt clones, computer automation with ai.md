@@ -28,7 +28,7 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 ## fine-tuning and tricks
 
-[PEFT](https://github.com/huggingface/peft) (Parameter Efficient Fine Tuning) supports LoRA	Prefix Tuning	P-Tuning	Prompt Tuning
+[PEFT](https://github.com/huggingface/peft) (Parameter Efficient Fine Tuning) supports LoRA,	Prefix Tuning	P-Tuning	Prompt Tuning
 
 ## computer automation with ai
 
