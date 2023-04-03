@@ -109,6 +109,10 @@ community model weights:
 | [vicuna](https://huggingface.co/chavinlo/vicuna) | Vicuna | chavinlo |
 | [vicuna2](https://huggingface.co/chavinlo/vicuna2) |  Vicuna | chavinlo |
 
+### Bloom-z
+
+there is [bloomz.cpp]()
+
 ### [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
 alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just code and dataset, model weights are community provided.
