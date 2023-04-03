@@ -22,6 +22,10 @@ someone prefers [bert4keras](https://github.com/bojone/bert4keras) since it impl
 
 people love to post uncensorable links and torrents to [internet archive](https://archive.org) and [the-eye](https://github.com/The-Eye-Team), just like the gpt-4chan
 
+----
+
+to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](https://github.com/lhenault/simpleAI)
+
 ## computer automation with ai
 
 ### papers
