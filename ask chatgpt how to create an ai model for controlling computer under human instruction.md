@@ -1,7 +1,7 @@
 ---
 title: ask chatgpt how to create an ai model for controlling computer under human instruction
 created: '2023-04-03T05:10:58.123Z'
-modified: '2023-04-03T05:11:49.546Z'
+modified: '2023-04-03T05:16:39.466Z'
 ---
 
 # ask chatgpt how to create an ai model for controlling computer under human instruction
@@ -11,6 +11,43 @@ modified: '2023-04-03T05:11:49.546Z'
 how do i design an ai model using gpt, rnn, lstm, vit to accept computer display screenshots and human instructions as input, keyboard and mouse events as output, trained on random keystrokes and mouse events, also human instructions paired with human demonstrations? show me python code
 
 ## answers
+
+### Claude+
+
+That would be an extremely complex AI system to build. Some high level steps would be:
+
+Collect a large dataset of screenshots, human instructions, and corresponding keyboard/mouse interactions. This dataset would be crucial for training.
+Use a CNN to extract visual features from the screenshots. Something like VGG16 or ResNet would work well here.
+Use an RNN/LSTM to encode the sequence of instructions. BERT or RoBERTa would also be good options here.
+Combine the visual and textual features. Options include concatenation, addition, or a more complex fusion method.
+Use a Transformer like GPT-3 or Visual-Transformers to generate the keyboard/mouse interactions from the combined visual+textual features. 
+Train the entire model end-to-end to minimize the difference between the generated interactions and the ground truth interactions from your dataset.
+
+This would likely take a team of ML engineers and researchers to develop, and would require lots of time, data, and compute. 
+Some sample Python code would be:
+
+import torchvision.models as models 
+import torch 
+import torch.nn as nn 
+from transformers import RobertaModel, GPT2LMHeadModel 
+
+# Feature Extractors 
+cnn = models.resnet50(pretrained=True) 
+roberta = RobertaModel.from_pretrained("roberta-base") 
+
+# Fusion 
+fusion = nn.Sequential(nn.Linear(2048 + 768, 1024), nn.ReLU(), nn.Linear(1024, 512)) 
+
+# Generation Model 
+generator = GPT2LMHeadModel.from_pretrained("gpt2") 
+
+# Forward pass 
+img_features = cnn(img) 
+instruction_features = roberta(instructions)[0] 
+combined_features = fusion(torch.cat((img_features, instruction_features), dim=1)) 
+preds = generator(inputs_embeds=combined_features)[0]
+
+This is just a brief sample, but hopefully gives you an idea of the components and flow. Let me know if you have any other questions!
 
 ### GPT4
 
