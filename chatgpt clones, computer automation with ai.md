@@ -60,6 +60,10 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
 
+### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
+
+trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
+
 ### [dolly](https://github.com/databrickslabs/dolly)
 
 model arch is gpt-j, trained on alpaca dataset
@@ -72,7 +76,7 @@ alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just
 
 ggml version: [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 
-it's better to check for bindings
+it's better to check for [python bindings]() and [webui]() for further development and interactions.
 
 ----
 
