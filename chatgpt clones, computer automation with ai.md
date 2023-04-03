@@ -42,7 +42,7 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 ### virtual machines and environments
 
-
+it is not feasible to install ubuntu on macos m1 with virtualbox. use 
 
 ### papers
 
