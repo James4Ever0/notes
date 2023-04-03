@@ -10,6 +10,10 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 
 ----
 
+code for 
+
+----
+
 convert arxiv paper (pdf) into html: [arxiv vanity](https://www.arxiv-vanity.com/) (you will have a better view than before, though [will not always work](https://www.arxiv-vanity.com/papers/2303.12712/)) code [on github](https://github.com/arxiv-vanity/arxiv-vanity)
 
 [aminer](https://www.aminer.cn/) is similar to [paperswithcode](https://paperswithcode.com/), in which you may find interesting papers.
