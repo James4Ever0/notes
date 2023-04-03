@@ -62,7 +62,7 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 ### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
 
-trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
+[LLaMA-65B]() trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
 
 ### [dolly](https://github.com/databrickslabs/dolly)
 
