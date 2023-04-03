@@ -1,7 +1,7 @@
 ---
 title: ask chatgpt how to create an ai model for controlling computer under human instruction
 created: '2023-04-03T05:10:58.123Z'
-modified: '2023-04-03T05:16:39.466Z'
+modified: '2023-04-03T05:18:11.775Z'
 ---
 
 # ask chatgpt how to create an ai model for controlling computer under human instruction
@@ -14,6 +14,7 @@ how do i design an ai model using gpt, rnn, lstm, vit to accept computer display
 
 ### Claude+
 
+```
 That would be an extremely complex AI system to build. Some high level steps would be:
 
 Collect a large dataset of screenshots, human instructions, and corresponding keyboard/mouse interactions. This dataset would be crucial for training.
@@ -48,6 +49,8 @@ combined_features = fusion(torch.cat((img_features, instruction_features), dim=1
 preds = generator(inputs_embeds=combined_features)[0]
 
 This is just a brief sample, but hopefully gives you an idea of the components and flow. Let me know if you have any other questions!
+
+```
 
 ### GPT4
 
