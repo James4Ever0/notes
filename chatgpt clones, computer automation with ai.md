@@ -52,7 +52,7 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 ### data collectors and controllers
 
-[mss](https://python-mss.readthedocs.io/) for screenshot, remember to save raw pixels to SSD, then compress with mp4 
+[mss](https://python-mss.readthedocs.io/) for screenshot, remember to save raw pixels to SSD, then compress with mp4 for further training. (increase learning experience)
 
 []()
 
