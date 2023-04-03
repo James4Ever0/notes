@@ -127,6 +127,8 @@ fine-tuning:
 
 [simple-llama-finetuner](https://github.com/lxe/simple-llama-finetuner) using LoRA, 16GB VRAM minimum
 
+[alpaca-lora](https://github.com/tloen/alpaca-lora): the OG LoRA alpaca
+
 ----
 
 community model weights:
