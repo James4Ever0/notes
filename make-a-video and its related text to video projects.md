@@ -13,7 +13,7 @@ saying "video2video" is much simpler than "text2video", I also want to add basic
 
 [OFA](https://github.com/OFA-Sys/OFA) Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
 
-[GEN-2](https://research.runwayml.com/gen2) by runway research with [paper]()
+[GEN-2](https://research.runwayml.com/gen2) by runway research with [paper](https://arxiv.org/abs/2302.03011)
 
 ## according to its paper, it's been compared to a range of models
 
