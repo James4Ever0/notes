@@ -126,7 +126,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ----
 
-[chatgpt retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin) 
+[chatgpt retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin) chop document into chunks, process them into vectors and search them using one of many vector search backends. hosted as a fastapi service.
 
 ## datasets
 
