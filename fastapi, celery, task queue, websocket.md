@@ -1,10 +1,16 @@
 ---
 title: 'fastapi, celery, task queue, websocket'
 created: '2023-04-02T10:40:24.782Z'
-modified: '2023-04-02T11:45:26.542Z'
+modified: '2023-04-03T09:34:09.954Z'
 ---
 
 # fastapi, celery, task queue, websocket
+
+to share lock across process, use [redis lock](https://pypi.org/project/python-redis-lock/) or filelock.
+
+to share lock across forked process in the same worker, use `multiprocessing.Lock()`
+
+----
 
 fastapi can generate openapi json and doc page
 
