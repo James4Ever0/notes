@@ -164,6 +164,10 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [chatgpt retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin) chop document into chunks, process them into vectors and search them using one of many vector search backends. hosted as a fastapi service.
 
+----
+
+[complex memory](https://github.com/theubie/complex_memory) is a Kobo
+
 ## datasets
 
 ### assistant dialogue
