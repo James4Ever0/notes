@@ -72,6 +72,12 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
 
+### [ChatYuan]()
+
+### [ChatGLM]()
+
+Currently only open-sourced 6B version.
+
 ### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
 
 [LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
