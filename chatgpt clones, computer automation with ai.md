@@ -10,7 +10,11 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 
 ----
 
-code for extracting 
+javascript code for extracting model list from huggingface personal homepage:
+
+```javascript
+
+```
 
 ----
 
