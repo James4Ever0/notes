@@ -56,7 +56,11 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 [go-vncdriver](https://github.com/openai/go-vncdriver) by openai, to compile you need to clone the repo and modify code to find headers for libjpeg-turbo and python.
 
-[pynput]() as input event listener and actor, listener may have some strange keycodes when pressing modifier keys on windows.
+----
+
+[pynput](https://python-mss.readthedocs.io/) as input event listener and actor, listener may have some strange keycodes when pressing modifier keys on windows.
+
+note that special care needed for aligning mouse location with screenshot size
 
 ----
 
