@@ -110,7 +110,8 @@ community model weights:
 | -- | -- | -- |
 | [Alpaca-65B](https://huggingface.co/chavinlo/Alpaca-65B) | 65B | Alpaca |
 | [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca |
-| | | |
+| [GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) | 13B | Alpaca |
+| [Toolpaca](https://huggingface.co/chavinlo/toolpaca) | 13B | Alpaca |
 
 ----
 
