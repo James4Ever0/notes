@@ -72,6 +72,8 @@ alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just
 
 ggml version: [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 
+it's better to check for bindings
+
 ----
 
 [codealpaca](https://github.com/sahil280114/codealpaca) only provides [dataset](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k) for training a code generation model, there are multiple models trained on this dataset, including [bloom-7b1-lora-codealpaca20k](https://huggingface.co/LinhDuong/bloom-7b1-lora-codealpaca20k)
