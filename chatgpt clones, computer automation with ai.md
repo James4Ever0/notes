@@ -36,7 +36,7 @@ people love to post uncensorable links and torrents to [internet archive](https:
 
 ----
 
-[ViT-pytorch](https://github.com/lucidrains/vit-pytorch) can be used in many ViT-based models, listed in the repo.
+[ViT-pytorch](https://github.com/lucidrains/vit-pytorch) can be used in many ViT-based models, listed and implemented in the repo.
 
 ### spaces
 
