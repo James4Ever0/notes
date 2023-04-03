@@ -90,8 +90,10 @@ model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 community model weights:
 
-[vicuna](https://huggingface.co/chavinlo/vicuna)
 
+| weight path | weight size| model name | author |
+| -- | -- | -- | -- |
+[vicuna](https://huggingface.co/chavinlo/vicuna)
 [vicuna2](https://huggingface.co/chavinlo/vicuna2)
 
 ### [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
@@ -106,12 +108,13 @@ it's better to check for [python bindings](https://github.com/abetlen/llama-cpp-
 
 community model weights:
 
-| weight path | weight size| model name |
-| -- | -- | -- |
-| [Alpaca-65B](https://huggingface.co/chavinlo/Alpaca-65B) | 65B | Alpaca |
-| [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca |
-| [GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) | 13B | Alpaca |
-| [Toolpaca](https://huggingface.co/chavinlo/toolpaca) | 13B | Alpaca |
+| weight path | weight size| model name | author |
+| -- | -- | -- | -- |
+| [Alpaca Native](https://huggingface.co/chavinlo/alpaca-native) | 7B | Alpaca | chavinlo |
+| [Alpaca-65B](https://huggingface.co/chavinlo/Alpaca-65B) | 65B | Alpaca | chavinlo |
+| [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca | chavinlo | 
+| [GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) | 13B | Alpaca | chavinlo |
+| [Toolpaca](https://huggingface.co/chavinlo/toolpaca) | 13B | Alpaca | chavinlo |
 
 ----
 
