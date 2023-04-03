@@ -66,7 +66,7 @@ ggml version: [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 
 ----
 
-[codealpaca]() only provides dataset for training a code generation model, 
+[codealpaca]() only provides dataset for training a code generation model, there are multiple models trained on this dataset, including []()
 
 ### [togethercomputer](https://huggingface.co/togethercomputer)
 
