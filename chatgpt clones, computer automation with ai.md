@@ -34,6 +34,10 @@ people love to post uncensorable links and torrents to [internet archive](https:
 
 [code and model](https://github.com/openai/Video-Pre-Training)
 
+----
+
+[ViT-pytorch](https://github.com/lucidrains/vit-pytorch) can be used in many ViT-based models, listed in the repo.
+
 ### spaces
 
 openai [universe](https://github.com/openai/universe) (blog post [here](https://openai.com/blog/universe/)) and [starter agents](https://github.com/openai/universe-starter-agent), remotes are using vnc protocol and a reward protocol using websocket sending json (can send actions). they prefer [TigerVNC](https://tigervnc.org/), maybe that will send the existing monitor instead of invisible ones.
