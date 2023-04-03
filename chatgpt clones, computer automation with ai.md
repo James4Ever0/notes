@@ -76,6 +76,12 @@ released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-N
 
 ### RWKV
 
+RWKV combines attention with RNN so the token window can be much larger.
+
+[Longformer](https://huggingface.co/docs/transformers/model_doc/led) is similar to this.
+
+----
+
 now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp), build upon ggml and sure it works on cpu.
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
