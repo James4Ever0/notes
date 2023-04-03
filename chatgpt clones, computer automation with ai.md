@@ -70,7 +70,7 @@ model arch is gpt-j, trained on alpaca dataset
 
 model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+### [FastChat](https://github.com/lm-sys/FastChat) (Vicuna)
 
 community model weights:
 
