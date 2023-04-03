@@ -90,11 +90,10 @@ model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 community model weights:
 
-
-| weight path | weight size | model name | author |
-| -- | -- | -- | -- |
-| [vicuna](https://huggingface.co/chavinlo/vicuna) | | Vicuna | chavinlo |
-| [vicuna2](https://huggingface.co/chavinlo/vicuna2) | |  Vicuna | chavinlo |
+| weight path | model name | author |
+| -- | -- | -- |
+| [vicuna](https://huggingface.co/chavinlo/vicuna) | Vicuna | chavinlo |
+| [vicuna2](https://huggingface.co/chavinlo/vicuna2) |  Vicuna | chavinlo |
 
 ### [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
@@ -108,7 +107,7 @@ it's better to check for [python bindings](https://github.com/abetlen/llama-cpp-
 
 community model weights:
 
-| weight path | weight size| model name | author |
+| weight path | weight size | model name | author |
 | -- | -- | -- | -- |
 | [Alpaca Native](https://huggingface.co/chavinlo/alpaca-native) | 7B | Alpaca | chavinlo |
 | [Alpaca-65B](https://huggingface.co/chavinlo/Alpaca-65B) | 65B | Alpaca | chavinlo |
