@@ -123,6 +123,12 @@ it's better to check for [python bindings](https://github.com/abetlen/llama-cpp-
 
 ----
 
+fine-tuning:
+
+[simple-llama-finetuner](https://github.com/lxe/simple-llama-finetuner) using LoRA, 16GB VRAM minimum
+
+----
+
 community model weights:
 
 | weight path | weight size | model name | author |
