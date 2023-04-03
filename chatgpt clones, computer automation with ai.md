@@ -62,7 +62,7 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 ### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
 
-[LLaMA-65B]() trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
+[LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
 
 ### [dolly](https://github.com/databrickslabs/dolly)
 
@@ -76,7 +76,7 @@ alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just
 
 ggml version: [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 
-it's better to check for [python bindings]() and [webui]() for further development and interactions.
+it's better to check for [python bindings](https://github.com/abetlen/llama-cpp-python) and [webui]() for further development and interactions.
 
 ----
 
