@@ -70,6 +70,14 @@ model arch is gpt-j, trained on alpaca dataset
 
 model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
+### [vicuna]()
+
+community model weights:
+
+[vicuna](https://huggingface.co/chavinlo/vicuna)
+
+[vicuna2](https://huggingface.co/chavinlo/vicuna2)
+
 ### [alpaca]()
 
 alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just code and dataset, model weights are community provided.
