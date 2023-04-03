@@ -150,7 +150,8 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 ### retrieval plugins
 
-[long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j, gpt-4chan, rwkv and support quantization/acceleration)
+[long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j, gpt-4chan, rwkv and support quantization/acceleration), also 
+[complex memory](https://github.com/theubie/complex_memory) (KoboldAI-like)
 
 ----
 
@@ -164,9 +165,6 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [chatgpt retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin) chop document into chunks, process them into vectors and search them using one of many vector search backends. hosted as a fastapi service.
 
-----
-
-[complex memory](https://github.com/theubie/complex_memory) is a Kobo
 
 ## datasets
 
