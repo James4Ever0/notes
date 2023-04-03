@@ -116,11 +116,17 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 [long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j, gpt-4chan, rwkv and support quantization/acceleration)
 
+----
+
 [chatpaper](https://github.com/kaixindelele/ChatPaper) summarize paper content.
 
 similar website: [typeset.io](https://typeset.io/) (can ask questions and explain confusing text, math symbols and tables)
 
 related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatReviewer) [ChatImprovement](https://huggingface.co/spaces/wangrongsheng/ChatImprovement) [ChatResponse](https://huggingface.co/spaces/ShiwenNi/ChatResponse) [ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+
+----
+
+
 
 ## datasets
 
