@@ -54,7 +54,7 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 [mss](https://python-mss.readthedocs.io/) for screenshot, remember to save raw pixels to SSD, then compress into mp4 with ffmpeg for further training (mind the timestamp!)
 
-[go-vncdriver]() by openai, 
+[go-vncdriver]() by openai, to compile you need to clone the repo and modify code to find headers for libjpeg-turbo and python.
 
 ----
 
