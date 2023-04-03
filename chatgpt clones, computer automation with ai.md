@@ -100,7 +100,14 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 ### LLaMA
 
+it's public.
 
+| weight path | model name | author |
+| -- | -- | -- |
+| | | |
+| | | |
+| | | |
+| | | |
 
 ### [ChatYuan]()
 
