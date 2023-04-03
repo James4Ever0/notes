@@ -66,7 +66,7 @@ ggml version: [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 
 ----
 
-[codealpaca]()
+[codealpaca]() is a dataset-only 
 
 ### [togethercomputer](https://huggingface.co/togethercomputer)
 
