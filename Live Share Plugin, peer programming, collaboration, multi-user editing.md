@@ -1,7 +1,7 @@
 ---
 title: 'Live Share Plugin, peer programming, collaboration, multi-user editing'
 created: '2023-02-26T09:20:23.644Z'
-modified: '2023-04-03T03:26:41.694Z'
+modified: '2023-04-03T03:32:10.331Z'
 ---
 
 # Live Share Plugin, peer programming, collaboration, multi-user editing
@@ -13,6 +13,8 @@ clipboard listeners:
 [clipnotify](https://github.com/cdown/clipnotify) for xorg (linux)
 
 windows+v now act as [multi-clipboard](https://github.com/brentvollebregt/multi-clipboard)
+
+you can sync clipboard across computers via [crossclip](https://github.com/yue/crossclip)
 
 ----
 
