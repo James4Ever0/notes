@@ -2,12 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2023-04-03T03:55:08.463Z'
+modified: '2023-04-03T03:59:02.338Z'
 ---
 
 # disco diffusion and ai art
 
-[civitai](https://civitai.com/) is a place for sharing stable diffusion models and ai arts.
+[civitai](https://civitai.com/) is a place for sharing stable diffusion models like [anything v5](https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original) and [surreality](https://civitai.com/models/21666/surreality) and ai arts.
 
 ----
 
