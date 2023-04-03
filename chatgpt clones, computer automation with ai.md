@@ -78,7 +78,7 @@ released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-N
 
 RWKV combines attention with RNN so the token window can be much larger.
 
-[Longformer](https://huggingface.co/docs/transformers/model_doc/led) is similar to this. Model weights in [github repo](https://github.com/allenai/longformer).
+[Longformer](https://huggingface.co/docs/transformers/model_doc/led) is similar to this. Model weights in [github repo](https://github.com/allenai/longformer) or [huggingface](allenai/longformer-base-4096).
 
 ----
 
