@@ -74,7 +74,7 @@ note that special care needed for aligning mouse location with screenshot size
 
 openai [universe](https://github.com/openai/universe) (blog post [here](https://openai.com/blog/universe/)) and [starter agents](https://github.com/openai/universe-starter-agent), remotes are using vnc protocol and a reward protocol using websocket sending json (can send actions). they prefer [TigerVNC](https://tigervnc.org/), maybe that will send the existing monitor instead of invisible ones.
 
-[retro](https://github.com/openai/retro) deprecates universe, but might help with general computer controlling AI systems since they are compatible. human don't play games all day and night. beware of this.
+[retro](https://github.com/openai/retro) deprecates universe, but might help with general computer controlling AI systems since they are compatible. human don't play games all day and night. beware of this and don't turn the model into a heavy gamer.
 
 ## accelerators
 
