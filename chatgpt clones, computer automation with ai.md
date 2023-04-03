@@ -74,6 +74,8 @@ model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 [web interface](https://chat.lmsys.org/)
 
+----
+
 community model weights:
 
 [vicuna](https://huggingface.co/chavinlo/vicuna)
