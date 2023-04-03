@@ -104,6 +104,16 @@ it's better to check for [python bindings](https://github.com/abetlen/llama-cpp-
 
 ----
 
+community model weights:
+
+| weight path | weight size| model name |
+| -- | -- | -- |
+| [Alpaca-65B](https://huggingface.co/chavinlo/Alpaca-65B) | 65B | Alpaca |
+| [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca |
+| | | |
+
+----
+
 [codealpaca](https://github.com/sahil280114/codealpaca) only provides [dataset](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k) for training a code generation model, there are multiple models trained on this dataset, including [bloom-7b1-lora-codealpaca20k](https://huggingface.co/LinhDuong/bloom-7b1-lora-codealpaca20k)
 
 ### [togethercomputer](https://huggingface.co/togethercomputer)
