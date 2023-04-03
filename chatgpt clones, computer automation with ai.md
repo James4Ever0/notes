@@ -166,7 +166,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [deduplicate text dataset](https://github.com/google-research/deduplicate-text-datasets) in rust, may remove verbose substrings like "to go to the"
 
-[oscar project](https://github.com/oscar-project) contains some tool for adult content filtering and deduplication.
+[oscar project](https://github.com/oscar-project) (Open Super-large Crawled Aggregated coRpus) contains some tool for adult content filtering and deduplication.
 
 ## interfaces
 
