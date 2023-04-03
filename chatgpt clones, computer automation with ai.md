@@ -152,6 +152,10 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) (WORK IN PROGRESS)
 
+### using ai models
+
+Microsoft [JARVIS](https://github.com/microsoft/JARVIS) leverages huggingface models so ChatGPT can complete complex multimodal tasks.
+
 ### retrieval plugins
 
 [long term memory](https://github.com/wawawario2/long_term_memory) for [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (can run pythia, galatica, opt, gpt-j, gpt-4chan, rwkv and support quantization/acceleration), also 
