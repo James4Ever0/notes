@@ -157,6 +157,16 @@ to run it on gpu, you need to install [this](https://github.com/nomic-ai/nomic/t
 
 researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreaskoepf) has releasesed [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) and still updating
 
+----
+
+model weights:
+
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [oasst-llama-13b-2-epochs](https://huggingface.co/dvruette/oasst-llama-13b-2-epochs) | 13B | LLaMA | dvruette |
+|  |  |  |  |
+|  |  |  |  |
+
 ### [openflamingo](https://github.com/mlfoundations/open_flamingo)
 
 using [CLIP ViT-L](https://huggingface.co/openai/clip-vit-large-patch14) and [LLaMA-7B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), model weights on [huggingface](https://huggingface.co/openflamingo/OpenFlamingo-9B)
