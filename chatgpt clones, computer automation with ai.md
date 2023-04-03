@@ -72,6 +72,8 @@ model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 ### [FastChat](https://github.com/lm-sys/FastChat) (Vicuna)
 
+[web interface](https://chat.lmsys.org/)
+
 community model weights:
 
 [vicuna](https://huggingface.co/chavinlo/vicuna)
