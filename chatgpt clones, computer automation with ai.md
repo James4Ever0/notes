@@ -40,6 +40,10 @@ to create a simple API (compatible with OpenAI APIs) for LLMs, use [SimpleAI](ht
 
 ## computer automation with ai
 
+### virtual machines and environments
+
+
+
 ### papers
 
 [playing atari using q-learning](https://www.arxiv-vanity.com/papers/1312.5602/) (viewing deepmind paper with arxiv vanity)
