@@ -415,6 +415,8 @@ model weights:
 | [openchatrwkw-430m-r2](https://huggingface.co/mrsteyk/openchatrwkw-430m-r2) | 430m | RWKV | mrsteyk |
 | [openchatrwkv-430m](https://huggingface.co/mrsteyk/openchatrwkv-430m) | 430m | RWKV | mrsteyk |
 
+encrypted alpaca model weights released by point-network: [point-alpaca](https://github.com/pointnetwork/point-alpaca) 
+
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
 LLaMA trained on massive collection of clean assistant dialog data, with model weights
