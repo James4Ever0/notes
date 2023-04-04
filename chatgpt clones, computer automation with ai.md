@@ -126,6 +126,8 @@ Currently only open-sourced 6B version.
 
 You can train ChatGLM using GXT3090: [simple_thu_chatglm6b](https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/simple_thu_chatglm6b)
 
+Using 7GB VRAM, train ChatGLM with [P-tuning](https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning)
+
 ### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
 
 [LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
