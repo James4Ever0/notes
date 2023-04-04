@@ -134,6 +134,14 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 [awesome decentralized llm](https://github.com/imaurer/awesome-decentralized-llm) listed up-to-date related chatgpt-like repositories, datasets, model weights and resources.
 
+----
+
+model weights of open source chatgpt alternatives:
+
+
+| weight path | model size | model name | author |
+| -- | -- | -- |
+
 ### LLaMA
 
 it's public.
