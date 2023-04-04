@@ -132,7 +132,7 @@ Using 7GB VRAM, train ChatGLM with [P-tuning](https://github.com/THUDM/ChatGLM-6
 
 model weights:
 
-| weight path | model name | weight size | author |
+| weight path | weight size | model name | author |
 | -- | -- | -- | -- |
 | [chatglm-6b-int4-slim](https://huggingface.co/silver/chatglm-6b-int4-slim) | 6b | chatglm | silver |
 | [chatglm-6b-slim](https://huggingface.co/silver/chatglm-6b-slim) | 6b | chatglm | silver |
@@ -154,9 +154,10 @@ model arch is gpt-j, trained on alpaca dataset
 model weights:
 
 
-| weight path | model name | weight size | author |
+| weight path | weight size | model name | author |
 | -- | -- | -- | -- |
-[dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
+| [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b) | 6b | dolly | databricks |
+| [dolly-lora](https://huggingface.co/samwit/dolly-lora) | unknown | dolly | samwit |
 
 ### [FastChat](https://github.com/lm-sys/FastChat) (Vicuna)
 
@@ -166,7 +167,7 @@ model weights:
 
 model weights:
 
-| weight path | model name | author |
+| weight path | weight size | model name | author |
 | -- | -- | -- |
 | [vicuna](https://huggingface.co/chavinlo/vicuna) | Vicuna | chavinlo |
 | [vicuna2](https://huggingface.co/chavinlo/vicuna2) | Vicuna | chavinlo |
