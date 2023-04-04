@@ -1,14 +1,14 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-04-04T09:59:05.668Z'
+modified: '2023-04-04T10:01:09.123Z'
 ---
 
 # video generation/modification (vfx) from text
 
 达摩院放出了[文本生成视频模型](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)，支持英文输入
 
-[huggingface space]()
+[huggingface space](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis)
 
 model weights:
 
@@ -18,8 +18,14 @@ model weights:
 | [modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis) | unknown | unknown | damo-vilab |
 | [text-to-video-ms-1.7b-legacy](https://huggingface.co/damo-vilab/text-to-video-ms-1.7b-legacy) | unknown | unknown | damo-vilab |
 
-can also download from [modelscope]()
+can also use from modelscope:
 
+```python
+from modelscope.pipelines import pipeline
+from modelscope.utils.constant import Tasks
+
+p = pipeline('text-to-video-synthesis', 'damo/text-to-video-synthesis')
+```
 ----
 
 
