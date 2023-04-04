@@ -173,6 +173,25 @@ model weights:
 
 [LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
 
+### [BELLE]()
+
+----
+
+model weights:
+
+
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [BELLE-LLAMA-7B-0.6M](https://huggingface.co/BelleGroup/BELLE-LLAMA-7B-0.6M) | unknown | unknown | BelleGroup |
+| [BELLE-LLAMA-7B-2M](https://huggingface.co/BelleGroup/BELLE-LLAMA-7B-2M) | unknown | unknown | BelleGroup |
+| [BELLE-LLAMA-7B-2M-gptq](https://huggingface.co/BelleGroup/BELLE-LLAMA-7B-2M-gptq) | unknown | unknown | BelleGroup |
+| [BELLE-LLAMA-13B-2M](https://huggingface.co/BelleGroup/BELLE-LLAMA-13B-2M) | unknown | unknown | BelleGroup |
+| [BELLE-7B-gptq](https://huggingface.co/BelleGroup/BELLE-7B-gptq) | unknown | unknown | BelleGroup |
+| [BELLE-7B-2M](https://huggingface.co/BelleGroup/BELLE-7B-2M) | unknown | unknown | BelleGroup |
+| [BELLE-7B-0.6M](https://huggingface.co/BelleGroup/BELLE-7B-0.6M) | unknown | unknown | BelleGroup |
+| [BELLE-7B-0.2M](https://huggingface.co/BelleGroup/BELLE-7B-0.2M) | unknown | unknown | BelleGroup |
+| [BELLE-7B-1M](https://huggingface.co/BelleGroup/BELLE-7B-1M) | unknown | unknown | BelleGroup |
+
 ### [dolly](https://github.com/databrickslabs/dolly)
 
 model arch is gpt-j, trained on alpaca dataset
