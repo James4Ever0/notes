@@ -173,7 +173,7 @@ community model weights:
 
 | weight path | weight size | model name | author |
 | -- | -- | -- | -- |
-| [alpaca-lora-7b](https://huggingface.co/tloen/alpaca-lora-7b) | unknown | unknown | tloen |
+| [alpaca-lora-7b](https://huggingface.co/tloen/alpaca-lora-7b) | 7b | unknown | tloen |
 | [Alpaca Native](https://huggingface.co/chavinlo/alpaca-native) | 7B | Alpaca | chavinlo |
 | [Alpaca-65B](https://huggingface.co/chavinlo/Alpaca-65B) | 65B | Alpaca | chavinlo |
 | [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca | chavinlo | 
