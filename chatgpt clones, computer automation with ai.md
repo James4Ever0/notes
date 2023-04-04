@@ -395,6 +395,10 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [oscar project](https://github.com/oscar-project) (Open Super-large Crawled Aggregated coRpus) contains some tool for adult content filtering and deduplication.
 
+## NLP tools
+
+[fasttext](https://fasttext.cc/docs/en/support.html) for 
+
 ## interfaces
 
 [serge](https://github.com/nsarrazin/serge) is dockerized and the needs of RAM is according to the size of the model (alpaca), using CPU only
