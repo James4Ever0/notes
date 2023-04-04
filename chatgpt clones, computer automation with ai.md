@@ -565,10 +565,6 @@ datasets by BELLE:
 
 [school_math_0.25M](https://huggingface.co/BelleGroup/school_math_0.25M)
 
-----
-
-[alpaca-cleaned]()
-
 ### unsupervised pretraining
 
 [Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of [BigKnow2022](https://github.com/RyokoAI/BigKnow2022)
