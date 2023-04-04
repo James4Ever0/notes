@@ -1,7 +1,7 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-04T02:39:44.877Z'
+modified: '2023-04-04T03:14:52.425Z'
 ---
 
 # RSIBreak, Break Reminder
@@ -18,7 +18,9 @@ on macOS:
 osascript -e 'display notification "This message should be showing on the notification" with title "Coding Tips"'
 ```
 
-[]()
+[terminal-notifier](https://github.com/julienXX/terminal-notifier) (brew installable)
+
+[alerter](https://github.com/vjeantet/alerter)
 
 ----
 
@@ -47,6 +49,8 @@ msg /SERVER:DestinationPC * /TIME:60 “This is the message to be sent to a PC n
 ```
 
 [notify-send-for-Windows](https://github.com/Fonata/notify-send-for-Windows (needs AHK)
+
+[tutorial](https://superuser.com/questions/1179758/how-can-i-send-a-notification-to-a-windows-10-computer-from-the-command-line)
 
 ## break reminder tools
 
