@@ -344,15 +344,19 @@ released [openchatkit](https://github.com/togethercomputer/OpenChatKit) with ret
 model weights:
 
 
-| [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) | unknown | unknown | togethercomputer |
-| [Pythia-Chat-Base-7B](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B) | unknown | unknown | togethercomputer |
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) | 20B | GPT-NeoXT | togethercomputer |
+| [Pythia-Chat-Base-7B](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B) | 7B | Pythia | togethercomputer |
 
 ----
 
 moderation model weights:
 
 
-| [GPT-JT-Moderation-6B](https://huggingface.co/togethercomputer/GPT-JT-Moderation-6B) | unknown | unknown | togethercomputer |
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [GPT-JT-Moderation-6B](https://huggingface.co/togethercomputer/GPT-JT-Moderation-6B) | 6B | GPT-JT | togethercomputer |
 
 ### [SpikeGPT](https://github.com/ridgerchu/SpikeGPT)
 
