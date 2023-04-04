@@ -71,11 +71,13 @@ it is not feasible to install [ubuntu arm](https://ubuntu.com/download/server/ar
 
 [libvncdriver](https://pypi.org/project/libvncdriver/)
 
-[asyncvnc](https://pypi.org/project/asyncvnc/), side project: [asyncssh](https://github.com/ronf/asyncssh)
+[asyncvnc](https://pypi.org/project/asyncvnc/) (supports apple vnc), side project: [asyncssh](https://github.com/ronf/asyncssh)
 
 [python-vnc-client](https://github.com/masamitsu-murase/python_vnc_client) with keydown/keyup event support
 
+[vncdotool](https://pypi.org/project/vncdotool/)
 
+[pyVNC](https://github.com/cair/pyVNC)
 
 ----
 
