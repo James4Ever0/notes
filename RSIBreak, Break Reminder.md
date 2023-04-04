@@ -1,7 +1,7 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-04T02:39:37.710Z'
+modified: '2023-04-04T02:39:44.877Z'
 ---
 
 # RSIBreak, Break Reminder
@@ -48,7 +48,7 @@ msg /SERVER:DestinationPC * /TIME:60 “This is the message to be sent to a PC n
 
 [notify-send-for-Windows](https://github.com/Fonata/notify-send-for-Windows (needs AHK)
 
-## Reminder tools
+## break reminder tools
 
 [RSIBreak](https://userbase.kde.org/RSIBreak) is for linux, and it does not work well.
 
