@@ -295,7 +295,7 @@ released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-N
 
 [openchatkit](https://github.com/togethercomputer/OpenChatKit) with retrieval ability and [its huggingface space](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
-### RWKV
+### [RWKV](https://github.com/BlinkDL/RWKV-LM)
 
 RWKV combines attention with RNN so the token window can be much larger.
 
