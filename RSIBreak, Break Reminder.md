@@ -1,7 +1,7 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-04T02:36:18.382Z'
+modified: '2023-04-04T02:36:40.429Z'
 ---
 
 # RSIBreak, Break Reminder
@@ -17,7 +17,7 @@ osascript -e 'display notification "This message should be showing on the notifi
 on linux:
 
 ```bash
-notify-send
+notify-send "Dinner ready!"
 ```
 
 on windows:
