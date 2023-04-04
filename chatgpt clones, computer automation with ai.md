@@ -424,7 +424,13 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 datasets by BELLE:
 
+[train_1M_CN](https://huggingface.co/BelleGroup/train_1M_CN)
 
+[train_0.5M_CN](https://huggingface.co/BelleGroup/train_0.5M_CN)
+
+[multiturn_chat_0.8M](https://huggingface.co/BelleGroup/multiturn_chat_0.8M)
+
+[school_math_0.25M](https://huggingface.co/BelleGroup/school_math_0.25M)
 
 ## dataset preprocessing
 
