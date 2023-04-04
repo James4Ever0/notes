@@ -296,6 +296,19 @@ model weights:
 | [oasst-pythia-12b-3000-steps](https://huggingface.co/dvruette/oasst-pythia-12b-3000-steps) | 12b | pythia | dvruette |
 | [oasst-pythia-12b-flash-attn-5000-steps](https://huggingface.co/dvruette/oasst-pythia-12b-flash-attn-5000-steps) | 12b | pythia | dvruette |
 | [oasst-pythia-6.9b-4000-steps](https://huggingface.co/dvruette/oasst-pythia-6.9b-4000-steps) | 12b | pythia | dvruette |
+| [oasst-sft-1-pythia-12b](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) | 12b | pythia | OpenAssistant |
+| [galactica-6.7b-finetuned](https://huggingface.co/OpenAssistant/galactica-6.7b-finetuned) | 6.7b | galatica | OpenAssistant |
+
+----
+
+reward model weights:
+
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [reward-model-deberta-v3-large](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large) | unknown | deberta-v3 | OpenAssistant |
+| [reward-model-deberta-v3-large-v2](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large-v2) | unknown | deberta-v3 | OpenAssistant |
+| [reward-model-electra-large-discriminator](https://huggingface.co/OpenAssistant/reward-model-electra-large-discriminator) | unknown | electra-large | OpenAssistant |
+| [reward-model-deberta-v3-base](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-base) | unknown | deberta-v3 | OpenAssistant |
 
 ### [openflamingo](https://github.com/mlfoundations/open_flamingo)
 
@@ -304,6 +317,12 @@ using [CLIP ViT-L](https://huggingface.co/openai/clip-vit-large-patch14) and [LL
 ### [cerebras gpt](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
 
 open sourced [model weights](https://huggingface.co/cerebras) and [training code](https://github.com/Cerebras/modelzoo)
+
+----
+
+model weights:
+
+
 
 ### ColossalChat
 
