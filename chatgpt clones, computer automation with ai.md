@@ -166,6 +166,11 @@ it's public.
 
 ### [ChatYuan]()
 
+
+### [Deepshard]()
+
+LLaMA trained on custom instruction dataset
+
 ### [ChatGLM]()
 
 Currently only open-sourced 6B version.
