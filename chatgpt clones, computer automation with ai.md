@@ -400,7 +400,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ----
 
-[langchain]()
+[langchain](https://docs.langchain.com/docs/)
 
 [prompt-engine](https://github.com/microsoft/prompt-engine)
 
