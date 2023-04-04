@@ -211,7 +211,7 @@ community model weights:
 | [alpaca13B-lora](https://huggingface.co/samwit/alpaca13B-lora) | 13b | alpaca | samwit |
 | [alpaca7B-lora](https://huggingface.co/samwit/alpaca7B-lora) | 7b | alpaca | samwit |
 | [bloompaca-7b1-lora](https://huggingface.co/samwit/bloompaca-7b1-lora) | 7b | bloom | samwit |
-
+| [cerebras-gpt-6.7b-lora](https://huggingface.co/samwit/cerebras-gpt-6.7b-lora) | 6.7b | cerebras-gpt | samwit |
 
 ----
 
