@@ -157,12 +157,13 @@ model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 ----
 
-community model weights:
+model weights:
 
 | weight path | model name | author |
 | -- | -- | -- |
 | [vicuna](https://huggingface.co/chavinlo/vicuna) | Vicuna | chavinlo |
 | [vicuna2](https://huggingface.co/chavinlo/vicuna2) | Vicuna | chavinlo |
+| [vicuna-13b-delta-v0](https://huggingface.co/lmsys/vicuna-13b-delta-v0) | 13b | Vicuna | lmsys |
 
 ### Bloom-z
 
