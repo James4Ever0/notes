@@ -65,7 +65,17 @@ it is not feasible to install [ubuntu arm](https://ubuntu.com/download/server/ar
 
 [mss](https://python-mss.readthedocs.io/) for screenshot, remember to save raw pixels to SSD, then compress into mp4 with ffmpeg for further training (mind the timestamp!)
 
+----
+
 [go-vncdriver](https://github.com/openai/go-vncdriver) by openai, to compile you need to clone the repo and modify code to find headers for libjpeg-turbo and python.
+
+[libvncdriver](https://pypi.org/project/libvncdriver/)
+
+[asyncvnc](https://pypi.org/project/asyncvnc/)
+
+[python-vnc-client](https://github.com/masamitsu-murase/python_vnc_client) with keydown/keyup event support
+
+
 
 ----
 
