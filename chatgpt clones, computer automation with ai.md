@@ -479,7 +479,7 @@ datasets by BELLE:
 
 ----
 
-[Chain-of-hindsights]() in [jax](https://github.com/lhao499/CoH) and [pytorch]()
+[Chain-of-hindsights]() in [jax](https://github.com/lhao499/CoH) and [pytorch](https://github.com/mukhal/CoH-pytorch)
 
 
 ## interfaces
