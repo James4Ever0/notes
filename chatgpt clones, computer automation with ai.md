@@ -533,7 +533,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ----
 
-[https://huggingface.co/datasets/swype/instruct-102.4k) by [swype]()
+[instruct-102.4k](https://huggingface.co/datasets/swype/instruct-102.4k) by [swype](https://swype.com)
 
 ### unsupervised pretraining
 
