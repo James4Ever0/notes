@@ -174,6 +174,8 @@ alpaca is LLaMA tuned on ChatGPT self-instruct dataset. officially there is just
 
 ggml version: [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 
+example on how to load PEFT patched alpaca model: [alpaca-lora/generate.py](0https://github.com/aspctu/alpaca-lora/blob/main/generate.py)
+
 it's better to check for [python bindings](https://github.com/abetlen/llama-cpp-python) and [webui](https://github.com/abdeladim-s/pyllamacpp) like [Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) for further development and interactions.
 
 ----
