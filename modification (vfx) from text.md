@@ -1,10 +1,14 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-02-05T14:02:08.527Z'
+modified: '2023-04-04T05:05:17.771Z'
 ---
 
 # video generation/modification (vfx) from text
+
+[PAIR](https://huggingface.co/spaces/PAIR) now releases [Text2Video-Zero](https://huggingface.co/spaces/PAIR/Text2Video-Zero) which leverages existing stable diffusion models to generate video
+
+----
 
 [lucidrains](https://github.com/lucidrains) is a workaholic on transformer implementations. we should scrape all the repos and index them. there are [faster language models](https://github.com/lucidrains/memory-efficient-attention-pytorch) to train.
 
