@@ -1,13 +1,32 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-04T02:27:49.647Z'
+modified: '2023-04-04T02:34:41.703Z'
 ---
 
 # RSIBreak, Break Reminder
 
-if you want to do it on your own, you have to know how to send notifications on different operating 
+if you want to do it on your own, you have to know how to send notifications on different operating systems.
 
+on macOS:
+
+```bash
+osascript -e 'display notification "This message should be showing on the notification" with title "Coding Tips"'
+```
+
+on linux:
+
+```bash
+
+```
+
+on windows:
+
+```cmd
+msg /SERVER:DestinationPC * /TIME:60 “This is the message to be sent to a PC named DestinationPC and closes in 60 seconds."
+```
+
+[notify-send-for-Windows](https://github.com/Fonata/notify-send-for-Windows (needs AHK)
 ----
 
 [RSIBreak](https://userbase.kde.org/RSIBreak) is for linux, and it does not work well.
