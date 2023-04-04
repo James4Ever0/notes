@@ -1,7 +1,7 @@
 ---
 title: 'Live Share Plugin, Clipboard syncing, peer programming, collaboration, multi-user editing'
 created: '2023-02-26T09:20:23.644Z'
-modified: '2023-04-04T06:08:27.099Z'
+modified: '2023-04-04T06:31:00.413Z'
 ---
 
 # Live Share Plugin, Clipboard syncing, peer programming, collaboration, multi-user editing
@@ -11,6 +11,8 @@ live share will always create a invitation link upon starting, so you can use cl
 ----
 
 if clipboard is not your thing, there's [a massive anyIM-to-Matrix list](https://www.matrix.org/docs/projects/try-matrix-now)
+
+you can also setup your own sync app via [instant messaging](https://github.com/topics/instant-messaging) services.
 
 ----
 
@@ -29,8 +31,6 @@ clipboard listeners:
 windows+v now act as [multi-clipboard](https://github.com/brentvollebregt/multi-clipboard)
 
 you can sync clipboard across computers via [crossclip](https://github.com/yue/crossclip)
-
-you can also setup your own sync app via [instant messaging](https://github.com/topics/instant-messaging) services.
 
 ----
 
