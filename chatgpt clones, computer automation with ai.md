@@ -328,7 +328,10 @@ now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp), build upon ggml 
 
 model weights:
 
-
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [RWKV-7B-alpaca-finetuned](https://huggingface.co/BlueSunflower/RWKV-7B-alpaca-finetuned) | 7b | RWKV | BlueSunflower |
+| [rwkv-4-14B-alpaca-finetune-lora-weights](https://huggingface.co/BlueSunflower/rwkv-4-14B-alpaca-finetune-lora-weights) | 14b | RWKV | BlueSunflower |
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
@@ -342,7 +345,7 @@ pip3 install nomic
 
 to run it on gpu, you need to install [this](https://github.com/nomic-ai/nomic/tree/main/bin)
 
-### [openassistant]()
+### [openassistant](https://github.com/LAION-AI/Open-Assistant)
 
 researchers of open-assistant like [andreaskoepf](https://huggingface.co/andreaskoepf) has releasesed [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) and still updating
 
