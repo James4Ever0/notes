@@ -79,6 +79,8 @@ openai [universe](https://github.com/openai/universe) (blog post [here](https://
 
 [retro](https://github.com/openai/retro) deprecates universe, but might help with general computer controlling AI systems since they are compatible. human don't play games all day and night. beware of this and don't turn the model into a heavy gamer.
 
+there is no meaning of recording terminal input/output when using tools like `vim`. get screenshots, keystrokes and mouse clicks instead.
+
 ## accelerators
 
 ### [cformer](https://github.com/NolanoOrg/cformers/)
