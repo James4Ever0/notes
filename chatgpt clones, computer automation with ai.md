@@ -231,7 +231,6 @@ community model weights:
 | [alpaca13B-lora](https://huggingface.co/samwit/alpaca13B-lora) | 13b | alpaca | samwit |
 | [alpaca7B-lora](https://huggingface.co/samwit/alpaca7B-lora) | 7b | alpaca | samwit |
 | [bloompaca-7b1-lora](https://huggingface.co/samwit/bloompaca-7b1-lora) | 7b | bloom | samwit |
-| [cerebras-gpt-6.7b-lora](https://huggingface.co/samwit/cerebras-gpt-6.7b-lora) | 6.7b | cerebras-gpt | samwit |
 | [gpt4-x-alpaca-native-13B-ggml](https://huggingface.co/Pi3141/gpt4-x-alpaca-native-13B-ggml) | 13b | alpaca | Pi3141 |
 | [alpaca-native-7B-ggml](https://huggingface.co/Pi3141/alpaca-native-7B-ggml) | 7b | alpaca | Pi3141 |
 | [alpaca-native-13B-ggml](https://huggingface.co/Pi3141/alpaca-native-13B-ggml) | 13b | alpaca | Pi3141 |
@@ -242,9 +241,6 @@ community model weights:
 | [gpt4-x-alpaca-13b-native-4bit-128g](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g) | 13b | alpaca | anon8231489123 |
 | [ggml-gpt4-x-alpaca-13b-native-4bit](https://huggingface.co/eachadea/ggml-gpt4-x-alpaca-13b-native-4bit) | 13b | alpaca | eachadea |
 | [alpaca-13b-hf-fp16](https://huggingface.co/teknium/alpaca-13b-hf-fp16) | 13b | alpaca | teknium |
-| [Cerebras-GPT-2.7B-Alpaca-SP](https://huggingface.co/lxe/Cerebras-GPT-2.7B-Alpaca-SP) | 2.7b | cerebras-gpt | lxe |
-| [Cerebras-GPT-2.7B-Alpaca-SP-ggml](https://huggingface.co/lxe/Cerebras-GPT-2.7B-Alpaca-SP-ggml) | 2.7b | cerebras-gpt | lxe |
-| [lora-cerebras-gpt2.7b-alpaca-shortprompt](https://huggingface.co/lxe/lora-cerebras-gpt2.7b-alpaca-shortprompt) | 2.7b | cerebras-gpt | lxe |
 
 ----
 
@@ -322,7 +318,19 @@ open sourced [model weights](https://huggingface.co/cerebras) and [training code
 
 model weights:
 
-
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [cerebras-gpt-6.7b-lora](https://huggingface.co/samwit/cerebras-gpt-6.7b-lora) | 6.7b | cerebras-gpt | samwit |
+| [Cerebras-GPT-2.7B-Alpaca-SP](https://huggingface.co/lxe/Cerebras-GPT-2.7B-Alpaca-SP) | 2.7b | cerebras-gpt | lxe |
+| [Cerebras-GPT-2.7B-Alpaca-SP-ggml](https://huggingface.co/lxe/Cerebras-GPT-2.7B-Alpaca-SP-ggml) | 2.7b | cerebras-gpt | lxe |
+| [lora-cerebras-gpt2.7b-alpaca-shortprompt](https://huggingface.co/lxe/lora-cerebras-gpt2.7b-alpaca-shortprompt) | 2.7b | cerebras-gpt | lxe |
+| [Cerebras-GPT-13B](https://huggingface.co/cerebras/Cerebras-GPT-13B) | 13b | cerebras-gpt | cerebras |
+| [Cerebras-GPT-6.7B](https://huggingface.co/cerebras/Cerebras-GPT-6.7B) | 6.7b | cerebras-gpt | cerebras |
+| [Cerebras-GPT-2.7B](https://huggingface.co/cerebras/Cerebras-GPT-2.7B) | 2.7b | cerebras-gpt | cerebras |
+| [Cerebras-GPT-1.3B](https://huggingface.co/cerebras/Cerebras-GPT-1.3B) | 1.3b | cerebras-gpt | cerebras |
+| [Cerebras-GPT-590M](https://huggingface.co/cerebras/Cerebras-GPT-590M) | 590m | cerebras-gpt | cerebras |
+| [Cerebras-GPT-256M](https://huggingface.co/cerebras/Cerebras-GPT-256M) | 256m | cerebras-gpt | cerebras |
+| [Cerebras-GPT-111M](https://huggingface.co/cerebras/Cerebras-GPT-111M) | 111m | cerebras-gpt | cerebras |
 
 ### ColossalChat
 
