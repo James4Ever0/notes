@@ -1,10 +1,27 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-04-04T05:21:37.391Z'
+modified: '2023-04-04T09:59:05.668Z'
 ---
 
 # video generation/modification (vfx) from text
+
+达摩院放出了[文本生成视频模型](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)，支持英文输入
+
+[huggingface space]()
+
+model weights:
+
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [text-to-video-ms-1.7b](https://huggingface.co/damo-vilab/text-to-video-ms-1.7b) | unknown | unknown | damo-vilab |
+| [modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis) | unknown | unknown | damo-vilab |
+| [text-to-video-ms-1.7b-legacy](https://huggingface.co/damo-vilab/text-to-video-ms-1.7b-legacy) | unknown | unknown | damo-vilab |
+
+can also download from [modelscope]()
+
+----
+
 
 [PAIR](https://huggingface.co/spaces/PAIR) now releases [Text2Video-Zero](https://huggingface.co/spaces/PAIR/Text2Video-Zero) which leverages existing stable diffusion models to generate video. also released a bunch of controlnet dreambooth weights.
 
