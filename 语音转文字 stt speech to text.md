@@ -1,7 +1,7 @@
 ---
 title: 语音转文字 stt speech to text
 created: '2022-09-17T12:42:12.000Z'
-modified: '2023-04-04T06:20:32.029Z'
+modified: '2023-04-04T06:24:33.362Z'
 ---
 
 # 语音转文字 asr stt speech to text
@@ -30,10 +30,9 @@ vosk
 
 paddlespeech
 
-
 ----
 
-[paper](https://arxiv.org/pdf/2303.01037) of Google USM (universal speech model)
+[paper](https://arxiv.org/pdf/2303.01037) of Google USM (universal speech model) supporting 1000 languages
 
 ----
 
