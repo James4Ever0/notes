@@ -535,14 +535,6 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [instruct-102.4k](https://huggingface.co/datasets/swype/instruct-102.4k) by [swype](https://swype.com)
 
-### unsupervised pretraining
-
-[Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of [BigKnow2022](https://github.com/RyokoAI/BigKnow2022)
-
-[Kinda LLaMA](https://github.com/yuxdux/kinda-llama) replicates LLaMA dataset, including scraped webpages, code and stackexchange data.
-
-[oscar-corpus](https://huggingface.co/oscar-corpus) needs to be downloaded with access token, by accepting agreement with account. containing categorized content and adult content.
-
 ----
 
 datasets by BELLE:
@@ -554,6 +546,14 @@ datasets by BELLE:
 [multiturn_chat_0.8M](https://huggingface.co/BelleGroup/multiturn_chat_0.8M)
 
 [school_math_0.25M](https://huggingface.co/BelleGroup/school_math_0.25M)
+
+### unsupervised pretraining
+
+[Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of [BigKnow2022](https://github.com/RyokoAI/BigKnow2022)
+
+[Kinda LLaMA](https://github.com/yuxdux/kinda-llama) replicates LLaMA dataset, including scraped webpages, code and stackexchange data.
+
+[oscar-corpus](https://huggingface.co/oscar-corpus) needs to be downloaded with access token, by accepting agreement with account. containing categorized content and adult content.
 
 ## dataset preprocessing
 
