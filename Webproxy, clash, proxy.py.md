@@ -1,12 +1,12 @@
 ---
-title: Webproxy
+title: 'Webproxy, clash, proxy.py'
 created: '2023-04-03T08:51:11.015Z'
-modified: '2023-04-03T08:53:42.808Z'
+modified: '2023-04-04T01:41:41.463Z'
 ---
 
-# Webproxy
+# Webproxy, clash, proxy.py
 
-somebody hates clash, now we proxy websites directly in another website:
+somebody hates clash and proxy.py, now we proxy websites directly in another website:
 
 ----
 
