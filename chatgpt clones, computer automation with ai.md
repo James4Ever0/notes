@@ -71,7 +71,7 @@ it is not feasible to install [ubuntu arm](https://ubuntu.com/download/server/ar
 
 [libvncdriver](https://pypi.org/project/libvncdriver/)
 
-[asyncvnc](https://pypi.org/project/asyncvnc/)
+[asyncvnc](https://pypi.org/project/asyncvnc/), side project: [asyncssh](https://github.com/ronf/asyncssh)
 
 [python-vnc-client](https://github.com/masamitsu-murase/python_vnc_client) with keydown/keyup event support
 
@@ -231,7 +231,7 @@ community model weights:
 | [alpaca-lora-7b](https://huggingface.co/tloen/alpaca-lora-7b) | 7b | Alpaca | tloen |
 | [Alpaca Native](https://huggingface.co/chavinlo/alpaca-native) | 7B | Alpaca | chavinlo |
 | [Alpaca-65B](https://huggingface.co/chavinlo/Alpaca-65B) | 65B | Alpaca | chavinlo |
-| [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca | chavinlo | 
+| [Alpaca 13B](https://huggingface.co/chavinlo/alpaca-13b) | 13B | Alpaca | chavinlo |
 | [GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) | 13B | Alpaca | chavinlo |
 | [Toolpaca](https://huggingface.co/chavinlo/toolpaca) | 13B | Alpaca | chavinlo |
 | [instruct-gpt-j-fp16](https://huggingface.co/nlpcloud/instruct-gpt-j-fp16) | 6B | GPT-J | nlpcloud |
