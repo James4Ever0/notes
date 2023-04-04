@@ -173,7 +173,9 @@ model weights:
 
 [LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
 
-### [BELLE]()
+### [BELLE](https://github.com/LianjiaTech/BELLE)
+
+开源中文对话大模型
 
 ----
 
