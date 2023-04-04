@@ -178,8 +178,8 @@ model weights:
 
 | weight path | weight size | model name | author |
 | -- | -- | -- | -- |
-| [deepshard-13B-ft](https://huggingface.co/swype/deepshard-13B-ft) | unknown | unknown | swype |
-| [deepshard-13B-raw](https://huggingface.co/swype/deepshard-13B-raw) | unknown | unknown | swype |
+| [deepshard-13B-ft](https://huggingface.co/swype/deepshard-13B-ft) | 13b | unknown | swype |
+| [deepshard-13B-raw](https://huggingface.co/swype/deepshard-13B-raw) | 13b | unknown | swype |
 
 ### [ChatGLM]()
 
