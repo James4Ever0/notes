@@ -137,6 +137,9 @@ model weights:
 | [chatglm-6b-int4-slim](https://huggingface.co/silver/chatglm-6b-int4-slim) | 6b | chatglm | silver |
 | [chatglm-6b-slim](https://huggingface.co/silver/chatglm-6b-slim) | 6b | chatglm | silver |
 | [chatglm-6b-int4-qe-slim](https://huggingface.co/silver/chatglm-6b-int4-qe-slim) | 6b | chatglm | silver |
+| [chatglm-6b-int4](https://huggingface.co/THUDM/chatglm-6b-int4) | unknown | unknown | THUDM |
+| [chatglm-6b-int4-qe](https://huggingface.co/THUDM/chatglm-6b-int4-qe) | unknown | unknown | THUDM |
+| [chatglm-6b](https://huggingface.co/THUDM/chatglm-6b) | unknown | unknown | THUDM |
 
 ### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
 
