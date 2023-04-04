@@ -533,7 +533,8 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ----
 
-https://huggingface.co/datasets/swype/instruct-102.4k]
+[https://huggingface.co/datasets/swype/instruct-102.4k) by [swype]()
+
 ### unsupervised pretraining
 
 [Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of [BigKnow2022](https://github.com/RyokoAI/BigKnow2022)
