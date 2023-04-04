@@ -343,6 +343,18 @@ model weights:
 | [rwkv-onnx](https://huggingface.co/Hazzzardous/rwkv-onnx) | unknown | rwkv | Hazzzardous |
 | [RWKV-8Bit](https://huggingface.co/Hazzzardous/RWKV-8Bit) | unknown | rwkv | Hazzzardous |
 
+| [rwkv-4-raven](https://huggingface.co/BlinkDL/rwkv-4-raven) | unknown | unknown | BlinkDL |
+| [rwkv-4-pile-7b](https://huggingface.co/BlinkDL/rwkv-4-pile-7b) | unknown | unknown | BlinkDL |
+| [rwkv-4-pile-14b](https://huggingface.co/BlinkDL/rwkv-4-pile-14b) | unknown | unknown | BlinkDL |
+| [rwkv-4-pile-430m](https://huggingface.co/BlinkDL/rwkv-4-pile-430m) | unknown | unknown | BlinkDL |
+| [rwkv-4-pile-3b](https://huggingface.co/BlinkDL/rwkv-4-pile-3b) | unknown | unknown | BlinkDL |
+| [rwkv-4-pile-1b5](https://huggingface.co/BlinkDL/rwkv-4-pile-1b5) | unknown | unknown | BlinkDL |
+| [rwkv-4-pile-169m](https://huggingface.co/BlinkDL/rwkv-4-pile-169m) | unknown | unknown | BlinkDL |
+| [rwkv-3-pile-1b5](https://huggingface.co/BlinkDL/rwkv-3-pile-1b5) | unknown | unknown | BlinkDL |
+| [rwkv-3-pile-430m](https://huggingface.co/BlinkDL/rwkv-3-pile-430m) | unknown | unknown | BlinkDL |
+| [rwkv-2-pile-430m](https://huggingface.co/BlinkDL/rwkv-2-pile-430m) | unknown | unknown | BlinkDL |
+| [rwkv-3-pile-169m](https://huggingface.co/BlinkDL/rwkv-3-pile-169m) | unknown | unknown | BlinkDL |
+
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
 LLaMA trained on massive collection of clean assistant dialog data, with model weights
