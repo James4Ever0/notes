@@ -149,7 +149,14 @@ model weights:
 
 model arch is gpt-j, trained on alpaca dataset
 
-model weights of [dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
+----
+
+model weights:
+
+
+| weight path | model name | weight size | author |
+| -- | -- | -- | -- |
+[dolly-v1-6b](https://huggingface.co/databricks/dolly-v1-6b)
 
 ### [FastChat](https://github.com/lm-sys/FastChat) (Vicuna)
 
