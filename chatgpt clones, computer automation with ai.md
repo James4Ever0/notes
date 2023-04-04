@@ -140,6 +140,9 @@ model weights of open source chatgpt alternatives:
 
 | weight path | model size | model name | author |
 | -- | -- | -- | -- |
+| [openchatgpt-neox-125m](https://huggingface.co/mrsteyk/openchatgpt-neox-125m) | 125m | gpt-neox | mrsteyk |
+| [openchatgpt-neo-125m](https://huggingface.co/mrsteyk/openchatgpt-neo-125m) | 125m | gpt-neo | mrsteyk |
+
 
 ### LLaMA
 
@@ -352,7 +355,6 @@ model weights:
 | [rwkv-fastquant](https://huggingface.co/Hazzzardous/rwkv-fastquant) | unknown | rwkv | Hazzzardous |
 | [rwkv-onnx](https://huggingface.co/Hazzzardous/rwkv-onnx) | unknown | rwkv | Hazzzardous |
 | [RWKV-8Bit](https://huggingface.co/Hazzzardous/RWKV-8Bit) | unknown | rwkv | Hazzzardous |
-
 | [rwkv-4-raven](https://huggingface.co/BlinkDL/rwkv-4-raven) | unknown | rwkv | BlinkDL |
 | [rwkv-4-pile-7b](https://huggingface.co/BlinkDL/rwkv-4-pile-7b) | 7b | rwkv | BlinkDL |
 | [rwkv-4-pile-14b](https://huggingface.co/BlinkDL/rwkv-4-pile-14b) | 14b | rwkv | BlinkDL |
@@ -364,6 +366,10 @@ model weights:
 | [rwkv-3-pile-430m](https://huggingface.co/BlinkDL/rwkv-3-pile-430m) | 430m | rwkv | BlinkDL |
 | [rwkv-2-pile-430m](https://huggingface.co/BlinkDL/rwkv-2-pile-430m) | 430m | rwkv | BlinkDL |
 | [rwkv-3-pile-169m](https://huggingface.co/BlinkDL/rwkv-3-pile-169m) | 169m | rwkv | BlinkDL |
+| [RWKV-LM-safetensors](https://huggingface.co/mrsteyk/RWKV-LM-safetensors) | unknown | RWKV | mrsteyk |
+| [openchatrwkv-430m-r2.0.1](https://huggingface.co/mrsteyk/openchatrwkv-430m-r2.0.1) | 430m | RWKV | mrsteyk |
+| [openchatrwkw-430m-r2](https://huggingface.co/mrsteyk/openchatrwkw-430m-r2) | 430m | RWKV | mrsteyk |
+| [openchatrwkv-430m](https://huggingface.co/mrsteyk/openchatrwkv-430m) | 430m | RWKV | mrsteyk |
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
