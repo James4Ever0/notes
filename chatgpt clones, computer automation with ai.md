@@ -12,6 +12,8 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 
 visit [poe.com](https://poe.com/) for a bunch of free chatbots, including GPT-4
 
+[bellard.org](https://bellard.org/ts_server/) provides a bunch of models 
+
 ----
 
 to manage python versions and environments, [pyenv](https://github.com/pyenv/pyenv) and [venv](https://docs.python.org/3/library/venv.html) is lightweight and [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [mamba](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) is more sophisticated.
