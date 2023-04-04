@@ -333,7 +333,9 @@ RWKV combines attention with RNN so the token window can be much larger.
 
 ----
 
-now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp), build upon ggml and sure it works on cpu.
+now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) (4bit quantization), build upon ggml and sure it works on cpu.
+
+
 
 ----
 
