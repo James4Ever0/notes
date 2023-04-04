@@ -294,6 +294,17 @@ model weights:
 | [oasst-pythia-6.9b-4000-steps](https://huggingface.co/dvruette/oasst-pythia-6.9b-4000-steps) | 12b | pythia | dvruette |
 | [oasst-sft-1-pythia-12b](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) | 12b | pythia | OpenAssistant |
 | [galactica-6.7b-finetuned](https://huggingface.co/OpenAssistant/galactica-6.7b-finetuned) | 6.7b | galatica | OpenAssistant |
+| [oasst-sft-4-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-4-pythia-12b-epoch-3.5) | 12b | unknown | andreaskoepf |
+| [pythia-12b-pre-2000](https://huggingface.co/andreaskoepf/pythia-12b-pre-2000) | 12b | unknown | andreaskoepf |
+| [pythia-12b-pre-3500](https://huggingface.co/andreaskoepf/pythia-12b-pre-3500) | 12b | unknown | andreaskoepf |
+| [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) | 12b | unknown | andreaskoepf |
+| [oasst-sft-3-pythia-12b-epoch-2.35](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-2.35) | 12b | pythia | andreaskoepf |
+| [oasst-sft-2-candidiate-0](https://huggingface.co/andreaskoepf/oasst-sft-2-candidiate-0) | unknown | unknown | andreaskoepf |
+| [oasst-sft-2-pythia-12b-4000](https://huggingface.co/andreaskoepf/oasst-sft-2-pythia-12b-4000) | 12b | pythia | andreaskoepf |
+| [oasst-sft-1-gpt-neox-2000](https://huggingface.co/andreaskoepf/oasst-sft-1-gpt-neox-2000) | unknown | gpt-neox | andreaskoepf |
+| [oasst-1_12b_4500](https://huggingface.co/andreaskoepf/oasst-1_12b_4500) | 12b | unknown | andreaskoepf |
+| [oasst-1_12b_1500](https://huggingface.co/andreaskoepf/oasst-1_12b_1500) | 12b | unknown | andreaskoepf |
+| [oasst-1_12b_3000](https://huggingface.co/andreaskoepf/oasst-1_12b_3000) | 12b | unknown | andreaskoepf |
 
 ----
 
@@ -305,6 +316,7 @@ reward model weights:
 | [reward-model-deberta-v3-large-v2](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large-v2) | unknown | deberta-v3 | OpenAssistant |
 | [reward-model-electra-large-discriminator](https://huggingface.co/OpenAssistant/reward-model-electra-large-discriminator) | unknown | electra-large | OpenAssistant |
 | [reward-model-deberta-v3-base](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-base) | unknown | deberta-v3 | OpenAssistant |
+| [oasst-rm-1-pythia-1b](https://huggingface.co/andreaskoepf/oasst-rm-1-pythia-1b) | 1b | pythia | andreaskoepf |
 
 ### [openflamingo](https://github.com/mlfoundations/open_flamingo)
 
