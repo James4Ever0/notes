@@ -397,7 +397,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ## NLP tools
 
-[fasttext](https://fasttext.cc/docs/en/support.html) for 
+[fasttext](https://fasttext.cc/docs/en/support.html) for word representations and sentence classification.
 
 ## interfaces
 
