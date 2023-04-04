@@ -184,14 +184,14 @@ model weights:
 | weight path | weight size | model name | author |
 | -- | -- | -- | -- |
 | [BELLE-LLAMA-7B-0.6M](https://huggingface.co/BelleGroup/BELLE-LLAMA-7B-0.6M) | 7B | LLaMA | BelleGroup |
-| [BELLE-LLAMA-7B-2M](https://huggingface.co/BelleGroup/BELLE-LLAMA-7B-2M) | 7B | LLaMA | BelleGroup |
+| [BELLE-LLAMA-7B-2M](https://huggingface.co/BelleGroup/BELLE-LLAMA-7B-2M) | 7B | LLaBLOOMZMA | BelleGroup |
 | [BELLE-LLAMA-7B-2M-gptq](https://huggingface.co/BelleGroup/BELLE-LLAMA-7B-2M-gptq) | 7B | LLaMA | BelleGroup |
 | [BELLE-LLAMA-13B-2M](https://huggingface.co/BelleGroup/BELLE-LLAMA-13B-2M) | 13B | LLaMA | BelleGroup |
-| [BELLE-7B-gptq](https://huggingface.co/BelleGroup/BELLE-7B-gptq) | 7B | LLaMA | BelleGroup |
-| [BELLE-7B-2M](https://huggingface.co/BelleGroup/BELLE-7B-2M) | 7B | LLaMA | BelleGroup |
-| [BELLE-7B-0.6M](https://huggingface.co/BelleGroup/BELLE-7B-0.6M) | 7B | LLaMA | BelleGroup |
-| [BELLE-7B-0.2M](https://huggingface.co/BelleGroup/BELLE-7B-0.2M) | 7B | LLaMA | BelleGroup |
-| [BELLE-7B-1M](https://huggingface.co/BelleGroup/BELLE-7B-1M) | 7B | LLaMA | BelleGroup |
+| [BELLE-7B-gptq](https://huggingface.co/BelleGroup/BELLE-7B-gptq) | 7B | BLOOMZ | BelleGroup |
+| [BELLE-7B-2M](https://huggingface.co/BelleGroup/BELLE-7B-2M) | 7B | BLOOMZ | BelleGroup |
+| [BELLE-7B-0.6M](https://huggingface.co/BelleGroup/BELLE-7B-0.6M) | 7B | BLOOMZ | BelleGroup |
+| [BELLE-7B-0.2M](https://huggingface.co/BelleGroup/BELLE-7B-0.2M) | 7B | BLOOMZ | BelleGroup |
+| [BELLE-7B-1M](https://huggingface.co/BelleGroup/BELLE-7B-1M) | 7B | BLOOMZ | BelleGroup |
 
 ### [dolly](https://github.com/databrickslabs/dolly)
 
