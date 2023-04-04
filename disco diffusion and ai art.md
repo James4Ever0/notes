@@ -2,7 +2,7 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2023-04-04T01:36:01.928Z'
+modified: '2023-04-04T06:10:51.230Z'
 ---
 
 # disco diffusion and ai art
@@ -15,7 +15,7 @@ modified: '2023-04-04T01:36:01.928Z'
 
 ----
 
-now you can use [controlnet](https://github.com/Mikubill/sd-webui-controlnet) to enhance the generation, give the figure skeleton
+now you can use [controlnet](https://github.com/Mikubill/sd-webui-controlnet) to enhance the generation, give the figure skeleton. [huggingface introduction](https://huggingface.co/blog/controlnet)
 
 [karlo](https://github.com/kakaobrain/karlo): dalle2 replicate, [karlo huggingface space](https://huggingface.co/spaces/kakaobrain/karlo), text to image (can be used for semantic search)
 
