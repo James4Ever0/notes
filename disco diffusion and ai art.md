@@ -2,12 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2023-04-04T01:35:53.029Z'
+modified: '2023-04-04T01:36:01.928Z'
 ---
 
 # disco diffusion and ai art
 
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI.
 
 ----
 
