@@ -180,6 +180,8 @@ model weights:
 | [vicuna](https://huggingface.co/chavinlo/vicuna) | unknown | Vicuna | chavinlo |
 | [vicuna2](https://huggingface.co/chavinlo/vicuna2) | unknown | Vicuna | chavinlo |
 | [vicuna-13b-delta-v0](https://huggingface.co/lmsys/vicuna-13b-delta-v0) | 13b | Vicuna | lmsys |
+| [vicuna-13b-GPTQ-4bit-128g](https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g) | 13b | vicuna | anon8231489123 |
+
 
 download official delta weights via [magnet](magnet:?xt=urn:btih:a7fac57094561a63d53eed943f904abf24c6969d&dn=Vicuna-13B-HF-fp16-delta-merged_2023-04-03&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce
 based)
@@ -346,7 +348,6 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 [Kinda LLaMA](https://github.com/yuxdux/kinda-llama) replicates LLaMA dataset, including scraped webpages, code and stackexchange data.
 
 [oscar-corpus](https://huggingface.co/oscar-corpus) needs to be downloaded with access token, by accepting agreement with account. containing categorized content and adult content.
-
 
 ## dataset preprocessing
 
