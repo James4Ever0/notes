@@ -527,8 +527,13 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [botbots](https://github.com/radi-cho/botbots/) dataset (two chatgpt talking to each other), created by using [datasetGPT](https://github.com/radi-cho/datasetGPT) (LLM automation tool)
 
+----
+
 [ShareGPT52k](https://huggingface.co/datasets/RyokoAI/ShareGPT52K), also [ShareGPT90k](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) (Vicuna)
 
+----
+
+https://huggingface.co/datasets/swype/instruct-102.4k]
 ### unsupervised pretraining
 
 [Fandom23K](https://huggingface.co/datasets/RyokoAI/Fandom23K) (text classification), part of [BigKnow2022](https://github.com/RyokoAI/BigKnow2022)
