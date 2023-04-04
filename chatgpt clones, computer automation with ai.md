@@ -81,6 +81,8 @@ note that special care needed for aligning mouse location with screenshot size
 
 openai [universe](https://github.com/openai/universe) (blog post [here](https://openai.com/blog/universe/)) and [starter agents](https://github.com/openai/universe-starter-agent), remotes are using vnc protocol and a reward protocol using websocket sending json (can send actions). they prefer [TigerVNC](https://tigervnc.org/), maybe that will send the existing monitor instead of invisible ones.
 
+[gym](https://github.com/openai/gym) is classic and modular. [atari-py](https://github.com/openai/atari-py) enables old games
+
 [retro](https://github.com/openai/retro) deprecates universe, but might help with general computer controlling AI systems since they are compatible. human don't play games all day and night. beware of this and don't turn the model into a heavy gamer.
 
 there is no meaning of recording terminal input/output when using tools like `vim`. get screenshots, keystrokes and mouse clicks instead (using `ttyd`, [`gremlins.js`](https://github.com/marmelab/gremlins.js) or [`monkey.js`](https://github.com/zhuochun/monkey.js)). `tkterminal` won't do. it is just a thin wrapper around `subprocess.run`
