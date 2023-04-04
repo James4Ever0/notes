@@ -1,10 +1,15 @@
 ---
 title: 'fastapi, celery, task queue, websocket'
 created: '2023-04-02T10:40:24.782Z'
-modified: '2023-04-04T07:30:04.229Z'
+modified: '2023-04-04T07:31:09.007Z'
 ---
 
 # fastapi, celery, task queue, websocket
+
+
+generate [nodejs client](https://fastapi.tiangolo.com/advanced/generate-clients/) from `openapi.json`
+
+----
 
 create doc inside code: [adding metadata](https://fastapi.tiangolo.com/tutorial/metadata/)
 
