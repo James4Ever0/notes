@@ -176,8 +176,8 @@ LLaMA trained on custom instruction dataset.
 model weights:
 
 
-| weight path | model name | author |
-| -- | -- | -- |
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
 | [deepshard-13B-ft](https://huggingface.co/swype/deepshard-13B-ft) | unknown | unknown | swype |
 | [deepshard-13B-raw](https://huggingface.co/swype/deepshard-13B-raw) | unknown | unknown | swype |
 
