@@ -208,6 +208,9 @@ community model weights:
 | [alpaca-lora-30b](https://huggingface.co/chansung/alpaca-lora-30b) | 30b | alpaca | chansung |
 | [koalpaca-lora-13b](https://huggingface.co/chansung/koalpaca-lora-13b) | 13b | koalpaca | chansung |
 | [alpaca-lora-13b](https://huggingface.co/chansung/alpaca-lora-13b) | 13b | alpaca | chansung |
+| [alpaca13B-lora](https://huggingface.co/samwit/alpaca13B-lora) | 13b | alpaca | samwit |
+| [alpaca7B-lora](https://huggingface.co/samwit/alpaca7B-lora) | 7b | alpaca | samwit |
+| [bloompaca-7b1-lora](https://huggingface.co/samwit/bloompaca-7b1-lora) | 7b | bloom | samwit |
 
 ----
 
