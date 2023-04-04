@@ -212,7 +212,6 @@ community model weights:
 | [alpaca7B-lora](https://huggingface.co/samwit/alpaca7B-lora) | 7b | alpaca | samwit |
 | [bloompaca-7b1-lora](https://huggingface.co/samwit/bloompaca-7b1-lora) | 7b | bloom | samwit |
 
-
 ----
 
 [codealpaca](https://github.com/sahil280114/codealpaca) only provides [dataset](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k) for training a code generation model, there are multiple models trained on this dataset, including [bloom-7b1-lora-codealpaca20k](https://huggingface.co/LinhDuong/bloom-7b1-lora-codealpaca20k)
