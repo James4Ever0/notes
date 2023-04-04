@@ -294,10 +294,10 @@ model weights:
 | [oasst-pythia-6.9b-4000-steps](https://huggingface.co/dvruette/oasst-pythia-6.9b-4000-steps) | 12b | pythia | dvruette |
 | [oasst-sft-1-pythia-12b](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) | 12b | pythia | OpenAssistant |
 | [galactica-6.7b-finetuned](https://huggingface.co/OpenAssistant/galactica-6.7b-finetuned) | 6.7b | galatica | OpenAssistant |
-| [oasst-sft-4-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-4-pythia-12b-epoch-3.5) | 12b | unknown | andreaskoepf |
-| [pythia-12b-pre-2000](https://huggingface.co/andreaskoepf/pythia-12b-pre-2000) | 12b | unknown | andreaskoepf |
-| [pythia-12b-pre-3500](https://huggingface.co/andreaskoepf/pythia-12b-pre-3500) | 12b | unknown | andreaskoepf |
-| [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) | 12b | unknown | andreaskoepf |
+| [oasst-sft-4-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-4-pythia-12b-epoch-3.5) | 12b | pythia | andreaskoepf |
+| [pythia-12b-pre-2000](https://huggingface.co/andreaskoepf/pythia-12b-pre-2000) | 12b | pythia | andreaskoepf |
+| [pythia-12b-pre-3500](https://huggingface.co/andreaskoepf/pythia-12b-pre-3500) | 12b | pythia | andreaskoepf |
+| [oasst-sft-3-pythia-12b-epoch-3.5](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-3.5) | 12b | pythia | andreaskoepf |
 | [oasst-sft-3-pythia-12b-epoch-2.35](https://huggingface.co/andreaskoepf/oasst-sft-3-pythia-12b-epoch-2.35) | 12b | pythia | andreaskoepf |
 | [oasst-sft-2-candidiate-0](https://huggingface.co/andreaskoepf/oasst-sft-2-candidiate-0) | unknown | unknown | andreaskoepf |
 | [oasst-sft-2-pythia-12b-4000](https://huggingface.co/andreaskoepf/oasst-sft-2-pythia-12b-4000) | 12b | pythia | andreaskoepf |
