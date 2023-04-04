@@ -432,7 +432,9 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [chatml](https://github.com/openai/openai-python/blob/main/chatml.md): markup language for ChatGPT, by openai
 
-[react-agent-ts](https://github.com/Intuitive-Systems/react-agent-ts) enables LLM to chat and use tools
+[react-agent-ts](https://github.com/Intuitive-Systems/react-agent-ts) enables LLM to chat and use tools by internal dialogues.
+
+[babyagi](https://github.com/yoheinakajima/babyagi): AI-powered task management system.
 
 ## interfaces
 
