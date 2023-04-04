@@ -339,6 +339,9 @@ model weights:
 | -- | -- | -- | -- |
 | [RWKV-7B-alpaca-finetuned](https://huggingface.co/BlueSunflower/RWKV-7B-alpaca-finetuned) | 7b | RWKV | BlueSunflower |
 | [rwkv-4-14B-alpaca-finetune-lora-weights](https://huggingface.co/BlueSunflower/rwkv-4-14B-alpaca-finetune-lora-weights) | 14b | RWKV | BlueSunflower |
+| [rwkv-fastquant](https://huggingface.co/Hazzzardous/rwkv-fastquant) | unknown | rwkv | Hazzzardous |
+| [rwkv-onnx](https://huggingface.co/Hazzzardous/rwkv-onnx) | unknown | rwkv | Hazzzardous |
+| [RWKV-8Bit](https://huggingface.co/Hazzzardous/RWKV-8Bit) | unknown | rwkv | Hazzzardous |
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
