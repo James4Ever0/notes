@@ -324,9 +324,20 @@ released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-N
 
 [openchatkit](https://github.com/togethercomputer/OpenChatKit) with retrieval ability and [its huggingface space](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
+### [SpikeGPT](https://github.com/ridgerchu/SpikeGPT)
+
+inspired by RWKV
+
+----
+
+model weights:
+
+| weight path | weight size | model name | author |
+| -- | -- | -- | -- |
+| [SpikeGPT-BookCorpus](https://huggingface.co/ridger/SpikeGPT-BookCorpus) | unknown | SpikeGPT | ridger |
+
 ### [RWKV](https://github.com/BlinkDL/RWKV-LM)
 
-[SpikeGPT](https://github.com/ridgerchu/SpikeGPT) is inspired by RWKV
 
 ----
 
