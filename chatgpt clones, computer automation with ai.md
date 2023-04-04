@@ -117,7 +117,7 @@ talking of browser, you can spin up [novnc](https://github.com/novnc/noVNC) serv
 
 ## accelerators
 
-### [cformer](https://github.com/NolanoOrg/cformers/)
+### [cformers](https://github.com/NolanoOrg/cformers/)
 
 cpu only
 
