@@ -1,12 +1,16 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-04T02:38:17.833Z'
+modified: '2023-04-04T02:39:37.710Z'
 ---
 
 # RSIBreak, Break Reminder
 
+## DIY
+
 if you want to do it on your own, you have to know how to send notifications on different operating systems.
+
+----
 
 on macOS:
 
@@ -16,12 +20,25 @@ osascript -e 'display notification "This message should be showing on the notifi
 
 []()
 
+----
+
 on linux:
 
 ```bash
 notify-send "Dinner ready!"
-remind
 ```
+
+using `remind`:
+
+```bash
+remind "I'm still here" now
+remind "Time to wake up!" in 5 minutes
+remind "Dinner" in 1 hour
+remind "Take a break" at noon
+remind "It's Friday pints time!" at 17:00
+```
+
+----
 
 on windows:
 
@@ -31,7 +48,7 @@ msg /SERVER:DestinationPC * /TIME:60 “This is the message to be sent to a PC n
 
 [notify-send-for-Windows](https://github.com/Fonata/notify-send-for-Windows (needs AHK)
 
-----
+## Reminder tools
 
 [RSIBreak](https://userbase.kde.org/RSIBreak) is for linux, and it does not work well.
 
