@@ -12,7 +12,7 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 
 visit [poe.com](https://poe.com/) for a bunch of free chatbots, including GPT-4
 
-[bellard.org](https://bellard.org/ts_server/) provides a bunch of models like GPT-J, GPT-NeoX, GPT-Neo, OPT, Fairseq GPT, M2M100, CodeGen, GPT2, T5, RWKV, LLAMA) and Stable Diffusion.
+[bellard.org](https://bellard.org/ts_server/) provides a bunch of models like GPT-J, GPT-NeoX, GPT-Neo, OPT, Fairseq GPT, M2M100, CodeGen, GPT2, T5, RWKV, LLAMA and Stable Diffusion.
 
 ----
 
