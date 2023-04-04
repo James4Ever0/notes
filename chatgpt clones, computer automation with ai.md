@@ -296,6 +296,11 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) (WORK IN PROGRESS)
 
+
+----
+
+[engshell]()
+
 ### using ai models
 
 Microsoft [JARVIS](https://github.com/microsoft/JARVIS) aka [HuggingGPT](https://arxiv.org/abs/2303.17580) leverages huggingface models so ChatGPT can complete complex multimodal tasks.
