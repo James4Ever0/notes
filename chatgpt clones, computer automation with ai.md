@@ -237,6 +237,7 @@ community model weights:
 | [alpaca-lora-7B-ggml](https://huggingface.co/Pi3141/alpaca-lora-7B-ggml) | 7b | alpaca | Pi3141 |
 | [alpaca-lora-13B-ggml](https://huggingface.co/Pi3141/alpaca-lora-13B-ggml) | 13b | alpaca | Pi3141 |
 | [alpaca-7b-native-enhanced](https://huggingface.co/Pi3141/alpaca-7b-native-enhanced) | 7b | alpaca | Pi3141 |
+| [gpt4-x-alpaca-13b-native-4bit-128g](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g) | 13b | alpaca | anon8231489123 |
 
 ----
 
