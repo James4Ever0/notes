@@ -13,7 +13,9 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 javascript code for extracting model list from huggingface personal homepage:
 
 ```javascript
-for (var i of document.getElementsByTagName("h4")) {var t = i.innerText; var tlist = t.split("/"); var t0 = tlist[0]; var t1 = tlist[1]; console.log(`| [${}`)}
+var arr = [];
+for (var i of document.getElementsByTagName("h4")) {var t = i.innerText; var tlist = t.split("/"); var t0 = tlist[0]; var t1 = tlist[1]; arr.push(`| [${t1}](https://huggingface.co/${t}) | unknown | unknown | ${t0} |`)};
+console.log(arr.join('\n'));
 ```
 
 ----
