@@ -223,7 +223,7 @@ community model weights:
 | [gpt4-x-alpaca-native-13B-ggml](https://huggingface.co/Pi3141/gpt4-x-alpaca-native-13B-ggml) | 13b | alpaca | Pi3141 |
 | [alpaca-native-7B-ggml](https://huggingface.co/Pi3141/alpaca-native-7B-ggml) | 7b | alpaca | Pi3141 |
 | [alpaca-native-13B-ggml](https://huggingface.co/Pi3141/alpaca-native-13B-ggml) | 13b | alpaca | Pi3141 |
-| [alpaca-lora-30B-ggml](https://huggingface.co/Pi3141/alpaca-lora-30B-ggml) | unknown | alpaca | Pi3141 |
+| [alpaca-lora-30B-ggml](https://huggingface.co/Pi3141/alpaca-lora-30B-ggml) | 30b | alpaca | Pi3141 |
 | [alpaca-lora-7B-ggml](https://huggingface.co/Pi3141/alpaca-lora-7B-ggml) | 7b | alpaca | Pi3141 |
 | [alpaca-lora-13B-ggml](https://huggingface.co/Pi3141/alpaca-lora-13B-ggml) | 13b | alpaca | Pi3141 |
 | [alpaca-7b-native-enhanced](https://huggingface.co/Pi3141/alpaca-7b-native-enhanced) | 7b | alpaca | Pi3141 |
