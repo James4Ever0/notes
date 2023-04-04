@@ -220,7 +220,13 @@ community model weights:
 | [alpaca7B-lora](https://huggingface.co/samwit/alpaca7B-lora) | 7b | alpaca | samwit |
 | [bloompaca-7b1-lora](https://huggingface.co/samwit/bloompaca-7b1-lora) | 7b | bloom | samwit |
 | [cerebras-gpt-6.7b-lora](https://huggingface.co/samwit/cerebras-gpt-6.7b-lora) | 6.7b | cerebras-gpt | samwit |
-
+| [gpt4-x-alpaca-native-13B-ggml](https://huggingface.co/Pi3141/gpt4-x-alpaca-native-13B-ggml) | 13b | alpaca | Pi3141 |
+| [alpaca-native-7B-ggml](https://huggingface.co/Pi3141/alpaca-native-7B-ggml) | 7b | alpaca | Pi3141 |
+| [alpaca-native-13B-ggml](https://huggingface.co/Pi3141/alpaca-native-13B-ggml) | 13b | alpaca | Pi3141 |
+| [alpaca-lora-30B-ggml](https://huggingface.co/Pi3141/alpaca-lora-30B-ggml) | unknown | alpaca | Pi3141 |
+| [alpaca-lora-7B-ggml](https://huggingface.co/Pi3141/alpaca-lora-7B-ggml) | 7b | alpaca | Pi3141 |
+| [alpaca-lora-13B-ggml](https://huggingface.co/Pi3141/alpaca-lora-13B-ggml) | 13b | alpaca | Pi3141 |
+| [alpaca-7b-native-enhanced](https://huggingface.co/Pi3141/alpaca-7b-native-enhanced) | 7b | alpaca | Pi3141 |
 
 
 ----
