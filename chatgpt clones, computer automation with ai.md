@@ -372,7 +372,6 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [chatgpt retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin) chop document into chunks, process them into vectors and search them using one of many vector search backends. hosted as a fastapi service.
 
-
 ## datasets
 
 ### assistant dialogue
@@ -397,7 +396,13 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 ## NLP tools
 
-[fasttext](https://fasttext.cc/docs/en/support.html) for word representations and sentence classification.
+[fasttext](https://fasttext.cc/docs/en/support.html) for efficient learning of word representations and sentence classification.
+
+----
+
+[langchain]()
+
+[prompt-engine](https://github.com/microsoft/prompt-engine)
 
 ## interfaces
 
