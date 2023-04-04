@@ -68,6 +68,10 @@ it is not feasible to install [ubuntu arm](https://ubuntu.com/download/server/ar
 
 [code and model](https://github.com/openai/Video-Pre-Training)
 
+----
+
+[mm-cot](https://github.com/amazon-science/mm-cot) (multimodal chain-of-thought) by amazon, with [model weights](https://drive.google.com/file/d/1FtTYOJPHnWnFfCxNC6M3gar4RAX5E21b/view)
+
 ### data collectors and controllers
 
 [mss](https://python-mss.readthedocs.io/) for screenshot, remember to save raw pixels to SSD, then compress into mp4 with ffmpeg for further training (mind the timestamp!)
