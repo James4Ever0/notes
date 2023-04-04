@@ -434,7 +434,7 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [react-agent-ts](https://github.com/Intuitive-Systems/react-agent-ts) enables LLM to chat and use tools by internal dialogues.
 
-[babyagi](https://github.com/yoheinakajima/babyagi): AI-powered task management system.
+[babyagi](https://github.com/yoheinakajima/babyagi): AI-powered task management system. original post on [twitter](https://twitter.com/yoheinakajima/status/1640934505048588290)
 
 ## interfaces
 
