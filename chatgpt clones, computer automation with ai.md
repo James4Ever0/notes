@@ -418,6 +418,8 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [prompt-engine](https://github.com/microsoft/prompt-engine)
 
+[chatml](https://github.com/openai/openai-python/blob/main/chatml.md): markup language for ChatGPT, by openai
+
 ## interfaces
 
 [serge](https://github.com/nsarrazin/serge) is dockerized and the needs of RAM is according to the size of the model (alpaca), using CPU only
