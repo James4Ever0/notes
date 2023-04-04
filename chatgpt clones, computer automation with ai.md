@@ -138,9 +138,8 @@ gpu is mandatory, better than deepspeed and [Hugging Face Accelerate](https://gi
 
 model weights of open source chatgpt alternatives:
 
-
 | weight path | model size | model name | author |
-| -- | -- | -- |
+| -- | -- | -- | -- |
 
 ### LLaMA
 
