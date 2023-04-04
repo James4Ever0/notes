@@ -461,7 +461,7 @@ datasets by BELLE:
 
 [oscar project](https://github.com/oscar-project) (Open Super-large Crawled Aggregated coRpus) contains some tool for adult content filtering and deduplication.
 
-## NLP tools
+## NLP tools & training methods
 
 [fasttext](https://fasttext.cc/docs/en/support.html) for efficient learning of word representations and sentence classification.
 
