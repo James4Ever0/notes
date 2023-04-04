@@ -1,10 +1,14 @@
 ---
 title: 'fastapi, celery, task queue, websocket'
 created: '2023-04-02T10:40:24.782Z'
-modified: '2023-04-03T09:34:09.954Z'
+modified: '2023-04-04T07:30:04.229Z'
 ---
 
 # fastapi, celery, task queue, websocket
+
+create doc inside code: [adding metadata](https://fastapi.tiangolo.com/tutorial/metadata/)
+
+----
 
 to share lock across process, use [redis lock](https://pypi.org/project/python-redis-lock/) or filelock.
 
