@@ -1,13 +1,18 @@
 ---
 title: 'fastapi, celery, task queue, websocket'
 created: '2023-04-02T10:40:24.782Z'
-modified: '2023-04-04T07:31:09.007Z'
+modified: '2023-04-04T07:35:25.137Z'
 ---
 
 # fastapi, celery, task queue, websocket
 
+always remember to import `uvicorn` if you want to run without the `uvicorn` executable
+
+----
 
 generate [nodejs client](https://fastapi.tiangolo.com/advanced/generate-clients/) from `openapi.json`
+
+[fastapi-code-generator](https://pypi.org/project/fastapi-code-generator/) to generate python code
 
 ----
 
