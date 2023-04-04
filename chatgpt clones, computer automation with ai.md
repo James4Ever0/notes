@@ -241,6 +241,7 @@ community model weights:
 | [alpaca-7b-native-enhanced](https://huggingface.co/Pi3141/alpaca-7b-native-enhanced) | 7b | alpaca | Pi3141 |
 | [gpt4-x-alpaca-13b-native-4bit-128g](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g) | 13b | alpaca | anon8231489123 |
 | [ggml-gpt4-x-alpaca-13b-native-4bit](https://huggingface.co/eachadea/ggml-gpt4-x-alpaca-13b-native-4bit) | 13b | alpaca | eachadea |
+| [alpaca-13b-hf-fp16](https://huggingface.co/teknium/alpaca-13b-hf-fp16) | 13b | alpaca | teknium |
 
 ----
 
