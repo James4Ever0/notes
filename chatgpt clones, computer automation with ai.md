@@ -344,14 +344,14 @@ released [openchatkit](https://github.com/togethercomputer/OpenChatKit) with ret
 model weights:
 
 
-released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) and [pythia](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B), [moderation model](https://huggingface.co/togethercomputer/GPT-JT-Moderation-6B) using gpt-jt
-
-
+| [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) | unknown | unknown | togethercomputer |
+| [Pythia-Chat-Base-7B](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B) | unknown | unknown | togethercomputer |
 ----
 
 moderation model weights:
 
 
+| [GPT-JT-Moderation-6B](https://huggingface.co/togethercomputer/GPT-JT-Moderation-6B) | unknown | unknown | togethercomputer |
 
 ### [SpikeGPT](https://github.com/ridgerchu/SpikeGPT)
 
