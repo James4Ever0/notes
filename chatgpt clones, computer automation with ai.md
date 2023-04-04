@@ -288,9 +288,14 @@ model weights:
 
 | weight path | weight size | model name | author |
 | -- | -- | -- | -- |
-| [oasst-llama-13b-2-epochs](https://huggingface.co/dvruette/oasst-llama-13b-2-epochs) | 13B | LLaMA | dvruette |
-|  |  |  |  |
-|  |  |  |  |
+| [oasst-llama-13b-2-epochs](https://huggingface.co/dvruette/oasst-llama-13b-2-epochs) | 13b | llama | dvruette |
+| [oasst-llama-13b-1000-steps](https://huggingface.co/dvruette/oasst-llama-13b-1000-steps) | 13b | llama | dvruette |
+| [oasst-gpt-neox-20b-1000-steps](https://huggingface.co/dvruette/oasst-gpt-neox-20b-1000-steps) | 20b | gpt-neox | dvruette |
+| [oasst-gpt-neox-20b-3000-steps](https://huggingface.co/dvruette/oasst-gpt-neox-20b-3000-steps) | 20b | gpt-neox | dvruette |
+| [oasst-pythia-12b-6000-steps](https://huggingface.co/dvruette/oasst-pythia-12b-6000-steps) | 12b | pythia | dvruette |
+| [oasst-pythia-12b-3000-steps](https://huggingface.co/dvruette/oasst-pythia-12b-3000-steps) | 12b | pythia | dvruette |
+| [oasst-pythia-12b-flash-attn-5000-steps](https://huggingface.co/dvruette/oasst-pythia-12b-flash-attn-5000-steps) | 12b | pythia | dvruette |
+| [oasst-pythia-6.9b-4000-steps](https://huggingface.co/dvruette/oasst-pythia-6.9b-4000-steps) | 12b | pythia | dvruette |
 
 ### [openflamingo](https://github.com/mlfoundations/open_flamingo)
 
