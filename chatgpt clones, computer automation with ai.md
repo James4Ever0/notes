@@ -107,16 +107,16 @@ it's public.
 
 | weight path | model name | author |
 | -- | -- | -- |
-| [llama-13b-hf-int4](https://huggingface.co/decapoda-research/llama-13b-hf-int4) | 13b | llama | decapoda-research |
-| [llama-65b-hf-int4](https://huggingface.co/decapoda-research/llama-65b-hf-int4) | 65b | llama | decapoda-research |
-| [llama-30b-hf-int4](https://huggingface.co/decapoda-research/llama-30b-hf-int4) | 30b | llama | decapoda-research |
-| [llama-7b-hf-int4](https://huggingface.co/decapoda-research/llama-7b-hf-int4) | 7b | llama | decapoda-research |
-| [llama-30b-hf](https://huggingface.co/decapoda-research/llama-30b-hf) | 30b | llama | decapoda-research |
-| [llama-65b-hf](https://huggingface.co/decapoda-research/llama-65b-hf) | 65b | llama | decapoda-research |
-| [llama-13b-hf](https://huggingface.co/decapoda-research/llama-13b-hf) | 13b | llama | decapoda-research |
-| [llama-7b-hf](https://huggingface.co/decapoda-research/llama-7b-hf) | 7b | llama | decapoda-research |
-| [llama-smallint-pt](https://huggingface.co/decapoda-research/llama-smallint-pt) | unknown | llama | decapoda-research |
-| [llama-7b-hf-int8](https://huggingface.co/decapoda-research/llama-7b-hf-int8) | 7b | llama | decapoda-research |
+| [llama-13b-hf-int4](https://huggingface.co/decapoda-research/llama-13b-hf-int4) | 13b |decapoda-research |
+| [llama-65b-hf-int4](https://huggingface.co/decapoda-research/llama-65b-hf-int4) | 65b |decapoda-research |
+| [llama-30b-hf-int4](https://huggingface.co/decapoda-research/llama-30b-hf-int4) | 30b |decapoda-research |
+| [llama-7b-hf-int4](https://huggingface.co/decapoda-research/llama-7b-hf-int4) | 7b |decapoda-research |
+| [llama-30b-hf](https://huggingface.co/decapoda-research/llama-30b-hf) | 30b |decapoda-research |
+| [llama-65b-hf](https://huggingface.co/decapoda-research/llama-65b-hf) | 65b |decapoda-research |
+| [llama-13b-hf](https://huggingface.co/decapoda-research/llama-13b-hf) | 13b |decapoda-research |
+| [llama-7b-hf](https://huggingface.co/decapoda-research/llama-7b-hf) | 7b |decapoda-research |
+| [llama-smallint-pt](https://huggingface.co/decapoda-research/llama-smallint-pt) | unknown |decapoda-research |
+| [llama-7b-hf-int8](https://huggingface.co/decapoda-research/llama-7b-hf-int8) | 7b | decapoda-research |
 
 ### [ChatYuan]()
 
