@@ -124,7 +124,7 @@ it's public.
 
 Currently only open-sourced 6B version.
 
-You can train ChatGLM under 
+You can train ChatGLM using GXT3090: [simple_thu_chatglm6b](https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/simple_thu_chatglm6b)
 
 ### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
 
