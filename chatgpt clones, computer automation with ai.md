@@ -202,7 +202,13 @@ model weights:
 
 ### [baize](https://github.com/project-baize/baize)
 
-trained on 
+trained on ChatGPT self-chatting data
+
+----
+
+model weights:
+
+
 
 ### [dolly](https://github.com/databrickslabs/dolly)
 
