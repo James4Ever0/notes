@@ -299,7 +299,7 @@ train on [InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 ----
 
-[engshell]()
+[engshell](): using LLM to execute command
 
 ### using ai models
 
