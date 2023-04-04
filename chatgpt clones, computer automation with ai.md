@@ -14,6 +14,8 @@ visit [poe.com](https://poe.com/) for a bunch of free chatbots, including GPT-4
 
 [chathub](https://github.com/chathub-dev/chathub) is a browser plugin which you can use ChatGPT, Bing and Bard
 
+----
+
 [ts_server](https://bellard.org/ts_server/) supports a bunch of models like GPT-J, GPT-NeoX, GPT-Neo, OPT, Fairseq GPT, M2M100, CodeGen, GPT2, T5, RWKV, LLAMA and Stable Diffusion, used by [textsynth.com](https://textsynth.com/)
 
 ----
