@@ -8,7 +8,6 @@ modified: '2023-04-02T16:06:19.277Z'
 
 simply because the original note on chatgpt is too long, we start a new one, with more topics and more resources.
 
-
 ----
 
 visit [poe.com](https://poe.com/) for a bunch of free chatbots, including GPT-4
