@@ -150,6 +150,8 @@ You can train ChatGLM using GXT3090: [simple_thu_chatglm6b](https://github.com/y
 
 Using 7GB VRAM, train ChatGLM with [P-tuning](https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning)
 
+[chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) supports loading from int4 weights
+
 ----
 
 model weights:
