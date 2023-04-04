@@ -228,7 +228,6 @@ community model weights:
 | [alpaca-lora-13B-ggml](https://huggingface.co/Pi3141/alpaca-lora-13B-ggml) | 13b | alpaca | Pi3141 |
 | [alpaca-7b-native-enhanced](https://huggingface.co/Pi3141/alpaca-7b-native-enhanced) | 7b | alpaca | Pi3141 |
 
-
 ----
 
 [codealpaca](https://github.com/sahil280114/codealpaca) only provides [dataset](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k) for training a code generation model, there are multiple models trained on this dataset, including [bloom-7b1-lora-codealpaca20k](https://huggingface.co/LinhDuong/bloom-7b1-lora-codealpaca20k)
