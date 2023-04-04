@@ -1,10 +1,14 @@
 ---
 title: 'fastapi, celery, task queue, websocket'
 created: '2023-04-02T10:40:24.782Z'
-modified: '2023-04-04T07:35:25.137Z'
+modified: '2023-04-04T07:40:37.741Z'
 ---
 
 # fastapi, celery, task queue, websocket
+
+enable render option `trim_blocks` and `lstrip_blocks` with `jinja2` to avoid whitespace and indentation nightmare.
+
+----
 
 always remember to import `uvicorn` if you want to run without the `uvicorn` executable
 
