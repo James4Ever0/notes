@@ -242,6 +242,9 @@ community model weights:
 | [gpt4-x-alpaca-13b-native-4bit-128g](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g) | 13b | alpaca | anon8231489123 |
 | [ggml-gpt4-x-alpaca-13b-native-4bit](https://huggingface.co/eachadea/ggml-gpt4-x-alpaca-13b-native-4bit) | 13b | alpaca | eachadea |
 | [alpaca-13b-hf-fp16](https://huggingface.co/teknium/alpaca-13b-hf-fp16) | 13b | alpaca | teknium |
+| [Cerebras-GPT-2.7B-Alpaca-SP](https://huggingface.co/lxe/Cerebras-GPT-2.7B-Alpaca-SP) | 2.7b | cerebras-gpt | lxe |
+| [Cerebras-GPT-2.7B-Alpaca-SP-ggml](https://huggingface.co/lxe/Cerebras-GPT-2.7B-Alpaca-SP-ggml) | 2.7b | cerebras-gpt | lxe |
+| [lora-cerebras-gpt2.7b-alpaca-shortprompt](https://huggingface.co/lxe/lora-cerebras-gpt2.7b-alpaca-shortprompt) | 2.7b | cerebras-gpt | lxe |
 
 ----
 
