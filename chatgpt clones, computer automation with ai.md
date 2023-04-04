@@ -346,6 +346,7 @@ model weights:
 
 | [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) | unknown | unknown | togethercomputer |
 | [Pythia-Chat-Base-7B](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B) | unknown | unknown | togethercomputer |
+
 ----
 
 moderation model weights:
