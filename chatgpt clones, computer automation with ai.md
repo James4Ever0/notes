@@ -79,9 +79,9 @@ openai [universe](https://github.com/openai/universe) (blog post [here](https://
 
 [retro](https://github.com/openai/retro) deprecates universe, but might help with general computer controlling AI systems since they are compatible. human don't play games all day and night. beware of this and don't turn the model into a heavy gamer.
 
-there is no meaning of recording terminal input/output when using tools like `vim`. get screenshots, keystrokes and mouse clicks instead (using `ttyd`, [`gremlin.js`](https://github.com/marmelab/gremlin.js) or [`monkey.js`](https://github.com/zhuochun/monkey.js)). `tkterminal` won't do. it is just a thin wrapper around `subprocess.run`
+there is no meaning of recording terminal input/output when using tools like `vim`. get screenshots, keystrokes and mouse clicks instead (using `ttyd`, [`gremlins.js`](https://github.com/marmelab/gremlins.js) or [`monkey.js`](https://github.com/zhuochun/monkey.js)). `tkterminal` won't do. it is just a thin wrapper around `subprocess.run`
 
-talking of browser, you can spin up [novnc](https://github.com/novnc/noVNC) server and let the [`gremlin.js`](https://github.com/marmelab/gremlin.js) do its job.
+talking of browser, you can spin up [novnc](https://github.com/novnc/noVNC) server and let the [`gremlins.js`](https://github.com/marmelab/gremlins.js) do its job.
 
 ## accelerators
 
