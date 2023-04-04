@@ -343,7 +343,6 @@ released [openchatkit](https://github.com/togethercomputer/OpenChatKit) with ret
 
 model weights:
 
-
 | weight path | weight size | model name | author |
 | -- | -- | -- | -- |
 | [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) | 20B | GPT-NeoXT | togethercomputer |
