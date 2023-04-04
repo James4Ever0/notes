@@ -1,7 +1,7 @@
 ---
 title: 'Live Share Plugin, Clipboard syncing, peer programming, collaboration, multi-user editing'
 created: '2023-02-26T09:20:23.644Z'
-modified: '2023-04-04T05:51:56.818Z'
+modified: '2023-04-04T05:53:01.242Z'
 ---
 
 # Live Share Plugin, Clipboard syncing, peer programming, collaboration, multi-user editing
@@ -13,6 +13,8 @@ live share will always create a invitation link upon starting, so you can use cl
 clipboard sync:
 
 [crossclip](https://github.com/yue/crossclip): Sync clipboard across macOS/Linux/Windows on LAN
+
+[ClipBroad](https://github.com/dale0525/ClipBroad): Sync via Github
 
 ----
 

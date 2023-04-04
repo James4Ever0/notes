@@ -432,10 +432,8 @@ related projects: [ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatRevi
 
 [chatml](https://github.com/openai/openai-python/blob/main/chatml.md): markup language for ChatGPT, by openai
 
+[react-agent-ts](https://github.com/Intuitive-Systems/react-agent-ts) enables LLM to chat and use tools
+
 ## interfaces
 
 [serge](https://github.com/nsarrazin/serge) is dockerized and the needs of RAM is according to the size of the model (alpaca), using CPU only
-
-
-
-
