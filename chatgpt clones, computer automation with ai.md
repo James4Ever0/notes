@@ -183,6 +183,7 @@ model weights:
 | [vicuna-13b-GPTQ-4bit-128g](https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g) | 13b | vicuna | anon8231489123 |
 | [ggml-vicuna-13b-4bit](https://huggingface.co/eachadea/ggml-vicuna-13b-4bit) | 13b | vicuna | eachadea |
 | [vicuna-13b](https://huggingface.co/eachadea/vicuna-13b) | 13b | vicuna | eachadea |
+| [vicuna4all](https://huggingface.co/vicuna4all/vicuna4all) | 13b | vicuna | vicuna4all |
 
 
 download official delta weights via [magnet](magnet:?xt=urn:btih:a7fac57094561a63d53eed943f904abf24c6969d&dn=Vicuna-13B-HF-fp16-delta-merged_2023-04-03&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce
@@ -240,6 +241,7 @@ community model weights:
 | [alpaca-lora-13B-ggml](https://huggingface.co/Pi3141/alpaca-lora-13B-ggml) | 13b | alpaca | Pi3141 |
 | [alpaca-7b-native-enhanced](https://huggingface.co/Pi3141/alpaca-7b-native-enhanced) | 7b | alpaca | Pi3141 |
 | [gpt4-x-alpaca-13b-native-4bit-128g](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g) | 13b | alpaca | anon8231489123 |
+| [ggml-gpt4-x-alpaca-13b-native-4bit](https://huggingface.co/eachadea/ggml-gpt4-x-alpaca-13b-native-4bit) | 13b | alpaca | eachadea |
 
 ----
 
