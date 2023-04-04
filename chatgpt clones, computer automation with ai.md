@@ -333,6 +333,10 @@ now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp), build upon ggml 
 
 ----
 
+[RWKV-LoRA](https://github.com/Blealtan/RWKV-LM-LoRA) supports `RWKV-v4-NeoX`
+
+----
+
 model weights:
 
 | weight path | weight size | model name | author |
@@ -343,17 +347,17 @@ model weights:
 | [rwkv-onnx](https://huggingface.co/Hazzzardous/rwkv-onnx) | unknown | rwkv | Hazzzardous |
 | [RWKV-8Bit](https://huggingface.co/Hazzzardous/RWKV-8Bit) | unknown | rwkv | Hazzzardous |
 
-| [rwkv-4-raven](https://huggingface.co/BlinkDL/rwkv-4-raven) | unknown | unknown | BlinkDL |
-| [rwkv-4-pile-7b](https://huggingface.co/BlinkDL/rwkv-4-pile-7b) | unknown | unknown | BlinkDL |
-| [rwkv-4-pile-14b](https://huggingface.co/BlinkDL/rwkv-4-pile-14b) | unknown | unknown | BlinkDL |
-| [rwkv-4-pile-430m](https://huggingface.co/BlinkDL/rwkv-4-pile-430m) | unknown | unknown | BlinkDL |
-| [rwkv-4-pile-3b](https://huggingface.co/BlinkDL/rwkv-4-pile-3b) | unknown | unknown | BlinkDL |
-| [rwkv-4-pile-1b5](https://huggingface.co/BlinkDL/rwkv-4-pile-1b5) | unknown | unknown | BlinkDL |
-| [rwkv-4-pile-169m](https://huggingface.co/BlinkDL/rwkv-4-pile-169m) | unknown | unknown | BlinkDL |
-| [rwkv-3-pile-1b5](https://huggingface.co/BlinkDL/rwkv-3-pile-1b5) | unknown | unknown | BlinkDL |
-| [rwkv-3-pile-430m](https://huggingface.co/BlinkDL/rwkv-3-pile-430m) | unknown | unknown | BlinkDL |
-| [rwkv-2-pile-430m](https://huggingface.co/BlinkDL/rwkv-2-pile-430m) | unknown | unknown | BlinkDL |
-| [rwkv-3-pile-169m](https://huggingface.co/BlinkDL/rwkv-3-pile-169m) | unknown | unknown | BlinkDL |
+| [rwkv-4-raven](https://huggingface.co/BlinkDL/rwkv-4-raven) | unknown | rwkv | BlinkDL |
+| [rwkv-4-pile-7b](https://huggingface.co/BlinkDL/rwkv-4-pile-7b) | 7b | rwkv | BlinkDL |
+| [rwkv-4-pile-14b](https://huggingface.co/BlinkDL/rwkv-4-pile-14b) | 14b | rwkv | BlinkDL |
+| [rwkv-4-pile-430m](https://huggingface.co/BlinkDL/rwkv-4-pile-430m) | 430m | rwkv | BlinkDL |
+| [rwkv-4-pile-3b](https://huggingface.co/BlinkDL/rwkv-4-pile-3b) | 3b | rwkv | BlinkDL |
+| [rwkv-4-pile-1b5](https://huggingface.co/BlinkDL/rwkv-4-pile-1b5) | 1.5b | rwkv | BlinkDL |
+| [rwkv-4-pile-169m](https://huggingface.co/BlinkDL/rwkv-4-pile-169m) | 169m | unknown | BlinkDL |
+| [rwkv-3-pile-1b5](https://huggingface.co/BlinkDL/rwkv-3-pile-1b5) | 1.5b | rwkv | BlinkDL |
+| [rwkv-3-pile-430m](https://huggingface.co/BlinkDL/rwkv-3-pile-430m) | 430m | rwkv | BlinkDL |
+| [rwkv-2-pile-430m](https://huggingface.co/BlinkDL/rwkv-2-pile-430m) | 430m | rwkv | BlinkDL |
+| [rwkv-3-pile-169m](https://huggingface.co/BlinkDL/rwkv-3-pile-169m) | 169m | rwkv | BlinkDL |
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
