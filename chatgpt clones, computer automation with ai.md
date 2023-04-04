@@ -10,7 +10,7 @@ simply because the original note on chatgpt is too long, we start a new one, wit
 
 ----
 
-to manage python versions and environments, [pyenv](https://github.com/pyenv/pyenv) and [venv]() is lightweight and [miniconda]() or [numba]() is more sophisticated.
+to manage python versions and environments, [pyenv](https://github.com/pyenv/pyenv) and [venv](https://docs.python.org/3/library/venv.html) is lightweight and [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [numba]() is more sophisticated.
 
 ----
 
