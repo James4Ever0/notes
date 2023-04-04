@@ -1,10 +1,14 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-04T01:55:05.559Z'
+modified: '2023-04-04T02:27:49.647Z'
 ---
 
 # RSIBreak, Break Reminder
+
+if you want to do it on your own, you have to know how to send notifications on different operating 
+
+----
 
 [RSIBreak](https://userbase.kde.org/RSIBreak) is for linux, and it does not work well.
 
