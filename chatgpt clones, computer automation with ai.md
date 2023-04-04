@@ -167,14 +167,13 @@ it's public.
 ### [ChatYuan]()
 
 
-### [Deepshard]()
+### [Deepshard](https://huggingface.co/swype/)
 
-LLaMA trained on custom instruction dataset.
+LLaMA trained on [custom instruction dataset](https://huggingface.co/datasets/swype/instruct-102.4k).
 
 ----
 
 model weights:
-
 
 | weight path | weight size | model name | author |
 | -- | -- | -- | -- |
