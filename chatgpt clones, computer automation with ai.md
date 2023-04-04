@@ -324,6 +324,12 @@ RWKV combines attention with RNN so the token window can be much larger.
 
 now we have [rwkv.cpp](https://github.com/saharNooby/rwkv.cpp), build upon ggml and sure it works on cpu.
 
+----
+
+model weights:
+
+
+
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by nomic
 
 LLaMA trained on massive collection of clean assistant dialog data, with model weights
