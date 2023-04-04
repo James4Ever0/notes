@@ -200,6 +200,8 @@ model weights:
 | [BELLE-7B-0.2M](https://huggingface.co/BelleGroup/BELLE-7B-0.2M) | 7B | BLOOMZ | BelleGroup |
 | [BELLE-7B-1M](https://huggingface.co/BelleGroup/BELLE-7B-1M) | 7B | BLOOMZ | BelleGroup |
 
+
+
 ### [dolly](https://github.com/databrickslabs/dolly)
 
 model arch is gpt-j, trained on alpaca dataset
