@@ -180,6 +180,10 @@ community model weights:
 | [Toolpaca](https://huggingface.co/chavinlo/toolpaca) | 13B | Alpaca | chavinlo |
 | [instruct-gpt-j-fp16](https://huggingface.co/nlpcloud/instruct-gpt-j-fp16) | 6B | GPT-J | nlpcloud |
 | [alpaca-30b](https://huggingface.co/baseten/alpaca-30b) | 30b | Alpaca | [baseten](https://abuqader.substack.com/p/releasing-alpaca-30b) |
+| [alpaca-lora-65b](https://huggingface.co/chansung/alpaca-lora-65b) | unknown | unknown | chansung |
+| [alpaca-lora-30b](https://huggingface.co/chansung/alpaca-lora-30b) | unknown | unknown | chansung |
+| [koalpaca-lora-13b](https://huggingface.co/chansung/koalpaca-lora-13b) | unknown | unknown | chansung |
+| [alpaca-lora-13b](https://huggingface.co/chansung/alpaca-lora-13b) | unknown | unknown | chansung |
 
 ----
 
