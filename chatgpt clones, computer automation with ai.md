@@ -128,6 +128,16 @@ You can train ChatGLM using GXT3090: [simple_thu_chatglm6b](https://github.com/y
 
 Using 7GB VRAM, train ChatGLM with [P-tuning](https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning)
 
+----
+
+model weights:
+
+| weight path | model name | weight size | author |
+| -- | -- | -- | -- |
+| [chatglm-6b-int4-slim](https://huggingface.co/silver/chatglm-6b-int4-slim) | unknown | unknown | silver |
+| [chatglm-6b-slim](https://huggingface.co/silver/chatglm-6b-slim) | unknown | unknown | silver |
+| [chatglm-6b-int4-qe-slim](https://huggingface.co/silver/chatglm-6b-int4-qe-slim) | unknown | unknown | silver |
+
 ### [ChatDoctor](https://huggingface.co/zl111/ChatDoctor)
 
 [LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) trained on medical dataset [InstructorDoctor-200k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)
