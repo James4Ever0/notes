@@ -344,6 +344,8 @@ released [openchatkit](https://github.com/togethercomputer/OpenChatKit) with ret
 model weights:
 
 
+released chat models like [gpt-xt](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) and [pythia](https://huggingface.co/togethercomputer/Pythia-Chat-Base-7B), [moderation model](https://huggingface.co/togethercomputer/GPT-JT-Moderation-6B) using gpt-jt
+
 
 ----
 
