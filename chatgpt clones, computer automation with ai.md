@@ -208,7 +208,10 @@ trained on ChatGPT self-chatting data
 
 model weights:
 
-
+| [baize-lora-30B](https://huggingface.co/project-baize/baize-lora-30B) | unknown | unknown | project-baize |
+| [baize-lora-13B](https://huggingface.co/project-baize/baize-lora-13B) | unknown | unknown | project-baize |
+| [baize-healthcare-lora-7b](https://huggingface.co/project-baize/baize-healthcare-lora-7b) | unknown | unknown | project-baize |
+| [baize-lora-7B](https://huggingface.co/project-baize/baize-lora-7B) | unknown | unknown | project-baize |
 
 ### [dolly](https://github.com/databrickslabs/dolly)
 
