@@ -1,7 +1,7 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-05T16:18:53.176Z'
+modified: '2023-04-05T16:24:13.963Z'
 ---
 
 # RSIBreak, Break Reminder
@@ -16,11 +16,11 @@ Prefer WearOS watches like LG W100. Found 3D printable case on Shapeways but not
 
 ----
 
-Use Pixle2Mesh++ to recover 3D meshes from multiple images of different viewpoints. Determine the size of the mesh after measurement or learning specs.
+Use Pixle2Mesh++ to recover 3D meshes from multiple images (dumped at `~/Desktop/works/shapeways_reconstruct_from_image_lg_w100`)of different viewpoints. Determine the size of the mesh after measurement or learning specs.
 
 ----
 
-if you want iwatch instead, remember to buy some apple gift cards for buying watchos apps. remember to ask for battery life since older watches tend to die halfway in a day. buy iphone 6s and newer models to manage and install apps on iwatch. no need for 3d modeling since plenty tough-tested cases around.
+if you want iwatch instead, remember to buy some apple gift cards for buying watchos apps. remember to ask for battery life since older watches tend to die halfway in a day. buy iphone 6s and newer models with ios 14 and newer os to manage and install apps on iwatch. no need for 3d modeling since plenty tough-tested cases around.
 
 ## DIY
 
