@@ -20,14 +20,12 @@ better keep it tight. when doing so, you want to make it is absolutely private. 
 
 you can use a filter or something. you can also just keep it discrete.
 
-----
-
-you are not doing this in notable. it will freeze.
-
-do it in vscode.
-
 ## Webpage dumps
 
 ### macOS
 
+check for "comprehensive research" series
 
+----
+
+you can only bookmark all tabs and tab groups within a single window.
