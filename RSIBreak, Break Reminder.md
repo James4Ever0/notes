@@ -1,16 +1,26 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-05T16:14:22.723Z'
+modified: '2023-04-05T16:18:53.176Z'
 ---
 
 # RSIBreak, Break Reminder
 
 ## Smart Watch
 
-Prefer WearOS watches like LG W100. Found 3D printable case on Shapeways but not downloadable. Shapeways provides service for printing. Shapeways builds Shapely.js
+do not mix the water with the watch. you have been warned.
 
-Use Pixle2Mesh++ to recover 3D meshes from multiple images of different viewpoints. Determine the size of the mesh after 
+----
+
+Prefer WearOS watches like LG W100. Found 3D printable case on Shapeways but not downloadable. Shapeways provides service for printing. Shapeways builds ShapeJS which can construct 3D models with code.
+
+----
+
+Use Pixle2Mesh++ to recover 3D meshes from multiple images of different viewpoints. Determine the size of the mesh after measurement or learning specs.
+
+----
+
+if you want iwatch instead, remember to buy some apple gift cards for buying watchos apps. remember to ask for battery life since older watches tend to die halfway in a day. buy iphone 6s and newer models to manage and install apps on iwatch. no need for 3d modeling since plenty tough-tested cases around.
 
 ## DIY
 
