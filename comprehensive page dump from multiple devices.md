@@ -50,4 +50,12 @@ if you want markdown-style, use [this](https://github.com/yorkxin/copy-as-markdo
 
 ----
 
-dumped at 
+for firefox, you search in the official addon store.
+
+----
+
+clipboard data and tab records dumped at ``
+
+----
+
+remember to clean up the damn phone. it is running way too slow.
