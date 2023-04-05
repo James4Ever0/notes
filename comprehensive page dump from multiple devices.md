@@ -40,7 +40,7 @@ check "Healthcare and Watch Cases" under firefox bookmarks.
 
 ### Android
 
-to install plugin on kiwi, you need to unpack and install manually.
+to install a plugin on kiwi browser, you need to unpack and install it manually.
 
 query: `site:github.com chrome copy all tabs`
 
