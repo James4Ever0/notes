@@ -54,7 +54,7 @@ for firefox, you search in the official addon store.
 
 ----
 
-clipboard data and tab records dumped at `~/works/modifier_clipboard_and_browser_tabs_dump`
+clipboard data and tab records dumped at `~/works/modifier_clipboard_and_browser_tabs_dumps`
 
 ----
 
