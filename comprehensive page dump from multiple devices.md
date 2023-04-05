@@ -1,14 +1,14 @@
 ---
 title: comprehensive page dump from multiple devices
 created: '2023-04-05T11:30:25.569Z'
-modified: '2023-04-05T11:34:55.092Z'
+modified: '2023-04-05T11:37:42.853Z'
 ---
 
 # comprehensive page dump from multiple devices
 
 i said taking notes manually is always a bad idea if you can just do it with LLM.
 
-to get latest [news](), [trends]() from github, use some rss feeds.
+to get latest [personal news](), [trends]() from github, use some rss feeds.
 
 to monitor discord channels, monitor QQ chats, wechat messages and filter links out of it.
 
