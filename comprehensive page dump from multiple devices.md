@@ -22,7 +22,7 @@ you can use a filter or something. you can also just keep it discrete.
 
 ## Webpage dumps
 
-use "bookmark all tabs" or "copy all tab urls" browser extension, or your OG [lazero extension]()
+use "bookmark all tabs" or "copy all tab urls" browser extension, or your OG [lazero extension](https://gitee.com/x00e0d991e368/metalazero/tree/master/browser_plugin)
 
 ### macOS
 
