@@ -50,6 +50,8 @@ use [this](https://github.com/georgemandis/copy-open-tabs-urls) or [this](https:
 
 if you want markdown-style, use [this](https://github.com/yorkxin/copy-as-markdown) or [this](https://github.com/JannesMeyer/TabAttack) or [this](https://github.com/tsushiy/copy-tabs-as-markdown) or [this](https://github.com/zaki-yama/copy-title-and-url-as-markdown). query: `site:github.com chrome copy all tabs markdown`.
 
+you need to modify this 
+
 ----
 
 for firefox, you search in the official addon store.
