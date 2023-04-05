@@ -48,7 +48,7 @@ query: `site:github.com chrome copy all tabs`
 
 use [this](https://github.com/georgemandis/copy-open-tabs-urls) or [this](https://github.com/charlesbrandt/copy_all_tabs) or [this](https://github.com/teddywing/chrome-copy-urls-from-all-tabs).
 
-if you want markdown-style, use [this](https://github.com/yorkxin/copy-as-markdown) or [this](https://github.com/JannesMeyer/TabAttack) or [this](https://github.com/tsushiy/copy-tabs-as-markdown) or [this](https://github.com/zaki-yama/copy-title-and-url-as-markdown). query: `site:github.com chrome copy all tabs markdown`.
+if you want markdown-style, use [this](https://github.com/yorkxin/copy-as-markdown) or [this](https://github.com/JannesMeyer/TabAttack) or [this](https://github.com/tsushiy/copy-tabs-as-markdown) https://ghproxy.com/https://github.com/tsushiy/copy-tabs-as-markdown/archive/refs/heads/master.zipor [this](https://github.com/zaki-yama/copy-title-and-url-as-markdown). query: `site:github.com chrome copy all tabs markdown`.
 
 ----
 
