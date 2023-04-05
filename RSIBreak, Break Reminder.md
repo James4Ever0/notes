@@ -1,10 +1,16 @@
 ---
 title: 'RSIBreak, Break Reminder'
 created: '2023-04-04T01:23:42.270Z'
-modified: '2023-04-04T03:14:52.425Z'
+modified: '2023-04-05T16:14:22.723Z'
 ---
 
 # RSIBreak, Break Reminder
+
+## Smart Watch
+
+Prefer WearOS watches like LG W100. Found 3D printable case on Shapeways but not downloadable. Shapeways provides service for printing. Shapeways builds Shapely.js
+
+Use Pixle2Mesh++ to recover 3D meshes from multiple images of different viewpoints. Determine the size of the mesh after 
 
 ## DIY
 
@@ -48,7 +54,7 @@ on windows:
 msg /SERVER:DestinationPC * /TIME:60 “This is the message to be sent to a PC named DestinationPC and closes in 60 seconds."
 ```
 
-[notify-send-for-Windows](https://github.com/Fonata/notify-send-for-Windows (needs AHK)
+[notify-send-for-Windows](https://github.com/Fonata/notify-send-for-Windows) (needs AHK)
 
 [tutorial](https://superuser.com/questions/1179758/how-can-i-send-a-notification-to-a-windows-10-computer-from-the-command-line)
 
