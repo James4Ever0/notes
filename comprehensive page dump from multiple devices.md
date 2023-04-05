@@ -32,4 +32,9 @@ you can only bookmark all tabs and tab groups within a single window.
 
 for example, if you have two windows open, you need to do it twice to save all links to your computer.
 
-### 
+### Kali
+
+check "Healthcare and Watch Cases" under firefox bookmarks.
+
+### Android
+
