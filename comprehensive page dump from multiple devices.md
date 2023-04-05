@@ -40,3 +40,4 @@ check "Healthcare and Watch Cases" under firefox bookmarks.
 
 ### Android
 
+to install plugin, you need to unpack and install manually.
