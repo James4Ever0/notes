@@ -164,7 +164,9 @@ it's public.
 | [llama-smallint-pt](https://huggingface.co/decapoda-research/llama-smallint-pt) | unknown |decapoda-research |
 | [llama-7b-hf-int8](https://huggingface.co/decapoda-research/llama-7b-hf-int8) | 7b | decapoda-research |
 
-### [ChatYuan]()
+### [ChatYuan](https://github.com/clue-ai/ChatYuan)
+
+
 
 
 ### [Deepshard](https://huggingface.co/swype/)
