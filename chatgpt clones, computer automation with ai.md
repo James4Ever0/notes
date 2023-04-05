@@ -174,6 +174,10 @@ model weights:
 
 | weight path | model size | model name | author |
 | -- | -- | -- | -- |
+| [ChatYuan-large-v1](https://huggingface.co/ClueAI/ChatYuan-large-v1) | unknown | unknown | ClueAI |
+| [ChatYuan-large-v2-paddle](https://huggingface.co/ClueAI/ChatYuan-large-v2-paddle) | unknown | unknown | ClueAI |
+| [ChatYuan-large-v2](https://huggingface.co/ClueAI/ChatYuan-large-v2) | unknown | unknown | ClueAI |
+| [ChatYuan-large-v1-paddle](https://huggingface.co/ClueAI/ChatYuan-large-v1-paddle) | unknown | unknown | ClueAI |
 
 ### [Deepshard](https://huggingface.co/swype/)
 
@@ -188,7 +192,7 @@ model weights:
 | [deepshard-13B-ft](https://huggingface.co/swype/deepshard-13B-ft) | 13b | deepshard | swype |
 | [deepshard-13B-raw](https://huggingface.co/swype/deepshard-13B-raw) | 13b | deepshard | swype |
 
-### [ChatGLM]()
+### [ChatGLM](https://chatglm.cn/blog)
 
 Currently only open-sourced 6B version.
 
