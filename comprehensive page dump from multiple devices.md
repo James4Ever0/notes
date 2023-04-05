@@ -45,3 +45,5 @@ to install plugin, you need to unpack and install manually.
 query: `site:github.com chrome copy all tabs`
 
 use [this](https://github.com/georgemandis/copy-open-tabs-urls) or [this](https://github.com/charlesbrandt/copy_all_tabs) or [this](https://github.com/teddywing/chrome-copy-urls-from-all-tabs).
+
+if you want markdown-style, use [this]() or [this]() or [this]() or [this]() or [this]() or [this]() or [this](). query: `site:github.com chrome copy all tabs markdown`
