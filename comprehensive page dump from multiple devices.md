@@ -26,7 +26,7 @@ use "bookmark all tabs" or "copy all tab urls" browser extension, or your OG [la
 
 ### macOS
 
-check for "Comprehensive research" series
+check for "Comprehensive Research" series
 
 ----
 
