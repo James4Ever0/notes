@@ -50,7 +50,7 @@ use [this](https://github.com/georgemandis/copy-open-tabs-urls) or [this](https:
 
 if you want markdown-style, use [this](https://github.com/yorkxin/copy-as-markdown) or [this](https://github.com/JannesMeyer/TabAttack) or [this](https://github.com/tsushiy/copy-tabs-as-markdown) (you need to modify this as it is the only hope now) or [this](https://github.com/zaki-yama/copy-title-and-url-as-markdown). query: `site:github.com chrome copy all tabs markdown`.
 
-you click every tab manually.
+you click every tab manually, in order to copy them. goddamn the android!
 
 ----
 
