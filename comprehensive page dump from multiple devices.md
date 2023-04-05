@@ -42,7 +42,7 @@ check "Healthcare and Watch Cases" under firefox bookmarks.
 
 to install a plugin on kiwi browser, you (maybe) need to unpack and install it manually.
 
-you need chrome extension v2 or below. pack the extension manually if needed. must install from .crx file.
+you need chrome extension v3 or below. pack the extension manually if needed. must install from .crx file.
 
 query: `site:github.com chrome copy all tabs`
 
