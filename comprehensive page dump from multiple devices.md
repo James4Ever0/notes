@@ -41,3 +41,7 @@ check "Healthcare and Watch Cases" under firefox bookmarks.
 ### Android
 
 to install plugin, you need to unpack and install manually.
+
+query: `site:github.com chrome copy all tabs`
+
+use [this](https://github.com/georgemandis/copy-open-tabs-urls) or [this](https://github.com/charlesbrandt/copy_all_tabs) or [this](https://github.com/teddywing/chrome-copy-urls-from-all-tabs).
