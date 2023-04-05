@@ -172,7 +172,8 @@ v2 is censored.
 
 model weights:
 
-
+| weight path | model size | model name | author |
+| -- | -- | -- | -- |
 
 ### [Deepshard](https://huggingface.co/swype/)
 
