@@ -166,6 +166,12 @@ it's public.
 
 ### [ChatYuan](https://github.com/clue-ai/ChatYuan)
 
+v2 is censored.
+
+----
+
+model weights:
+
 
 
 
