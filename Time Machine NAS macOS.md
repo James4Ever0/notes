@@ -2,12 +2,14 @@
 tags: [backup, macos, stub, time machine]
 title: Time Machine NAS macOS
 created: '2022-07-28T12:59:47.101Z'
-modified: '2023-04-10T06:25:36.892Z'
+modified: '2023-04-10T06:42:44.496Z'
 ---
 
 # Time Machine NAS macOS
 
 when in doubt, delete files under GUI instead of terminal
+
+check out commands for moving files into trash bin instead of direct removal on different OSes
 
 ----
 
