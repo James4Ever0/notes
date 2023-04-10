@@ -2,10 +2,14 @@
 tags: [backup, macos, stub, time machine]
 title: Time Machine NAS macOS
 created: '2022-07-28T12:59:47.101Z'
-modified: '2023-04-10T05:47:02.701Z'
+modified: '2023-04-10T06:25:36.892Z'
 ---
 
 # Time Machine NAS macOS
+
+when in doubt, delete files under GUI instead of terminal
+
+----
 
 my data under `~/works` is lost. fuck.
 
