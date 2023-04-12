@@ -1,7 +1,7 @@
 ---
 title: 'free proxies: openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2023-01-23T11:06:53.468Z'
+modified: '2023-04-12T01:13:46.376Z'
 ---
 
 # free proxies: openit proxy pool has been seized, what to do
@@ -13,6 +13,10 @@ on github search for "clash" "ssr" "proxy" "shadowsocks" "v2ray" "fanqiang" or s
 or you could use lantern.
 
 ## sources
+
+### [proxyscan.io](https://www.proxyscan.io/api)
+
+refer to []()
 
 ### telegram bots
 
