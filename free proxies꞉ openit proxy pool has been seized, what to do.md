@@ -1,7 +1,7 @@
 ---
 title: 'free proxies: openit proxy pool has been seized, what to do'
 created: '2022-12-11T11:15:17.654Z'
-modified: '2023-04-12T01:13:46.376Z'
+modified: '2023-04-12T01:14:03.317Z'
 ---
 
 # free proxies: openit proxy pool has been seized, what to do
@@ -16,7 +16,7 @@ or you could use lantern.
 
 ### [proxyscan.io](https://www.proxyscan.io/api)
 
-refer to []()
+referred by [Proxy-List](https://github.com/ShiftyTR/Proxy-List)
 
 ### telegram bots
 
