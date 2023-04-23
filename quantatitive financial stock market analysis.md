@@ -2,12 +2,12 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: 2022-06-09T06:38:29+00:00
-modified: 2023-04-23T14:29:54+08:00
+modified: 2023-04-23T14:30:24+08:00
 ---
 
 # quantative financial stock market analysis
 
-随机假设买卖点 随机假设成交 构成无数虚拟账户交易
+随机假设买卖点 随机假设成交 构成无数虚拟账户交易 或者用某种假设原理拆分不同来源的买卖单
 
 [time-series-transformers](https://huggingface.co/blog/time-series-transformers) huggingface blog
 
