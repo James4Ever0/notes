@@ -1,16 +1,16 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-04T09:53:30.328Z'
+modified: '2023-05-04T09:55:33.932Z'
 ---
 
 # AGI that controls computer
 
 ## encoding
 
-use hfft to transform multipart inputs (special bits, different part of mouse coords (x, y, dx, dy))
+use hfft/rfft to transform multipart inputs (special bits, different part of mouse coords (x, y, dx, dy))
 
-if you want to use complex number as input, you may need to swap ViT for ComplexConv2D
+if you want to use complex number as RNN input, you may need to swap ViT for ComplexConv2D, but maybe you just need a few.
 
 ----
 
@@ -52,4 +52,4 @@ wsgidav --host=192.168.64.1 --port=8081 --root="/Volumes/Toshiba XG3/works/agi_c
 
 ----
 
-for Ubuntu ARM, `mss` failed but `pyautogui` works. write one python script to pipe raw images to ffmpeg for better compression ratio by shell. the final video is not "time-accurate". it is frame by frame, matched with timestamps.
+for Ubuntu ARM VM, `mss` failed but `pyautogui` works. write one python script to pipe raw images to ffmpeg for better compression ratio by shell. the final video is not "time-accurate". it is frame by frame, matched with timestamps.
