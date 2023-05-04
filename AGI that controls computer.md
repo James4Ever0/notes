@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-04T09:46:47.648Z'
+modified: '2023-05-04T09:47:05.298Z'
 ---
 
 # AGI that controls computer
@@ -41,7 +41,7 @@ WebDAV servers:
 [wsgidav](https://github.com/mar10/wsgidav)
 
 ```bash
-
+wsgidav --host=192.168.64.1 --port=8081 --root="/Volumes/Toshiba XG3/works/agi_computer_control"  --auth=anonymous
 ```
 
 []()
