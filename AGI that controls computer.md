@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-04T09:47:05.298Z'
+modified: '2023-05-04T09:49:41.594Z'
 ---
 
 # AGI that controls computer
@@ -25,6 +25,8 @@ libraries that handle complex neural networks:
 do our model have to output multimodal data?
 
 if you combine some "special" bits along with token embeding by ihfft, you may have to retrain the entire damn network. also in order to make way for special bits, you may have to introduce extra linear layer.
+
+some may prefer "LoRA"? by only introducing few tunable params and changing the overall output?
 
 ----
 
