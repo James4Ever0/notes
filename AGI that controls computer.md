@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-05T02:01:09.262Z'
+modified: '2023-05-05T02:45:38.572Z'
 ---
 
 # AGI that controls computer
@@ -33,6 +33,10 @@ some may prefer "LoRA"? by only introducing few tunable params and changing the 
 ----
 
 we may not annotate anything in our dataset. in contrast, we will set goals and make multiple interfaces for our model to explore.
+
+----
+
+you can add special task specific embedding before passing to main model, then minus that task specific embedding after passing to classification model.
 
 ## file sharing and communication
 
