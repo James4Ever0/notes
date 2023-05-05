@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-05T02:53:42.000Z'
+modified: '2023-05-05T03:49:28.150Z'
 ---
 
 # AGI that controls computer
@@ -63,6 +63,10 @@ wsgidav --host=192.168.64.1 --port=8081 --root="/Volumes/Toshiba XG3/works/agi_c
 ```
 
 [webdav-cli](https://github.com/svtslv/webdav-cli) （nodejs)
+
+```bash
+webdav-cli --host=192.168.64.1 --port=8081 --username=root --password=root --path="/Volumes/Toshiba XG3/works/agi_computer_control"
+```
 
 ----
 
