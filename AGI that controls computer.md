@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-04T10:04:58.416Z'
+modified: '2023-05-05T02:01:09.262Z'
 ---
 
 # AGI that controls computer
@@ -32,7 +32,7 @@ some may prefer "LoRA"? by only introducing few tunable params and changing the 
 
 ----
 
-we may not to annotate anything in our dataset. in contrast, we will set goals and make multiple interfaces for our model to explore.
+we may not annotate anything in our dataset. in contrast, we will set goals and make multiple interfaces for our model to explore.
 
 ## file sharing and communication
 
