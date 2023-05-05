@@ -1,10 +1,16 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-05T02:45:38.572Z'
+modified: '2023-05-05T02:53:42.000Z'
 ---
 
 # AGI that controls computer
+
+## benchmarks
+
+it is always a mystery for us to develop the right ML model. however, we can setup guidelines of good performance over specific task.
+
+automate the benchmark, setup metrics. there could be more room for trials and imagination.
 
 ## encoding
 
