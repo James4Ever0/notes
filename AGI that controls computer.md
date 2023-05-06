@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-06T02:18:11.230Z'
+modified: '2023-05-06T05:36:09.223Z'
 ---
 
 # AGI that controls computer
@@ -71,6 +71,10 @@ webdav-cli --host=192.168.64.1 --port=8081 --username=root --password=root --pat
 ----
 
 for Ubuntu ARM VM, `mss` failed on wayland but `pyautogui` works in both cases. write one python script to pipe raw images to ffmpeg for better compression ratio by shell. the final video is not "time-accurate". it is frame by frame, matched with timestamps.
+
+----
+
+forcing ubuntu to use xorg by: `sudo vim /etc/gdm3/custom.conf`
 
 ## resize UTM VM disks
 
