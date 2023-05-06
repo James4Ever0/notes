@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-06T02:15:13.936Z'
+modified: '2023-05-06T02:17:39.446Z'
 ---
 
 # AGI that controls computer
@@ -70,4 +70,8 @@ webdav-cli --host=192.168.64.1 --port=8081 --username=root --password=root --pat
 
 ----
 
-for Ubuntu ARM VM, `mss` failed on wayland but `pyautogui` works. write one python script to pipe raw images to ffmpeg for better compression ratio by shell. the final video is not "time-accurate". it is frame by frame, matched with timestamps.
+for Ubuntu ARM VM, `mss` failed on wayland but `pyautogui` works in both cases. write one python script to pipe raw images to ffmpeg for better compression ratio by shell. the final video is not "time-accurate". it is frame by frame, matched with timestamps.
+
+## resize utm disks
+
+you need to first resize the virtio disk in utm setting, then [resize partition by fdisk](), then [update the device mapper](https://www.albertyw.com/note/resizing-ubuntu-utm#:~:text=For%20an%20Ubuntu%20guest%20OS%20running%20a%20default,be%20corrected%20by%20w%20%28rite%29%20warning%20More%20items)
