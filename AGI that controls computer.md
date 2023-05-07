@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-05-07T13:44:34.866Z'
+modified: '2023-05-07T13:46:00.992Z'
 ---
 
 # AGI that controls computer
@@ -11,6 +11,8 @@ modified: '2023-05-07T13:44:34.866Z'
 using pyaudio, on macos, you need blackhole for sending all audio to oblivion, thus able to be recorded.
 
 on Linux, you need audio loopback device.
+
+run: `sudo modprobe snd-aloop`
 
 you use `hw:1:0` or "Analog Device Output" for slient output/speaker, and use `hw:1:1` or "Analog Device Input" for recording.
 
