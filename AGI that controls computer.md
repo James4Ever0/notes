@@ -1,14 +1,14 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-05-07T13:47:28.038Z'
+modified: '2023-05-07T13:54:32.315Z'
 ---
 
 # AGI that controls computer
 
 ## audio recording
 
-your device will go slient if you want to record audio from "speakers"
+your device may go slient if you want to record audio from "speakers"
 
 ----
 
