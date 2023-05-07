@@ -1,10 +1,16 @@
 ---
 title: AGI that controls computer
-created: '2023-05-04T09:28:11.880Z'
-modified: '2023-05-06T05:36:09.223Z'
+created: 2023-05-04T09:28:11+00:00
+modified: 2023-05-07T14:42:57+08:00
 ---
 
 # AGI that controls computer
+
+## audio recording
+
+using pyaudio, on macos, you need blackhole for sending all audio to oblivion, thus able to be recorded.
+
+on Linux, you need audio loopback device.
 
 ## benchmarks
 
@@ -68,7 +74,7 @@ wsgidav --host=192.168.64.1 --port=8081 --root="/Volumes/Toshiba XG3/works/agi_c
 webdav-cli --host=192.168.64.1 --port=8081 --username=root --password=root --path="/Volumes/Toshiba XG3/works/agi_computer_control"
 ```
 
-----
+## video recording
 
 for Ubuntu ARM VM, `mss` failed on wayland but `pyautogui` works in both cases. write one python script to pipe raw images to ffmpeg for better compression ratio by shell. the final video is not "time-accurate". it is frame by frame, matched with timestamps.
 
