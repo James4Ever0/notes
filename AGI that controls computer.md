@@ -1,12 +1,16 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-05-07T13:46:00.992Z'
+modified: '2023-05-07T13:47:28.038Z'
 ---
 
 # AGI that controls computer
 
 ## audio recording
+
+your device will go slient if you want to record audio from "speakers"
+
+----
 
 using pyaudio, on macos, you need blackhole for sending all audio to oblivion, thus able to be recorded.
 
