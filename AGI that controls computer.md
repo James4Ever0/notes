@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-05-07T14:06:39.055Z'
+modified: '2023-05-07T14:15:15.766Z'
 ---
 
 # AGI that controls computer
@@ -9,6 +9,8 @@ modified: '2023-05-07T14:06:39.055Z'
 ## obs remote control
 
 using [obs-websocket](https://github.com/obsproject/obs-websocket) you can use python to do real scripting. but first spin up obs first (with websocket related commandline arguments)
+
+you can also write and load scripts for obs, run on custom intervals and conditions.
 
 ## audio recording
 
