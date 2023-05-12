@@ -1,10 +1,12 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-05-07T14:15:15.766Z'
+modified: '2023-05-12T17:37:27.224Z'
 ---
 
 # AGI that controls computer
+
+use ChatGPT-derived projects for localized propaganda on CyberGod and The Frozen Forest.
 
 ## obs remote control
 
