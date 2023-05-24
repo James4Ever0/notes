@@ -1,10 +1,16 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-05-12T17:37:27.224Z'
+modified: '2023-05-24T16:20:09.759Z'
 ---
 
 # AGI that controls computer
+
+you can just boot ubuntu/kali/parrot iso without installing.
+
+but that would make us embarrasing. we need to check for the option.
+
+----
 
 use ChatGPT-derived projects for localized propaganda on CyberGod and The Frozen Forest.
 
