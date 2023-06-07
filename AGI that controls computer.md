@@ -1,10 +1,14 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-05-24T16:20:09.759Z'
+modified: '2023-06-07T06:20:16.360Z'
 ---
 
 # AGI that controls computer
+
+make specialized (in RPA) tokenizer and embedding for this new model. add new words to the tokenizer.
+
+----
 
 you can just boot ubuntu/kali/parrot iso without installing.
 
