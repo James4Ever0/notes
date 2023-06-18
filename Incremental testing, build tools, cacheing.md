@@ -1,10 +1,14 @@
 ---
 title: 'Incremental testing, build tools, cacheing'
 created: '2023-06-16T03:55:12.384Z'
-modified: '2023-06-18T04:07:24.858Z'
+modified: '2023-06-18T04:07:52.218Z'
 ---
 
 # Incremental testing, build tools, cacheing
+
+[enum class](https://docs.python.org/3/howto/enum.html#enum-class-differences) in python
+
+----
 
 use [cache](https://docs.pytest.org/en/6.2.x/cache.html) in pytest
 
