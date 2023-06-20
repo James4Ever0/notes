@@ -1,10 +1,14 @@
 ---
 title: 'Incremental testing, build tools, cacheing'
 created: '2023-06-16T03:55:12.384Z'
-modified: '2023-06-19T06:06:15.057Z'
+modified: '2023-06-20T06:40:59.386Z'
 ---
 
 # Incremental testing, build tools, cacheing
+
+monkeytype, pytype (by google)
+
+----
 
 better assertion
 
