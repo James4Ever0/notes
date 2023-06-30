@@ -1,14 +1,18 @@
 ---
 title: 'Incremental testing, build tools, cacheing, logging'
 created: '2023-06-16T03:55:12.384Z'
-modified: '2023-06-30T08:38:36.104Z'
+modified: '2023-06-30T08:40:48.401Z'
 ---
 
 # Incremental testing, build tools, cacheing, logging
 
-logging tutorial: []()
+logging tutorial at [betterstack](https://betterstack.com/community/guides/logging/python/python-logging-best-practices/) & [official](https://docs.python.org/3/howto/logging.html)
 
-other logging libraries: [loguru](https://betterstack.com/community/guides/logging/loguru/) []() (able to show locals/globals around error)
+other logging libraries: [loguru](https://betterstack.com/community/guides/logging/loguru/) [structlog](https://www.structlog.org/en/stable/) (able to show locals/globals around error)
+
+----
+
+[better-exceptions](https://github.com/qix-/better-exceptions)
 
 ----
 
