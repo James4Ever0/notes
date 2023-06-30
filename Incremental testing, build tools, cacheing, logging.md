@@ -1,10 +1,20 @@
 ---
-title: 'Incremental testing, build tools, cacheing'
+title: 'Incremental testing, build tools, cacheing, logging'
 created: '2023-06-16T03:55:12.384Z'
-modified: '2023-06-20T07:16:32.580Z'
+modified: '2023-06-30T08:38:36.104Z'
 ---
 
-# Incremental testing, build tools, cacheing
+# Incremental testing, build tools, cacheing, logging
+
+logging tutorial: []()
+
+other logging libraries: [loguru](https://betterstack.com/community/guides/logging/loguru/) []() (able to show locals/globals around error)
+
+----
+
+to ensure the consistency of tests, you need to collect input/output pairs (and compare with expected/actual output), if it is deterministic.
+
+----
 
 monkeytype, pytype (by google), runtype (Dispatch)
 
