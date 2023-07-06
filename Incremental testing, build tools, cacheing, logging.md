@@ -1,10 +1,14 @@
 ---
 title: 'Incremental testing, build tools, cacheing, logging'
 created: '2023-06-16T03:55:12.384Z'
-modified: '2023-06-30T08:40:48.401Z'
+modified: '2023-07-06T02:42:54.475Z'
 ---
 
 # Incremental testing, build tools, cacheing, logging
+
+how to log error emitted from `better-exceptions`?
+
+----
 
 logging tutorial at [betterstack](https://betterstack.com/community/guides/logging/python/python-logging-best-practices/) & [official](https://docs.python.org/3/howto/logging.html)
 
