@@ -2,10 +2,14 @@
 tags: [chatbot, conversation, interaction, pyjom, schedule]
 title: 复读机 Chatbot
 created: 2022-07-14T15:35:31+00:00
-modified: 2023-01-31T20:38:03+08:00
+modified: 2023-07-22T18:41:20+08:00
 ---
 
 # 复读机 Chatbot
+
+利用带时间戳的QQ消息 提取和天气有关的内容 根据历史天气预报推断群友位置
+
+根据聊天记录推断群友位置
 
 测试聊天机器人的方式就是对聊 测试自媒体可以用自动测试 假数据进行测试
 
