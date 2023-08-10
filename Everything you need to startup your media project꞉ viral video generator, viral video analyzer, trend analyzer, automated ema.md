@@ -1,14 +1,14 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-08-10T14:45:10.068Z'
+modified: '2023-08-10T14:45:27.037Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
 Do not use removable drives (NAS?) as scratch/data disk for long-term programs. Instead, use internal drives.
 
-If possible, first sync all necessary files from removable drives to internal disk, then run the long-running program.
+If possible, first sync all necessary files from removable drives to internal disk, then run the long-running program from there.
 
 ----
 
