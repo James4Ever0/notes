@@ -1,10 +1,16 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
-created: 2023-01-09T03:22:12+00:00
-modified: 2023-02-16T08:14:48+08:00
+created: '2023-01-09T03:22:12.000Z'
+modified: '2023-08-10T14:45:10.068Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+Do not use removable drives (NAS?) as scratch/data disk for long-term programs. Instead, use internal drives.
+
+If possible, first sync all necessary files from removable drives to internal disk, then run the long-running program.
+
+----
 
 短视频内部模拟不同视频上下翻页效果
 
