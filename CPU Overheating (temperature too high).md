@@ -2,12 +2,14 @@
 tags: [fan, hardware, linux, thermal, throttle]
 title: CPU Overheating (temperature too high)
 created: '2022-07-25T09:04:54.170Z'
-modified: '2022-08-18T14:25:41.621Z'
+modified: '2023-08-12T14:48:56.766Z'
 ---
 
 # CPU Overheating (temperature too high)
 
 ## linux
+
+
 
 [throttling cpu frequencies by temperature incrementally](https://github.com/Sepero/temp-throttle)
 
