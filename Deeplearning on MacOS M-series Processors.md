@@ -2,12 +2,12 @@
 tags: [CoreML, darling, hackintosh, paddlepaddle, Swift]
 title: Deeplearning on MacOS M-series Processors
 created: '2022-08-06T18:25:22.000Z'
-modified: '2023-08-12T14:06:21.415Z'
+modified: '2023-08-12T14:06:28.323Z'
 ---
 
 # Deeplearning on MacOS M-series Processors
 
-it is funny that macOS still supports AMD GPUs, means any intel Mac (not M-series!) can now utilize internal/external AMD GPUs as long as frameworks like [jax](https://developer.apple.com/metal/jax/) and [pytorch] support MPS/Metal.
+it is funny that macOS still supports AMD GPUs, means any intel Mac (not M-series!) can now utilize internal/external AMD GPUs as long as frameworks like [jax](https://developer.apple.com/metal/jax/) and [pytorch](https://pytorch.org/docs/stable/notes/mps.html) support MPS/Metal.
 
 ----
 
