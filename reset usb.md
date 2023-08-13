@@ -1,11 +1,13 @@
 ---
 title: reset usb
 created: '2022-12-15T16:33:24.445Z'
-modified: '2022-12-15T16:48:57.627Z'
+modified: '2023-08-13T08:30:06.414Z'
 ---
 
 # reset usb
 
+
+----
 in case kali failed to detect presence of hard disks, shall you pop up a dialog for us to decide whether to reset to usb or not.
 
 ## reset-usb.sh
