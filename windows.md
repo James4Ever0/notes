@@ -2,7 +2,7 @@
 tags: [backup, stub, time machine]
 title: Time Machine Alternative for linux/windows
 created: '2022-08-10T08:12:46.237Z'
-modified: '2023-08-15T15:56:14.697Z'
+modified: '2023-08-15T15:56:31.147Z'
 ---
 
 # Time Machine Alternative for linux/windows
@@ -13,7 +13,7 @@ format the backup disk as xfs so we can do symlink on it (linux).
 
 use `flock` to prevent multiple backup instances from running.
 
-alternative: [run-one]()
+alternative: [run-one](https://blog.dustinkirkland.com/2011/02/introducing-run-one-and-run-this-one.html)
 
 ```bash
 sudo apt-add-repository ppa:run-one/ppa
