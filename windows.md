@@ -2,12 +2,12 @@
 tags: [backup, stub, time machine]
 title: Time Machine Alternative for linux/windows
 created: '2022-08-10T08:12:46.237Z'
-modified: '2023-08-15T00:07:10.603Z'
+modified: '2023-08-15T00:07:21.597Z'
 ---
 
 # Time Machine Alternative for linux/windows
 
-use `flock` to prevent multiple instance from running.
+use `flock` to prevent multiple backup instances from running.
 
 ----
 
