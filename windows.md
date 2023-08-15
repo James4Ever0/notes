@@ -2,7 +2,7 @@
 tags: [backup, stub, time machine]
 title: Time Machine Alternative for linux/windows
 created: '2022-08-10T08:12:46.237Z'
-modified: '2023-08-15T15:56:07.643Z'
+modified: '2023-08-15T15:56:14.697Z'
 ---
 
 # Time Machine Alternative for linux/windows
@@ -16,9 +16,9 @@ use `flock` to prevent multiple backup instances from running.
 alternative: [run-one]()
 
 ```bash
- sudo apt-add-repository ppa:run-one/ppa
- sudo apt-get update
- sudo apt-get install run-one
+sudo apt-add-repository ppa:run-one/ppa
+sudo apt-get update
+sudo apt-get install run-one
 ```
 
 ----
