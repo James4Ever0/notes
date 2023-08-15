@@ -2,12 +2,12 @@
 tags: [backup, stub, time machine]
 title: Time Machine Alternative for linux/windows
 created: '2022-08-10T08:12:46.237Z'
-modified: '2023-08-15T14:26:33.535Z'
+modified: '2023-08-15T14:26:48.110Z'
 ---
 
 # Time Machine Alternative for linux/windows
 
-format the backup disk as xfs so we can do symlink on it.
+format the backup disk as xfs so we can do symlink on it (linux).
 
 ----
 
