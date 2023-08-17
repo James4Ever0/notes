@@ -1,10 +1,14 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: 2023-01-09T03:22:12+00:00
-modified: 2023-08-11T08:27:16+08:00
+modified: 2023-08-17T13:04:18+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+[deep danbooru](https://dambooru.donmai.us) for anime comprehension, scene understanding etc
+
+----
 
 Do not use removable drives (NAS?) as scratch/data disk for long-term programs. Instead, use internal drives.
 
