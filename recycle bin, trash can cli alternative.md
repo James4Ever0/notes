@@ -1,7 +1,7 @@
 ---
 title: 'recycle bin, trash can cli alternative'
 created: '2023-08-19T18:09:18.216Z'
-modified: '2023-08-20T01:39:25.207Z'
+modified: '2023-08-20T01:40:18.694Z'
 ---
 
 # recycle bin, trash can cli alternative
@@ -23,5 +23,7 @@ nircmd moverecyclebin *.tmp
 ## macos
 
 [trash](https://hasseg.org/trash/)
+
+rmtrash in 
 
 ## linux
