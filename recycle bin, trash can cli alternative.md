@@ -1,7 +1,7 @@
 ---
 title: 'recycle bin, trash can cli alternative'
 created: '2023-08-19T18:09:18.216Z'
-modified: '2023-08-20T01:35:59.323Z'
+modified: '2023-08-20T01:36:16.024Z'
 ---
 
 # recycle bin, trash can cli alternative
@@ -17,7 +17,6 @@ modified: '2023-08-20T01:35:59.323Z'
 [nircmd]()
 
 ```cmd
-@REM abc
 nircmd moverecyclebin *.tmp
 ```
 
