@@ -1,7 +1,7 @@
 ---
 title: 'recycle bin, trash can cli alternative'
 created: '2023-08-19T18:09:18.216Z'
-modified: '2023-08-20T01:32:20.680Z'
+modified: '2023-08-20T01:34:59.494Z'
 ---
 
 # recycle bin, trash can cli alternative
@@ -12,7 +12,7 @@ modified: '2023-08-20T01:32:20.680Z'
 
 [cmdutils](http://www.maddogsw.com/cmdutils/) which has `recycle` and `bin` commands
 
-
+[cmd-recycle](https://github.com/kizzx2/cmd-recycle/)
 
 ## macos
 
