@@ -1,12 +1,14 @@
 ---
 title: 'recycle bin, trash can cli alternative'
 created: '2023-08-19T18:09:18.216Z'
-modified: '2023-08-20T01:43:21.415Z'
+modified: '2023-08-20T01:45:13.907Z'
 ---
 
 # recycle bin, trash can cli alternative
 
 [trash-cli](https://github.com/sindresorhus/trash-cli) may work cross-platform, but manage its own recycle bin instead of the system if using windows or macos
+
+[empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli)
 
 ## windows
 
