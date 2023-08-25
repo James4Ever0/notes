@@ -1,10 +1,14 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
-created: '2023-01-09T03:22:12.000Z'
-modified: '2023-08-18T12:48:10.681Z'
+created: 2023-01-09T03:22:12+00:00
+modified: 2023-08-25T11:10:52+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+造仿制b站 收集用户点击数据
+
+----
 
 b站禁用了手机端搜索接口的页面数目，但没有限制电脑端搜索页面数目，估计是为了避免二创素材收集不受影响。
 
