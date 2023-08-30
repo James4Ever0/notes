@@ -6,6 +6,11 @@ modified: 2023-08-27T09:08:43+08:00
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
+to get response fast, you need to create content fast. sometimes it is important to degrade aspects like resolution and more.
+
+
+----
+
 根据视频内容 标题调整封面人物表情
 
 ----
