@@ -7,6 +7,12 @@ modified: 2023-08-25T11:10:08+08:00
 
 # quantative financial stock market analysis
 
+[pyportfolioopt](https://github.com/robertmartin8/PyPortfoiloOpt)
+
+[amplfinance](https://github.com/ampl/amplpyfinance)
+
+----
+
 造模拟炒股软件 走势跟着大盘 收集用户交易数据
 
 随机假设买卖点 随机假设成交 构成无数虚拟账户交易 或者用某种假设原理拆分不同来源的买卖单
