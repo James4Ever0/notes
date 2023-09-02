@@ -1,9 +1,0 @@
----
-created: 2023-09-03T00:54:26+08:00
-modified: 2023-09-03T00:56:02+08:00
----
-
-# brainwave translation
-
-interesting dreams were found 
-extract text,  audio, visual, melody
