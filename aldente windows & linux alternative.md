@@ -1,10 +1,14 @@
 ---
 title: aldente windows & linux alternative
 created: '2023-08-07T13:41:02.482Z'
-modified: '2023-08-12T16:37:44.894Z'
+modified: '2023-09-03T14:44:21.355Z'
 ---
 
 # aldente windows & linux alternative
+
+will these charging limits still work if we close the lid?
+
+----
 
 to prevent damage to computer battery due to overcharging
 
