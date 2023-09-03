@@ -1,10 +1,16 @@
 ---
 title: aldente windows & linux alternative
 created: '2023-08-07T13:41:02.482Z'
-modified: '2023-09-03T14:44:54.597Z'
+modified: '2023-09-03T16:43:48.387Z'
 ---
 
 # aldente windows & linux alternative
+
+to increase stability, you need to prevent computer from overheating. also, replace normal laptop ram with ecc ram (not server-grade reg-ecc)
+
+moreover, you could just use UPS+NUC instead of laptop, to prevent this bloody battery issue.
+
+----
 
 will these charging limits still work if we close the lid? if not, we could possibly damage the battery.
 
