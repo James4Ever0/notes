@@ -1,12 +1,12 @@
 ---
 title: aldente windows & linux alternative
 created: '2023-08-07T13:41:02.482Z'
-modified: '2023-09-03T16:43:48.387Z'
+modified: '2023-09-03T17:03:50.024Z'
 ---
 
 # aldente windows & linux alternative
 
-to increase stability, you need to prevent computer from overheating. also, replace normal laptop ram with ecc ram (not server-grade reg-ecc)
+to increase stability, you need to prevent computer from overheating (throttle). also, replace normal laptop ram with ecc ram (not server-grade reg-ecc)
 
 moreover, you could just use UPS+NUC instead of laptop, to prevent this bloody battery issue.
 
