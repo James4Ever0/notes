@@ -1,12 +1,12 @@
 ---
 title: aldente windows & linux alternative
 created: '2023-08-07T13:41:02.482Z'
-modified: '2023-09-03T14:44:21.355Z'
+modified: '2023-09-03T14:44:54.597Z'
 ---
 
 # aldente windows & linux alternative
 
-will these charging limits still work if we close the lid?
+will these charging limits still work if we close the lid? if not, we could possibly damage the battery.
 
 ----
 
