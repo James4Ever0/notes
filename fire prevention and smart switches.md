@@ -1,7 +1,7 @@
 ---
 title: fire prevention and smart switches
 created: 2023-09-09T03:21:23+00:00
-modified: 2023-09-09T03:24:46+00:00
+modified: 2023-09-09T12:53:49+08:00
 ---
 
 # fire prevention and smart switches
@@ -13,3 +13,5 @@ put smoke detectors and fireballs around many places, especially for those long-
 涂鸦APP 智能空气开关
 
 灭火器 主动灭火装置 灭火机器人
+
+run the central controller (like raspberry pi, nanopi) with ups & homeassistant
