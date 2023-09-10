@@ -1,7 +1,7 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-09-10T09:54:57.778Z'
+modified: '2023-09-10T09:55:28.548Z'
 ---
 
 # fire prevention and smart switches
@@ -12,4 +12,4 @@ put temperature & smoke detectors and fireballs around many places, especially f
 
 homeassistant adaptor on ups & nanopi & 4g networks
 
-fire countermeasure shall be linked to smart power switches, and placed evenly to potential area
+fire countermeasure shall be linked to smart power switches (once triggered, cut off the power), and placed evenly to potential area
