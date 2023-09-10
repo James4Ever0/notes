@@ -1,7 +1,7 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-09-10T12:36:59.055Z'
+modified: '2023-09-10T12:39:12.345Z'
 ---
 
 # fire prevention and smart switches
@@ -14,7 +14,7 @@ homeassistant adaptor on ups & nanopi & 4g networks
 
 fire countermeasure shall be linked to smart power switches (once triggered, cut off the power), and placed evenly to potential area
 
-also human presence sensor shall be placed, to create more advanced logic, along with power level based logic.
+also human presence sensor shall be placed, to create more advanced logic, along with physical switches & power level based logic.
 
 ----
 
