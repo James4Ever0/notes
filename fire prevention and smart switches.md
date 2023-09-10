@@ -1,7 +1,7 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-09-10T10:02:00.817Z'
+modified: '2023-09-10T10:02:18.715Z'
 ---
 
 # fire prevention and smart switches
@@ -16,6 +16,6 @@ fire countermeasure shall be linked to smart power switches (once triggered, cut
 
 ----
 
-although it might be less likely to have devastating fire catastropies inside if procedure mentioned above is done correctly, fire outside the domesticated area is also the major concern.
+although it might be less likely to have devastating fire catastropies inside if procedure mentioned above is done correctly, fire outside the domesticated area is also concerned.
 
 we shall first make sure living objects can escape in time. once fire outside the room is detected, all important files shall be uploaded to the cloud. if fire is inside, cut off the power and use UPS to continue execution. make sure important data and devices can be carried around, and countermeasures will stop the propagation of fire.
