@@ -2,10 +2,16 @@
 tags: [backup, stub, time machine]
 title: Time Machine Alternative for linux/windows
 created: '2022-08-10T08:12:46.237Z'
-modified: '2023-08-15T15:57:31.640Z'
+modified: '2023-09-10T11:20:19.305Z'
 ---
 
 # Time Machine Alternative for linux/windows
+
+use `test` to check existance some manual created identity file to prove if the endpoint is connected
+
+(really? does that check work for offline rclone samba drives?)
+
+----
 
 format the backup disk as xfs so we can do symlink on it (linux).
 
