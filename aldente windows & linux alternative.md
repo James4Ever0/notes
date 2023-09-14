@@ -1,12 +1,14 @@
 ---
 title: aldente windows & linux alternative
-created: '2023-08-07T13:41:02.482Z'
-modified: '2023-09-03T17:03:50.024Z'
+created: 2023-08-07T13:41:02+00:00
+modified: 2023-09-14T18:45:29+08:00
 ---
 
 # aldente windows & linux alternative
 
 to increase stability, you need to prevent computer from overheating (throttle). also, replace normal laptop ram with ecc ram (not server-grade reg-ecc)
+
+but ecc is only supported on Xeon processors.
 
 moreover, you could just use UPS+NUC instead of laptop, to prevent this bloody battery issue.
 
