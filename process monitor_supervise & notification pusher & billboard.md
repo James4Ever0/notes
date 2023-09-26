@@ -1,9 +1,9 @@
 ---
 created: 2023-09-26T13:12:34+08:00
-modified: 2023-09-26T13:15:03+08:00
+modified: 2023-09-26T13:22:36+08:00
 ---
 
-# process monitor/supervise & notification pusher & billboard
+# process monitor/supervise & notification pusher & dashboard
 
 ## process monitor
 
@@ -25,4 +25,4 @@ https://github.com/liiight/notifiers
 https://github.com/YuriyLisovskiy/pynotifier
 https://github.com/SeTeM/pync
 
-## billboard
+## dashboard
