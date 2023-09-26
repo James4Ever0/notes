@@ -1,13 +1,17 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: 2023-01-09T03:22:12+00:00
-modified: 2023-08-27T09:08:43+08:00
+modified: 2023-09-26T12:40:53+08:00
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
 to get response fast, you need to create content fast. sometimes it is important to degrade aspects like resolution and more.
 ----
+
+[changedetection](https://github.com/dgtlmoon/changedetection.io) get website updates
+
+[longlora](https://github.com/dvlab-research/LongLoRA)
 
 自动删评机器人：
 
