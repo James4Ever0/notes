@@ -1,6 +1,6 @@
 ---
 created: 2023-09-26T13:12:34+08:00
-modified: 2023-09-26T13:22:36+08:00
+modified: 2023-09-26T13:25:54+08:00
 ---
 
 # process monitor/supervise & notification pusher & dashboard
@@ -26,3 +26,9 @@ https://github.com/YuriyLisovskiy/pynotifier
 https://github.com/SeTeM/pync
 
 ## dashboard
+
+https://github.com/Reportr/dashboard
+https://github.com/d2-projects/d2-admin
+https://github.com/gizak/termui
+https://github.com/plotly/dash
+https://github.com/Parallels/rq-dashboard
