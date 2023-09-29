@@ -1,7 +1,7 @@
 ---
 title: 'prerequisites for running autogpt/open intepreter and multimodal computer agents (such as cybergod), targets, and similar projects collections'
 created: '2023-09-29T18:32:02.185Z'
-modified: '2023-09-29T18:50:01.337Z'
+modified: '2023-09-29T19:20:08.891Z'
 ---
 
 # prerequisites for running autogpt/open intepreter and multimodal computer agents (such as cybergod), targets, and similar projects collections
@@ -17,3 +17,9 @@ when you need it to process anything, just use the mountpoint as the only data e
 self-training: in the form of task & proof 
 
 multi-agent training: (contract) similar to self-training, with cross-validation
+
+## projects
+
+[autogpt]()
+[open-interpreter]()
+[cybergod]()
