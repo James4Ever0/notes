@@ -1,7 +1,7 @@
 ---
 title: 'prerequisites for running autogpt/open intepreter and multimodal computer agents (such as cybergod), targets, and similar projects collections'
 created: '2023-09-29T18:32:02.185Z'
-modified: '2023-09-29T19:20:08.891Z'
+modified: '2023-09-29T19:20:21.920Z'
 ---
 
 # prerequisites for running autogpt/open intepreter and multimodal computer agents (such as cybergod), targets, and similar projects collections
@@ -21,5 +21,5 @@ multi-agent training: (contract) similar to self-training, with cross-validation
 ## projects
 
 [autogpt]()
-[open-interpreter]()
+[open-interpreter](https://github.com/KillianLucas/open-interpreter)
 [cybergod]()
