@@ -2,10 +2,12 @@
 tags: [lip sync, motion driven video, talking head, video generator, wombo.ai]
 title: the singing bot
 created: 2022-05-13T21:50:48+08:00
-modified: 2022-10-03T03:05:38+08:00
+modified: 2023-10-01T08:57:14+08:00
 ---
 
 # the still image to singing face bot, lip-sync video generation
+
+sadtalker
 
 wombo.ai, likely to be talking head or yanderifier
 
