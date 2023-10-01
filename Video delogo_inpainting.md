@@ -1,11 +1,14 @@
 ---
 tags: [dewatermark, remove watermark, royalty free, stub]
 title: Video delogo_inpainting
-created: '2022-05-31T06:13:58.000Z'
-modified: '2023-02-05T13:33:26.380Z'
+created: 2022-05-31T06:13:58+00:00
+modified: 2023-10-01T08:53:31+08:00
 ---
 
 # Video delogo/inpainting
+
+propainter remove watermark with tracking, entity segmentation
+
 
 you can use [clip](https://github.com/LAION-AI/LAION-5B-WatermarkDetection) for watermark detection, but you don't know where. fuck. you better train it yourself.
 
