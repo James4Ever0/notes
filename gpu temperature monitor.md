@@ -1,12 +1,12 @@
 ---
 title: cpu/gpu temperature monitor
 created: '2023-10-04T15:07:51.646Z'
-modified: '2023-10-04T15:14:23.431Z'
+modified: '2023-10-04T15:15:06.019Z'
 ---
 
 # cpu/gpu temperature monitor
 
-we've got [archey4](https://github.com/HorlogeSkynet/archey4), a cross-platform sysinfo gather tool
+we've got [archey4](https://github.com/HorlogeSkynet/archey4), a cross-platform sysinfo gather tool, with info on temperature monitor tools
 
 ## macos
 
@@ -27,4 +27,4 @@ smctemp -c
 
 ## linux
 
-[psensor]()
+[psensor](https://github.com/chinf/psensor)
