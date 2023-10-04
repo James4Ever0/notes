@@ -1,7 +1,7 @@
 ---
 title: cpu/gpu temperature monitor
 created: '2023-10-04T15:07:51.646Z'
-modified: '2023-10-04T15:11:25.012Z'
+modified: '2023-10-04T15:12:10.578Z'
 ---
 
 # cpu/gpu temperature monitor
@@ -10,16 +10,15 @@ we've got [archey4](https://github.com/HorlogeSkynet/archey4), a cross-platform 
 
 ## macos
 
-[osx-core-temp]() for old intel macs
+[osx-core-temp](https://github.com/lavoiesl/osx-cpu-temp) for old intel macs
 
 [apple_sensors](https://github.com/fermion-star/apple_sensors/) and [smctemp](https://github.com/narugit/smctemp) for m1 and newer macs
 
-
 place this under `` to run archey4 with cpu temperature:
+
 ```bash
 #!/bin/bash
 smctemp -c
-
 ```
 
 ## windows
