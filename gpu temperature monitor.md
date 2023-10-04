@@ -1,7 +1,7 @@
 ---
 title: cpu/gpu temperature monitor
 created: '2023-10-04T15:07:51.646Z'
-modified: '2023-10-04T15:12:43.156Z'
+modified: '2023-10-04T15:14:23.431Z'
 ---
 
 # cpu/gpu temperature monitor
@@ -23,8 +23,8 @@ smctemp -c
 
 ## windows
 
-coretemp
+[coretemp](https://www.alcpu.com/CoreTemp/)
 
 ## linux
 
-psensor
+[psensor]()
