@@ -1,7 +1,7 @@
 ---
 title: guidelines on designing ai systems
 created: '2023-09-17T13:01:57.000Z'
-modified: '2023-10-05T15:43:00.265Z'
+modified: '2023-10-05T15:43:14.552Z'
 ---
 
 # guidelines on designing ai systems
@@ -10,7 +10,7 @@ multi-agent orchestration:
 
 langchain
 
-[autogen]()
+[autogen](https://github.com/microsoft/autogen)
 
 [agently](https://github.com/Maplemx/Agently)
 
