@@ -1,7 +1,7 @@
 ---
 title: guidelines on designing ai systems
-created: 2023-09-17T13:01:57+00:00
-modified: 2023-10-05T21:51:08+08:00
+created: '2023-09-17T13:01:57.000Z'
+modified: '2023-10-05T15:42:49.008Z'
 ---
 
 # guidelines on designing ai systems
@@ -12,7 +12,7 @@ langchain
 
 autogen
 
-agently
+[agently]()
 
 [ModelScope-Agent](https://github.com/modelscope/modelscope-agent)
 
