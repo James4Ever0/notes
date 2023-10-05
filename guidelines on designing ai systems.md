@@ -1,10 +1,14 @@
 ---
 title: guidelines on designing ai systems
 created: '2023-09-17T13:01:57.000Z'
-modified: '2023-10-05T15:43:31.296Z'
+modified: '2023-10-05T15:54:03.837Z'
 ---
 
 # guidelines on designing ai systems
+
+shall we design the system based on 'distance' instead of 'role'?
+
+---
 
 multi-agent orchestration: 
 
