@@ -1,10 +1,10 @@
 ---
-title: forcing using docker mirror instead of pulling from docker.io
+title: force to use docker mirror instead of pulling from docker.io
 created: '2023-10-05T15:34:18.836Z'
-modified: '2023-10-05T15:37:10.574Z'
+modified: '2023-10-05T15:37:25.172Z'
 ---
 
-# forcing using docker mirror instead of pulling from docker.io
+# force to use docker mirror instead of pulling from docker.io
 
 even if you configure `/etc/docker/daemon.json` like this:
 
