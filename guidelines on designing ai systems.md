@@ -1,12 +1,12 @@
 ---
 title: guidelines on designing ai systems
 created: '2023-09-17T13:01:57.000Z'
-modified: '2023-10-05T15:54:03.837Z'
+modified: '2023-10-05T15:54:44.093Z'
 ---
 
 # guidelines on designing ai systems
 
-shall we design the system based on 'distance' instead of 'role'?
+shall we design the agent system based on 'distance' instead of 'role'? in that case, only words that make sense and continue more often will appear together, and vice versa.
 
 ---
 
