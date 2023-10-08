@@ -1,10 +1,12 @@
 ---
 title: prerequisites for running autogpt/open intepreter and multimodal computer agents (such as cybergod), targets, and similar projects collections
 created: 2023-09-29T18:32:02+00:00
-modified: 2023-09-30T13:49:18+08:00
+modified: 2023-10-08T15:41:52+08:00
 ---
 
 # prerequisites for running autogpt/open intepreter and multimodal computer agents (such as cybergod), targets, and similar projects collections
+
+[kosmos-2.5](https://github.com/kyegomez/Kosmos2.5)
 
 ## prerequisites
 
