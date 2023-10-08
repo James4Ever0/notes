@@ -2,10 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: 2022-08-08T12:52:28+00:00
-modified: 2023-10-07T12:53:56+08:00
+modified: 2023-10-08T15:37:47+08:00
 ---
 
 # disco diffusion and ai art
+
+[tune-a-video](https://github.com/showlab/Tune-A-Video) first recognize video content, then tweak it to fit the need
 
 [textdiffuser](https://github.com/microsoft/unilm/tree/master/textdiffuser)
 ---
