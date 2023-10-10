@@ -8,6 +8,8 @@ modified: 2023-10-08T15:41:52+08:00
 
 [kosmos-2.5](https://github.com/kyegomez/Kosmos2.5)
 
+
+
 ## prerequisites
 
 run these things under virtual machine or docker, with a fixed size mountpoint. keep all ports of your local machine isolated from the agent.
