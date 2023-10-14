@@ -1,7 +1,7 @@
 ---
 title: 'amdgpu, rocm and pytorch'
 created: '2023-10-10T17:13:14.000Z'
-modified: '2023-10-14T11:13:29.487Z'
+modified: '2023-10-14T11:15:11.693Z'
 ---
 
 # amdgpu, rocm and pytorch
@@ -16,6 +16,6 @@ use directml (pytorch, tensorflow) instead. need windows.
 
 you need to set the shared graphical memory to a larger value.
 
-does not work for integrated graphic cards, and supported amd cards are limited.
+rocm does not work for integrated graphic cards (even if you build it and configured the card name), and supported amd cards are limited.
 
 
