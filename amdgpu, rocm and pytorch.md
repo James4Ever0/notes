@@ -1,10 +1,14 @@
 ---
 title: 'amdgpu, rocm and pytorch'
 created: '2023-10-10T17:13:14.000Z'
-modified: '2023-10-14T11:15:11.693Z'
+modified: '2023-10-14T11:48:08.462Z'
 ---
 
 # amdgpu, rocm and pytorch
+
+rocm is trash to apu. use vulkan or opengl (alternative backends)
+
+---
 
 find latest build in pytorch nightly repo
 
