@@ -1,6 +1,7 @@
 ---
-created: 2023-10-11T01:13:14+08:00
-modified: 2023-10-11T01:14:33+08:00
+title: 'amdgpu, rocm and pytorch'
+created: '2023-10-10T17:13:14.000Z'
+modified: '2023-10-14T11:13:17.316Z'
 ---
 
 # amdgpu, rocm and pytorch
@@ -8,3 +9,13 @@ modified: 2023-10-11T01:14:33+08:00
 find latest build in pytorch nightly repo
 
 use sudo before invoking amdgpu related commands, otherwise unavailable
+
+---
+
+use directml instead. need windows.
+
+you need to set the shared graphical memory to a larger value.
+
+does not work for integrated graphic cards, and supported amd cards are limited.
+
+
