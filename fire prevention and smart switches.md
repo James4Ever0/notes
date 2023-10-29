@@ -1,12 +1,12 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-10-29T11:01:15.037Z'
+modified: '2023-10-29T11:02:47.868Z'
 ---
 
 # fire prevention and smart switches
 
-use fire preventing sheets, use high quality cabels, use cabel protectors around coils, spray fire preventing liquid
+use fire preventing sheets, use high quality cabels, use fire preventing cabel protectors around coils, spray fire preventing liquid
 
 ----
 
