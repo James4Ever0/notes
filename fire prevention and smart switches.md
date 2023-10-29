@@ -1,7 +1,7 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-10-29T09:43:30.047Z'
+modified: '2023-10-29T09:44:12.213Z'
 ---
 
 # fire prevention and smart switches
@@ -13,6 +13,8 @@ if the source is battery-less, cutting off the power can solve the problem. if i
 fire or shortcut usually happens around those plugged or charged devices. unmanaged ones can cause dramatic catastrophics.
 
 if you want distributed computing, safety need to be put into first place.
+
+you need to always make sure that message service is always avaliable to 
 
 ----
 
