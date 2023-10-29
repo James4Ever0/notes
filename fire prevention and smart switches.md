@@ -1,10 +1,16 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-09-10T12:39:12.345Z'
+modified: '2023-10-29T09:40:53.521Z'
 ---
 
 # fire prevention and smart switches
+
+fire is detected multiple times and is now the major concern of all. even if you somehow find a little purpose from the machine, the machine can always burn for no reason at all. you need to stop it.
+
+if the source is battery-less, cutting off the power can solve the problem. if it has battery, then you need to wait till its battery being drained (usually shortcut) and then ditch it.
+
+----
 
 we introduce some chain reaction like mechanism, to turn off corresponding wifi-connected switches when specific signal is received.
 
