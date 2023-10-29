@@ -1,7 +1,7 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-10-29T09:42:32.807Z'
+modified: '2023-10-29T09:43:30.047Z'
 ---
 
 # fire prevention and smart switches
@@ -11,6 +11,8 @@ fire is detected multiple times and is now the major concern of all. even if you
 if the source is battery-less, cutting off the power can solve the problem. if it has battery, then you need to wait till its battery being drained (usually shortcut) and then ditch it.
 
 fire or shortcut usually happens around those plugged or charged devices. unmanaged ones can cause dramatic catastrophics.
+
+if you want distributed computing, safety need to be put into first place.
 
 ----
 
