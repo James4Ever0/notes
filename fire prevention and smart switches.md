@@ -1,7 +1,7 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-10-29T09:44:12.213Z'
+modified: '2023-10-29T10:01:52.469Z'
 ---
 
 # fire prevention and smart switches
@@ -14,7 +14,7 @@ fire or shortcut usually happens around those plugged or charged devices. unmana
 
 if you want distributed computing, safety need to be put into first place.
 
-you need to always make sure that message service is always avaliable to 
+you need to always make sure that message service is always avaliable to the supervisor.
 
 ----
 
