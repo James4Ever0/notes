@@ -1,10 +1,14 @@
 ---
 title: fire prevention and smart switches
 created: '2023-09-09T03:21:23.000Z'
-modified: '2023-10-29T10:02:43.490Z'
+modified: '2023-10-29T11:01:15.037Z'
 ---
 
 # fire prevention and smart switches
+
+use fire preventing sheets, use high quality cabels, use cabel protectors around coils, spray fire preventing liquid
+
+----
 
 fire is detected multiple times and is now the major concern of all. even if you somehow find a little purpose from the machine, the machine can always burn for no reason at all. you need to stop it.
 
