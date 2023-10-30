@@ -1,10 +1,14 @@
 ---
 title: fire prevention and smart switches
-created: '2023-09-09T03:21:23.000Z'
-modified: '2023-10-29T11:02:47.868Z'
+created: 2023-09-09T03:21:23+00:00
+modified: 2023-10-30T14:08:21+08:00
 ---
 
 # fire prevention and smart switches
+
+锂电池充电防爆箱
+
+----
 
 use fire preventing sheets, use high quality cabels, use fire preventing cabel protectors around coils, spray fire preventing liquid
 
