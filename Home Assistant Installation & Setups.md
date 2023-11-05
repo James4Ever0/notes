@@ -1,7 +1,7 @@
 ---
 title: Home Assistant Installation & Setups
 created: '2023-11-05T18:51:22.434Z'
-modified: '2023-11-05T19:11:11.857Z'
+modified: '2023-11-05T19:13:06.544Z'
 ---
 
 # Home Assistant Installation & Setups
@@ -22,7 +22,7 @@ Use video capture card and OBS studio to observe the RPI terminal. Attach to key
 
 `ha banner` sometimes resolves issues.
 
-You can enter [debug mode](https://developers.home-assistant.io/docs/operating-system/debugging/), edit the following file `/mnt/data/supervisor/jobs.json` into:
+To prevent addon installation limits, you can enter [debug mode](https://developers.home-assistant.io/docs/operating-system/debugging/), edit the following file `/mnt/data/supervisor/jobs.json` into:
 
 ```json
 {
