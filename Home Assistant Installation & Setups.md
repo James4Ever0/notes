@@ -1,12 +1,14 @@
 ---
 title: Home Assistant Installation & Setups
 created: '2023-11-05T18:51:22.434Z'
-modified: '2023-11-05T19:08:27.650Z'
+modified: '2023-11-05T19:11:11.857Z'
 ---
 
 # Home Assistant Installation & Setups
 
 Fully functional HA mainly comes into two forms: flashable supervised `.iso` images, and virtual machines (not docker container).
+
+Remember to create backup of HA after successful initialization. You can create an iso for the entire disk or just using backup utility builtin.
 
 Supervisor need to be updated before other components. It is also the troublemaker. Set auto update of supervisor to false by:
 
