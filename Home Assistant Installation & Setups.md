@@ -1,7 +1,7 @@
 ---
 title: Home Assistant Installation & Setups
 created: '2023-11-05T18:51:22.434Z'
-modified: '2023-11-05T19:05:28.165Z'
+modified: '2023-11-05T19:06:55.251Z'
 ---
 
 # Home Assistant Installation & Setups
@@ -14,7 +14,7 @@ Supervisor need to be updated before other components. It is also the troublemak
 ha supervisor options --auto-update=false
 ```
 
-Since its heavy reliance on docker and github, one need to use [OpenClash]() along with [OpenWrt]() flashed in one dedicated router like [NanoPi R2S]() to smooth the installation process.
+Since its heavy reliance on docker and github, one need to use [OpenClash](https://github.com/vernesong/OpenClash) along with [OpenWrt]() flashed in one dedicated router like [NanoPi R2S]() to smooth the installation process.
 
 Use video capture card and OBS studio to observe the RPI terminal. Attach to keyboard to type commands.
 
