@@ -1,7 +1,7 @@
 ---
 title: Home Assistant Installation & Setups
 created: '2023-11-05T18:51:22.434Z'
-modified: '2023-11-05T19:03:16.610Z'
+modified: '2023-11-05T19:04:08.296Z'
 ---
 
 # Home Assistant Installation & Setups
@@ -17,6 +17,8 @@ ha supervisor options --auto-update=false
 Since its heavy reliance on docker and github, one need to use [OpenClash]() along with [OpenWrt]() flashed in one dedicated router like [NanoPi R2S]() to smooth the installation process.
 
 Use video capture card and OBS studio to observe the RPI terminal. Attach to keyboard to type commands.
+
+`ha banner` sometimes resolves issues.
 
 You can enter [debug mode](https://developers.home-assistant.io/docs/operating-system/debugging/), edit the following file `/mnt/data/supervisor/jobs.json` into:
 
