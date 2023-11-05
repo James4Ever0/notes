@@ -1,14 +1,14 @@
 ---
 title: Home Assistant Installation & Setups
 created: '2023-11-05T18:51:22.434Z'
-modified: '2023-11-05T19:01:25.902Z'
+modified: '2023-11-05T19:01:47.374Z'
 ---
 
 # Home Assistant Installation & Setups
 
 Fully functional HA mainly comes into two forms: flashable supervised `.iso` images, and virtual machines (not docker container).
 
-Supervisor need to be updated before other components.
+Supervisor need to be updated before other components. It is also the troublemaker.
 
 ```bash
 ha supervisor options --auto-update=false
