@@ -1,7 +1,7 @@
 ---
 title: Home Assistant Installation & Setups
 created: '2023-11-05T18:51:22.434Z'
-modified: '2023-11-05T19:00:52.198Z'
+modified: '2023-11-05T19:01:25.902Z'
 ---
 
 # Home Assistant Installation & Setups
@@ -18,6 +18,6 @@ Since its heavy reliance on docker and github, one need to use [OpenClash]() alo
 
 Use video capture card and OBS studio to observe the RPI terminal. Attach to keyboard to type commands.
 
-You can enter [debug mode](), change the following files:
+You can enter [debug mode](https://developers.home-assistant.io/docs/operating-system/debugging/), change the following files:
 
 Some files like `/etc/docker/daemon.json`, `/etc/hosts` cannot be changed after boot. You can change them before boot using card reader.
