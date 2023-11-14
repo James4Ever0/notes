@@ -1,7 +1,7 @@
 ---
 title: Create sparse matrix based liquid state machine
 created: '2023-11-14T13:58:28.712Z'
-modified: '2023-11-14T16:01:54.890Z'
+modified: '2023-11-14T16:02:49.104Z'
 ---
 
 # Create sparse matrix based liquid state machine
@@ -25,7 +25,6 @@ torch.arange(large_number).unsqueeze(0).repeat(2, 1)
 index_arr = torch.arange(large_number).unsqueeze(0).repeat(2, 1)
 val_arr = torch.ones(large_number)
 sparse_eye = torch.sparse_coo_tensor(index_arr, val_arr, (large_number, large_number))
-# sparse_eye.to('mps')
 # sparse_eye.to('cuda')
 ```
 
