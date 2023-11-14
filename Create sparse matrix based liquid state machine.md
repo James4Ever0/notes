@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: Create sparse matrix based liquid state machine
 created: '2023-11-14T13:58:28.712Z'
-modified: '2023-11-14T15:45:01.735Z'
+modified: '2023-11-14T16:00:49.102Z'
 ---
 
 # Create sparse matrix based liquid state machine
