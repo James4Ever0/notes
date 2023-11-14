@@ -1,12 +1,12 @@
 ---
 title: Create sparse matrix based liquid state machine
 created: '2023-11-14T13:58:28.712Z'
-modified: '2023-11-14T15:40:27.892Z'
+modified: '2023-11-14T15:40:36.046Z'
 ---
 
 # Create sparse matrix based liquid state machine
 
-use `tensorly` to create random sparse tensor and eye sparse tensor with ease, which could be numpy only, and requires the `sparse` package, and slow.
+use `tensorly` to create random sparse tensor and eye sparse tensor with ease, which could be numpy only, and requires the `sparse` package.
 
 `scipy`, `pytorch`, `tensorflow`, `jax` all support sparse tensor construction but advanced apis are not.
 
