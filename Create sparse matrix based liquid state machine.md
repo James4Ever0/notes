@@ -1,7 +1,7 @@
 ---
 title: Create sparse matrix based liquid state machine
 created: '2023-11-14T13:58:28.712Z'
-modified: '2023-11-14T15:38:42.051Z'
+modified: '2023-11-14T15:39:15.153Z'
 ---
 
 # Create sparse matrix based liquid state machine
@@ -19,11 +19,10 @@ the human brain has roughly 87 billion neurons, and every one of them has thousa
 ---
 
 ```python
+import torch
 large_number = 1_000_000
->>> import torch
->>> torch.arange(large_number).unsqueeze(0).repeat(2, 1)
->>> index_arr = torch.arange(large_number).unsqueeze(0).repeat(2, 1)
->>> val_arr = torch.ones(large_number)
->>> sparse_eye = torch.sparse_coo_tensor(index_arr, val_arr, (large_number, large_number))
-
+torch.arange(large_number).unsqueeze(0).repeat(2, 1)
+index_arr = torch.arange(large_number).unsqueeze(0).repeat(2, 1)
+val_arr = torch.ones(large_number)
+sparse_eye = torch.sparse_coo_tensor(index_arr, val_arr, (large_number, large_number))
 ```
