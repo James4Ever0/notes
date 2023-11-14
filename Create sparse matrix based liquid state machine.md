@@ -1,7 +1,7 @@
 ---
 title: Create sparse matrix based liquid state machine
 created: '2023-11-14T13:58:28.712Z'
-modified: '2023-11-14T15:40:36.046Z'
+modified: '2023-11-14T15:45:01.735Z'
 ---
 
 # Create sparse matrix based liquid state machine
@@ -25,4 +25,14 @@ torch.arange(large_number).unsqueeze(0).repeat(2, 1)
 index_arr = torch.arange(large_number).unsqueeze(0).repeat(2, 1)
 val_arr = torch.ones(large_number)
 sparse_eye = torch.sparse_coo_tensor(index_arr, val_arr, (large_number, large_number))
+```
+
+alternatively:
+
+```python
+import torch
+import tensorly.contrib.sparse as tsl_sp
+large_number = 1_000_000
+numpy_eye = tsl_sp.eye(large_number)
+torch_eye = torch.sparse_coo_tensor(numpy_eye.coords, numpy_eye.data, numpy_eye.shape)
 ```
