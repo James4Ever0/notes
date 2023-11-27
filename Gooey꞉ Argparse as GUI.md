@@ -1,7 +1,7 @@
 ---
 title: 'Gooey: Argparse as GUI'
 created: '2023-11-27T14:07:02.348Z'
-modified: '2023-11-27T14:10:53.734Z'
+modified: '2023-11-27T14:11:17.084Z'
 ---
 
 # Gooey: Argparse as GUI
@@ -12,4 +12,6 @@ This goofy name "[Gooey](https://github.com/chriskiehl/Gooey)" is so strange tha
 
 Yet we manage to recover it from our legacy codebase `AGI/AutoUP/generator/transcribe`.
 
-Is this fate? Or is the end, or new beginning?
+Is this fate? 
+
+Is this the end, or the new beginning?
