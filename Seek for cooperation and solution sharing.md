@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:13:55.861Z'
+modified: '2023-12-01T12:15:14.201Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -10,7 +10,7 @@ I have been researching in automotive computers for years.
 
 Topics that you might be interested in that I have dug into:
 
-- Q-Star Learning
+- [Q-Star Learning]()
 - RT-2 & RT-X
 - Recursive Positional Encoding
 - Dynamic Reservoir Computing
