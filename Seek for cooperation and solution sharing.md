@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:18:15.932Z'
+modified: '2023-12-01T12:18:27.403Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -29,7 +29,7 @@ I have dedicated repositories that you may be interested into:
 Other similar projects that I am monitoring:
 
 - [GPT-4V-Act]()
-- [SingularGPT]()
+- [SingularGPT](https://github.com/abhiprojectz/SingularGPT)
 - [gpt-eyes](https://github.com/Charmve/gpt-eyes)
 - [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing)
 - [self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
