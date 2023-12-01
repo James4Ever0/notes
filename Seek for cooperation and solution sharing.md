@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:33:24.732Z'
+modified: '2023-12-01T12:34:41.537Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -20,7 +20,7 @@ Topics that you might be interested in that I have dug into:
 - [Physical Robot Based HID Control](https://github.com/James4Ever0/agi_computer_control/tree/master/lego_mindstorm_physical_mouse_keyboard_control)
 - [Bit-level Autoregressive Transformer](https://github.com/James4Ever0/agi_computer_control/blob/master/rt_x_experiments/special_tokenizer_with_actions/test_hierachical_tokenization.py)
 - [Browser-based AI Playground](https://github.com/James4Ever0/agi_computer_control/tree/master/the_frozen_forest_intro)
-- [Containerized Console and GUI AI Playground]()
+- [Containerized Console and GUI AI Playground](https://github.com/James4Ever0/agi_computer_control/tree/master/containerized_chatgpt_agent)
 
 I have dedicated repositories that you may be interested into:
 
