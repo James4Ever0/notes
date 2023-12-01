@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:17:00.289Z'
+modified: '2023-12-01T12:18:15.932Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -30,7 +30,7 @@ Other similar projects that I am monitoring:
 
 - [GPT-4V-Act]()
 - [SingularGPT]()
-- [gpt-eyes]()
+- [gpt-eyes](https://github.com/Charmve/gpt-eyes)
 - [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing)
 - [self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
 
