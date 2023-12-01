@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:28:37.717Z'
+modified: '2023-12-01T12:29:03.204Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -13,7 +13,7 @@ Topics that you might be interested in that I have dug into:
 - [Q-Star Learning](https://github.com/estill01/open_qstar)
 - [RT-2](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments) & [RT-X dataset](https://robotics-transformer-x.github.io/)
 - [Crop & Zoom Based Attention](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments/real_attention)
-- [Recursive Positional Encoding]()
+- [Recursive Positional Encoding](https://github.com/James4Ever0/agi_computer_control/blob/master/rt_x_experiments/real_attention/recursive_positional_encoding.py)
 - [Dynamic Reservoir Computing]()
 - [Automotive Learning Rate](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments/gradient_undescent)
 - [Hardware Mouse/Keyboard Control]()
