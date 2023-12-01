@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:30:37.606Z'
+modified: '2023-12-01T12:31:10.802Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -14,7 +14,7 @@ Topics that you might be interested in that I have dug into:
 - [RT-2](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments) & [RT-X dataset](https://robotics-transformer-x.github.io/)
 - [Crop & Zoom Based Attention](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments/real_attention)
 - [Recursive Positional Encoding](https://github.com/James4Ever0/agi_computer_control/blob/master/rt_x_experiments/real_attention/recursive_positional_encoding.py)
-- [Dynamic Reservoir Computing]()
+- [Dynamic Reservoir Computing](https://github.com/James4Ever0/agi_computer_control/tree/master/dynamic_plasticity_neural_networks)
 - [Automotive Learning Rate](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments/gradient_undescent)
 - [Hardware Mouse/Keyboard Control]()
 - [Physical Robot Based HID Control](https://github.com/James4Ever0/agi_computer_control/tree/master/lego_mindstorm_physical_mouse_keyboard_control)
