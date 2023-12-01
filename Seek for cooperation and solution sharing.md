@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:23:31.036Z'
+modified: '2023-12-01T12:23:42.026Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -11,7 +11,7 @@ I have been researching in automotive computers for years.
 Topics that you might be interested in that I have dug into:
 
 - [Q-Star Learning](https://github.com/estill01/open_qstar)
-- [RT-2](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments) & [RT-X]()
+- [RT-2](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments) & [RT-X dataset]()
 - [Recursive Positional Encoding]()
 - [Dynamic Reservoir Computing]()
 - [Hardware Mouse/Keyboard Control]()
