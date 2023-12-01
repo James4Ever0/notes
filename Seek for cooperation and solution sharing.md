@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:15:14.201Z'
+modified: '2023-12-01T12:16:18.231Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -10,15 +10,15 @@ I have been researching in automotive computers for years.
 
 Topics that you might be interested in that I have dug into:
 
-- [Q-Star Learning]()
-- RT-2 & RT-X
-- Recursive Positional Encoding
-- Dynamic Reservoir Computing
-- Hardware Mouse/Keyboard Control
-- Physical HID Control
-- Bit-level Autoregressive Transformer
-- Browser-based AI Playground
-- Containerized Console and GUI AI Playground
+- [Q-Star Learning](https://github.com/estill01/open_qstar)
+- [RT-2]() & [RT-X]()
+- [Recursive Positional Encoding]()
+- [Dynamic Reservoir Computing]()
+- [Hardware Mouse/Keyboard Control]()
+- [Physical HID Control]()
+- [Bit-level Autoregressive Transformer]()
+- [Browser-based AI Playground]()
+- [Containerized Console and GUI AI Playground]()
 
 I have dedicated repositories that you may be interested into:
 
