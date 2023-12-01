@@ -1,10 +1,10 @@
 ---
-title: Untitled
+title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:11:06.445Z'
+modified: '2023-12-01T12:13:02.584Z'
 ---
 
-# 
+# Seek for cooperation and solution sharing
 
 I have been researching in automotive computers for years.
 
@@ -28,8 +28,9 @@ I have dedicated repositories that you may be interested into:
 
 Other similar projects that I am monitoring:
 
-- GPT-4V-Act
+- [GPT-4V-Act]()
 - SingularGPT
 - gpt-eyes
+- 
 
-Apologize for my unorganized code structure. I am trying to improve developers' experience by auto-generated documentation and client-side LLM & semantic search, may solve this long-standing task among all my previous repositories.
+Apologize for my unorganized code structure. I am trying to improve development experience by AI generated documentation & usage demonstration and client-side LLM & semantic search, which may solve this long-standing task among all my previous repositories.
