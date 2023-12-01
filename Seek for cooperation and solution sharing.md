@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:29:03.204Z'
+modified: '2023-12-01T12:29:25.426Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -17,7 +17,7 @@ Topics that you might be interested in that I have dug into:
 - [Dynamic Reservoir Computing]()
 - [Automotive Learning Rate](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments/gradient_undescent)
 - [Hardware Mouse/Keyboard Control]()
-- [Physical HID Control]()
+- [Physical Robot Based HID Control]()
 - [Bit-level Autoregressive Transformer]()
 - [Browser-based AI Playground]()
 - [Containerized Console and GUI AI Playground]()
