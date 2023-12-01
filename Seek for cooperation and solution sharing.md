@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:20:44.892Z'
+modified: '2023-12-01T12:21:16.456Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -22,7 +22,7 @@ Topics that you might be interested in that I have dug into:
 
 I have dedicated repositories that you may be interested into:
 
-- [agi-computer-control](): automotive computer
+- [agi-computer-control](): automotive computer, which can see, hear and operate
 - [metalazero](https://gitee.com/x00e0d991e368/metalazero): multi-platform computer automation attempts
 
 Other similar projects that I am monitoring:
