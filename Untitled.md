@@ -1,7 +1,35 @@
 ---
 title: Untitled
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:11:01.200Z'
+modified: '2023-12-01T12:11:06.445Z'
 ---
 
-# Untitled
+# 
+
+I have been researching in automotive computers for years.
+
+Topics that you might be interested in that I have dug into:
+
+- Q-Star Learning
+- RT-2 & RX-X
+- Recursive Positional Encoding
+- Dynamic Reservoir Computing
+- Hardware Mouse/Keyboard Control
+- Physical HID Control
+- Bit-level Autoregressive Transformer
+- Browser-based AI Playground
+- Containerized Console and GUI AI Playground
+
+I have dedicated repositories that you may be interested into:
+
+- [agi-computer-control](): automotive computer
+- [pyjom](): media content automation
+- [metalazero](): multi-platform computer automation attempts
+
+Other similar projects that I am monitoring:
+
+- GPT-4V-Act
+- SingularGPT
+- gpt-eyes
+
+Apologize for my unorganized code structure. I am trying to improve developers' experience by auto-generated documentation and client-side LLM & semantic search, may solve this long-standing task among all my previous repositories.
