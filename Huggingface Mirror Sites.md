@@ -1,7 +1,7 @@
 ---
 title: Huggingface Mirror Sites
 created: '2023-12-03T16:17:26.505Z'
-modified: '2023-12-03T16:18:26.984Z'
+modified: '2023-12-03T16:18:34.351Z'
 ---
 
 # Huggingface Mirror Sites
@@ -10,4 +10,4 @@ modified: '2023-12-03T16:18:26.984Z'
 
 [mirror site](https://hf-mirror.com/)
 
-[partial mirror site]()
+[partial mirror site](https://aliendao.cn/#/)
