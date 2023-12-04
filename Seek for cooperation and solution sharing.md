@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-01T12:34:41.537Z'
+modified: '2023-12-04T05:41:23.543Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -9,6 +9,8 @@ modified: '2023-12-01T12:34:41.537Z'
 I have been researching in automotive computers for years.
 
 Topics that you might be interested in that I have dug into:
+
+
 
 - [Q-Star Learning](https://github.com/estill01/open_qstar)
 - [RT-2](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments) & [RT-X dataset](https://robotics-transformer-x.github.io/)
