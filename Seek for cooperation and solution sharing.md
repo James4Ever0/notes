@@ -1,7 +1,7 @@
 ---
 title: Seek for cooperation and solution sharing
 created: '2023-12-01T12:11:01.177Z'
-modified: '2023-12-04T05:41:23.543Z'
+modified: '2023-12-04T05:42:15.372Z'
 ---
 
 # Seek for cooperation and solution sharing
@@ -11,7 +11,8 @@ I have been researching in automotive computers for years.
 Topics that you might be interested in that I have dug into:
 
 
-
+Free Energy Principle & Active Inference
+LLM Robotics
 - [Q-Star Learning](https://github.com/estill01/open_qstar)
 - [RT-2](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments) & [RT-X dataset](https://robotics-transformer-x.github.io/)
 - [Crop & Zoom Based Attention](https://github.com/James4Ever0/agi_computer_control/tree/master/rt_x_experiments/real_attention)
