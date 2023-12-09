@@ -1,7 +1,7 @@
 ---
 title: How to create cybergod
 created: '2023-12-08T16:35:59.011Z'
-modified: '2023-12-08T16:36:15.941Z'
+modified: '2023-12-09T12:11:16.142Z'
 ---
 
 # How to create cybergod
@@ -11,4 +11,8 @@ i want to create some sort of agent, that learns autoregressively on historical 
 the main objective of AGI is to create another version of itself.
 
 the verification system can be built upon internal hidden tokens (you feel like you made it, feeling based) or similarity based (timeseries similarity or semantic similarity). there can be some external verification system such as lifespan, disk usage, view count, popularity, total capital etc. 
+
+---
+
+
 
