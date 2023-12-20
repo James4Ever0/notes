@@ -1,7 +1,7 @@
 ---
 title: RAG in my mind
 created: '2023-12-20T18:36:32.123Z'
-modified: '2023-12-20T18:39:02.843Z'
+modified: '2023-12-20T18:39:43.260Z'
 ---
 
 # RAG in my mind
@@ -17,4 +17,5 @@ system perform full text search
 system perform vector search
 
 llm generate relevance or preference
+llm generate potential query for content
 system update relevance based on llm preference
