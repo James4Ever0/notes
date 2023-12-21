@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:04:32.223Z'
+modified: '2023-12-21T16:05:43.652Z'
 ---
 
 # Waydroid installation steps
@@ -19,7 +19,9 @@ on ubuntu you need to use proxy during apt mirror syncing.
 to setup proxy:
 
 ```bash
-proxy
+ proxy --port <port> --host <host> \
+                                     --plugins proxy.plugin.ProxyPoolPlugin \
+                                     --proxy-pool localhost:<local_proxy_port>
 ```
 
 to use proxy:
