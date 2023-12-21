@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:27:45.338Z'
+modified: '2023-12-21T17:15:07.629Z'
 ---
 
 # Waydroid installation steps
@@ -95,3 +95,7 @@ xwayland=true
 ```
 
 run `weston`, launch terminal at top left corner, run `waydroid`
+
+## network issue
+
+in addition to the [official guide](), you also need to enable `firewalld` or `ufw` to make it work.
