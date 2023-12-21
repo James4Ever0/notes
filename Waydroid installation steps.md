@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:10:29.274Z'
+modified: '2023-12-21T16:11:11.923Z'
 ---
 
 # Waydroid installation steps
@@ -24,7 +24,7 @@ execute `sudo bash waydroid_init_repo.sh` to setup waydroid repository
 
 on ubuntu you need to use proxy during apt mirror syncing.
 
-to setup proxy:
+to setup proxy (relay local proxy):
 
 ```bash
  proxy --port <port> --host <host> \
