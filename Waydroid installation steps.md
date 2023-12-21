@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:09:50.415Z'
+modified: '2023-12-21T16:10:29.274Z'
 ---
 
 # Waydroid installation steps
@@ -69,7 +69,7 @@ def use_liquidtelecom_mirror(url: str):
             url += conn_symbol + keyword
     return url
 
-## modify part
+## modified part
 
 def download(args, url, prefix, cache=True, loglevel=logging.INFO, allow_404=False):
     ...
