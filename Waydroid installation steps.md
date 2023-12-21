@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T15:58:06.214Z'
+modified: '2023-12-21T15:58:10.153Z'
 ---
 
 # Waydroid installation steps
@@ -32,7 +32,7 @@ after installation you should comment out the mirror at: ``
 
 ## initialize waydroid
 
-start waydroid service: 
+start waydroid service: `sudo systemctl enable --now waydroid-container`
 
 the download speed of sourceforge is very slow, unless you use mirror like `liquidtelecom`
 
