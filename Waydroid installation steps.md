@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T15:58:10.153Z'
+modified: '2023-12-21T15:58:56.059Z'
 ---
 
 # Waydroid installation steps
@@ -39,7 +39,13 @@ the download speed of sourceforge is very slow, unless you use mirror like `liqu
 modify the file ``
 
 ```python
+...
 
+## added part
+
+## modify part
+
+...
 ```
 
 restart service: `sudo systemctl restart waydroid-container`
