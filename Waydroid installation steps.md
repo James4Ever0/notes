@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:09:17.048Z'
+modified: '2023-12-21T16:09:50.415Z'
 ---
 
 # Waydroid installation steps
@@ -90,7 +90,8 @@ install weston: `apt install weston`
 configure weston at `~/.config/weston.ini`
 
 ```toml
-
+[core]
+xwayland=true
 ```
 
 run `weston`, launch terminal at top left corner, run `waydroid`
