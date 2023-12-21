@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T15:54:30.220Z'
+modified: '2023-12-21T15:58:06.214Z'
 ---
 
 # Waydroid installation steps
@@ -31,6 +31,8 @@ to use proxy:
 after installation you should comment out the mirror at: ``
 
 ## initialize waydroid
+
+start waydroid service: 
 
 the download speed of sourceforge is very slow, unless you use mirror like `liquidtelecom`
 
