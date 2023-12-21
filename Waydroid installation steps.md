@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:05:43.652Z'
+modified: '2023-12-21T16:06:07.393Z'
 ---
 
 # Waydroid installation steps
@@ -20,8 +20,8 @@ to setup proxy:
 
 ```bash
  proxy --port <port> --host <host> \
-                                     --plugins proxy.plugin.ProxyPoolPlugin \
-                                     --proxy-pool localhost:<local_proxy_port>
+       --plugins proxy.plugin.ProxyPoolPlugin \
+       --proxy-pool localhost:<local_proxy_port>
 ```
 
 to use proxy:
