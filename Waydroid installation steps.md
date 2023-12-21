@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:11:25.434Z'
+modified: '2023-12-21T16:27:45.338Z'
 ---
 
 # Waydroid installation steps
@@ -10,7 +10,7 @@ cursed by the wall.
 
 ## install waydroid package (for ubuntu)
 
-visit `https://repo.waydro.id/` (`waydroid_init_repo.sh`) `https://repo.waydro.id/waydroid.gpg` (`waydroid.gpg`) and download them as files. (using proxy)
+visit and save `https://repo.waydro.id/` as `waydroid_init_repo.sh`, `https://repo.waydro.id/waydroid.gpg` as `waydroid.gpg` (using proxy)
 
 comment out the download part in `waydroid_init_repo.sh`
 
