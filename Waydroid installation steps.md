@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:06:07.393Z'
+modified: '2023-12-21T16:07:21.811Z'
 ---
 
 # Waydroid installation steps
@@ -10,9 +10,9 @@ cursed by the wall.
 
 ## install waydroid package (for ubuntu)
 
-visit `` (``) `` (``) and download them as files. (using proxy)
+visit `https://repo.waydro.id/` (`waydroid_init_repo.sh`) `` (``) and download them as files. (using proxy)
 
-comment out the download part in ``, move the certificate `` to ``, execute `` to setup waydroid repository
+comment out the download part in `waydroid_init_repo.sh`, move `` to ``, execute `` to setup waydroid repository
 
 on ubuntu you need to use proxy during apt mirror syncing.
 
