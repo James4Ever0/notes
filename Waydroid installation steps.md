@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:01:42.063Z'
+modified: '2023-12-21T16:03:02.670Z'
 ---
 
 # Waydroid installation steps
@@ -25,7 +25,9 @@ to setup proxy:
 to use proxy:
 
 ```bash
+sudo env https_proxy=http://<host>:<port> http_proxy=http://<host>:<port> all_proxy=http://<host>:<port> apt update
 
+sudo env https_proxy=http://<host>:<port> http_proxy=http://<host>:<port> all_proxy=http://<host>:<port> apt install waydroid -y
 ```
 
 after installation you should comment out the mirror at: ``
