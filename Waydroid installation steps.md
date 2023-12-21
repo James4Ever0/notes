@@ -1,7 +1,7 @@
 ---
 title: Waydroid installation steps
 created: '2023-12-21T15:43:49.506Z'
-modified: '2023-12-21T16:00:13.351Z'
+modified: '2023-12-21T16:00:22.491Z'
 ---
 
 # Waydroid installation steps
@@ -36,7 +36,7 @@ start waydroid service: `sudo systemctl enable --now waydroid-container`
 
 the download speed of sourceforge is very slow, unless you use mirror like `liquidtelecom`
 
-modify the file `/usr/lib/waydroid/tools/helpers/`
+modify the file `/usr/lib/waydroid/tools/helpers/http.py`
 
 ```python
 ...
