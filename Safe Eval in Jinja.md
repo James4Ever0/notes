@@ -1,7 +1,7 @@
 ---
 title: Safe Eval in Jinja
 created: '2024-01-03T08:44:56.882Z'
-modified: '2024-01-03T08:48:01.419Z'
+modified: '2024-01-03T08:49:07.491Z'
 ---
 
 # Safe Eval in Jinja
@@ -24,4 +24,23 @@ def simple_eval(expr: str, globals_dict: dict = None):
 
 if __name__ == '__main__':
     print(simple_eval('${a}+1', {'a': 1}) == 2)
+```
+
+```python
+class NeverUndefined(jinja2.StrictUndefined):
+    def __init__(self, *args, **kwargs):
+        # ARGS: ("parameter 'myvar2' was not provided",)
+        # KWARGS: {'name': 'myvar2'}
+        if len(args) == 1:
+            info = args[0]
+        elif "name" in kwargs.keys():
+            info = f"Undefined variable '{kwargs['name']}"
+        else:
+            infoList = ["Not allowing any undefined variable."]
+            infoList.append(f"ARGS: {args}")
+            infoList.append(f"KWARGS: {kwargs}")
+            info = "\n".join(infoList)
+
+        raise Exception(info)
+
 ```
