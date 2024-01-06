@@ -1,12 +1,12 @@
 ---
 title: Unbuffered Python
 created: '2024-01-06T14:33:52.573Z'
-modified: '2024-01-06T14:36:04.172Z'
+modified: '2024-01-06T14:36:43.611Z'
 ---
 
 # Unbuffered Python
 
-When reading bytes asynchronously using `asyncio.create_subprocess_exec`, the program has to be unbuffered.
+When reading bytes asynchronously from `stdout` using `asyncio.create_subprocess_exec`, the program has to be unbuffered.
 
 ```bash
 python3 -u <script_path>
