@@ -1,7 +1,7 @@
 ---
 title: Unbuffered Python
 created: '2024-01-06T14:33:52.573Z'
-modified: '2024-01-06T14:35:29.778Z'
+modified: '2024-01-06T14:36:04.172Z'
 ---
 
 # Unbuffered Python
@@ -17,12 +17,12 @@ python3 -u <script_path>
 import builtins
 import copy
 
-myprint = copy.copy(builtins.print)
+old_print = copy.copy(builtins.print)
 
 def custom_print(*args, **kwargs):
     if 'flush' not in kwargs:
         kwargs['flush'] = True
-    myprint(*args, **kwargs)
+    old_print(*args, **kwargs)
 
 # Override the built-in print function with the custom function
 builtins.print = custom_print
