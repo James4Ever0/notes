@@ -1,7 +1,7 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T13:05:58.436Z'
+modified: '2024-01-10T13:06:30.125Z'
 ---
 
 # Automatic Documentation
@@ -18,7 +18,7 @@ Similar projects:
 [Cody](https://github.com/sourcegraph/cody) codebase understanding
 [symf]()
 
-[sourcegraph]()
+[sourcegraph]() (remember how we browse source code of bilibili and )
 [livegrep]()
 [issue on rg]() to create persistant index
 
