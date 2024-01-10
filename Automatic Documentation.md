@@ -1,7 +1,7 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T13:09:44.954Z'
+modified: '2024-01-10T13:10:03.371Z'
 ---
 
 # Automatic Documentation
@@ -19,7 +19,7 @@ Related things:
 [symf]()
 
 [sourcegraph]() (remember how we browse source code of bilibili and potentially gta5 code)
-[livegrep]()
+[livegrep](https://livegrep.com/)
 [issue on rg](https://github.com/BurntSushi/ripgrep/issues/1497) to create persistant index
 
 Documentation frameworks:
