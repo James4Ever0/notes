@@ -1,7 +1,7 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T13:12:38.216Z'
+modified: '2024-01-10T13:12:45.121Z'
 ---
 
 # Automatic Documentation
@@ -16,7 +16,7 @@ Related things:
 [write-the](https://github.com/Wytamma/write-the)
 
 [Cody](https://github.com/sourcegraph/cody) codebase understanding
-[symf](https://github.com/sourcegraph/symf) (without readme, closed source?)
+[symf](https://github.com/sourcegraph/symf) (without readme, close source?)
 
 [sourcegraph](https://sourcegraph.com) (remember how we browse source code of bilibili and potentially gta5 code)
 [livegrep](https://livegrep.com/)
