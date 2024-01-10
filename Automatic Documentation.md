@@ -1,7 +1,7 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T12:58:47.718Z'
+modified: '2024-01-10T12:59:11.468Z'
 ---
 
 # Automatic Documentation
@@ -10,7 +10,7 @@ Semantic search, question-answer generation (query generation), prompt engineeri
 
 Similar projects:
 
-[autodoc]
+[autodoc](https://github.com/context-labs/autodoc) with self-generated documentation
 
 Documentation frameworks:
 
