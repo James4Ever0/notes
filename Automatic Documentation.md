@@ -1,12 +1,14 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T13:12:48.314Z'
+modified: '2024-01-10T13:57:48.891Z'
 ---
 
 # Automatic Documentation
 
 Semantic search, question-answer generation (query generation), prompt engineering, template generation, usage generation, topic/category clustering, turn plain text summaries into markdown document.
+
+Bad written code will suffer from longer process time (1000+ loc file), ambiguous project structure and so on. Currently the file cache system is just enough.
 
 Related things:
 
