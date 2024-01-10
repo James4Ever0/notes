@@ -1,7 +1,7 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T13:01:35.434Z'
+modified: '2024-01-10T13:02:06.377Z'
 ---
 
 # Automatic Documentation
@@ -18,7 +18,7 @@ Similar projects:
 
 Documentation frameworks:
 
-mkdocs
+[mkdocs]()
 
 Useful libraries:
 
