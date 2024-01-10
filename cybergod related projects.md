@@ -1,12 +1,16 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2023-12-25T15:00:15.368Z'
+modified: '2024-01-10T15:53:40.512Z'
 ---
 
 # cybergod related projects
 
+Not every repo has documentation.
+
 ```bash
+git clone https://github.com/opendilab/LightZero
+
 git clone https://github.com/ruvnet/q-star
 git clone https://github.com/tairov/QStarLearning.mojo
 git clone https://github.com/estill01/open_qstar
