@@ -1,14 +1,14 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T13:06:30.125Z'
+modified: '2024-01-10T13:07:13.831Z'
 ---
 
 # Automatic Documentation
 
 Semantic search, question-answer generation (query generation), prompt engineering, template generation, usage generation, topic/category clustering, turn plain text summaries into markdown document.
 
-Similar projects:
+Related things:
 
 [autodoc](https://github.com/context-labs/autodoc) with self-generated documentation
 [doc-comments-ai](https://github.com/fynnfluegge/doc-comments-ai)
@@ -18,7 +18,7 @@ Similar projects:
 [Cody](https://github.com/sourcegraph/cody) codebase understanding
 [symf]()
 
-[sourcegraph]() (remember how we browse source code of bilibili and )
+[sourcegraph]() (remember how we browse source code of bilibili and potentially gta5 code)
 [livegrep]()
 [issue on rg]() to create persistant index
 
