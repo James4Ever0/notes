@@ -1,7 +1,7 @@
 ---
 title: Automatic Documentation
 created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T12:59:53.824Z'
+modified: '2024-01-10T13:00:18.103Z'
 ---
 
 # Automatic Documentation
@@ -12,6 +12,8 @@ Similar projects:
 
 [autodoc](https://github.com/context-labs/autodoc) with self-generated documentation
 [doc-comments-ai](https://github.com/fynnfluegge/doc-comments-ai)
+[AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT)
+[]
 
 Documentation frameworks:
 
