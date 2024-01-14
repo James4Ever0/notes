@@ -1,7 +1,7 @@
 ---
 title: 'System lagging alert, temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T09:46:07.633Z'
+modified: '2024-01-14T11:18:20.727Z'
 ---
 
 # System lagging alert, temperature alert in arbitrary device
@@ -46,7 +46,7 @@ Create temperature statistics (high, low, mean) for all crucial components.
 
 Set alert threshold, only trigger alert if temperature reoccurs for several times.
 
-Send `ntfy.io` notification as well as making audible alerts.
+Send `ntfy.sh` notification as well as making audible alerts.
 
 Notification shall specify device name, component name, current temperature, threshold, statistics.
 
