@@ -1,7 +1,7 @@
 ---
 title: 'System lagging alert, temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T09:45:24.505Z'
+modified: '2024-01-14T09:46:07.633Z'
 ---
 
 # System lagging alert, temperature alert in arbitrary device
@@ -13,7 +13,17 @@ Although monitor task completion time is helpful, but not general enough.
 Simple hack:
 
 ```python
+import subprocess
 
+def measure_system_responsiveness():
+    start_time = time.time()
+    subprocess.run(
+        ["echo", "hello"], capture_output=True, encoding='utf-8', check=True
+    )
+    end_time = time.time()
+    exec_time = end_time - start_time
+    exec_per_second = 1 / exec_time
+    return exec_per_second
 ```
 
 Lagging related package:
