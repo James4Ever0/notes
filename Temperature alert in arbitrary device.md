@@ -1,12 +1,12 @@
 ---
 title: Temperature alert in arbitrary device
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T08:24:38.472Z'
+modified: '2024-01-14T08:25:02.953Z'
 ---
 
 # Temperature alert in arbitrary device
 
-Packages:
+Temperature monitoring packages:
 
 ```
 gpustat
