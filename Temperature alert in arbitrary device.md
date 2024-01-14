@@ -1,10 +1,17 @@
 ---
 title: Temperature alert in arbitrary device
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T05:53:51.032Z'
+modified: '2024-01-14T08:24:38.472Z'
 ---
 
 # Temperature alert in arbitrary device
+
+Packages:
+
+```
+gpustat
+pyspectator
+```
 
 Create temperature statistics (high, low, mean) for all crucial components.
 
