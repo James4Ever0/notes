@@ -1,17 +1,17 @@
 ---
 title: Temperature alert in arbitrary device
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T08:28:04.473Z'
+modified: '2024-01-14T08:31:53.338Z'
 ---
 
 # Temperature alert in arbitrary device
 
 Temperature monitoring packages:
 
-```
-gpustat
-pyspectator
-lm-sensor (sensor -j)
+```bash
+pip3 install gpustat
+pip3 install pyspectator
+apt install lm-sensor # sensor -j
 ```
 
 Create temperature statistics (high, low, mean) for all crucial components.
