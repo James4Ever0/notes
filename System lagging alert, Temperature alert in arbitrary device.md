@@ -1,10 +1,12 @@
 ---
-title: Temperature alert in arbitrary device
+title: 'System lagging alert, Temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T08:31:53.338Z'
+modified: '2024-01-14T08:56:51.083Z'
 ---
 
-# Temperature alert in arbitrary device
+# System lagging alert, Temperature alert in arbitrary device
+
+The system sometimes feels lagging. The only way to fix is to reboot.
 
 Temperature monitoring packages:
 
