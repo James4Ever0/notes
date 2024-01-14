@@ -1,12 +1,14 @@
 ---
 title: 'System lagging alert, Temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T08:56:51.083Z'
+modified: '2024-01-14T08:58:04.850Z'
 ---
 
 # System lagging alert, Temperature alert in arbitrary device
 
-The system sometimes feels lagging. The only way to fix is to reboot.
+The system sometimes feels lagging, less responsive. The only way to fix is to reboot.
+
+Although monitor task completion time is helpful, but not general enough.
 
 Temperature monitoring packages:
 
