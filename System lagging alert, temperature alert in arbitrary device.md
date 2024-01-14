@@ -1,10 +1,10 @@
 ---
-title: 'System lagging alert, Temperature alert in arbitrary device'
+title: 'System lagging alert, temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T08:58:04.850Z'
+modified: '2024-01-14T08:58:56.228Z'
 ---
 
-# System lagging alert, Temperature alert in arbitrary device
+# System lagging alert, temperature alert in arbitrary device
 
 The system sometimes feels lagging, less responsive. The only way to fix is to reboot.
 
