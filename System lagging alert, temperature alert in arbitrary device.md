@@ -1,7 +1,7 @@
 ---
 title: 'System lagging alert, temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T09:21:57.920Z'
+modified: '2024-01-14T09:44:57.678Z'
 ---
 
 # System lagging alert, temperature alert in arbitrary device
@@ -13,7 +13,7 @@ Although monitor task completion time is helpful, but not general enough.
 Lagging related package:
 
 ```bash
-nohang oomd psi-
+apt install nohang oomd psi-notify 
 ```
 
 Temperature monitoring packages:
@@ -21,7 +21,7 @@ Temperature monitoring packages:
 ```bash
 pip3 install gpustat
 pip3 install pyspectator
-apt install lm-sensor # sensor -j
+apt install lm-sensor # sensors -j
 ```
 
 Create temperature statistics (high, low, mean) for all crucial components.
