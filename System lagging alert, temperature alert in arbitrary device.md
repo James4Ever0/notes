@@ -1,7 +1,7 @@
 ---
 title: 'System lagging alert, temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T09:44:57.678Z'
+modified: '2024-01-14T09:45:24.505Z'
 ---
 
 # System lagging alert, temperature alert in arbitrary device
@@ -10,11 +10,19 @@ The system sometimes feels lagging, less responsive. The only way to fix is to r
 
 Although monitor task completion time is helpful, but not general enough.
 
+Simple hack:
+
+```python
+
+```
+
 Lagging related package:
 
 ```bash
 apt install nohang oomd psi-notify 
 ```
+
+---
 
 Temperature monitoring packages:
 
