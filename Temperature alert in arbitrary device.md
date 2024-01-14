@@ -1,12 +1,12 @@
 ---
 title: Temperature alert in arbitrary device
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T05:53:16.761Z'
+modified: '2024-01-14T05:53:41.520Z'
 ---
 
 # Temperature alert in arbitrary device
 
-Create temperature statistics, high, low, mean
+Create temperature statistics (high, low, mean) for all crucial components.
 
 Set alert threshold, only trigger alert if temperature reoccurs for several times.
 
