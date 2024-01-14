@@ -1,7 +1,7 @@
 ---
 title: 'System lagging alert, temperature alert in arbitrary device'
 created: '2024-01-14T05:48:29.112Z'
-modified: '2024-01-14T09:21:32.234Z'
+modified: '2024-01-14T09:21:57.920Z'
 ---
 
 # System lagging alert, temperature alert in arbitrary device
@@ -13,7 +13,7 @@ Although monitor task completion time is helpful, but not general enough.
 Lagging related package:
 
 ```bash
-
+nohang oomd psi-
 ```
 
 Temperature monitoring packages:
