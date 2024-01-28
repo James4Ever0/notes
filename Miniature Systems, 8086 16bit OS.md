@@ -1,14 +1,14 @@
 ---
 title: 'Miniature Systems, 8086 16bit OS'
 created: '2024-01-28T13:26:01.848Z'
-modified: '2024-01-28T17:16:21.234Z'
+modified: '2024-01-28T17:40:21.370Z'
 ---
 
 # Miniature Systems, 8086 16bit OS
 
 Visit [v86](https://copy.sh/v86/) to run systems like: FreeDOS, KolibriOS, Windows 2000 etc in browser. Image file is written in WASM. [Project](https://github.com/copy/v86) is in Rust.
 
-You can have memory dump, network connection and disk access.
+You can have memory dump, save & load state, network connection and disk access.
 
 ---
 
