@@ -1,7 +1,7 @@
 ---
 title: 'Miniature Systems, 8086 16bit OS'
 created: '2024-01-28T13:26:01.848Z'
-modified: '2024-01-28T17:15:49.757Z'
+modified: '2024-01-28T17:16:21.234Z'
 ---
 
 # Miniature Systems, 8086 16bit OS
@@ -12,4 +12,4 @@ You can have memory dump, network connection and disk access.
 
 ---
 
-Linux is most 80386 (32bit) based and does not support 80286 (16bit).
+Linux is most 80386 (32bit) based and does not support 80286 (16bit). If you want to use Linux in 16bit mode special kernel is required.
