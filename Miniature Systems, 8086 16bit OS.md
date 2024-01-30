@@ -1,12 +1,12 @@
 ---
 title: 'Miniature Systems, 8086 16bit OS'
 created: '2024-01-28T13:26:01.848Z'
-modified: '2024-01-30T16:55:45.007Z'
+modified: '2024-01-30T16:56:10.917Z'
 ---
 
 # Miniature Systems, 8086 16bit OS
 
-[Images](https://github.com/copy/images) used by v86
+[Images](https://github.com/copy/images) used by v86 can be run using QEMU locally.
 
 ---
 
