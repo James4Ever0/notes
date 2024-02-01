@@ -1,7 +1,7 @@
 ---
 title: Telegram 闪退修复
 created: '2024-02-01T11:30:37.482Z'
-modified: '2024-02-01T11:33:36.969Z'
+modified: '2024-02-01T11:33:51.490Z'
 ---
 
 # Telegram 闪退修复
@@ -10,4 +10,4 @@ modified: '2024-02-01T11:33:36.969Z'
 
 用root权限 在`/data/data/org.telegram.messager/files`下面删除`cache4.db`
 
-最近电报不能给国内手机发短信或者打电话了 新注册账号可能需要借助某宝
+最近登陆电报不能给国内手机发短信或者打电话了 新注册账号可能需要借助某宝
