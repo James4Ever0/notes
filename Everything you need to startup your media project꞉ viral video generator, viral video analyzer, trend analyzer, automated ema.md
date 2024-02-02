@@ -1,12 +1,16 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2023-12-12T10:52:08.592Z'
+modified: '2024-02-02T10:11:09.307Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
 use grammar or state machine to constraint how llm generate tokens, in order to perform actions and call tools correctly
+
+---
+
+remove vocal from video and from music downloaded from web, then execute shazam. or only remove vocal from video and execute music search.
 
 ---
 
