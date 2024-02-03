@@ -1,7 +1,7 @@
 ---
 title: Job Seeking and Automated LLM Agents for Browsing and Searching
 created: '2024-02-03T17:11:15.939Z'
-modified: '2024-02-03T17:18:22.532Z'
+modified: '2024-02-03T17:21:57.688Z'
 ---
 
 # Job Seeking and Automated LLM Agents for Browsing and Searching
@@ -22,6 +22,8 @@ Arc浏览器貌似优化较差，速度较慢，界面用起来非常不习惯�
 
 ---
 
-LeptonAI推出Lepton Search项目，需要用Lepton API和Bing API，
+LeptonAI推出[Lepton Search](https://github.com/leptonai/search_with_lepton)项目（对话式搜索引擎），需要用Lepton API和Bing API。
+
+LeptonAI有[状态机JSON格式输出]()的实现。不过建议给大模型一定的思考空间，不要一上来就叫它给答案。
 
 邮箱：info@lepton.ai
