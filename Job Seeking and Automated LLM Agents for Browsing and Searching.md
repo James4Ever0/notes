@@ -1,7 +1,7 @@
 ---
 title: Job Seeking and Automated LLM Agents for Browsing and Searching
 created: '2024-02-03T17:11:15.939Z'
-modified: '2024-02-03T17:23:20.858Z'
+modified: '2024-02-03T17:23:35.773Z'
 ---
 
 # Job Seeking and Automated LLM Agents for Browsing and Searching
@@ -14,7 +14,7 @@ modified: '2024-02-03T17:23:20.858Z'
 
 ---
 
-[Arc](https://arc.net)近日将推出mac端的Arc自动浏览功能，iPhone端的[Arc Search]()在Preview商店里面可以下载。
+[Arc](https://arc.net)近日将推出mac端的Arc自动浏览功能，iPhone端的[Arc Search](https://apps.apple.com/app/apple-store/id6472513080?pt=120729021&ct=arcnet-nav&mt=8)在Preview商店里面可以下载。
 
 Arc浏览器貌似优化较差，速度较慢，界面用起来非常不习惯。
 
