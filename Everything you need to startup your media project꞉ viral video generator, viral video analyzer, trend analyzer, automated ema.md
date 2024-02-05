@@ -1,12 +1,12 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2024-02-05T04:52:13.241Z'
+modified: '2024-02-05T04:52:19.632Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
-Microsoft powered [recommendation system](), has now joined the Linux Foundation.
+Microsoft powered [recommendation system](https://github.com/recommenders-team/recommenders), has now joined the Linux Foundation.
 
 ---
 
