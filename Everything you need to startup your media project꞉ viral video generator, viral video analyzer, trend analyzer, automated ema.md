@@ -1,10 +1,14 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2024-02-02T10:11:09.307Z'
+modified: '2024-02-05T04:52:13.241Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
+
+Microsoft powered [recommendation system](), has now joined the Linux Foundation.
+
+---
 
 use grammar or state machine to constraint how llm generate tokens, in order to perform actions and call tools correctly
 
