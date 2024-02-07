@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T18:31:02.458Z'
+modified: '2024-02-07T18:31:12.577Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -10,7 +10,9 @@ You have posted a lot of ideas into your QQ, WeChat, bookmarks and Bilibili favo
 
 ---
 
-I hate Linkedin and Twitter. They both ban my accounts for no goddamn reason. Newly registered accounts shall do no operation for a long time before using features like browsing, following. Consider finding some alternative platforms for job finding (remote work: V2EX, crypto careers, web3.careers) and social network.
+I hate Linkedin and Twitter. They both ban my accounts for no goddamn reason. Newly registered accounts shall do no operation for a long time before using features like browsing, following.
+
+Consider finding some alternative platforms for job finding (remote work: V2EX, crypto careers, web3.careers) and social network.
 
 ---
 
