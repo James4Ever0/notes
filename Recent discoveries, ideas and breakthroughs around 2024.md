@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:26:07.922Z'
+modified: '2024-02-07T19:27:16.772Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -90,5 +90,5 @@ Document understanding & OCR: Nougat, CnOCR
 
 TTS: Bert-ViTS, GPT-SoViTS
 
-Agent: ProAgent, crewAI, Dify
+Agent: ProAgent, crewAI, Dify, AutoGen
 
