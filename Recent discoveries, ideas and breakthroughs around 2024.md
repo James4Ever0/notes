@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:29:33.574Z'
+modified: '2024-02-07T19:44:36.435Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -96,3 +96,4 @@ TTS: Bert-ViTS, GPT-SoViTS
 
 Agent: ProAgent, crewAI, Dify, AutoGen
 
+YOLOv8 AimBot
