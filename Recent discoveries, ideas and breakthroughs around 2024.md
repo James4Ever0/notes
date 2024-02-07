@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:04:43.259Z'
+modified: '2024-02-07T19:07:07.877Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -68,5 +68,7 @@ The platform [openxlab](https://openxlab.org.cn) is a huggingface clone, and may
 
 A better alternative for SadTalker: [Dream-Talk](https://magic-research.github.io/dream-talk/) (still single image generation).
 
-Meta has Metahuman pose generation by audio.
+[Audio2Gesture](https://docs.omniverse.nvidia.com/extensions/latest/ext_audio2gesture.html) (pose generation by audio) can be exported to Metahuman.
+
+
 
