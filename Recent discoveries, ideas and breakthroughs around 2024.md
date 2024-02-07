@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:17:23.494Z'
+modified: '2024-02-07T19:18:45.874Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -71,6 +71,7 @@ A better alternative for SadTalker: [Dream-Talk](https://magic-research.github.i
 [Audio2Gesture](https://docs.omniverse.nvidia.com/extensions/latest/ext_audio2gesture.html) (pose generation by audio) can be exported to Metahuman.
 
 Wav2Lip, Linly-Talker
+
 ---
 
 MagicVideo-V2 for video generation
