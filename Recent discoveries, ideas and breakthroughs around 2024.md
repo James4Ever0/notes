@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:07:07.877Z'
+modified: '2024-02-07T19:17:23.494Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -70,5 +70,24 @@ A better alternative for SadTalker: [Dream-Talk](https://magic-research.github.i
 
 [Audio2Gesture](https://docs.omniverse.nvidia.com/extensions/latest/ext_audio2gesture.html) (pose generation by audio) can be exported to Metahuman.
 
+Wav2Lip, Linly-Talker
+---
 
+MagicVideo-V2 for video generation
+
+Anymate Anyone with OpenPose
+
+DragonDiffusion for image detail editing
+
+DeepSeekMoE 16B: the first MoE model in China
+
+Auto Labeling: AutoLabel, AnyLabeling
+
+RAG: QAnything by NetEase, StreamRAG for video search
+
+Document understanding & OCR: Nougat, CnOCR
+
+TTS: Bert-ViTS, GPT-SoViTS
+
+Agent: ProAgent, crewAI, Dify
 
