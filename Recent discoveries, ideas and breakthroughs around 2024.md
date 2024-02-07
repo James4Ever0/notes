@@ -1,12 +1,16 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:27:16.772Z'
+modified: '2024-02-07T19:29:33.574Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
 
-You have posted a lot of ideas into your QQ, WeChat, bookmarks and Bilibili favourites. Consider using tools to retrieve them? 
+You have posted a lot of ideas into your QQ, WeChat, bookmarks and Bilibili favourites. Consider using tools to retrieve them?
+
+---
+
+卡点视频可以用Magenta Studio之类的MIDI生成模型或者时序输出模型来做，卡时间节点。
 
 ---
 
