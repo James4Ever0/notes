@@ -1,17 +1,18 @@
 ---
 title: LlamaIndex hackathon resource guide
 created: '2024-02-07T18:41:37.098Z'
-modified: '2024-02-07T18:41:56.460Z'
+modified: '2024-02-07T18:42:31.090Z'
 ---
 
 # LlamaIndex hackathon resource guide
 
 ## Beginners
-What is Retrieval-Augmented Generation (RAG)? What is any of this?
-We have libraries in Python and TypeScript; the Python lib has more features
-Installation and getting started:
-Python
-TypeScript
+
+- [What is Retrieval-Augmented Generation (RAG)? What is any of this?](https://docs.llamaindex.ai/en/stable/getting_started/concepts.html)
+- We have libraries in Python and TypeScript; the Python lib has more features
+- Installation and getting started:
+  - Python
+  - TypeScript
 I want to customize…
 LlamaHub is a collection of data connectors, agent tools and pre-written code
 We have notebooks that show how to use the tools on LlamaHub
