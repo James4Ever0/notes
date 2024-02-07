@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:25:37.184Z'
+modified: '2024-02-07T19:26:07.922Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -74,7 +74,7 @@ Wav2Lip, Linly-Talker
 
 ---
 
-Video generation: MagicVideo-V2 by ByteDance, Lumiere by Google, VideoCrafter2 by Tencent
+Video generation: MagicVideo-V2 by ByteDance, Lumiere by Google, VideoCrafter2 by Tencent, I2VGen by Alibaba
 
 Anymate Anyone with OpenPose
 
