@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T18:39:53.086Z'
+modified: '2024-02-07T18:46:57.405Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -48,5 +48,4 @@ Use vimgolf for collecting vim usage data to train cybergod, however the cli suc
 
 ---
 
-
-
+A comprehensive guide from llamaindex hackrathon
