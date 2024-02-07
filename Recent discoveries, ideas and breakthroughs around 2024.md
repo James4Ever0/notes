@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T18:20:53.522Z'
+modified: '2024-02-07T18:22:00.947Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -14,4 +14,6 @@ Use smart contract for auto re-execution of video generation scripts and hacking
 
 ---
 
-Use retrieval system while building the chatbot. 
+Use retrieval system with chat history while building the chatbot. Mind different index modes in llamaindex, in order to better capture consecutive context range with dynamic sliding window size.
+
+
