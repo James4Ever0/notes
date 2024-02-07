@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T18:34:54.160Z'
+modified: '2024-02-07T18:39:53.086Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -16,7 +16,7 @@ Consider finding some alternative platforms for job finding (remote work: V2EX, 
 
 ---
 
-Use smart contract like `sui move` for auto re-execution of video generation scripts and hacking scripts, reward these scripts for successful task fulfillment (view count bypassing 1000; ssh login success; crypto currency obtained), and punish or ban these scripts at failed condition. Human execution will be recorded for automated execution, and it is free.
+Use smart contract like `sui move` for auto re-execution of automated (agentic) video generation scripts and hacking scripts, reward these scripts for successful task fulfillment (view count bypassing 1000; ssh login success; crypto currency obtained), and punish or ban these scripts at failed condition. Human execution will be recorded for automated execution, and it is free.
 
 Notice you do not want overflow errors in the smart contract.
 
@@ -31,6 +31,20 @@ Tachiyomi is for free manga reading, and manga narriative video. Its plugin stor
 ---
 
 Deep recursive thoughts and subconscious operators like `REM` and `DELEGATE` might help for making the agent to think for itself, becoming conscious.
+
+---
+
+Tornado cash is for crypto mixing and now it is public archive. Alternatives are:
+
+- Aztec zk.money
+- Monero 0xTIP
+- Messier 87
+- Cyclone Protocol
+- RenBridge
+
+---
+
+Use vimgolf for collecting vim usage data to train cybergod, however the cli sucks and requires learning the javascript request headers from browser.
 
 ---
 
