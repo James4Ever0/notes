@@ -1,12 +1,12 @@
 ---
 title: LlamaIndex hackathon resource guide
 created: '2024-02-07T18:41:37.098Z'
-modified: '2024-02-07T18:41:45.545Z'
+modified: '2024-02-07T18:41:56.460Z'
 ---
 
 # LlamaIndex hackathon resource guide
 
-Beginners
+## Beginners
 What is Retrieval-Augmented Generation (RAG)? What is any of this?
 We have libraries in Python and TypeScript; the Python lib has more features
 Installation and getting started:
