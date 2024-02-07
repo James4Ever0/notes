@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:02:09.188Z'
+modified: '2024-02-07T19:02:46.307Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -63,3 +63,8 @@ Use vimgolf for collecting vim usage data to train cybergod, however the cli suc
 [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) seems to be better than CogVLM, and can generate [image with text interleaving articles](https://openxlab.org.cn/apps/detail/WillowBreeze/InternLM-XComposer).
 
 The platform [openxlab](https://openxlab.org.cn) is a huggingface clone, and maybe it can prvide some model execution service.
+
+---
+
+A better 
+
