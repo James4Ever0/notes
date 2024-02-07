@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:46:51.884Z'
+modified: '2024-02-07T19:59:18.547Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -76,13 +76,17 @@ A better alternative for SadTalker: [Dream-Talk](https://magic-research.github.i
 
 [Audio2Gesture](https://docs.omniverse.nvidia.com/extensions/latest/ext_audio2gesture.html) (pose generation by audio) can be exported to Metahuman.
 
-Wav2Lip, Linly-Talker
+Wav2Lip, Linly-Talker, VirtualWife, OpenVTuber
 
 ---
 
+Prompt engineering: Pezzo for prompt version management, LangGPT for prompt template generation
+
+Fine-tuning: Prompt2Model, GPT-LLM-Trainer
+
 Video generation: MagicVideo-V2 by ByteDance, Lumiere by Google, VideoCrafter2 by Tencent, I2VGen by Alibaba
 
-Anymate Anyone with OpenPose
+Anymate Anyone with OpenPose, MotionShop
 
 DragonDiffusion for image detail editing
 
@@ -90,12 +94,27 @@ DeepSeekMoE 16B: the first MoE model in China
 
 Auto Labeling: AutoLabel, AnyLabeling
 
-RAG: QAnything by NetEase, StreamRAG for video search
+RAG: QAnything by NetEase, StreamRAG for video search, DAnswer
 
 Document understanding & OCR: Nougat, CnOCR
 
 TTS: Bert-ViTS, GPT-SoViTS
 
-Agent: ProAgent, crewAI, Dify, AutoGen
+Agent: ProAgent, crewAI, Dify, AutoGen, Agenta, AgentVerse, ChatDev, Agently
 
 YOLOv8 AimBot
+
+Make-A-Character
+
+AnyDoor, AnyText
+
+PhotoMaker
+
+CoTracker
+
+MagicAnimate
+
+ImageDream
+
+VideoPoet
+
