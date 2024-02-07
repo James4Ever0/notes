@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:44:36.435Z'
+modified: '2024-02-07T19:46:51.884Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -20,7 +20,9 @@ Consider finding some alternative platforms for job finding (remote work: V2EX, 
 
 ---
 
-Use smart contract like `sui move` for auto re-execution of automated (agentic) video generation scripts and hacking scripts, reward these scripts for successful task fulfillment (view count bypassing 1000; ssh login success; crypto currency obtained), and punish or ban these scripts at failed condition. Human execution will be recorded for automated execution, and it is free.
+Use smart contract like `sui move` for auto re-execution of automated (agentic) video generation scripts and hacking scripts, reward these scripts for successful task fulfillment (view count bypassing 1000; ssh login success; crypto currency obtained), and punish or ban these scripts at failed condition.
+
+Human execution will be recorded for automated execution, and it is free. Automated init execution will only be granted once.
 
 Notice you do not want overflow errors in the smart contract.
 
