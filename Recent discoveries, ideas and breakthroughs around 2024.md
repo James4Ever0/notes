@@ -1,12 +1,16 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T18:27:46.437Z'
+modified: '2024-02-07T18:30:38.003Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
 
 You have posted a lot of ideas into your QQ, WeChat, bookmarks and Bilibili favourites. Consider using tools to retrieve them? 
+
+---
+
+I hate Linkedin and Twitter. They both ban my account for no goddamn reason. Newly registered accounts shall do no operation for a long time before using features like browsing, following. Consider finding some alternative platforms for job finding (remote work: V2EX, crypto careers, web3.careers) and social network.
 
 ---
 
