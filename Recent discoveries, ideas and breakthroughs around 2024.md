@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T18:46:57.405Z'
+modified: '2024-02-07T18:52:08.936Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -48,4 +48,12 @@ Use vimgolf for collecting vim usage data to train cybergod, however the cli suc
 
 ---
 
-A comprehensive guide from llamaindex hackrathon
+[A comprehensive guide](https://pretty-sodium-5e0.notion.site/LlamaIndex-hackathon-resource-guide-939d2bfa278a47a0ae07d8e7d71d24ec) from llamaindex hackrathon
+
+---
+
+[vanna.ai](https://vanna.ai) can work as sql agent. what can generate cypher query for neo4j?
+
+---
+
+[Coroutines and tasks](https://docs.python.org/3/library/asyncio-task.html) (`asyncio.create_task`) can save time. You can also make blocking actions non-blocking by `asyncio.to_thread`.
