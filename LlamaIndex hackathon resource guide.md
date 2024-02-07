@@ -1,7 +1,7 @@
 ---
 title: LlamaIndex hackathon resource guide
 created: '2024-02-07T18:41:37.098Z'
-modified: '2024-02-07T18:42:31.090Z'
+modified: '2024-02-07T18:42:36.628Z'
 ---
 
 # LlamaIndex hackathon resource guide
@@ -13,7 +13,7 @@ modified: '2024-02-07T18:42:31.090Z'
 - Installation and getting started:
   - Python
   - TypeScript
-I want to customize…
+- I want to customize…
 LlamaHub is a collection of data connectors, agent tools and pre-written code
 We have notebooks that show how to use the tools on LlamaHub
 create-llama is a command-line tool that sets up a starter full-stack app for you
