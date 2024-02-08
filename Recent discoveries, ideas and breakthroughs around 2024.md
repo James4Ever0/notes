@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-07T19:59:18.547Z'
+modified: '2024-02-08T06:29:05.556Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -117,4 +117,8 @@ MagicAnimate
 ImageDream
 
 VideoPoet
+
+Boximator
+
+InpaintAnything
 
