@@ -1,10 +1,16 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-08T06:29:05.556Z'
+modified: '2024-02-08T14:21:28.497Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
+
+Subscribe publish sources like blog, news, rss feed, recommendation engine to create video generation agents.
+
+[Github blog](https://github.blog/)
+
+---
 
 You have posted a lot of ideas into your QQ, WeChat, bookmarks and Bilibili favourites. Consider using tools to retrieve them?
 
