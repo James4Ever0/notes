@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-12T13:50:07.394Z'
+modified: '2024-02-12T14:10:24.569Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -18,7 +18,7 @@ Greenlight is for local Xbox streaming and XGPU cloud gaming, supports multiple 
 
 To train a gaming AI and get potential financial rewards:
 
-Buy a gaming console like Xbox Series S and use Arduino Leonardo or ESP32 to send gamepad signal. You may also use HID to gamepad hardware.
+Buy a gaming console like Xbox Series S and use Arduino Leonardo or ESP32 to send gamepad signal. You may also use HID to gamepad hardware. However since you do not have the authority to mimic official gamepad this might fail.
 
 Make sure you do not delete the game accidentally. You may design such mechanism to prevent exiting the game and misbehave. You can create child accounts to prevent unwanted purchase.
 
