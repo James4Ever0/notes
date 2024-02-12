@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-12T12:18:50.238Z'
+modified: '2024-02-12T12:19:18.104Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -11,6 +11,8 @@ Subscribe publish sources like blog, news, rss feed, recommendation engine to cr
 [Github blog](https://github.blog/)
 
 ---
+
+To train a gaming AI and get potential financial rewards:
 
 Buy a gaming console like Xbox Series S and use Arduino Leonardo or ESP32 to send gamepad signal. You may also use HID to gamepad hardware.
 
