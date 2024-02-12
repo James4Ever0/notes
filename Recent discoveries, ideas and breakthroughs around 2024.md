@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-12T09:03:27.486Z'
+modified: '2024-02-12T09:06:51.791Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -19,6 +19,8 @@ Still smart contract compiler does not have Python API generator.
 Local node: Geth, Hardhat, Ganache
 
 Development environment: Ape, Brownie
+
+Smart contract language: Solidity, Vyper
 
 ---
 
