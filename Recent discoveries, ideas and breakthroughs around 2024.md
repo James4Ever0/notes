@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-12T09:06:51.791Z'
+modified: '2024-02-12T12:18:05.331Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -9,6 +9,12 @@ modified: '2024-02-12T09:06:51.791Z'
 Subscribe publish sources like blog, news, rss feed, recommendation engine to create video generation agents.
 
 [Github blog](https://github.blog/)
+
+---
+
+Buy a gaming console like Xbox Series S and use Arduino Leonardo or ESP32 to send gamepad signal. You may also use HID to gamepad hardware.
+
+Make sure you do not delete the game accidentally. You may design such mechanism to prevent exiting the game and misbehave. You can create child accounts to prevent unwanted purchase.
 
 ---
 
