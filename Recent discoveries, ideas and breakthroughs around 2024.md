@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-12T14:13:05.485Z'
+modified: '2024-02-12T14:13:51.168Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -12,7 +12,7 @@ Subscribe publish sources like blog, news, rss feed, recommendation engine to cr
 
 ---
 
-[Greenlight](https://github.com/unknownskl/greenlight) is for local Xbox streaming and XGPU cloud gaming, supports multiple platforms.
+[Greenlight](https://github.com/unknownskl/greenlight) is an electron app for local Xbox streaming and XGPU cloud gaming, supports multiple platforms.
 
 ---
 
