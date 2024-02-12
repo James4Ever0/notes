@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-08T14:21:28.497Z'
+modified: '2024-02-12T09:03:27.486Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -9,6 +9,16 @@ modified: '2024-02-08T14:21:28.497Z'
 Subscribe publish sources like blog, news, rss feed, recommendation engine to create video generation agents.
 
 [Github blog](https://github.blog/)
+
+---
+
+Blockchain or Web3 is not silver bullet. Anything on Web3 can just be done in Web2 in centralized way.
+
+Still smart contract compiler does not have Python API generator.
+
+Local node: Geth, Hardhat, Ganache
+
+Development environment: Ape, Brownie
 
 ---
 
