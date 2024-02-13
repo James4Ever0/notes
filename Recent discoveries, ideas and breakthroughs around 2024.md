@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-12T14:13:51.168Z'
+modified: '2024-02-13T09:27:08.851Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -9,6 +9,12 @@ modified: '2024-02-12T14:13:51.168Z'
 Subscribe publish sources like blog, news, rss feed, recommendation engine to create video generation agents.
 
 [Github blog](https://github.blog/)
+
+---
+
+There are two Xbox emulators around. One is [xemu](https://xemu.app), the original or the first Xbox emulator, which can run almost on any platform. The game for it can be downloaded at [the vault](https://vimm.net). The other is [xenia](https://github.com/xenia-project/xenia) or the Xbox 360 emulator, which can only be running on top of Windows 10+.
+
+Xbox 360 is hackable and the game for it can be downloaded as GOD format.
 
 ---
 
