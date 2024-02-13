@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-13T09:43:30.800Z'
+modified: '2024-02-13T10:21:54.450Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -9,6 +9,12 @@ modified: '2024-02-13T09:43:30.800Z'
 Subscribe publish sources like blog, news, rss feed, recommendation engine to create video generation agents.
 
 [Github blog](https://github.blog/)
+
+---
+
+Smart contract in EVM might be overkill, but it comes with the advantage of multiuser security.
+
+A central solution might be [beanie](https://beanie.dev/), an ODM (Object Document Mapper) in MongoDB
 
 ---
 
