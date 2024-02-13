@@ -1,12 +1,16 @@
 ---
 title: 'Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots'
 created: '2023-01-09T03:22:12.000Z'
-modified: '2024-02-05T04:52:19.632Z'
+modified: '2024-02-13T16:11:26.649Z'
 ---
 
 # Everything you need to startup your media project: viral video generator, viral video analyzer, trend analyzer, automated email account registration, download only a portion of video, peek video screenshots
 
 Microsoft powered [recommendation system](https://github.com/recommenders-team/recommenders), has now joined the Linux Foundation.
+
+---
+
+CantoonSegmentation can be used for creating visual effects over static cartoon images.
 
 ---
 
