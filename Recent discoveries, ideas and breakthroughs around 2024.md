@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-13T09:27:08.851Z'
+modified: '2024-02-13T09:43:30.800Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -9,6 +9,10 @@ modified: '2024-02-13T09:27:08.851Z'
 Subscribe publish sources like blog, news, rss feed, recommendation engine to create video generation agents.
 
 [Github blog](https://github.blog/)
+
+---
+
+Playstation emulators can emulate up to PS5.
 
 ---
 
