@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-13T10:23:23.930Z'
+modified: '2024-02-13T10:30:32.268Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -14,7 +14,7 @@ Subscribe publish sources like blog, news, rss feed, recommendation engine to cr
 
 Smart contract in EVM might be overkill, but it comes with the advantage of multiuser security.
 
-A central solution might be [beanie](https://beanie.dev/), an ODM (Object Document Mapper) in MongoDB, or Object Graph Mapper in Neo4j
+A central solution might be [beanie](https://beanie.dev/), an ODM (Object Document Mapper) in MongoDB, or [pyneo4j-ogm](https://pypi.org/project/pyneo4j-ogm), an OGM (Object Graph Mapper) in Neo4j
 
 ---
 
