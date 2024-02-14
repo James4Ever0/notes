@@ -1,7 +1,7 @@
 ---
 title: AGI that controls computer
 created: '2023-05-04T09:28:11.000Z'
-modified: '2023-06-07T06:20:16.360Z'
+modified: '2024-02-14T05:11:30.834Z'
 ---
 
 # AGI that controls computer
@@ -21,6 +21,8 @@ use ChatGPT-derived projects for localized propaganda on CyberGod and The Frozen
 ## obs remote control
 
 using [obs-websocket](https://github.com/obsproject/obs-websocket) you can use python to do real scripting. but first spin up obs first (with websocket related commandline arguments)
+
+launch obs in minimized way `` or just using xvfb.
 
 you can also write and load scripts for obs, run on custom intervals and conditions.
 
