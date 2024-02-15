@@ -1,12 +1,12 @@
 ---
 title: 'Emulator world and keybindings, video resources collection'
 created: '2024-02-15T15:58:02.483Z'
-modified: '2024-02-15T17:47:02.908Z'
+modified: '2024-02-15T17:47:23.140Z'
 ---
 
 # Emulator world and keybindings, video resources collection
 
-Configuration file might be found after first launch, and `xemu` is at ``
+Configuration file might be found after first launch, and `xemu` is at `/root/.local/share/xemu/xemu/xemu.toml`
 
 ---
 
