@@ -1,12 +1,12 @@
 ---
 title: 'Emulator world and keybindings, video resources collection'
 created: '2024-02-15T15:58:02.483Z'
-modified: '2024-02-15T17:06:59.227Z'
+modified: '2024-02-15T17:07:17.880Z'
 ---
 
 # Emulator world and keybindings, video resources collection
 
-You may collect video resource from random computer actions, but better be partially guided by LLM, since that makes more sense even inside a small video excerpt.
+You may collect video resource from random computer actions and semantically indexed, but better be partially guided by LLM, since that makes more sense even inside a small video excerpt.
 
 ---
 
