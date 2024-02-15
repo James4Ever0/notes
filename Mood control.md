@@ -1,7 +1,7 @@
 ---
 title: Mood control
 created: '2024-02-15T14:21:58.074Z'
-modified: '2024-02-15T15:19:09.290Z'
+modified: '2024-02-15T15:22:42.770Z'
 ---
 
 # Mood control
@@ -14,4 +14,8 @@ Sometimes my mind is crazy just as if using a hammer smashing at my balls. It is
 
 ---
 
-To handle this kind of stress, some additional help might be necessary.
+To handle this kind of imminent stress, some additional help might be necessary.
+
+A gulp of fresh air, a glass of cold water, air conditioner, strawberry gum, mint candies, oil and inhaler etc.
+
+Some additional medicine or drug might help. Others including alcohol, cigerette, dope
