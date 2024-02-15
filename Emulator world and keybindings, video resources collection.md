@@ -1,10 +1,14 @@
 ---
-title: Emulator world and keybindings
+title: 'Emulator world and keybindings, video resources collection'
 created: '2024-02-15T15:58:02.483Z'
-modified: '2024-02-15T17:02:10.786Z'
+modified: '2024-02-15T17:06:40.891Z'
 ---
 
-# Emulator world and keybindings
+# Emulator world and keybindings, video resources collection
+
+You may collect video resource from random computer actions, but better be guided by LLM, since that makes more sense even inside a small video excerpt.
+
+---
 
 Downloading games from [Romsfun](https://romsfun.com) is fast.
 
