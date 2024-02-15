@@ -1,10 +1,14 @@
 ---
 title: Emulator world and keybindings
 created: '2024-02-15T15:58:02.483Z'
-modified: '2024-02-15T17:00:46.761Z'
+modified: '2024-02-15T17:02:10.786Z'
 ---
 
 # Emulator world and keybindings
+
+Downloading games from [Romsfun](https://romsfun.com) is fast.
+
+---
 
 Steam deck has done a lot of things to port PC games to Linux. Most works are around Proton, a Wine fork which supports DirectX features.
 
