@@ -1,12 +1,12 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-15T17:29:57.407Z'
+modified: '2024-02-15T17:30:10.537Z'
 ---
 
 # Manual And Automatic Video Creation
 
-Link your reusable part and ideas to the statistics in order to find out the most efficient workflow.
+Link your reusable part and ideas to statistics in order to find out the most efficient workflow.
 
 ---
 
