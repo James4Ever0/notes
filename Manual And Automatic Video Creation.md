@@ -1,10 +1,14 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-15T17:28:15.875Z'
+modified: '2024-02-15T17:29:57.407Z'
 ---
 
 # Manual And Automatic Video Creation
+
+Link your reusable part and ideas to the statistics in order to find out the most efficient workflow.
+
+---
 
 For quickly testing your unique ideas, you can use manual video editing, save your workspace to specific folder, produce video alongside the project file, and upload it with specialized tool in order to keep track of the video.
 
