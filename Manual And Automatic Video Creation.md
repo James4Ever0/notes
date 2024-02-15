@@ -1,7 +1,7 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-15T17:27:15.711Z'
+modified: '2024-02-15T17:27:28.966Z'
 ---
 
 # Manual And Automatic Video Creation
@@ -14,4 +14,4 @@ Autotrack the video statistics after upload.
 
 ---
 
-Link your live streaming workspace with the live streaming platform and streaming time, create a more accurate perspective about your actural impact.
+Link your live streaming workspace with the live streaming platform and streaming time, create a more accurate perspective about your actural impact to the audience.
