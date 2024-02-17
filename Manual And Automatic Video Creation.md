@@ -1,12 +1,12 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-17T17:50:27.800Z'
+modified: '2024-02-17T17:50:45.154Z'
 ---
 
 # Manual And Automatic Video Creation
 
-Make inheritance of existing projects, in order to keep track of ideas and aggregate view counts.
+Make inheritance of existing projects, in order to keep track of ideas and sort by average view counts.
 
 ---
 
