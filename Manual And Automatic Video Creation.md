@@ -1,10 +1,14 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-17T17:51:06.882Z'
+modified: '2024-02-18T03:38:10.301Z'
 ---
 
 # Manual And Automatic Video Creation
+
+The live streaming and the audio/music may need some transcription to be more efficient to manage and create.
+
+---
 
 Make inheritance of existing projects, in order to keep track of ideas and sort by average and total view counts per group.
 
