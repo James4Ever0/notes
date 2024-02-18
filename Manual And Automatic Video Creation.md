@@ -1,10 +1,14 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-18T03:38:10.301Z'
+modified: '2024-02-18T05:25:33.569Z'
 ---
 
 # Manual And Automatic Video Creation
+
+Find target audience advertisement recommendation via online platforms.
+
+---
 
 The live streaming and the audio/music may need some transcription to be more efficient to manage and create.
 
