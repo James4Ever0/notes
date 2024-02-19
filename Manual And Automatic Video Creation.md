@@ -1,7 +1,7 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-19T15:32:19.577Z'
+modified: '2024-02-19T15:35:13.493Z'
 ---
 
 # Manual And Automatic Video Creation
@@ -9,6 +9,8 @@ modified: '2024-02-19T15:32:19.577Z'
 Cinelerra recommends a lots of [Linux distros for media workshop](https://www.cinelerra-gg.org/downloads)
 
 ---
+
+Learn video editing on [Capcut Learning](https://www.capcut.cn/learning)
 
 Capcut has released its [online video editor](https://www.capcut.cn/editor) (basically shit) so that one can use it on multiple platforms.
 
