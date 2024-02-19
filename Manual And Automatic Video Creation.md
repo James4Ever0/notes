@@ -1,10 +1,14 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-19T15:35:22.282Z'
+modified: '2024-02-19T17:10:44.107Z'
 ---
 
 # Manual And Automatic Video Creation
+
+[抖音信息采集](https://github.com/erma0/douyin) (Playwright)
+
+---
 
 Cinelerra recommends a lots of [Linux distros for media workshop](https://www.cinelerra-gg.org/downloads)
 
