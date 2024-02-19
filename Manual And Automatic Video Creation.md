@@ -1,12 +1,12 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-19T15:17:18.501Z'
+modified: '2024-02-19T15:17:41.284Z'
 ---
 
 # Manual And Automatic Video Creation
 
-Cinelerra recommends a lots of [Linux distros for media](https://www.cinelerra-gg.org/downloads)
+Cinelerra recommends a lots of [Linux distros for media workshop](https://www.cinelerra-gg.org/downloads)
 
 ---
 
