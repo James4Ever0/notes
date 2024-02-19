@@ -1,12 +1,18 @@
 ---
 title: Manual And Automatic Video Creation
 created: '2024-02-15T17:22:26.334Z'
-modified: '2024-02-19T14:55:11.381Z'
+modified: '2024-02-19T15:17:18.501Z'
 ---
 
 # Manual And Automatic Video Creation
 
+Cinelerra recommends a lots of [Linux distros for media](https://www.cinelerra-gg.org/downloads)
+
+---
+
 Capcut has released its [online video editor](https://www.capcut.cn/editor) so that one can use it on multiple platforms.
+
+---
 
 Find target audience advertisement recommendation via online platforms.
 
