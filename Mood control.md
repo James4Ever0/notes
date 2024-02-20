@@ -1,10 +1,14 @@
 ---
 title: Mood control
 created: '2024-02-15T14:21:58.074Z'
-modified: '2024-02-15T15:29:52.310Z'
+modified: '2024-02-20T13:55:18.271Z'
 ---
 
 # Mood control
+
+Drinking coffee is prohibited. It is bad for mood.
+
+---
 
 Sometimes I just feel very angry when the bed is too warm, losing control and have a very unstable mind. Maybe it will be better if wearing girl style clothes, because that makes me cooler, literally. 
 
