@@ -1,7 +1,7 @@
 ---
 title: Mood control
 created: '2024-02-15T14:21:58.074Z'
-modified: '2024-02-20T13:55:18.271Z'
+modified: '2024-02-20T14:35:53.469Z'
 ---
 
 # Mood control
@@ -10,7 +10,7 @@ Drinking coffee is prohibited. It is bad for mood.
 
 ---
 
-Sometimes I just feel very angry when the bed is too warm, losing control and have a very unstable mind. Maybe it will be better if wearing girl style clothes, because that makes me cooler, literally. 
+Sometimes I just feel very angry when the bed or body is too warm, losing control and have a very unstable mind. Maybe it will be better if wearing girl style clothes, because that makes me cooler, literally. 
 
 Always stay away from heated areas, no matter it is about temperature, noises or arguments.
 
