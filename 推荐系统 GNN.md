@@ -2,12 +2,12 @@
 tags: [advertising, chatbot, graph database, pyjom, recommendation]
 title: 推荐系统 GNN
 created: '2022-05-27T03:25:06.000Z'
-modified: '2024-02-21T14:09:03.779Z'
+modified: '2024-02-21T14:09:16.946Z'
 ---
 
 # 推荐系统 GNN
 
-字节跳动 抖音推荐算法 [Wide&Deep]()
+字节跳动 抖音推荐算法 [Wide&Deep](https://pytorch-widedeep.readthedocs.io/en/latest/index.html)
 
 ---
 
