@@ -1,12 +1,12 @@
 ---
 title: Windows High Contrast Theme Switching
 created: '2024-02-26T06:12:30.285Z'
-modified: '2024-02-26T06:14:05.440Z'
+modified: '2024-02-26T06:16:56.924Z'
 ---
 
 # Windows High Contrast Theme Switching
 
-Download [ThemeSwitcher]() after Windows 11 for switching themes.
+Download [ThemeSwitcher](https://winaero.com/downloads/WinaeroThemeSwitcher.zip) after Windows 11 for switching themes.
 
 Write the following content into `hctweak1.theme`:
 
