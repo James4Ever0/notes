@@ -1,7 +1,7 @@
 ---
 title: Windows High Contrast Theme Switching
 created: '2024-02-26T06:12:30.285Z'
-modified: '2024-02-27T00:30:58.787Z'
+modified: '2024-02-27T00:36:10.788Z'
 ---
 
 # Windows High Contrast Theme Switching
@@ -116,4 +116,4 @@ Use like `ThemeSwitcher.exe <absolute_path_to_theme_file>`
 
 ---
 
-Activate Windows using []()
+Activate Windows using [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
