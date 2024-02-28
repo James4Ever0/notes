@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:19:16.491Z'
+modified: '2024-02-28T14:20:50.917Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -11,6 +11,18 @@ GPT2 models from huggingface accept `inputs_embeds` as parameter of instance cal
 Typically to adapt ViT into LLM you need LayerNorm and a linear projection layer.
 
 You cannot put custom embedding into text generaton pipeline.
+
+---
+
+To encode token manually in GPT2:
+
+```python
+
+```
+
+```python
+
+```
 
 ---
 
