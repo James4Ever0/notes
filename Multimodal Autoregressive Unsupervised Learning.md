@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:24:36.308Z'
+modified: '2024-02-28T14:24:42.966Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -27,7 +27,7 @@ def embed_tokens(self，token_ids):
   if hasattr(self.llama_model.base_model, "model"):
     embeds = self.llama_model.base_model.model.model.embed_tokens(token_ids)
   else:
-    self.
+    self.llama_model.
 return embeds
 ```
 
