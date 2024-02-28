@@ -1,10 +1,14 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:36:59.742Z'
+modified: '2024-02-28T15:06:00.122Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
+
+Instruction following image editing via prompt engineering like [Mini DALLE3](https://minidalle3.github.io) or multimodal model like [CogCoM](https://github.com/THUDM/CogCoM)
+
+---
 
 Recently search engine & browser augmented generation has become popular. A great tool for creating video scripts. 
 
