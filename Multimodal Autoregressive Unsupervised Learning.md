@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:21:29.264Z'
+modified: '2024-02-28T14:22:21.167Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -23,7 +23,12 @@ input_embeds = model.transformer.wte(input_ids)
 In LLaMA:
 
 ```python
-
+embed tokens( self，token ids ):
+if hasattr(self.llama model.base model
+embeds = self.llama model.base model.model.model.embed tokens(token ids)
+else:
+return embeds
+embeds =
 ```
 
 ---
