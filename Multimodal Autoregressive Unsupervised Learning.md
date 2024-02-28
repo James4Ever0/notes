@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:32:57.039Z'
+modified: '2024-02-28T14:36:59.742Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -60,3 +60,9 @@ Set `HF_HUB_OFFLINE=1` while loading local models, to prevent accessing network.
 ---
 
 Set `Environment="OLLAMA_MODELS=<model_storage_path>"` in ollama systemd service file. Remember to change username and usergroup too, and set appropriate permission to model storage path.
+
+In Windows, set it in system environment variables, or create a directory symlink by:
+
+```cmd
+mklink /D C:\Users\<User>\.ollama\models E:\AI\Ollama\Models
+```
