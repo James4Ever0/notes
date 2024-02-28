@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:25:22.803Z'
+modified: '2024-02-28T14:25:51.080Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -41,7 +41,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvi
 
 ---
 
-Set `HF HUB OFFLINE=1` while loading local models, to prevent accessing network.
+Set `HF_HUB_OFFLINE=1` while loading local models, to prevent accessing network.
 
 ---
 
