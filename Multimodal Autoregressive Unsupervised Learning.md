@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:15:42.121Z'
+modified: '2024-02-28T14:16:41.441Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -22,4 +22,6 @@ Set `HF HUB OFFLINE=1` while loading local models, to prevent accessing network.
 
 ---
 
-Set `Environment="OLLAMA_MODELS`
+Set `Environment="OLLAMA_MODELS=<model_path>"` in ollama systemd service file. Remember to change username and usergroup too.
+
+
