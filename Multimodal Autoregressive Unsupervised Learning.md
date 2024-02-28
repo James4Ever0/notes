@@ -1,14 +1,14 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:25:51.080Z'
+modified: '2024-02-28T14:26:12.790Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
 
 GPT2 models from huggingface accept `inputs_embeds` as parameter of instance call and method "generate".
 
-Typically to adapt ViT into LLM you need LayerNorm and a linear projection layer.
+Typically to adapt ViT into LLM you need `LayerNorm` and a linear projection layer.
 
 You cannot put custom embedding into text generaton pipeline.
 
