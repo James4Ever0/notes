@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
 created: '2024-02-28T14:09:13.086Z'
-modified: '2024-02-28T14:25:09.575Z'
+modified: '2024-02-28T14:25:22.803Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -24,7 +24,7 @@ In LLaMA:
 
 ```python
 def embed_tokens(self，token_ids):
-  if hasattr(self.llama_model.base_model, "model"):
+  if hasattr(self.llama_model.base_model, "model"): # with lora
     embeds = self.llama_model.base_model.model.model.embed_tokens(token_ids)
   else:
     self.llama_model.base_model.embed_tokens(token_ids)
