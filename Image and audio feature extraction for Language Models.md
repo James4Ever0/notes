@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:05:55.969Z'
+modified: '2024-03-01T02:06:03.891Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -16,7 +16,7 @@ You have three ways to split an image.
 
 #### Patchify
 
-The splited indexs are put in front instead of append back.
+The splited indexs are put in front instead of appended back.
 
 ```python
 import numpy as np
