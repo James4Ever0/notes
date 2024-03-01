@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:06:03.891Z'
+modified: '2024-03-01T02:17:32.926Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -34,6 +34,11 @@ It works by expanding target dimension and appending a new dimension correspondi
 
 ```python
 import torch
+
+image = torch.randn(512,512,3)
+
+patches = image.unwrap(0, 128, 128).unwrap(1, 128, 128)
+print(patches.shape)
 ```
 
 
@@ -48,8 +53,7 @@ from empatches import EMPatches
 The embeddings from ViT cannot be used directly by LLM. Instead, use `LayerNorm` and `Dense` as simple adaptors.
 
 ```python
-
-
+from transformers import ...
 ```
 
 ## Audio processing
