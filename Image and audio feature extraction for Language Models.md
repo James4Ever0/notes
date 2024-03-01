@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T01:42:36.647Z'
+modified: '2024-03-01T01:49:23.381Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -22,6 +22,13 @@ import patchify
 
 ### Torch `unwrap`
 
+It works by expanding target dimension and appending a new dimension corresponding to it.
+
+```python
+import torch
+
+
+```
 
 
 ### EMPat
