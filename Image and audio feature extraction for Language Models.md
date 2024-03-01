@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T05:34:37.022Z'
+modified: '2024-03-01T05:38:32.812Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -109,7 +109,7 @@ image = torch.randn(1, 224, 224, 3)
 
 model = ViT()
 
-embeddings = model(image)
+embeddings = model(pixel_values = image)
 embeddings
 ```
 
