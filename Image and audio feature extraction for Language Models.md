@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T03:22:32.999Z'
+modified: '2024-03-01T03:27:20.854Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -14,7 +14,7 @@ Many language models resize, reshape & pad the input image into 224x225 square a
 
 To simplify the pipeline, we would recommend you to sample the image into fixed size square patches, like 2x2, 4x4 etc.
 
-Or you can skip the ViT embedding part, just use [Fuyu-8b](https://hf-mirror.com/adept/fuyu-8b) `FuyuForCausalLM` or take its architecture because it supports arbitrary sized images. 
+Or you can skip the ViT embedding part, just use [Fuyu-8b](https://hf-mirror.com/adept/fuyu-8b) or take its architecture `FuyuForCausalLM` and processor `FuyuProcessor` because it supports arbitrary sized images. 
 
 ### Split image into patches
 
