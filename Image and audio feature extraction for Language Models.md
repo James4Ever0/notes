@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:19:55.386Z'
+modified: '2024-03-01T02:51:22.354Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -45,7 +45,13 @@ print(patches.shape) # torch.Size([4, 4, 1, 128, 128, 3])
 #### EMPatches
 
 ```python
+import numpy as np
 from empatches import EMPatches
+
+image = 
+
+emp = EMPatches()
+
 ```
 
 ### Convert fixed-size patches into embeddings
