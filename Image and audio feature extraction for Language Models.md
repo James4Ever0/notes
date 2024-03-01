@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:02:42.201Z'
+modified: '2024-03-01T02:03:40.577Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -18,7 +18,9 @@ You have three ways to split an image.
 
 ```python
 from patchify import patchify
-
+image = np.random.rand(512,512,3)
+patches = patchify(image, (128,128), step=128)
+print(patches.shape)
 ```
 
 #### Torch `unwrap`
