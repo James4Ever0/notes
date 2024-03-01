@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T05:40:55.637Z'
+modified: '2024-03-01T05:41:08.526Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -109,7 +109,7 @@ image = torch.randn(1, 3, 224, 224) # bchw
 
 model_name = "google/vit-base-patch16-224-in21k"
 
-processor = transformers.
+processor = transformers.AutoImageProcessor(model_name) # for processing image 
 model = transformers.ViT()
 
 embeddings = model(pixel_values = image)
