@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:17:32.926Z'
+modified: '2024-03-01T02:18:37.458Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -28,7 +28,7 @@ patches = patchify(image, (128,128,3), step=128)
 print(patches.shape) # (4, 4, 1, 128, 128, 3)
 ```
 
-#### Torch `unwrap`
+#### Torch `unfold`
 
 It works by expanding target dimension and appending a new dimension corresponding to it.
 
@@ -37,7 +37,7 @@ import torch
 
 image = torch.randn(512,512,3)
 
-patches = image.unwrap(0, 128, 128).unwrap(1, 128, 128)
+patches = image.unfold(0, 128, 128).unfold(1, 128, 128)
 print(patches.shape)
 ```
 
