@@ -1,7 +1,7 @@
 ---
 title: aldente windows & linux alternative
 created: '2023-08-07T13:41:02.000Z'
-modified: '2024-03-01T14:47:03.308Z'
+modified: '2024-03-01T14:47:37.751Z'
 ---
 
 # aldente windows & linux alternative
@@ -35,6 +35,6 @@ For ThinkPads and selected other laptops [tlp](https://linrunner.de/tlp)/tlpui (
 
 Sometimes tp-smapi from `apt` will not install and you need to fetch the [source]() and compile yourself. Activate the plugin by `sudo modprobe tp_smapi`
 
-Run `sudo systemctl start tlp` to initiate service. Run `sudo tlp- ` to check status.
+Run `sudo systemctl start tlp` to initiate service. Run `sudo tlp-stat -s` to check status.
 
 ## Windows
