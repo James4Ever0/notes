@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T06:48:54.430Z'
+modified: '2024-03-01T06:49:59.037Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -21,8 +21,10 @@ from transformers import FuyuProcessor, FuyuForCausalLM
 from PIL import Image
 import requests
 
-processor = FuyuProcessor.from_pretrained("adept/fuyu-8b")
-model = FuyuForCausalLM.from_pretrained("adept/fuyu-8b")
+model_name = "adept/fuyu-8b"
+
+processor = FuyuProcessor.from_pretrained(model_name)
+model = FuyuForCausalLM.from_pretrained(model_name)
 
 url = "http://images.cocodataset.org/val2017/000000039769.jpg"
 image = Image.open(requests.get(url, stream=True).raw)
