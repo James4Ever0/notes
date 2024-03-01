@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T06:47:26.594Z'
+modified: '2024-03-01T06:48:54.430Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -120,7 +120,7 @@ model = transformers.ViTModel(model_name)
 
 outputs = model(pixel_values = image)
 
-embeddings = outputs.last_hidden_state[:,0,:]
+embeddings = outputs.last_hidden_state[:,0,:] # torch.Size([1, 768])
 ```
 
 ## Audio processing
