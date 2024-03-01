@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T05:42:33.164Z'
+modified: '2024-03-01T05:45:47.404Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -63,7 +63,7 @@ It works by expanding target dimension and appending a new dimension correspondi
 ```python
 import torch
 
-image = torch.randn(512,512,3)
+image = torch.rand(512,512,3)
 
 patches = image.unfold(0, 128, 128).unfold(1, 128, 128).unfold(2, 3, 3)
 print(patches.shape) # torch.Size([4, 4, 1, 128, 128, 3])
@@ -105,7 +105,8 @@ Proof:
 import torch
 import transformers
 
-image = torch.randn(1, 3, 224, 224) # bchw
+# not torch.randn (sample from normal distribution)
+image = torch.rand(1, 3, 224, 224) # bchw
 
 model_name = "google/vit-base-patch16-224-in21k"
 
