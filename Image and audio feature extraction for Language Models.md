@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T03:27:20.854Z'
+modified: '2024-03-01T03:28:26.462Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -15,6 +15,26 @@ Many language models resize, reshape & pad the input image into 224x225 square a
 To simplify the pipeline, we would recommend you to sample the image into fixed size square patches, like 2x2, 4x4 etc.
 
 Or you can skip the ViT embedding part, just use [Fuyu-8b](https://hf-mirror.com/adept/fuyu-8b) or take its architecture `FuyuForCausalLM` and processor `FuyuProcessor` because it supports arbitrary sized images. 
+
+```python
+from transformers import FuyuProcessor, FuyuForCausalLM
+from PIL import Image
+import requests
+
+processor = FuyuProcessor.from_pretrained("adept/fuyu-8b")
+model = FuyuForCausalLM.from_pretrained("adept/fuyu-8b")
+
+url = "http://images.cocodataset.org/val2017/000000039769.jpg"
+image = Image.open(requests.get(url, stream=True).raw)
+prompt = "Generate a coco-style caption.\n"
+
+inputs = processor(text=text_prompt, images=image, return_tensors="pt")
+outputs = model(**inputs)
+
+generated_ids = model.generate(**model_inputs, max_new_tokens=7)
+generation_text = processor.batch_decode(generated_ids, skip_special_tokens=True)
+print(generation_text)
+```
 
 ### Split image into patches
 
