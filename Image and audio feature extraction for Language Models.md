@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T05:45:47.404Z'
+modified: '2024-03-01T06:10:25.446Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -106,20 +106,21 @@ import torch
 import transformers
 
 # not torch.randn (sample from normal distribution)
-image = torch.rand(1, 3, 224, 224) # bchw
+image = torch.rand(3, 224, 224) # chw
 
 model_name = "google/vit-base-patch16-224-in21k"
 
 processor = transformers.AutoImageProcessor(model_name) # for processing image 
 
-image = processor(image)
+image = processor(image, do_rescale=False) # use this parameter when passing values ranging from 0 to 1
 
 #image = processor(pil_image) # can also handle pil image
 
-model = transformers.ViT()
+model = transformers.ViTModel(model_name)
 
 embeddings = model(pixel_values = image)
-embeddings
+
+last_hidden_state = 
 ```
 
 ## Audio processing
