@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T06:49:59.037Z'
+modified: '2024-03-01T06:51:07.088Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -126,4 +126,6 @@ embeddings = outputs.last_hidden_state[:,0,:] # torch.Size([1, 768])
 ```
 
 ## Audio processing
+
+
 
