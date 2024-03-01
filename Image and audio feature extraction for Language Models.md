@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T03:54:16.258Z'
+modified: '2024-03-01T05:34:37.022Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -88,6 +88,18 @@ print(indices) # [(x_start, x_end, y_start, y_end), ...], total 16 items
 ### Convert fixed-size patches into embeddings
 
 The embeddings from ViT cannot be used directly by LLM. Instead, use `LayerNorm` and `Dense` as simple adaptors.
+
+The first token is the class token, randomly initialized and processed along with the transformer, output as the summary of the full image, can be extracted for image embedding.
+
+Proof: 
+
+```
+224x224 is the shape of input image
+16x16 is the patch size
+
+224/16 = 14
+14*14 + 1 = 197
+```
 
 ```python
 import torch
