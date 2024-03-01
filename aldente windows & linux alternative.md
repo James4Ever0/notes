@@ -1,7 +1,7 @@
 ---
 title: aldente windows & linux alternative
-created: 2023-08-07T13:41:02+00:00
-modified: 2023-09-14T18:45:29+08:00
+created: '2023-08-07T13:41:02.000Z'
+modified: '2024-03-01T14:47:03.308Z'
 ---
 
 # aldente windows & linux alternative
@@ -33,5 +33,8 @@ with [platform-specific drivers](https://unix.stackexchange.com/questions/48534/
 For ThinkPads and selected other laptops [tlp](https://linrunner.de/tlp)/tlpui (acts like [powertop](https://01.org/powertop/) which turns off usb devices, so be careful when running long-term programs) provides a unified way
  to configure charge thresholds and recalibrate the battery.
 
+Sometimes tp-smapi from `apt` will not install and you need to fetch the [source]() and compile yourself. Activate the plugin by `sudo modprobe tp_smapi`
+
+Run `sudo systemctl start tlp` to initiate service. Run `sudo tlp- ` to check status.
 
 ## Windows
