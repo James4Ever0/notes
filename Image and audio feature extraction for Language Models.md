@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:54:09.204Z'
+modified: '2024-03-01T02:55:09.055Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -54,7 +54,7 @@ image = np.random.rand(512, 512, 3)
 
 emp = EMPatches()
 
-patches, indices = emp.extract_patches(image, patch_size = 128, overlap = 0)
+patches, indices = emp.extract_patches(image, patchsize = 128, overlap = 0)
 print(patches, indices)
 ```
 
