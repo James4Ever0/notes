@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T06:10:25.446Z'
+modified: '2024-03-01T06:47:26.594Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -118,9 +118,9 @@ image = processor(image, do_rescale=False) # use this parameter when passing val
 
 model = transformers.ViTModel(model_name)
 
-embeddings = model(pixel_values = image)
+outputs = model(pixel_values = image)
 
-last_hidden_state = 
+embeddings = outputs.last_hidden_state[:,0,:]
 ```
 
 ## Audio processing
