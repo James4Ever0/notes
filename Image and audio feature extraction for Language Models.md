@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T03:28:26.462Z'
+modified: '2024-03-01T03:52:04.462Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -90,7 +90,12 @@ print(indices) # [(x_start, x_end, y_start, y_end), ...], total 16 items
 The embeddings from ViT cannot be used directly by LLM. Instead, use `LayerNorm` and `Dense` as simple adaptors.
 
 ```python
-from transformers import ...
+# load visual dataset.
+from datasets import load_dataset
+
+# Load the ImageNet dataset from Hugging Face Datasets
+dataset = load_dataset("mrm8488/ImageNet1K-val")
+dataset['image']
 ```
 
 ## Audio processing
