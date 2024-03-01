@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:52:49.378Z'
+modified: '2024-03-01T02:54:09.204Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -50,10 +50,12 @@ print(patches.shape) # torch.Size([4, 4, 1, 128, 128, 3])
 import numpy as np
 from empatches import EMPatches
 
-image = 
+image = np.random.rand(512, 512, 3)
 
 emp = EMPatches()
 
+patches, indices = emp.extract_patches(image, patch_size = 128, overlap = 0)
+print(patches, indices)
 ```
 
 ### Convert fixed-size patches into embeddings
