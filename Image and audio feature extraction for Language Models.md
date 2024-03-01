@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:56:35.917Z'
+modified: '2024-03-01T02:57:19.825Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -55,8 +55,8 @@ image = np.random.rand(512, 512, 3)
 emp = EMPatches()
 
 patches, indices = emp.extract_patches(image, patchsize = 128, overlap = 0)
-print(patches) #
-print(indices) # [(x_start, x_end, y_start, y_end), ...], total 16
+print(patches) # a list of numpy arrays, total 16 items
+print(indices) # [(x_start, x_end, y_start, y_end), ...], total 16 items
 ```
 
 ### Convert fixed-size patches into embeddings
