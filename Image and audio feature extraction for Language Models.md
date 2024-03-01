@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T01:58:03.147Z'
+modified: '2024-03-01T02:02:42.201Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -17,8 +17,7 @@ You have three ways to split an image.
 #### Patchify
 
 ```python
-
-import patchify
+from patchify import patchify
 
 ```
 
@@ -28,7 +27,6 @@ It works by expanding target dimension and appending a new dimension correspondi
 
 ```python
 import torch
-
 ```
 
 
@@ -36,12 +34,16 @@ import torch
 
 ```python
 from empatches import EMPatches
-
-
 ```
 
 ### Convert fixed-size patches into embeddings
 
 The embeddings from ViT cannot be used directly by LLM. Instead, use `LayerNorm` and `Dense` as simple adaptors.
 
+```python
+
+
+```
+
 ## Audio processing
+
