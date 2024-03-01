@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T05:38:32.812Z'
+modified: '2024-03-01T05:39:04.858Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -105,7 +105,7 @@ Proof:
 import torch
 import transformers
 
-image = torch.randn(1, 224, 224, 3)
+image = torch.randn(1, 3, 224, 224) # bchw
 
 model = ViT()
 
