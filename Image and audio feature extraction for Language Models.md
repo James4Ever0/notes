@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:04:47.540Z'
+modified: '2024-03-01T02:05:09.562Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -22,7 +22,7 @@ from patchify import patchify
 
 image = np.random.rand(512,512,3)
 
-patches = patchify(image, (128,128), step=128)
+patches = patchify(image, (128,128,3), step=128)
 print(patches.shape)
 ```
 
