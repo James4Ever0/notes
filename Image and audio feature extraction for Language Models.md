@@ -1,12 +1,12 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:52:40.471Z'
+modified: '2024-03-01T02:52:49.378Z'
 ---
 
 # Image and audio feature extraction for Language Models
 
-Use `ipython` instead of `python` to test these codes, get better parameter hints.
+Use `ipython` instead of `python` to test these code, get better parameter hints.
 
 ## Image processing
 
