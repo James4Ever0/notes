@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.443Z'
-modified: '2024-03-01T02:57:19.825Z'
+modified: '2024-03-01T03:01:11.930Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -9,6 +9,10 @@ modified: '2024-03-01T02:57:19.825Z'
 Use `ipython` instead of `python` to test these code, get better parameter hints.
 
 ## Image processing
+
+Many language models resize the input image and put into ViT directly.
+
+To simplify the pipeline, we would recommend you to sample the image into fixed size squares, like 2x2, 4x4 etc.
 
 ### Split image into patches
 
