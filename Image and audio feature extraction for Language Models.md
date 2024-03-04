@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: 2024-03-01T01:40:25+00:00
-modified: 2024-03-04T19:15:17+08:00
+modified: 2024-03-04T19:15:45+08:00
 ---
 
 # Image and audio feature extraction for Language Models
@@ -142,7 +142,7 @@ from dataset import load_dataset
 
 
 dataset_name = "hf_internal_testing/librispeech_asr_demo"
-model_name = "MIT/ast-finetuned-audioset-20-10-0.4593"
+model_name = "MIT/ast-finetuned-audioset-10-10-0.4593"
 
 dataset = load_dataset(dataset_name, 'clean', split="validation")
 sampling_rate = dataset.features["audio"].sampling_rate
