@@ -1,12 +1,14 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: 2024-03-01T01:40:25+00:00
-modified: 2024-03-04T19:03:54+08:00
+modified: 2024-03-04T19:12:49+08:00
 ---
 
 # Image and audio feature extraction for Language Models
 
-Use `ipython` instead of `python` to test these code, get better parameter hints.
+Use `ipython` instead of `python` to test these code, get better parameter hints, and dynamic hints, just like what you saw in brownie.
+
+Use `dataset.transform` instead of `dataset.map` to save loading time.
 
 ## Image processing
 
