@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T08:33:56.018Z'
+modified: '2024-03-05T08:37:54.794Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -128,6 +128,10 @@ embeddings = outputs.last_hidden_state[:,0,:] # torch.Size([1, 768])
 ```
 
 ## Audio processing
+
+An useful and related field to speaker diarization in video processing is visual entity recognization, which can help you identify anime or movie characters across different frames.
+
+---
 
 For multilanguage context, you would like to use speaker detection models like [pyannote](https://github.com/pyannote/pyannote-audio). [Diart](https://github.com/juanmc2005/diart) is a speech processing library based on that and can be used in real time, with speaker diarization, voice activity detection training pipelines.
 
