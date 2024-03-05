@@ -1,7 +1,7 @@
 ---
 title: Routing requests with Flask, with extra authentication headers
 created: 2024-03-05T06:53:30+00:00
-modified: 2024-03-05T18:17:30+08:00
+modified: 2024-03-05T18:21:07+08:00
 ---
 
 # Routing requests with Flask, with extra authentication headers
@@ -56,7 +56,7 @@ def chat_completions(path):
     if request.method == GET:
         response = sess.get(url, stream=True, headers=no_auth_headers)
     else:
-        response = sess.post(url, stream=True, headers=no_auth_headers, data=request.data, form=request.form, files=request.files)
+        response = sess.post(url, stream=True, headers=no_auth_headers, data=request.data, form=request.form, files=request.files, json=request.json)
 
     def generate():
         for chunk in response.iter_content(chunk_size=1024):
