@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T08:11:54.292Z'
+modified: '2024-03-05T08:23:11.279Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -129,9 +129,19 @@ embeddings = outputs.last_hidden_state[:,0,:] # torch.Size([1, 768])
 
 ## Audio processing
 
+For multilanguage context, you would like to use speaker detection models like [pyannote](). [Diart]() is based on that and can be used in real time.
+
+[Whisper-streaming](https://github.com/ufal/whisper_streaming) uses Longest- algoritm to segment chunks of audio and merge common patterns.
+
+---
+
+Whisper architecture is comprised of an audio encoder and transcription decoder. The output of the encoder is feed into every cross attention layer of the decoder. For feature extraction, you only need to use the encoder.
+
+---
+
 Different audio transformers choose different context window sizes. Like LLMs, they can be streamed. However during training they must use a fixed context size.
 
-For Whisper, the context size is 30 seconds. Confugurable at: `WhisperFeatureExtractor(=30, ...)`
+For [Whisper](https://github.com/OpenAI/whisper), the context size is 30 seconds. Confugurable at: `WhisperFeatureExtractor(=30, ...)`
 
 For AST, it is 10.24 seconds. You can find more info about input and output sizes [here](https://github.com/YuanGongND/ast). Configurable at: `(=1024, ...)`
 
