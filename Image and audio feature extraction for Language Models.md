@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T09:25:08.116Z'
+modified: '2024-03-05T09:25:51.383Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -133,7 +133,7 @@ An useful and related field to speaker diarization in video processing is visual
 
 When unsure, the agent shall consult online search engines, subtitles and existing recognized entities for classification. If a dataset is successfully created, one can train a YOLO model to speed up the process, used along with popular person/anime head detection models.
 
-In most videos speakers and visuals are aligned. You can first identify speakers then get character identification. Remember you need to use special pipeline for long-time diarization.
+In most videos speakers and visuals are aligned. You can first identify speakers then get character identification. Remember you need to use special pipeline for long-time diarization, sharing speaker features for cross-audio diarization.
 
 ---
 
