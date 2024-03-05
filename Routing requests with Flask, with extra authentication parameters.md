@@ -1,7 +1,7 @@
 ---
 title: 'Routing requests with Flask, with extra authentication parameters'
 created: '2024-03-05T06:53:30.378Z'
-modified: '2024-03-05T07:00:09.273Z'
+modified: '2024-03-05T07:02:45.641Z'
 ---
 
 # Routing requests with Flask, with extra authentication parameters
@@ -36,11 +36,13 @@ AUTH_TOKEN = "auth_token"
 AUTH_HEADER_KEY = "Auth"
 GET = "GET"
 
+ALLOWED_METHODS = ['GET', 'POST']
+
 import json
 
 
-@app.route('/', defaults={'path': ''}, methods=['GET', 'POST'])
-@app.route('/<path:path>', methods=['GET', 'POST'])
+@app.route('/', defaults={'path': ''}, methods=ALLOWED_METHODS)
+@app.route('/<path:path>', methods=ALLOWED_METHODS)
 def chat_completions(path):
     url = f'http://localhost:{source_port}{request.full_path}'  # Replace with the streaming URL
     # full path is prefixed with /
