@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T08:31:47.126Z'
+modified: '2024-03-05T08:33:56.018Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -131,7 +131,7 @@ embeddings = outputs.last_hidden_state[:,0,:] # torch.Size([1, 768])
 
 For multilanguage context, you would like to use speaker detection models like [pyannote](https://github.com/pyannote/pyannote-audio). [Diart](https://github.com/juanmc2005/diart) is a speech processing library based on that and can be used in real time, with speaker diarization, voice activity detection training pipelines.
 
-[Whisper-streaming](https://github.com/ufal/whisper_streaming) uses Longest- algoritm to segment chunks of audio and merge common patterns.
+[Whisper-streaming](https://github.com/ufal/whisper_streaming) uses LocalAgreement algoritm to segment chunks of audio and merge common patterns.
 
 ---
 
