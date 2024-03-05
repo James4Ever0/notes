@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T08:37:54.794Z'
+modified: '2024-03-05T08:44:30.602Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -143,11 +143,15 @@ Whisper architecture is comprised of an audio encoder and transcription decoder.
 
 ---
 
+You pass single channel audio amplitude array to audio feature extractors with predetermined audio sample rate. If the sample rate mismatch, you need to resample the audio.
+
+---
+
 Different audio transformers choose different context window sizes. Like LLMs, they can be streamed. However during training they must use a fixed context size.
 
-For [Whisper](https://github.com/OpenAI/whisper), the context size is 30 seconds. Confugurable at: `WhisperFeatureExtractor(=30, ...)`
+For [Whisper](https://github.com/OpenAI/whisper), the context size is 30 seconds. Confugurable at: `transformers.WhisperFeatureExtractor(chunk_length=30, ...)`
 
-For AST, it is 10.24 seconds. You can find more info about input and output sizes [here](https://github.com/YuanGongND/ast). Configurable at: `(=1024, ...)`
+For AST, it is 10.24 seconds. You can find more info about input and output sizes [here](https://github.com/YuanGongND/ast). Configurable at: `transformers.ASTFeatureExtractor(max_length=1024, ...)`
 
 These numbers can be found over respective processor parameters. 
 
