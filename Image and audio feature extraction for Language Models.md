@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T13:58:54.394Z'
+modified: '2024-03-05T13:59:30.390Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -163,7 +163,6 @@ These numbers can be found over respective processor parameters.
 from transformers import AutoProcessor, ASTModel
 import torch
 from dataset import load_dataset
-
 
 dataset_name = "hf_internal_testing/librispeech_asr_demo"
 model_name = "MIT/ast-finetuned-audioset-10-10-0.4593"
