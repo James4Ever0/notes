@@ -1,10 +1,14 @@
 ---
 title: Goovis the right way
 created: '2024-03-05T14:05:37.455Z'
-modified: '2024-03-05T14:12:47.700Z'
+modified: '2024-03-05T14:14:02.476Z'
 ---
 
 # Goovis the right way
+
+床上不适合使用Goovis，因为容易睡着和疲倦。
+
+---
 
 躺椅的靠背在把背部完全贴合之后，不能有效支撑头部。需要头枕支撑。
 
