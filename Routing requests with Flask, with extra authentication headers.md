@@ -1,7 +1,7 @@
 ---
 title: Routing requests with Flask, with extra authentication headers
 created: 2024-03-05T06:53:30+00:00
-modified: 2024-03-05T18:10:24+08:00
+modified: 2024-03-05T18:17:30+08:00
 ---
 
 # Routing requests with Flask, with extra authentication headers
@@ -45,7 +45,7 @@ import json
 @app.route('/', defaults={'path': ''}, methods=ALLOWED_METHODS)
 @app.route('/<path:path>', methods=ALLOWED_METHODS)
 def chat_completions(path):
-    url = f'http://localhost:{source_port}{request.full_path}'  # Replace with the streaming URL
+    url = f'http://localhost:{source_port}{request.full_path}' 
     # full path is prefixed with /
     request_headers = dict(request.headers)
     auth = request_headers.get(AUTH_HEADER_KEY, None)
