@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T08:54:26.991Z'
+modified: '2024-03-05T08:54:47.137Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -12,7 +12,7 @@ Use `dataset.transform` instead of `dataset.map` to save loading time.
 
 ## Image processing
 
-Many language models resize, reshape & pad the input image into 224x225 square and put into ViT directly.
+Many language models resize, reshape & pad the input image into 224x224 square and put into ViT directly.
 
 To simplify the pipeline, we would recommend you to sample the image into fixed size square patches, like 2x2, 4x4 etc.
 
