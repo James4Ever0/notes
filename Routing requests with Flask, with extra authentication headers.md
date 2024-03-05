@@ -1,7 +1,7 @@
 ---
 title: Routing requests with Flask, with extra authentication headers
 created: 2024-03-05T06:53:30+00:00
-modified: 2024-03-05T18:08:55+08:00
+modified: 2024-03-05T18:10:24+08:00
 ---
 
 # Routing requests with Flask, with extra authentication headers
@@ -35,8 +35,9 @@ sess = requests.Session()
 AUTH_TOKEN = "auth_token"
 AUTH_HEADER_KEY = "Auth"
 GET = "GET"
+POST = "POST"
 
-ALLOWED_METHODS = ['GET', 'POST']
+ALLOWED_METHODS = [GET, POST]
 
 import json
 
