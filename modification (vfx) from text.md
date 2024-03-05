@@ -1,12 +1,12 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2024-03-05T15:29:47.639Z'
+modified: '2024-03-05T15:30:09.429Z'
 ---
 
 # video generation/modification (vfx) from text
 
-Sora is the new SOTA video generation model. [Open-Sora]()
+Sora is the new SOTA video generation model. Following up projects like [Open-Sora](https://github.com/hpcaitech/Open-Sora)
 
 ---
 
