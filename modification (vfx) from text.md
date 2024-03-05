@@ -1,7 +1,7 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2024-03-05T15:35:22.843Z'
+modified: '2024-03-05T15:35:43.050Z'
 ---
 
 # video generation/modification (vfx) from text
@@ -12,7 +12,7 @@ Following up projects:
 
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora)
 - [SoraReview](https://github.com/lichao-sun/SoraReview)
-- []()
+- [opensora](https://github.com/hku/opensora)
 - []()
 
 ---
