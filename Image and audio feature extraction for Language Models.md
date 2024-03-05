@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T08:11:19.754Z'
+modified: '2024-03-05T08:11:54.292Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -133,7 +133,7 @@ Different audio transformers choose different context window sizes. Like LLMs, t
 
 For Whisper, the context size is 30 seconds. Confugurable at: `WhisperFeatureExtractor(=30, ...)`
 
-For AST, it is [10.24](https://github.com/YuanGongND/ast) seconds. Configurable at: `(=1024, ...)`
+For AST, it is 10.24 seconds. You can find more info about input and output sizes [here](https://github.com/YuanGongND/ast). Configurable at: `(=1024, ...)`
 
 These numbers can be found over respective processor parameters. 
 
