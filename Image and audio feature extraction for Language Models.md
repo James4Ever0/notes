@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
-created: 2024-03-01T01:40:25+00:00
-modified: 2024-03-04T19:15:45+08:00
+created: '2024-03-01T01:40:25.000Z'
+modified: '2024-03-05T08:11:01.737Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -131,7 +131,9 @@ embeddings = outputs.last_hidden_state[:,0,:] # torch.Size([1, 768])
 
 Different audio transformers choose different context window sizes. Like LLMs, they can be streamed. However during training they must use a fixed context size.
 
-For Whisper, the context size is 30 seconds. For AST, it is 10 seconds.
+For Whisper, the context size is 30 seconds. Confugurable at: `WhisperFeatureExtractor(=30, ...)`
+
+For AST, it is [10.24]() seconds. Configurable at: `(=1024, ...)`
 
 These numbers can be found over respective processor parameters. 
 
