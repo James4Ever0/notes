@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T09:25:51.383Z'
+modified: '2024-03-05T13:58:54.394Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -174,7 +174,9 @@ sampling_rate = dataset.features["audio"].sampling_rate
 processor = AutoProcessor.from_pretrained(model_name)
 model = ASTModel.from_pretrained(model_name)
 
-inputs = processor(dataset[0].audio.array, sampling_rate=sampling_rate, return_tensors='pt')
+audio_array = dataset[0].audio.array
+
+inputs = processor(audio_array, sampling_rate=sampling_rate, return_tensors='pt')
 
 with torch.no_grad():
     outputs = model(**inputs)
