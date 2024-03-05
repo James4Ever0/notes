@@ -1,7 +1,7 @@
 ---
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T09:23:39.495Z'
+modified: '2024-03-05T09:24:35.584Z'
 ---
 
 # Image and audio feature extraction for Language Models
@@ -132,6 +132,8 @@ embeddings = outputs.last_hidden_state[:,0,:] # torch.Size([1, 768])
 An useful and related field to speaker diarization in video processing is visual entity recognization, which can help you identify anime or movie characters across different frames.
 
 When unsure, the agent shall consult online search engines, subtitles and existing recognized entities for classification. If a dataset is successfully created, one can train a YOLO model to speed up the process, used along with popular person/anime head detection models.
+
+In most videos speakers and visuals are aligned. You can first identify speakers then get character identification.
 
 ---
 
