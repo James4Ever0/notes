@@ -1,7 +1,7 @@
 ---
 title: Multimodal Autoregressive Unsupervised Learning
-created: 2024-02-28T14:09:13+00:00
-modified: 2024-03-04T18:26:40+08:00
+created: '2024-02-28T14:09:13.000Z'
+modified: '2024-03-05T14:19:59.292Z'
 ---
 
 # Multimodal Autoregressive Unsupervised Learning
@@ -39,7 +39,7 @@ You cannot put custom embedding into text generaton pipeline.
 To encode token manually in GPT2:
 
 ```python
-input_embeds = model.transformer.wte(input_ids)
+inputs_embeds = model.transformer.wte(input_ids)
 ```
 
 In LLaMA:
