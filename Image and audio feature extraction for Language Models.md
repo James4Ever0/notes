@@ -1,7 +1,8 @@
 ---
+pinned: true
 title: Image and audio feature extraction for Language Models
 created: '2024-03-01T01:40:25.000Z'
-modified: '2024-03-05T08:54:47.137Z'
+modified: '2024-03-05T09:23:36.315Z'
 ---
 
 # Image and audio feature extraction for Language Models
