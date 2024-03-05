@@ -1,10 +1,14 @@
 ---
 title: video generation/modification (vfx) from text
 created: '2022-10-09T05:54:25.000Z'
-modified: '2023-04-04T10:01:09.123Z'
+modified: '2024-03-05T15:29:35.084Z'
 ---
 
 # video generation/modification (vfx) from text
+
+Sora is the new SOTA video generation model. 
+
+---
 
 达摩院放出了[文本生成视频模型](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)，支持英文输入
 
