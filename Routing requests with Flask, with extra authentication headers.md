@@ -1,10 +1,17 @@
 ---
-title: Routing requests with Flask, with extra authentication headers
-created: 2024-03-05T06:53:30+00:00
-modified: 2024-03-05T18:21:07+08:00
+title: 'Routing requests with Flask, with extra authentication headers'
+created: '2024-03-05T06:53:30.000Z'
+modified: '2024-03-06T03:14:07.456Z'
 ---
 
 # Routing requests with Flask, with extra authentication headers
+
+Run the following like:
+
+```bash
+pip3 install gunicorn
+gunicorn --bind localhost:8001 <file_name_without_extension>:app
+```
 
 ```python
 import argparse
@@ -12,18 +19,12 @@ import argparse
 parser = argparse.ArgumentParser(description='Argument Parser with Default Parameters')
 
 parser.add_argument('--source_port', type=int, default=8000, help='Source Port Number')
-parser.add_argument('--auth_host', type=str, default=None, help='Authentication Host')
-parser.add_argument('--auth_port', type=int, default=8001, help='Authentication Port Number')
 
-args = parser.parse_args()
+args,_ = parser.parse_known_args()
 
 print("Source Port:", args.source_port)
-print("Authentication Host:", args.auth_host)
-print("Authentication Port:", args.auth_port)
 
 source_port = args.source_port
-auth_host =  args.auth_host
-auth_port = args.auth_port
 
 import requests
 from flask import Flask, Response, request
@@ -56,7 +57,8 @@ def chat_completions(path):
     if request.method == GET:
         response = sess.get(url, stream=True, headers=no_auth_headers)
     else:
-        response = sess.post(url, stream=True, headers=no_auth_headers, data=request.data, form=request.form, files=request.files, json=request.json)
+        response = sess.post(url, stream=True, headers=no_auth_headers, data=request.data, files=request.files, json=request.json)
+        # response = sess.post(url, stream=True, headers=no_auth_headers, data=request.data, form=request.form, files=request.files, json=request.json)
 
     def generate():
         for chunk in response.iter_content(chunk_size=1024):
@@ -65,5 +67,5 @@ def chat_completions(path):
     return Response(generate(), content_type=response.headers['content-type'], headers = dict(response.headers))
 
 if __name__ == '__main__':
-    app.run(host=auth_host, port=auth_port)
+    app.run()
 ```
