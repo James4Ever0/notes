@@ -1,7 +1,7 @@
 ---
 title: 'Routing requests with Flask, with extra authentication headers'
 created: '2024-03-05T06:53:30.000Z'
-modified: '2024-03-06T03:14:07.456Z'
+modified: '2024-03-06T03:14:43.718Z'
 ---
 
 # Routing requests with Flask, with extra authentication headers
@@ -16,6 +16,11 @@ gunicorn --bind localhost:8001 <file_name_without_extension>:app
 ```python
 import argparse
 
+import requests
+from flask import Flask, Response, request
+
+import json
+
 parser = argparse.ArgumentParser(description='Argument Parser with Default Parameters')
 
 parser.add_argument('--source_port', type=int, default=8000, help='Source Port Number')
@@ -25,9 +30,6 @@ args,_ = parser.parse_known_args()
 print("Source Port:", args.source_port)
 
 source_port = args.source_port
-
-import requests
-from flask import Flask, Response, request
 
 app = Flask(__name__)
 
@@ -39,9 +41,6 @@ GET = "GET"
 POST = "POST"
 
 ALLOWED_METHODS = [GET, POST]
-
-import json
-
 
 @app.route('/', defaults={'path': ''}, methods=ALLOWED_METHODS)
 @app.route('/<path:path>', methods=ALLOWED_METHODS)
