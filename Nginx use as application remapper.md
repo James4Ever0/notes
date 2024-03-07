@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.871Z'
-modified: '2024-03-07T08:44:23.879Z'
+modified: '2024-03-07T08:44:56.130Z'
 ---
 
 # Nginx use as application remapper
@@ -12,7 +12,7 @@ Run `sudo systemctl restart nginx` after config modification.
 
 ---
 
-FastAPI doc is a pain in the ass. Do not even try to route it to nginx.
+Do not even try to route FastAPI doc to nginx, which is a pain in the ass.
 
 ---
 
