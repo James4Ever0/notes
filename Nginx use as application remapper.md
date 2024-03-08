@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.871Z'
-modified: '2024-03-08T01:50:21.144Z'
+modified: '2024-03-08T01:50:45.862Z'
 ---
 
 # Nginx use as application remapper
@@ -9,14 +9,6 @@ modified: '2024-03-08T01:50:21.144Z'
 After installing nginx, a default page is created under `/var/www/html` and config files are at `/etc/nginx`.
 
 Run `sudo systemctl restart nginx` after config modification.
-
----
-
-If you want to route FastAPI docs to nginx, you have to rewrite contents.
-
-```nginx
-
-```
 
 ---
 
@@ -39,5 +31,12 @@ server {
 		proxy_set_header Connection "upgrade";
   }
 }
+```
+
+---
+
+If you want to route FastAPI docs to nginx, you have to rewrite contents.
+
+```nginx
 
 ```
