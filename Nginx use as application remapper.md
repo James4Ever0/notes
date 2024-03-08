@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.871Z'
-modified: '2024-03-08T01:50:45.862Z'
+modified: '2024-03-08T01:53:39.556Z'
 ---
 
 # Nginx use as application remapper
@@ -38,5 +38,18 @@ server {
 If you want to route FastAPI docs to nginx, you have to rewrite contents.
 
 ```nginx
+server {
+	location /vllm/openapi.json {
+		proxy_pass http://localhost:8000/openapi.json;
+		sub_filter "\"paths\"" "\"servers\": [{\"url\": \"/vllm\"}], \"paths\"";
+		sub_filter_types application/json;
+	}
 
+	location /vllm/ {
+		proxy_pass http://localhost:8000/;
+		sub_filter "openapi.json" "vllm/openapi.json";
+		sub_filter_once off;
+
+	}
+}
 ```
