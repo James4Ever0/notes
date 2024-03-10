@@ -1,10 +1,14 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-10T14:26:28.141Z'
+modified: '2024-03-10T14:27:47.646Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+[AI toolbox](https://github.com/OceanNg529/allAI) for 
+
+---
 
 Use `streamlit` to write interactive interfaces for video labeling, editing and registration, tracking viewer counts.
 
