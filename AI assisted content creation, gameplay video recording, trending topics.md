@@ -1,10 +1,18 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-10T14:35:40.688Z'
+modified: '2024-03-10T15:33:53.528Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+To check if audio is recorded, we can view amplitude instead of hearing.
+
+```bash
+ffprobe -f lavfi -i "amovie=<audio_or_video_filepath>,astats=metadata=1:reset=1" -show_entries frame=pkt_pts_time:frame_tags=lavfi.astats.Overall.RMS_level -of default=noprint_wrappers=1:nokey=1 -sexagesimal -v error
+```
+
+---
 
 [AI toolbox](https://github.com/OceanNg529/allAI): a comprehensive content creation toolbox with links to related projects
 
