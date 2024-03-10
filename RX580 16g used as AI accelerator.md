@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:42:40.085Z'
+modified: '2024-03-10T13:44:48.774Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -57,7 +57,7 @@ Either way, you need to specify `export HSA_OVERRIDE_GFX_VERSION=9.0.0`.
 Run a container:
 
 ```bash
-
+sudo docker run --rm -it --cap-add=SYS_PTRACE --security-opt seccomp=unconfined --device=/dev/kfd --device=/dev/dri --group-add video --ipc=host --shm-size 8G rocm/pytorch:latest
 ```
 
 ---
