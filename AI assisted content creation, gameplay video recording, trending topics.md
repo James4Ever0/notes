@@ -1,7 +1,7 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-10T15:33:53.528Z'
+modified: '2024-03-10T15:34:35.659Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
@@ -20,7 +20,7 @@ ffprobe -f lavfi -i "amovie=<audio_or_video_filepath>,astats=metadata=1:reset=1"
 
 Use `streamlit` to write interactive interfaces for video labeling, editing and registration, tracking viewer counts.
 
-Grided image can be used for image selection and image condensation, putting multiple images together to save processing power during tasks like video rating.
+Grided image can be used for image selection prompting and image condensation, putting multiple images together to save processing power during tasks like video rating.
 
 When you play video games on low end devices, you can tune down the resolution and image quality, to ensure 30 FPS.
 
