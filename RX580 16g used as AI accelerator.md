@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:34:39.827Z'
+modified: '2024-03-10T13:35:33.684Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -20,13 +20,13 @@ Your integrated GPU `gfx90c` [can]() be used for AI.
 
 To run it without container, you build it with codename `gfx900`.
 
-Either way, you need to specify `export `.
+Either way, you need to specify `export HSA_OVERRIDE_GFX_VERSION=9.0.0`.
 
 ---
 
 Currently it is not possible to run `ollama` on `gfx90c`.
 
-You can disable GPU by `export =1`.
+You can disable GPU by `export HSA_OVERRIDE_GFX_VERSION=1`.
 
 Since latest `ollama` accesses ROCm, run it with `root` account.
 
