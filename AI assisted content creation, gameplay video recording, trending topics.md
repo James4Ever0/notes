@@ -1,7 +1,7 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-10T14:18:14.411Z'
+modified: '2024-03-10T14:18:42.844Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
@@ -18,4 +18,4 @@ Train a video grading system with recent and relevant video grades, and when eva
 
 Get system predicted labels of video content to train a label predictor out of it, providing necessary context of test video for improving the grading system accuracy.
 
-[Taskmatrix]() is a multimodal agent framework suitable for multiple types of image editing, using diffusion models.
+[Taskmatrix](https://github.com/moymix/TaskMatrix) is a multimodal agent framework suitable for multiple types of image editing, using diffusion models.
