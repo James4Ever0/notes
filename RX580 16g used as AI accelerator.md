@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:44:48.774Z'
+modified: '2024-03-10T13:55:29.434Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -61,11 +61,11 @@ sudo docker run --rm -it --cap-add=SYS_PTRACE --security-opt seccomp=unconfined 
 ```
 
 ---
+If you want to run `ollama` on other GPUs, you must install ROCm 6.
 
-Currently it is not possible to run `ollama` on `gfx90c`.
+You can get current ROCm version by `dpkg -l | grep -i rocm`.
 
 You can disable GPU by `export HSA_OVERRIDE_GFX_VERSION=1`.
 
 Since latest `ollama` accesses ROCm, run it with `root` account.
 
-If you want to run `ollama` on other GPUs, you may have to compile it yourself, with parameters like
