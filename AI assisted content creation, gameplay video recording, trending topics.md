@@ -1,12 +1,12 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-10T14:26:14.285Z'
+modified: '2024-03-10T14:26:28.141Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
 
-Use streamlit to write interactive interfaces for video labeling, editing and registration, tracking viewer counts.
+Use `streamlit` to write interactive interfaces for video labeling, editing and registration, tracking viewer counts.
 
 Grided image can be used for image selection and image condensation, putting multiple images together to save processing power during tasks like video rating.
 
