@@ -1,16 +1,16 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:39:46.412Z'
+modified: '2024-03-10T13:40:09.984Z'
 ---
 
 # RX580 16g used as AI accelerator
 
-codename: `gfx803`
+The codename: `gfx803`
 
-you may have to [build it yourself](https://github.com/tsl0922/pytorch-gfx803)
+You may have to [build it yourself](https://github.com/tsl0922/pytorch-gfx803)
 
-setup environmental parameters and install drivers:
+Setup environmental parameters and install drivers:
 
 ```bash
 sudo echo ROC_ENABLE_PRE_VEGA=1 >> /etc/environment
@@ -29,7 +29,7 @@ rocminfo
 clinfo
 ```
 
-build torch:
+Build torch:
 
 ```bash
 git clone https://github.com/pytorch/pytorch.git -b v1.13.1
