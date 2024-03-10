@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:55:29.434Z'
+modified: '2024-03-10T14:03:09.369Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -61,7 +61,7 @@ sudo docker run --rm -it --cap-add=SYS_PTRACE --security-opt seccomp=unconfined 
 ```
 
 ---
-If you want to run `ollama` on other GPUs, you must install ROCm 6.
+If you want to run `ollama` on AMD GPUs, you must install ROCm 6.
 
 You can get current ROCm version by `dpkg -l | grep -i rocm`.
 
