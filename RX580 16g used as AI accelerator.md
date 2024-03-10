@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:35:33.684Z'
+modified: '2024-03-10T13:35:54.805Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -16,7 +16,7 @@ If you want to use this beefy GPU for computation, then either prepare a suitabl
 
 ---
 
-Your integrated GPU `gfx90c` [can]() be used for AI.
+Your integrated GPU `gfx90c` [can](https://github.com/ROCm/ROCm/issues/1743) be used for AI.
 
 To run it without container, you build it with codename `gfx900`.
 
