@@ -1,12 +1,12 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-10T14:35:21.780Z'
+modified: '2024-03-10T14:35:40.688Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
 
-[AI toolbox](https://github.com/OceanNg529/allAI): a comprehensive content creation toolbox
+[AI toolbox](https://github.com/OceanNg529/allAI): a comprehensive content creation toolbox with links to related projects
 
 ---
 
