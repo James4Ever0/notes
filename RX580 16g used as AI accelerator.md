@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:38:18.788Z'
+modified: '2024-03-10T13:39:46.412Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -9,6 +9,8 @@ modified: '2024-03-10T13:38:18.788Z'
 codename: `gfx803`
 
 you may have to [build it yourself](https://github.com/tsl0922/pytorch-gfx803)
+
+setup environmental parameters and install drivers:
 
 ```bash
 sudo echo ROC_ENABLE_PRE_VEGA=1 >> /etc/environment
@@ -25,6 +27,19 @@ sudo usermod -aG render $LOGNAME
 # verify
 rocminfo
 clinfo
+```
+
+build torch:
+
+```bash
+git clone https://github.com/pytorch/pytorch.git -b v1.13.1
+cd pytorch
+export PATH=/opt/rocm/bin:$PATH ROCM_PATH=/opt/rocm HIP_PATH=/opt/rocm/hip
+export PYTORCH_ROCM_ARCH=gfx803
+export PYTORCH_BUILD_VERSION=1.13.1 PYTORCH_BUILD_NUMBER=1
+python3 tools/amd_build/build_amd.py
+USE_ROCM=1 USE_NINJA=1 python3 setup.py bdist_wheel
+pip3 install dist/torch-1.13.1-cp310-cp310-linux_x86_64.whl
 ```
 
 ---
