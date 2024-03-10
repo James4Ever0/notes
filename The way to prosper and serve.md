@@ -1,7 +1,7 @@
 ---
 title: The way to prosper and serve
 created: '2024-02-29T13:04:58.037Z'
-modified: '2024-03-01T01:59:52.277Z'
+modified: '2024-03-10T14:22:01.842Z'
 ---
 
 # The way to prosper and serve
@@ -15,3 +15,11 @@ If you cannot afford the power consumption, start with some small server, ramp i
 ---
 
 Celeron MiniPC is very cheap. However SSD and large RAM are required for quick response.
+
+---
+
+You need OCuLink for eGPU connection.
+
+---
+
+When using smartphones and laptops as server, if no software level charging limit is supported, you need hardware switch controller.
