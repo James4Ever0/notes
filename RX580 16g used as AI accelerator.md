@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-10T13:40:09.984Z'
+modified: '2024-03-10T13:42:40.085Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -53,6 +53,12 @@ Your integrated GPU `gfx90c` [can](https://github.com/ROCm/ROCm/issues/1743) be 
 To run it without container, you build it with codename `gfx900`.
 
 Either way, you need to specify `export HSA_OVERRIDE_GFX_VERSION=9.0.0`.
+
+Run a container:
+
+```bash
+
+```
 
 ---
 
