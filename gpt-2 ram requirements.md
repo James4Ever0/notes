@@ -1,9 +1,8 @@
 ---
-pinned: true
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2024-03-11T06:37:56.778Z'
+modified: '2024-03-11T11:55:15.241Z'
 ---
 
 # gpt-2 ram requirements
