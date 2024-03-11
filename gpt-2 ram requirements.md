@@ -2,7 +2,7 @@
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2024-03-11T02:42:54.782Z'
+modified: '2024-03-11T02:43:05.577Z'
 ---
 
 # gpt-2 ram requirements
@@ -19,7 +19,7 @@ you can use plastic and glue instead of screws.
 
 elaborate the structure of the fan mount by using cardboards.
 
-download existing fan mount designs and design your own.
+download existing fan mount designs as reference and design your own.
 
 ---
 
