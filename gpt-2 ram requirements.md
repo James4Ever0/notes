@@ -2,7 +2,7 @@
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2024-03-11T01:34:58.745Z'
+modified: '2024-03-11T01:35:42.927Z'
 ---
 
 # gpt-2 ram requirements
@@ -12,6 +12,8 @@ design a external cooling system for passive cooling GPUs like P40, M40.
 installed by screws, powered by usb cabels, sealed by heat-resistant silicon gels
 
 you should adapt for different fan sizes, so that different customers can select the best ones.
+
+the fan can also be screw-free by attaching it to a mechanical pivot.
 
 ---
 
