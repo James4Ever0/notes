@@ -2,7 +2,7 @@
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2024-03-11T03:09:22.994Z'
+modified: '2024-03-11T03:11:20.172Z'
 ---
 
 # gpt-2 ram requirements
@@ -24,9 +24,9 @@ download existing fan mount designs as reference and design your own.
 design something like:
 
 ```
-                            fan mount plate (slightly shorter than the slot plate)
-| |                       /
-| |______________________   original pci-e slot plate
+     _________________      fan mount plate (slightly shorter than the slot plate)
+| | |                 |    /
+| |_|                 |__   original pci-e slot plate
 |________________________ / 
 
 ```
