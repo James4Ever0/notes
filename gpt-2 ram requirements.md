@@ -2,7 +2,7 @@
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2024-03-11T01:36:15.024Z'
+modified: '2024-03-11T02:13:57.389Z'
 ---
 
 # gpt-2 ram requirements
@@ -14,6 +14,8 @@ installed by screws, powered by usb cabels, sealed by heat-resistant silicon gel
 you should adapt for different fan sizes, so that different customers can select the best ones.
 
 the fan can also be screw-free by attaching it to a 3 DOF robot hand.
+
+you can use plastic and glue instead of screws.
 
 ---
 
