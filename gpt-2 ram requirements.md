@@ -2,10 +2,16 @@
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2022-08-18T07:52:35.576Z'
+modified: '2024-03-11T01:12:15.067Z'
 ---
 
 # gpt-2 ram requirements
+
+design a external cooling system for passive cooling GPUs like P40, M40.
+
+installed by screws, powered by usb cabels, sealed by heat-resistant silicon gels
+
+---
 
 服务器重量在25公斤以上 运输和搬运均需注意
 
