@@ -3,7 +3,7 @@ pinned: true
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2024-03-11T03:40:30.524Z'
+modified: '2024-03-11T03:41:09.881Z'
 ---
 
 # gpt-2 ram requirements
@@ -31,6 +31,8 @@ design something like:
 |________________________ / 
 
 ```
+
+visit [here](https://yeggi.com/q/pcie+bracket) for downloading free pci-e brackets
 
 ---
 
