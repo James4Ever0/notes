@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.281Z'
-modified: '2024-03-14T08:59:49.034Z'
+modified: '2024-03-14T09:01:58.174Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -10,4 +10,4 @@ modified: '2024-03-14T08:59:49.034Z'
 
 [Cradle](https://github.com/BAAI-Agents/Cradle) is a general computer controlling agent developed to play Red Dead Redeption II 
 
-[Pythagonia]() 
+[Pythagora]() 
