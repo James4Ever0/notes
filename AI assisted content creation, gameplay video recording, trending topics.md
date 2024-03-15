@@ -1,10 +1,14 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-14T14:56:18.007Z'
+modified: '2024-03-15T08:31:45.042Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+Kdenlive has many video editing features, like automatic scene split, video stabilzation.
+
+---
 
 To extract existing hard-coded subtitles in videos, use [videosubfinder](https://sourceforge.net/projects/videosubfinder/), which is used in Cradle, an Red Dead Redemption II agent.
 
