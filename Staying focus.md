@@ -1,7 +1,7 @@
 ---
 title: Staying focus
 created: '2024-03-16T14:11:06.506Z'
-modified: '2024-03-16T14:13:57.119Z'
+modified: '2024-03-18T12:47:28.035Z'
 ---
 
 # Staying focus
@@ -16,3 +16,7 @@ People who need to stay focus for a long time:
 ---
 
 Find the thing they take, method they use for staying focus and productive.
+
+---
+
+Sugar-free energy drinks 
