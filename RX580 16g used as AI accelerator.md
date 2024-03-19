@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-19T00:59:27.550Z'
+modified: '2024-03-19T00:59:45.252Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -77,6 +77,6 @@ In order to circumvent BIOS VRAM limitation for APU, you can follow the instruct
 
 Related repos:
 
-- []()
-- [](https://github.com/segurac/force-host-alloction-APU)
+- [torch-apu-helper](https://github.com/pomoke/torch-apu-helper)
+- [force-host-alloction-APU](https://github.com/segurac/force-host-alloction-APU)
 
