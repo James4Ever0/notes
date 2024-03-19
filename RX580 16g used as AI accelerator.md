@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-19T00:57:50.486Z'
+modified: '2024-03-19T00:58:01.667Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -73,7 +73,7 @@ Since latest `ollama` accesses ROCm, run it with `root` account.
 
 ---
 
-In order to circumvent BIOS VRAM limitation for APU, you can follow the instruction here.
+In order to circumvent BIOS VRAM limitation for APU, you can follow the instruction [here](https://typeof.pw/archives/pytorch-on-apu-vram).
 
 Related repos:
 
