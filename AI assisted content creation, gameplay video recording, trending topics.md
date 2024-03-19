@@ -1,12 +1,12 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-19T14:41:15.952Z'
+modified: '2024-03-19T14:41:35.769Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
 
-Use [enhancr]() for frame interpolation, super resolution and scaling. It includes 
+Use [enhancr]() for frame interpolation, super resolution and scaling. The pro version contains faster models.
 
 ---
 
