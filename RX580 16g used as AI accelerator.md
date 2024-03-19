@@ -1,12 +1,12 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-19T01:11:38.233Z'
+modified: '2024-03-19T01:12:17.841Z'
 ---
 
 # RX580 16g used as AI accelerator
 
-Disable power feature in case multi-GPU program does not work expectedly.
+Disable power feature in case multi-GPU program does not work expectedly. More info [here](https://github.com/ROCm/ROCm/issues/2418).
 
 ```bash
 sudo vim /etc/default/grub
