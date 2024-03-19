@@ -1,10 +1,23 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-19T01:01:16.073Z'
+modified: '2024-03-19T01:11:38.233Z'
 ---
 
 # RX580 16g used as AI accelerator
+
+Disable power feature in case multi-GPU program does not work expectedly.
+
+```bash
+sudo vim /etc/default/grub
+# add "amdgpu.ppfeaturemask=0xffff3fff amdgpu.runpm=0x0" into GRUB_CMDLINE_LINUX_DEFAULT
+sudo update-grub
+reboot
+cat /proc/cmdline
+# see if the modification takes effect
+```
+
+---
 
 The codename: `gfx803`
 
