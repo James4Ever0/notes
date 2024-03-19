@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-19T00:45:33.334Z'
+modified: '2024-03-19T00:46:21.623Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -63,7 +63,7 @@ sudo docker run --rm -it --cap-add=SYS_PTRACE --security-opt seccomp=unconfined 
 ---
 If you want to run `ollama` on AMD GPUs, you must install ROCm 6.
 
-Additinally if the card is `gfx90c`, you need to run `export HSA_ENABLE_SDMA=0`.
+Additinally if the card is [`gfx90c`](https://github.com/ROCm/ROCm/issues/2774), you need to run `export HSA_ENABLE_SDMA=0`.
 
 You can get current ROCm version by `dpkg -l | grep -i rocm`.
 
