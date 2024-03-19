@@ -1,7 +1,7 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-19T00:46:21.623Z'
+modified: '2024-03-19T00:57:50.486Z'
 ---
 
 # RX580 16g used as AI accelerator
@@ -70,4 +70,13 @@ You can get current ROCm version by `dpkg -l | grep -i rocm`.
 You can disable GPU by `export HSA_OVERRIDE_GFX_VERSION=1`.
 
 Since latest `ollama` accesses ROCm, run it with `root` account.
+
+---
+
+In order to circumvent BIOS VRAM limitation for APU, you can follow the instruction here.
+
+Related repos:
+
+- []()
+- []()
 
