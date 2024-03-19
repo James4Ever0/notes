@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.281Z'
-modified: '2024-03-19T01:33:54.502Z'
+modified: '2024-03-19T01:34:03.276Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -17,7 +17,7 @@ modified: '2024-03-19T01:33:54.502Z'
 Devin open source counterparts:
 
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
-- [MetaGPT]()
+- [MetaGPT](https://github.com/geekan/MetaGPT)
 
 ---
 
