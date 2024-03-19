@@ -1,12 +1,14 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-19T14:45:05.750Z'
+modified: '2024-03-19T14:50:25.089Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
 
 Use [enhancr](https://github.com/mafiosnik777/enhancr) for frame interpolation, super resolution and scaling. The pro version contains faster models.
+
+The app is built using electron forge.
 
 Interpolation gets worse with higher resolution, that's why I wouldn't upscale first.
 
