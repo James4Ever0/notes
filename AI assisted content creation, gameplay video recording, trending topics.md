@@ -1,10 +1,14 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-15T08:31:45.042Z'
+modified: '2024-03-19T14:41:15.952Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+Use [enhancr]() for frame interpolation, super resolution and scaling. It includes 
+
+---
 
 Kdenlive has many video editing features, like automatic scene split, video stabilzation.
 
