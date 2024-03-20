@@ -1,12 +1,14 @@
 ---
 title: RX580 16g used as AI accelerator
 created: '2023-12-09T13:47:07.765Z'
-modified: '2024-03-19T06:15:50.893Z'
+modified: '2024-03-20T16:19:32.556Z'
 ---
 
 # RX580 16g used as AI accelerator
 
 Intel uses SYCL and oneAPI for acceleration. These also target NVIDIA GPUs and AMD GPUs.
+
+Unlike AMD GPUs, Intel does not separate iGPU VRAM from system RAM, which means iGPU can make full use of it.
 
 Still cheaper than Mac Studio, though overall memory is smaller.
 
