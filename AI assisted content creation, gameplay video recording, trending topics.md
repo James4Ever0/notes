@@ -1,10 +1,14 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-19T14:50:40.705Z'
+modified: '2024-03-20T08:17:31.290Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+Video understanding and video embedding can be achieved with ViViT (in huggingface).
+
+---
 
 Use [enhancr](https://github.com/mafiosnik777/enhancr) for frame interpolation, super resolution and scaling. The pro version contains faster models.
 
