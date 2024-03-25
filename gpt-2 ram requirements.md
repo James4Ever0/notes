@@ -2,10 +2,14 @@
 tags: [big model training, deepspeed, hardware specs, pytorch]
 title: gpt-2 ram requirements
 created: '2022-04-28T02:22:06.000Z'
-modified: '2024-03-11T11:55:15.241Z'
+modified: '2024-03-25T03:53:20.590Z'
 ---
 
 # gpt-2 ram requirements
+
+do not plug the server gpu into the slot before testing the blower. if the wind comes out from the other side, you are good.
+
+---
 
 design a external cooling system for passive cooling GPUs like P40, M40.
 
