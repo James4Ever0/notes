@@ -2,7 +2,7 @@
 tags: [API, bilibili, stub]
 title: 哔哩哔哩 接口 Bilibili APIs
 created: '2022-07-09T15:30:05.000Z'
-modified: '2024-03-29T14:58:21.327Z'
+modified: '2024-03-29T14:59:23.338Z'
 ---
 
 # 哔哩哔哩 接口 Bilibili APIs
@@ -11,7 +11,16 @@ modified: '2024-03-29T14:58:21.327Z'
 
 生成随机的`dm_*`参数
 
-用
+```python
+{
+    "dm_img_list": "[]",  # 鼠标/键盘操作记录
+    "dm_img_str": "".join(random.sample(dm_rand, 2)),
+    "dm_cover_img_str": "".join(random.sample(dm_rand, 2)),
+    "dm_img_inter": '{"ds":[],"wh":[0,0,0],"of":[0,0,0]}',
+}
+```
+
+合成`wbi`校验数据的算法没有变化
 
 ----
 
