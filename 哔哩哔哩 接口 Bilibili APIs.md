@@ -2,7 +2,7 @@
 tags: [API, bilibili, stub]
 title: 哔哩哔哩 接口 Bilibili APIs
 created: '2022-07-09T15:30:05.000Z'
-modified: '2024-03-29T14:59:23.338Z'
+modified: '2024-03-29T15:00:26.389Z'
 ---
 
 # 哔哩哔哩 接口 Bilibili APIs
@@ -21,6 +21,8 @@ modified: '2024-03-29T14:59:23.338Z'
 ```
 
 合成`wbi`校验数据的算法没有变化
+
+如果有必要的话，用`curl-cffi`对抗tls fingerprinting
 
 ----
 
