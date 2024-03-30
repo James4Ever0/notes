@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T04:05:56.483Z'
+modified: '2024-03-30T04:06:16.635Z'
 ---
 
 # Hacker virtual machines, containers
@@ -12,7 +12,7 @@ install via  `apt install proot-distro`
 
 ---
 
-use podman over docker, since we do not need gpu here.
+use podman over docker, since we do not need gpu here, and want faster pulling speed.
 
 ---
 
