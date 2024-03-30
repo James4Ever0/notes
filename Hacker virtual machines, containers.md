@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T03:40:33.847Z'
+modified: '2024-03-30T04:02:11.284Z'
 ---
 
 # Hacker virtual machines, containers
@@ -13,6 +13,10 @@ install via  `apt install proot-distro`
 ---
 
 use podman over docker, since we do not need gpu here.
+
+---
+
+parrot linux also has docker images.
 
 ---
 
