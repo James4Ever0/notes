@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T04:42:55.223Z'
+modified: '2024-03-30T04:43:41.144Z'
 ---
 
 # Hacker virtual machines, containers
@@ -16,7 +16,7 @@ use podman over docker, since we do not need gpu here, and want faster pulling s
 
 ---
 
-[metasploitable2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/), parrot linux also have docker images. more cybersecurity/ctf related images to be found.
+[metasploitable2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/), [parrot linux](https://parrotsec.org/docs/cloud/parrot-on-docker/) also have docker images. more cybersecurity/ctf related images to be found.
 
 run this query in search engines:
 ```
