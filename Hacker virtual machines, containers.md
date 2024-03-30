@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T03:32:20.133Z'
+modified: '2024-03-30T03:33:04.043Z'
 ---
 
 # Hacker virtual machines, containers
@@ -15,7 +15,8 @@ install via  `apt install proot-distro`
 on ubuntu you use docker for pulling [kali](https://www.kali.org/docs/containers/official-kalilinux-docker-images/) and [blackarch](https://github.com/BlackArch/blackarch-docker) linux images. latest images are pushed to docker hub.
 
 ```bash
-sudo docker pull kalilinux/kali-rolling
+sudo docker pull kalilinux/kali-rolling 
+# run inside container: apt update && apt install kalilinux-headless
 sudo docker pull blackarchlinux/blackarch
 ```
 
