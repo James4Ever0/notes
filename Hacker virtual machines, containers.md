@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T03:13:50.693Z'
+modified: '2024-03-30T03:14:24.478Z'
 ---
 
 # Hacker virtual machines, containers
@@ -12,7 +12,7 @@ install via  `apt install proot-distro`
 
 ---
 
-on ubuntu you use docker for pulling [kali]() and [blackarch](https://github.com/BlackArch/blackarch-docker) linux images.
+on ubuntu you use docker for pulling [kali](https://www.kali.org/docs/containers/official-kalilinux-docker-images/) and [blackarch](https://github.com/BlackArch/blackarch-docker) linux images.
 
 ---
 
