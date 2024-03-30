@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T03:34:40.568Z'
+modified: '2024-03-30T03:40:33.847Z'
 ---
 
 # Hacker virtual machines, containers
@@ -9,6 +9,10 @@ modified: '2024-03-30T03:34:40.568Z'
 on termux you use [`proot-distro`](https://github.com/termux/proot-distro) for installing kali and blackarch linux.
 
 install via  `apt install proot-distro`
+
+---
+
+use podman over docker, since we do not need gpu here.
 
 ---
 
