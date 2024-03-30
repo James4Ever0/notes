@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T03:33:04.043Z'
+modified: '2024-03-30T03:34:12.838Z'
 ---
 
 # Hacker virtual machines, containers
@@ -16,7 +16,7 @@ on ubuntu you use docker for pulling [kali](https://www.kali.org/docs/containers
 
 ```bash
 sudo docker pull kalilinux/kali-rolling 
-# run inside container: apt update && apt install kalilinux-headless
+# run inside container: apt update && apt install -y kali-linux-headless
 sudo docker pull blackarchlinux/blackarch
 ```
 
