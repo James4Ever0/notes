@@ -1,12 +1,12 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T03:14:24.478Z'
+modified: '2024-03-30T03:14:56.585Z'
 ---
 
 # Hacker virtual machines, containers
 
-on termux you use [`proot-distro`]() for installing kali and blackarch linux.
+on termux you use [`proot-distro`](https://github.com/termux/proot-distro) for installing kali and blackarch linux.
 
 install via  `apt install proot-distro`
 
