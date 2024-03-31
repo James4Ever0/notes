@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-03-31T16:09:01.120Z'
+modified: '2024-03-31T16:17:22.034Z'
 ---
 
 # Export REPL command history to script file
@@ -57,4 +57,5 @@ history()
 
 ---
 
+metasploit history file location: `~/.msf4/history`
 
