@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T13:16:23.495Z'
+modified: '2024-03-31T13:16:52.794Z'
 ---
 
 # AI工具箱
@@ -22,7 +22,7 @@ www.5kcrm.com/ai
 
 [DragGAN](https://www.5kcrm.com/chat/id/16) 是由Max Planck研究所开发的一种新的人工智能工具，它允许用户通过几个点击和拖动来真实地修改照片。根据一篇研究文章，它提供了两个主要组成部分：基于特征的运动监督和一种革命性的点追踪技术。 
 
-[]()
+[](https://www.5kcrm.com/chat/id/8) 
 
 ---
 
