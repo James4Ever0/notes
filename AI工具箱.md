@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T14:13:36.147Z'
+modified: '2024-03-31T14:44:25.295Z'
 ---
 
 # AI工具箱
@@ -18,6 +18,7 @@ My-VITS
 SadTalker
 stable-diffusion-webui
 wav2lip
+RVC
 ```
 
 ---
