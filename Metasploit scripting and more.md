@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.765Z'
-modified: '2024-03-31T12:26:39.575Z'
+modified: '2024-03-31T12:26:50.427Z'
 ---
 
 # Metasploit scripting and more
@@ -25,7 +25,7 @@ pip3 install pymetasploit3
 ```
 
 launch metasploit background rpc service:
-```
+```bash
 # get help
 msfrpcd -h
 # start background service
