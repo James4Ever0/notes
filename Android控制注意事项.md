@@ -1,7 +1,7 @@
 ---
 title: Android控制注意事项
 created: '2024-03-31T04:16:04.992Z'
-modified: '2024-03-31T04:22:27.653Z'
+modified: '2024-03-31T04:31:05.197Z'
 ---
 
 # Android控制注意事项
@@ -14,3 +14,5 @@ adb shell date "YYYY-MM-DD HH:MM:SS"
 ```
 
 把所有闹钟都关闭 防止关了机又打开 或者在脚本操作控制的时候出问题
+
+断线重连
