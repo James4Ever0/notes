@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T13:17:25.501Z'
+modified: '2024-03-31T13:18:14.890Z'
 ---
 
 # AI工具箱
@@ -18,7 +18,7 @@ www.5kcrm.com/ai
 
 [OpenVoice](https://www.5kcrm.com/chat/id/19) 一种多语言即时语音克隆工具
 
-[WebGLM](https://www.5kcrm.com/chat/id/13)
+[WebGLM](https://www.5kcrm.com/chat/id/13) 是一个百亿参数的通用语言模型（GLM），提供一种高效且低成本的网络增强问答系统。它通过将网络搜索和召回功能，集成到预训练的语言模型中，以进行实际应用的部署。 
 
 [DragGAN](https://www.5kcrm.com/chat/id/16) 是由Max Planck研究所开发的一种新的人工智能工具，它允许用户通过几个点击和拖动来真实地修改照片。根据一篇研究文章，它提供了两个主要组成部分：基于特征的运动监督和一种革命性的点追踪技术。 
 
