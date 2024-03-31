@@ -1,10 +1,30 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-03-31T05:27:15.986Z'
+modified: '2024-03-31T05:28:49.964Z'
 ---
 
 # Export REPL command history to script file
+
+运行py的交互式命令行 如果想输出最近的操作 可以运行下面的代码
+
+```python
+# please define "history_output_path" beforehand
+
+import readline
+
+# Get the total number of history items in the current session
+history_length = readline.get_current_history_length()
+
+# Iterate over each history item and print the command
+with open(history_output_path, 'w+') as f:
+    for i in range(1, history_length + 1):
+        item = readline.get_history_item(i)
+        print(item)
+        f.write(item+"\n")
+
+```
+---
 
 Hackers are good at converting arbitrary actions into scripts.
 
