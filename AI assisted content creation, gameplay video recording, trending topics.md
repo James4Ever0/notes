@@ -1,7 +1,7 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-20T08:17:31.290Z'
+modified: '2024-03-31T03:17:26.249Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
@@ -15,6 +15,10 @@ Use [enhancr](https://github.com/mafiosnik777/enhancr) for frame interpolation, 
 The app is built using [electron forge](https://www.electronforge.io/config/configuration).
 
 Interpolation gets worse with higher resolution, that's why I wouldn't upscale first.
+
+enhancr is built upon the following models:
+
+
 
 ---
 
