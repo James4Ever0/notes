@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.765Z'
-modified: '2024-03-31T12:15:50.463Z'
+modified: '2024-03-31T12:20:58.485Z'
 ---
 
 # Metasploit scripting and more
@@ -27,6 +27,5 @@ pip3 install pymetasploit3
 run script:
 
 ```python
-
 
 ```
