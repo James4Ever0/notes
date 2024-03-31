@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T14:12:24.628Z'
+modified: '2024-03-31T14:13:36.147Z'
 ---
 
 # AI工具箱
@@ -14,8 +14,10 @@ compiled with .net and obfusticated with pyarmor
 containing:
 
 ```
-
-
+My-VITS
+SadTalker
+stable-diffusion-webui
+wav2lip
 ```
 
 ---
