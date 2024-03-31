@@ -1,7 +1,7 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-31T03:17:26.249Z'
+modified: '2024-03-31T03:18:22.852Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
@@ -18,6 +18,47 @@ Interpolation gets worse with higher resolution, that's why I wouldn't upscale f
 
 enhancr is built upon the following models:
 
+
+## Interpolation
+
+>**RIFE (NCNN)** - [megvii-research](https://github.com/megvii-research)/**[ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE)** - powered by [styler00dollar](https://github.com/styler00dollar)/**[VapourSynth-RIFE-NCNN-Vulkan](https://github.com/styler00dollar/VapourSynth-RIFE-NCNN-Vulkan)**
+
+>**RIFE (TensorRT)** - [megvii-research](https://github.com/megvii-research)/**[ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)** & [styler00dollar](https://github.com/styler00dollar)/**[VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker)**
+
+>**GMFSS - Union (PyTorch/TensorRT)** - [98mxr](https://github.com/98mxr)/**[GMFSS_Union](https://github.com/98mxr/GMFSS_union)** - powered by [HolyWu](https://github.com/HolyWu)/**[vs-gmfss_union](https://github.com/HolyWu/vs-gmfss_union)**
+
+>**GMFSS - Fortuna (PyTorch/TensorRT)** - [98mxr](https://github.com/98mxr)/**[GMFSS_Fortuna](https://github.com/98mxr/GMFSS_Fortuna)** - powered by [HolyWu](https://github.com/HolyWu)/**[vs-gmfss_fortuna](https://github.com/HolyWu/vs-gmfss_fortuna)**
+
+>**CAIN (NCNN)** - [myungsub](https://github.com/myungsub)/**[CAIN](https://github.com/myungsub/CAIN)** - powered by [mafiosnik](https://github.com/mafiosnik777)/**vsynth-cain-NCNN-vulkan** (unreleased)
+
+>**CAIN (DirectML)** - [myungsub](https://github.com/myungsub)/**[CAIN](https://github.com/myungsub/CAIN)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**CAIN (TensorRT)** - [myungsub](https://github.com/myungsub)/**[CAIN](https://github.com/myungsub/CAIN)** - powered by [HubertSotnowski](https://github.com/HubertSotnowski)/**[cain-TensorRT](https://github.com/HubertSotnowski/cain-TensorRT)**
+
+
+## Upscaling
+
+>**ShuffleCUGAN (NCNN)** - [styler00dollar](https://github.com/styler00dollar)/**[VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**ShuffleCUGAN (TensorRT)** - [styler00dollar](https://github.com/styler00dollar)/**[VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**RealESRGAN (NCNN)** - [xinntao](https://github.com/xinntao)/**[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**RealESRGAN (DirectML)** - [xinntao](https://github.com/xinntao)/**[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**RealESRGAN (TensorRT)** - [xinntao](https://github.com/xinntao)/**[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**RealCUGAN (TensorRT)** - [bilibili](https://github.com/bilibili)/**[ailab/Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**SwinIR (TensorRT)** - [JingyunLiang](https://github.com/JingyunLiang)/**[SwinIR](https://github.com/JingyunLiang/SwinIR)** - powered by [mafiosnik777](https://github.com/mafiosnik777)/**SwinIR-TensorRT** (unreleased)
+
+## Restoration
+
+>**DPIR (DirectML)** - [cszn](https://github.com/cszn)/**[DPIR](https://github.com/cszn/DPIR)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**DPIR (TensorRT)** - [cszn](https://github.com/cszn)/**[DPIR](https://github.com/cszn/DPIR)** - powered by [AmusementClub](https://github.com/AmusementClub)/**[vs-mlrt](https://github.com/AmusementClub/vs-mlrt)**
+
+>**SCUNet (TensorRT)** - [cszn](https://github.com/cszn)/**[SCUNet](https://github.com/cszn/SCUNet)** - powered by [mafiosnik777](https://github.com/mafiosnik777)/**SCUNet-TensorRT** (unreleased)
 
 
 ---
