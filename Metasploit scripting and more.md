@@ -1,0 +1,32 @@
+---
+title: Metasploit scripting and more
+created: '2024-03-31T04:25:36.765Z'
+modified: '2024-03-31T12:15:08.901Z'
+---
+
+# Metasploit scripting and more
+
+[mad-metasploit](https://github.com/hahwul/mad-metasploit) custom metasploit scripts
+
+---
+
+[metasploit unleashed]()
+
+[official metasploit documentation]()
+
+---
+
+metasploit has enabled ssl by default. http will not work.
+
+install package:
+
+```bash
+pip3 install pymetasploit3
+```
+
+run script:
+
+```python
+
+
+```
