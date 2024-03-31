@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T05:27:59.776Z'
+modified: '2024-03-31T05:29:43.731Z'
 ---
 
 # AI工具箱
@@ -24,6 +24,10 @@ AI 3D建模 动作生成
 allAI 工具箱：
 https://github.com/OceanNg529/allAI
 包含视频抠图
+
+[漫画翻译软件]() 可以翻译不同的排版 保持文字方向
+
+
 
 
 为了加速下载 作者把链接都放到了[gitee](https://gitee.com/ocean125/)上面 可以在那里找到最新的ai工具
