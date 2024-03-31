@@ -1,14 +1,12 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-03-31T05:26:16.290Z'
+modified: '2024-03-31T05:26:25.295Z'
 ---
 
 # Export REPL command history to script file
 
 Hackers are good at converting arbitrary actions into scripts.
-
-The program follows:
 
 ```
 Thoughs -> Actions -> Scripts -> Programs -> Systems
