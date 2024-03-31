@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T04:06:59.081Z'
+modified: '2024-03-31T04:07:58.081Z'
 ---
 
 # AI工具箱
@@ -25,7 +25,7 @@ allAI 工具箱：
 https://github.com/OceanNg529/allAI
 包含视频抠图
 
-为了加速下载 作者把链接都放到了[gitee](https://gitee.com/ocean125/)上面
+为了加速下载 作者把链接都放到了[gitee](https://gitee.com/ocean125/)上面 可以在那里找到最新的ai工具
 
 [moondream2](https://gitee.com/ocean125/moondream-allAI) 一个强大且能在任何地方运行的小型视觉语言模型
 
