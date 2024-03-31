@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T03:18:58.235Z'
+modified: '2024-03-31T03:21:46.191Z'
 ---
 
 # AI工具箱
@@ -25,3 +25,6 @@ allAI 工具箱：
 https://github.com/OceanNg529/allAI
 包含视频抠图
 
+---
+
+老麦的工具库 UID:486989780
