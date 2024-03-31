@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T14:44:25.295Z'
+modified: '2024-03-31T14:47:50.544Z'
 ---
 
 # AI工具箱
@@ -19,6 +19,223 @@ SadTalker
 stable-diffusion-webui
 wav2lip
 RVC
+```
+
+code for decoding encrypted environment files:
+
+```csharp
+// Decompiled with JetBrains decompiler
+// Type: common.PyEnvUtil
+// Assembly: common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: F9EBC4D1-A1AC-4DC9-BFE0-2B1E74C84F97
+// Assembly location: G:\works\extract-ez-ai-tool-info\EZ-AI-Starter-1.0\launcher\common.dll
+
+using common.entity;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
+using System.Threading;
+
+#nullable enable
+namespace common
+{
+  public class PyEnvUtil
+  {
+    private static void compareZipAndReplace(string srcZip, string targetZip)
+    {
+      bool flag;
+      if (!File.Exists(targetZip))
+      {
+        flag = true;
+      }
+      else
+      {
+        if (!File.Exists(srcZip))
+          throw new Exception(srcZip + " not found.");
+        flag = !Util.getFileHash(srcZip).Equals(Util.getFileHash(targetZip));
+      }
+      if (!flag)
+        return;
+      File.Copy(srcZip, targetZip, true);
+      Util.unZip(targetZip, Path.Combine(Path.GetDirectoryName(targetZip), Path.GetFileNameWithoutExtension(targetZip)), (Action<string>) null, false, isJoin: true);
+    }
+
+    private static bool detectVCInstalled()
+    {
+      ProcessStartInfo startInfo = new ProcessStartInfo()
+      {
+        FileName = GlobalVariable.assemblyDir + "\\vswhere.exe",
+        Arguments = " -latest -products * -requires Microsoft.VisualStudio.Component.VC.Tools.x86.x64 -property installationPath",
+        RedirectStandardOutput = true,
+        UseShellExecute = false,
+        CreateNoWindow = true
+      };
+      if (!File.Exists(startInfo.FileName))
+      {
+        Console.WriteLine("error: vswhere not found!");
+        return false;
+      }
+      Process process = Process.Start(startInfo);
+      if (process == null)
+        return false;
+      process.WaitForExit();
+      string end = ((TextReader) process.StandardOutput).ReadToEnd();
+      if (end == null)
+        return false;
+      string[] strArray = end.Trim().Split(new string[1]
+      {
+        Environment.NewLine
+      }, StringSplitOptions.RemoveEmptyEntries);
+      return strArray != null && strArray.Length != 0 && Directory.Exists(strArray[0]);
+    }
+
+    private static bool installVC()
+    {
+      Console.WriteLine("Visual Studio Installer安装中...");
+      string str = GlobalVariable.assemblyDir + "\\vc.vsconfig";
+      ProcessStartInfo startInfo = new ProcessStartInfo()
+      {
+        FileName = GlobalVariable.assemblyDir + "\\vs_BuildTools.exe",
+        Arguments = " --passive --norestart --config \"" + str + "\"",
+        RedirectStandardOutput = true,
+        UseShellExecute = false,
+        CreateNoWindow = true
+      };
+      if (!File.Exists(str))
+      {
+        Console.WriteLine("error: vc.vsconfig not found!");
+        return false;
+      }
+      if (!File.Exists(startInfo.FileName))
+      {
+        Console.WriteLine("error: vs_BuildTools not found!");
+        return false;
+      }
+      Process process = Process.Start(startInfo);
+      if (process != null)
+      {
+        process.WaitForExit();
+        Thread.Sleep(10000);
+        while (true)
+        {
+          Process[] array = ((IEnumerable<Process>) Process.GetProcessesByName("setup")).Where<Process>((Func<Process, bool>) (p => p.MainWindowTitle == "Visual Studio Installer" || p.GetMainModuleFileName().Contains("Visual Studio\\Installer"))).ToArray<Process>();
+          if (array != null && array.Length != 0)
+            Thread.Sleep(500);
+          else
+            break;
+        }
+        if (!PyEnvUtil.detectVCInstalled())
+        {
+          Console.WriteLine("Visual Studio Installer安装失败，极有可能是网络波动造成的。务必关闭梯子、加速器等软件，然后关闭本窗口后再重装环境！");
+          return false;
+        }
+        Console.WriteLine("Visual Studio Installer安装成功！");
+        return true;
+      }
+      Console.WriteLine("error：vs_BuildTools启动失败，请退出后重试！");
+      return false;
+    }
+
+    private static bool prepareEnv()
+    {
+      bool flag = true;
+      PyEnvUtil.compareZipAndReplace(Path.Combine(GlobalVariable.customPythonLibPath, "pdm.zip"), Path.Combine(GlobalVariable.commonPythonHome, "Lib\\site-packages\\pdm.zip"));
+      PyEnvUtil.compareZipAndReplace(Path.Combine(GlobalVariable.customPythonLibPath, "pyarmor_runtime_000000.zip"), Path.Combine(GlobalVariable.commonPythonHome, "Lib\\pyarmor_runtime_000000.zip"));
+      if (!PyEnvUtil.detectVCInstalled())
+        flag = PyEnvUtil.installVC();
+      return flag;
+    }
+
+    public static void installPythonEnvByConsole(Application app, out Process pdmInstallProcess_)
+    {
+      pdmInstallProcess_ = (Process) null;
+      if (!PyEnvUtil.prepareEnv())
+        return;
+      Console.ForegroundColor = ConsoleColor.Red;
+      Console.WriteLine("重要提示：如果你的windows用户名是中文或者含有特殊符号，安装环境会失败！会出现这样的错误: 'gbk' codec can't decode byte...");
+      Console.WriteLine("  这时，你要修改你的用户名为英文字母，或者重新创建一个只有英文字母的管理员账户（推荐做法），使用这个用户进入系统，就能解决这个问题了！");
+      Console.ResetColor();
+      Process pdmInstallProcess = (Process) null;
+      string pythonEnvName = app.getPythonEnvName();
+      string str = Path.Combine(GlobalVariable.appEnvBasePath, pythonEnvName);
+      Directory.CreateDirectory(str);
+      PythonEnvInfo pythonEnvInfo = app.getPythonEnvInfo();
+      string absFilePath1 = Path.Combine(GlobalVariable.envInfoDir, pythonEnvInfo.pdmEnvFilePrefix + ".lock.s");
+      string absFilePath2 = Path.Combine(GlobalVariable.envInfoDir, pythonEnvInfo.pdmEnvFilePrefix + ".toml.s");
+      string decryptedPdmLockFile = Path.GetTempFileName();
+      string decryptedPdmPyprojectFile = Path.GetTempFileName();
+      Util.writeToFile(Util.readEncryptedFileContent(absFilePath1), decryptedPdmLockFile);
+      Util.writeToFile(Util.readEncryptedFileContent(absFilePath2), decryptedPdmPyprojectFile);
+      string content = Path.Combine(GlobalVariable.commonPythonHome, "python.exe");
+      string pythonInterpreterPathFile = Path.Combine(str, ".pdm-python");
+      string absFilePath3 = pythonInterpreterPathFile;
+      Util.writeToFile(content, absFilePath3);
+      string pdmTempConfigFilePath = Path.GetTempFileName();
+      Util.writeToFile(GlobalVariable.pdmConfigFileContent, pdmTempConfigFilePath);
+      Action action = (Action) (() =>
+      {
+        if (File.Exists(decryptedPdmLockFile))
+          File.Delete(decryptedPdmLockFile);
+        if (File.Exists(decryptedPdmPyprojectFile))
+          File.Delete(decryptedPdmPyprojectFile);
+        if (File.Exists(pythonInterpreterPathFile))
+          File.Delete(pythonInterpreterPathFile);
+        if (File.Exists(pdmTempConfigFilePath))
+          File.Delete(pdmTempConfigFilePath);
+        if (pdmInstallProcess == null || pdmInstallProcess.HasExited)
+          return;
+        pdmInstallProcess.Kill();
+      });
+      try
+      {
+        ProcessStartInfo processStartInfo = new ProcessStartInfo()
+        {
+          FileName = Path.Combine(GlobalVariable.commonPythonHome, "python.exe"),
+          Arguments = " -m pdm sync",
+          CreateNoWindow = false,
+          UseShellExecute = false,
+          WorkingDirectory = str
+        };
+        processStartInfo.EnvironmentVariables["PDM_ENTRY_CHECK"] = "PDM_ENTRY_CHECK";
+        processStartInfo.EnvironmentVariables["PDM_CONFIG_FILE"] = pdmTempConfigFilePath;
+        processStartInfo.EnvironmentVariables["PDM_LOCKFILE"] = decryptedPdmLockFile;
+        processStartInfo.EnvironmentVariables["PDM_PYPROJECT_FILE"] = decryptedPdmPyprojectFile;
+        processStartInfo.EnvironmentVariables["PDM_ARIA2"] = Path.Combine(GlobalVariable.assemblyDir, "dlib");
+        processStartInfo.EnvironmentVariables["PDM_DELETE_ALL_PTH"] = "111";
+        pdmInstallProcess = new Process()
+        {
+          StartInfo = processStartInfo
+        };
+        pdmInstallProcess_ = pdmInstallProcess;
+        pdmInstallProcess.Start();
+        pdmInstallProcess.WaitForExit();
+        Util.writeToFile(app.getPythonEnvInfo().version.ToString(), Path.Combine(str, "env.version"));
+      }
+      catch (Exception ex)
+      {
+        Console.WriteLine(ex.Message);
+      }
+      finally
+      {
+        action();
+      }
+    }
+
+    public static Process startEnvInstallProcess(Application app)
+    {
+      return Process.Start(new ProcessStartInfo()
+      {
+        FileName = Path.Combine(GlobalVariable.assemblyDir, "envInstall.exe"),
+        Arguments = app.moduleDir + "|" + GlobalVariable.userSettings[GlobalVariable.globalKey]["GPUPlatform"],
+        UseShellExecute = false,
+        CreateNoWindow = false
+      });
+    }
+  }
+}
+
 ```
 
 ---
