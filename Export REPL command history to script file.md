@@ -1,10 +1,16 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-03-31T05:28:49.964Z'
+modified: '2024-03-31T05:39:28.073Z'
 ---
 
 # Export REPL command history to script file
+
+general purpose:
+
+typescript
+
+---
 
 运行py的交互式命令行 如果想输出最近的操作 可以运行下面的代码
 
