@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T13:15:34.569Z'
+modified: '2024-03-31T13:15:50.195Z'
 ---
 
 # AI工具箱
@@ -20,7 +20,7 @@ www.5kcrm.com/ai
 
 [WebGLM](https://www.5kcrm.com/chat/id/13)
 
-[]()
+[DragGAN]()
 
 []()
 
