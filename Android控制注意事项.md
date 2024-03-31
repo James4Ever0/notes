@@ -1,7 +1,7 @@
 ---
 title: Android控制注意事项
 created: '2024-03-31T04:16:04.992Z'
-modified: '2024-03-31T04:34:05.244Z'
+modified: '2024-03-31T04:35:24.354Z'
 ---
 
 # Android控制注意事项
@@ -19,8 +19,9 @@ adb shell date "YYYY-MM-DD HH:MM:SS"
 
 如果adb出现连接问题，可以重启adb服务
 
+usb硬件出问题一般是因为供电不足，或者连接线接触不良。所以可以加强供电，以及更换更好的连接线。
+
 ```bash
 adb kill-server
 adb start-server
-
 ```
