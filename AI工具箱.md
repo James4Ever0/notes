@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T05:32:00.346Z'
+modified: '2024-03-31T13:11:24.553Z'
 ---
 
 # AI工具箱
@@ -13,6 +13,10 @@ https://www.123pan.com/s/oY9eVv-IsFnh.html pwd:1111
 
 悟空工具箱;
 www.5kcrm.com/ai
+
+[Video Retalking]()
+
+[]()
 
 ---
 
