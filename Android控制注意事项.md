@@ -1,7 +1,7 @@
 ---
 title: Android控制注意事项
 created: '2024-03-31T04:16:04.992Z'
-modified: '2024-03-31T12:12:10.872Z'
+modified: '2024-03-31T12:13:29.049Z'
 ---
 
 # Android控制注意事项
@@ -24,6 +24,8 @@ redroid supports adb connection, is a docker image
 [redroid-doc](https://github.com/remote-android/redroid-doc) and [redroid tutorial](https://www.dsx2020.com/homelab-mini-host-x86-docker-deploys-open-source-cloud-phone-android-redroid/)
 
 [lamda](https://github.com/rev1si0n/lamda) is a multi-source (simulator and real device support) android controlling, network capturing and reverse engineering platform
+
+[lamda wiki](https://github.com/rev1si0n/lamda/wiki)
 
 ---
 
