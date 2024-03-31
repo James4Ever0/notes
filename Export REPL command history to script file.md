@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-03-31T15:54:34.047Z'
+modified: '2024-03-31T16:08:30.927Z'
 ---
 
 # Export REPL command history to script file
@@ -47,3 +47,11 @@ Typically we need history, command output, filter out those errorneous commands,
 ---
 
 R has that functionality.
+
+```r
+# only current session history is keeped.
+saveHistory("history.R")
+# view history in popup
+history()
+
+```
