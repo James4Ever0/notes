@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T13:11:37.547Z'
+modified: '2024-03-31T13:11:47.269Z'
 ---
 
 # AI工具箱
@@ -14,7 +14,8 @@ https://www.123pan.com/s/oY9eVv-IsFnh.html pwd:1111
 悟空工具箱;
 www.5kcrm.com/ai
 
-[Video Retalking](https://www.5kcrm.com/chat/id/20) 
+[Video Retalking](https://www.5kcrm.com/chat/id/20) 让视频中的人物的嘴型与输入的声音同步
+
 []()
 
 ---
