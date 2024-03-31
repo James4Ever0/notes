@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T04:07:58.081Z'
+modified: '2024-03-31T04:27:55.887Z'
 ---
 
 # AI工具箱
@@ -24,6 +24,16 @@ AI 3D建模 动作生成
 allAI 工具箱：
 https://github.com/OceanNg529/allAI
 包含视频抠图
+
+解压asar的时候 注意不要移动`app.asar`的位置 解压完毕之后再移动
+
+```bash
+# to prevent 'unable to find xxx in app.asar.unpacked' issue, do not move app.asar yet.
+asar e app.asar app
+mkdir asar
+cp app.asar asar
+rm app.asar
+```
 
 为了加速下载 作者把链接都放到了[gitee](https://gitee.com/ocean125/)上面 可以在那里找到最新的ai工具
 
