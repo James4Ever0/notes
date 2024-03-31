@@ -1,7 +1,7 @@
 ---
 title: AI工具箱
 created: '2024-03-31T02:55:08.032Z'
-modified: '2024-03-31T04:43:30.058Z'
+modified: '2024-03-31T05:27:59.776Z'
 ---
 
 # AI工具箱
@@ -25,34 +25,6 @@ allAI 工具箱：
 https://github.com/OceanNg529/allAI
 包含视频抠图
 
-解压asar的时候 注意不要移动`app.asar`的位置 解压完毕之后再移动
-
-```bash
-# to prevent 'unable to find xxx in app.asar.unpacked' issue, do not move app.asar yet.
-asar e app.asar app
-mkdir asar
-cp app.asar asar
-rm app.asar
-```
-
-运行py的交互式命令行 如果想输出最近的操作 可以运行下面的代码
-
-```python
-# please define "history_output_path" beforehand
-
-import readline
-
-# Get the total number of history items in the current session
-history_length = readline.get_current_history_length()
-
-# Iterate over each history item and print the command
-with open(history_output_path, 'w+') as f:
-    for i in range(1, history_length + 1):
-        item = readline.get_history_item(i)
-        print(item)
-        f.write(item+"\n")
-
-```
 
 为了加速下载 作者把链接都放到了[gitee](https://gitee.com/ocean125/)上面 可以在那里找到最新的ai工具
 
