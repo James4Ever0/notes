@@ -1,7 +1,7 @@
 ---
 title: Android控制注意事项
 created: '2024-03-31T04:16:04.992Z'
-modified: '2024-03-31T12:13:29.049Z'
+modified: '2024-03-31T12:13:40.518Z'
 ---
 
 # Android控制注意事项
@@ -19,7 +19,7 @@ adb shell date "YYYY-MM-DD HH:MM:SS"
 
 建议使用云手机平台(搜索：开源云手机)，虚拟手机，方便进行环境打包和重新部署。
 
-redroid supports adb connection, is a docker image
+redroid supports adb connection, and is a docker image
 
 [redroid-doc](https://github.com/remote-android/redroid-doc) and [redroid tutorial](https://www.dsx2020.com/homelab-mini-host-x86-docker-deploys-open-source-cloud-phone-android-redroid/)
 
