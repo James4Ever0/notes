@@ -1,14 +1,14 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-03-31T16:17:22.034Z'
+modified: '2024-03-31T17:01:29.764Z'
 ---
 
 # Export REPL command history to script file
 
-general purpose:
+general purpose terminal recorder:
 
-typescript
+`script`
 
 ---
 
