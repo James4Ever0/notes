@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.765Z'
-modified: '2024-03-31T12:15:24.804Z'
+modified: '2024-03-31T12:15:50.463Z'
 ---
 
 # Metasploit scripting and more
@@ -10,7 +10,7 @@ modified: '2024-03-31T12:15:24.804Z'
 
 ---
 
-[metasploit unleashed]()
+[metasploit unleashed](https://www.offsec.com/metasploit-unleashed/)
 
 [official metasploit documentation](https://docs.metasploit.com/)
 
