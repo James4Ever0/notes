@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-03-31T16:08:52.434Z'
+modified: '2024-03-31T16:09:01.120Z'
 ---
 
 # Export REPL command history to script file
@@ -54,3 +54,7 @@ saveHistory("history.R")
 # view history in popup
 history()
 ```
+
+---
+
+
