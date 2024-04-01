@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-03-30T04:43:41.144Z'
+modified: '2024-04-01T06:03:10.158Z'
 ---
 
 # Hacker virtual machines, containers
@@ -13,6 +13,22 @@ install via  `apt install proot-distro`
 ---
 
 use podman over docker, since we do not need gpu here, and want faster pulling speed.
+
+recent version of podman requires extra layer of domain specification before searching and pulling images.
+
+```bash
+podman search docker.io/kali
+podman pull docker.io/kalilinux/kali-rolling
+```
+
+---
+
+if you want to run network scanning commands like `nmap`, you would grant the container sufficient permissions:
+
+```bash
+podman run --cap-add=NET_RAW --cap-add=NET_ADMIN --rm -it docker.io/parrotsec/security
+```
+
 
 ---
 
