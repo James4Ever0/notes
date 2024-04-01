@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T03:58:57.352Z'
+modified: '2024-04-01T05:45:16.307Z'
 ---
 
 # Export REPL command history to script file
@@ -111,6 +111,13 @@ with open(history_output_path, 'w+') as f:
         f.write(item+"\n")
 
 ```
+
+在pdb中 或者在breakpoint断点中 只能获取到当前会话的历史
+
+```python
+
+```
+
 ---
 
 Hackers are good at converting arbitrary actions into scripts.
