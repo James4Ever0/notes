@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T05:45:16.307Z'
+modified: '2024-04-01T05:45:35.195Z'
 ---
 
 # Export REPL command history to script file
@@ -115,7 +115,7 @@ with open(history_output_path, 'w+') as f:
 在pdb中 或者在breakpoint断点中 只能获取到当前会话的历史
 
 ```python
-
+import readline; print([readline.get_history_item(i+1) for i in range(readline.get_current_history_length())])
 ```
 
 ---
