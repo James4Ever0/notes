@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-04-01T06:03:52.266Z'
+modified: '2024-04-01T06:06:54.302Z'
 ---
 
 # Hacker virtual machines, containers
@@ -28,7 +28,6 @@ if you want to run network scanning commands like `nmap`, you would grant the co
 ```bash
 podman run --cap-add=NET_RAW --cap-add=NET_ADMIN --rm -it docker.io/parrotsec/security
 ```
-
 
 ---
 
