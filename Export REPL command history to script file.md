@@ -1,14 +1,14 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T03:03:05.035Z'
+modified: '2024-04-01T03:03:11.891Z'
 ---
 
 # Export REPL command history to script file
 
 xonsh has rich history which includes session id, command exit code, timestamp etc.
 
-```xonsh
+```bash
 # view input history
 history
 # view history file save path
