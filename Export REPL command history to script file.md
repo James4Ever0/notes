@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T03:20:14.927Z'
+modified: '2024-04-01T03:22:43.047Z'
 ---
 
 # Export REPL command history to script file
@@ -24,7 +24,7 @@ cat <history_json_file> | jq .data.cmds
 
 ---
 
-general purpose terminal recorder:
+general purpose terminal recorder, available in most *nix platforms:
 
 ```bash
 script <record_filename>
