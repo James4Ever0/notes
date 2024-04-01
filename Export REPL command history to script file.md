@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T03:22:43.047Z'
+modified: '2024-04-01T03:36:26.459Z'
 ---
 
 # Export REPL command history to script file
@@ -78,6 +78,7 @@ for ipython one use `%history` for viewing history.
 # view specific session history, like session 1
 %history 1/
 # for more, type the %quickref command and type /hist<Enter>
+# detailed reference can be found in %magic
 ```
 
 ---
