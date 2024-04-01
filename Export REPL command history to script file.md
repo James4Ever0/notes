@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T03:17:02.423Z'
+modified: '2024-04-01T03:20:14.927Z'
 ---
 
 # Export REPL command history to script file
@@ -19,7 +19,7 @@ history flush
 
 To view the commands:
 ```bash
-cat <>
+cat <history_json_file> | jq .data.cmds
 ```
 
 ---
