@@ -1,7 +1,7 @@
 ---
 title: 'Hacker virtual machines, containers'
 created: '2024-03-30T02:56:14.947Z'
-modified: '2024-04-01T06:03:10.158Z'
+modified: '2024-04-01T06:03:52.266Z'
 ---
 
 # Hacker virtual machines, containers
@@ -14,7 +14,7 @@ install via  `apt install proot-distro`
 
 use podman over docker, since we do not need gpu here, and want faster pulling speed.
 
-recent version of podman requires extra layer of domain specification before searching and pulling images.
+recent version of podman requires extra layer of domain/index specification before searching and pulling images.
 
 ```bash
 podman search docker.io/kali
