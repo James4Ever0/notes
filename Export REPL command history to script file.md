@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T01:00:59.040Z'
+modified: '2024-04-01T01:02:22.148Z'
 ---
 
 # Export REPL command history to script file
@@ -15,13 +15,15 @@ general purpose terminal recorder:
 for ipython one use `%history` for viewing history.
 
 ```ipython
+# view current session history
 %history
 # write to file
 %history -f ipython_output.log
 # view all history across all sessions
 %history -g
 # view specific session history
-%history -s 1
+%history <session_id>/
+# for more, type the %quickref command and type /hist<Enter>
 ```
 
 ---
