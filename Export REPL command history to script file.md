@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T03:58:32.389Z'
+modified: '2024-04-01T03:58:57.352Z'
 ---
 
 # Export REPL command history to script file
@@ -89,7 +89,7 @@ terminal jupyter notebook
 
 - [nbterm](https://github.com/davidbrochart/nbterm)
 - [jpterm](https://github.com/davidbrochart/jpterm) original rewrite of nbterm, with textualize
-  - [keybindings]()
+  - [keybindings](https://davidbrochart.github.io/jpterm/plugins/notebook_editor/#keybindings)
 
 ---
 
