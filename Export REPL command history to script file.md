@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T01:28:57.308Z'
+modified: '2024-04-01T01:53:14.548Z'
 ---
 
 # Export REPL command history to script file
@@ -15,7 +15,35 @@ script <record_filename>
 to render the recorded file as plain text, run the following python script:
 
 ```python
+import pyte
 
+typescript_path = "mytypescript.log"
+output_path = "typescript_plain.log"
+
+# Specify the desired screen dimensions (columns x rows)
+columns = 80 # please remember the columns for godsake.
+
+# if you think it would be slow, use pypy instead.
+rows = 100000 # what could go wrong now?
+
+# Create a Screen object with the specified dimensions
+screen = pyte.Screen(columns, rows)
+
+# Create a ByteStream to handle ANSI control codes
+stream = pyte.ByteStream(screen)
+
+typescript_bytes = open(typescript_path,'rb').read()
+
+# Insert ANSI control codes
+stream.feed(typescript_bytes)
+
+# Get the content with ANSI control codes
+content = screen.display
+plain_content ="\n".join(content).strip()
+
+# Write the content to a file
+with open(output_path, "w+") as file:
+    file.write(plain_content)
 ```
 
 ---
