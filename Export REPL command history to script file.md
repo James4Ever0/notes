@@ -1,7 +1,7 @@
 ---
 title: Export REPL command history to script file
 created: '2024-03-31T05:17:38.854Z'
-modified: '2024-04-01T01:27:44.670Z'
+modified: '2024-04-01T01:28:57.308Z'
 ---
 
 # Export REPL command history to script file
@@ -9,9 +9,14 @@ modified: '2024-04-01T01:27:44.670Z'
 general purpose terminal recorder:
 
 ```bash
-script 
+script <record_filename>
 ```
-to render the recorded
+
+to render the recorded file as plain text, run the following python script:
+
+```python
+
+```
 
 ---
 
