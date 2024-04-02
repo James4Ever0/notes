@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
-created: '2024-03-31T04:25:36.765Z'
-modified: '2024-03-31T12:26:50.427Z'
+created: 2024-03-31T04:25:36+00:00
+modified: 2024-04-02T18:45:55+08:00
 ---
 
 # Metasploit scripting and more
@@ -83,4 +83,16 @@ with open(run_output_file, "w+") as f:
 print("[metasploit]", "output file saved at:", run_output_file)
 # thank you very much.
 
+```
+
+---
+
+To do mass scanning, first we need to obtain the default RPORT for each exploit.
+
+```python
+all_module_names = client.modules.names
+
+for name in all_module_names:
+    mod = client.modules.use(module_type, name)
+    # get default RPORT
 ```
