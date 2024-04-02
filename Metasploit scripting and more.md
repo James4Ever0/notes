@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: 2024-03-31T04:25:36+00:00
-modified: 2024-04-02T19:18:39+08:00
+modified: 2024-04-02T19:26:02+08:00
 ---
 
 # Metasploit scripting and more
@@ -97,5 +97,5 @@ for mt_plural in module_types:
     for name in all_module_names:
         mod = client.modules.use(module_type, name)
         # get default RPORT
-        default_rport = ...
+        default_rport = mod.runoptions.get("RPORT", None)
 ```
