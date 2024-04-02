@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
-created: 2024-03-31T04:25:36+00:00
-modified: 2024-04-02T19:26:02+08:00
+created: '2024-03-31T04:25:36.000Z'
+modified: '2024-04-02T13:46:27.934Z'
 ---
 
 # Metasploit scripting and more
@@ -90,7 +90,7 @@ print("[metasploit]", "output file saved at:", run_output_file)
 To do mass scanning, first we need to obtain the default RPORT for each exploit.
 
 ```python
-module_types = ['exploits',auxiliary, encoders, nops, payloads, and post']
+module_types = ['exploits','auxiliary', "encoders", "nops", "payloads", 'post']
 
 for mt_plural in module_types:
     module_type = mt_plural.rstrip('s')
