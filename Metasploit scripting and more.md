@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: 2024-03-31T04:25:36+00:00
-modified: 2024-04-02T18:45:55+08:00
+modified: 2024-04-02T19:18:39+08:00
 ---
 
 # Metasploit scripting and more
@@ -90,9 +90,12 @@ print("[metasploit]", "output file saved at:", run_output_file)
 To do mass scanning, first we need to obtain the default RPORT for each exploit.
 
 ```python
-all_module_names = client.modules.names
+module_types = ['exploits',auxiliary, encoders, nops, payloads, and post']
 
-for name in all_module_names:
-    mod = client.modules.use(module_type, name)
-    # get default RPORT
+for mt_plural in module_types:
+    module_type = mt_plural.rstrip('s')
+    for name in all_module_names:
+        mod = client.modules.use(module_type, name)
+        # get default RPORT
+        default_rport = ...
 ```
