@@ -1,6 +1,7 @@
 ---
-created: 2024-04-03T08:03:28+08:00
-modified: 2024-04-03T08:35:00+08:00
+title: Nmap service resolution
+created: '2024-04-03T00:03:28.000Z'
+modified: '2024-04-03T03:02:50.344Z'
 ---
 
 # Nmap service resolution
@@ -12,12 +13,16 @@ There are two files we are interested in.
 The default service to port mapping in Python `socket` module is incomplete.
 
 ```python
-file_path = ...
+# find that with mlocate
+file_path = '/usr/share/nmap/nmap-services'
 for line in line_list:
     if line.startswith("#"):
         # it is a comment
         continue
     else:
         # process this line
-        components = line.split('#')
+        content = line.split('#')[0].strip() # strip away comments
+        components = content.split(" ")
+        # must be three.
+        assert len(components) == 3, f"abnormal component count for content: '{content}'"
 ```
