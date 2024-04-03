@@ -1,7 +1,7 @@
 ---
 title: Nmap service resolution
 created: '2024-04-03T00:03:28.000Z'
-modified: '2024-04-03T03:03:26.428Z'
+modified: '2024-04-03T03:22:56.265Z'
 ---
 
 # Nmap service resolution
@@ -14,7 +14,9 @@ The default service to port mapping in Python `socket` module is incomplete.
 
 ```python
 # find that with mlocate
-file_path = '/usr/share/nmap/nmap-services'
+# file_path = '/usr/share/nmap/nmap-services'
+
+file_path = "./nmap-services"
 
 with open(file_path, 'r') as f:
     line_list = f.read().split('\n')
