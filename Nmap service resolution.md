@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T08:03:28+08:00
-modified: 2024-04-03T08:11:24+08:00
+modified: 2024-04-03T08:35:00+08:00
 ---
 
 # Nmap service resolution
@@ -19,4 +19,5 @@ for line in line_list:
         continue
     else:
         # process this line
+        components = line.split('#')
 ```
