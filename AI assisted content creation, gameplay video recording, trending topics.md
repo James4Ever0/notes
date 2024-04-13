@@ -1,12 +1,16 @@
 ---
-title: 'AI assisted content creation, gameplay video recording, trending topics'
-created: '2024-03-10T14:08:10.638Z'
-modified: '2024-03-31T03:18:22.852Z'
+title: AI assisted content creation, gameplay video recording, trending topics
+created: 2024-03-10T14:08:10+00:00
+modified: 2024-04-14T07:43:22+08:00
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
 
 Video understanding and video embedding can be achieved with ViViT (in huggingface).
+
+[Video generation agent tutorial](https://www.bilibili.com/read/cv33613833/)
+
+[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 ---
 
