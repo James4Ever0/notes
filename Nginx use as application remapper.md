@@ -1,10 +1,39 @@
 ---
 title: Nginx use as application remapper
-created: '2024-03-07T06:07:06.871Z'
-modified: '2024-03-08T01:53:39.556Z'
+created: 2024-03-07T06:07:06+00:00
+modified: 2024-04-18T15:44:53+08:00
 ---
 
 # Nginx use as application remapper
+
+To handle CORS errors, one can write:
+
+```nginx
+
+	location /api/ {
+		# add_header Access-Control-Allow-Origin *;
+		add_header Access-Control-Allow-Origin $http_origin;
+		add_header 'Access-Control-Allow-Headers' 'Content-Type';
+
+		if ($request_method = OPTIONS) {
+			add_header Access-Control-Allow-Origin *;
+			add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS';
+			add_header 'Access-Control-Allow-Headers' 'Content-Type, x-requested-with';
+			add_header 'Access-Control-Max-Age' 1728000;
+			add_header 'Content-Type' 'text/plain; charset=utf-8';
+			return 204;
+		}
+		proxy_pass http://localhost:7861/;
+		# proxy_set_header X-Forwarded-Prefix /api;
+
+		sub_filter "openapi.json" "api/openapi.json";
+		# sub_filter "SwaggerUIBundle({" "SwaggerUIBundle({ basePath: '/api', 'servers': [{url:'/api'}],";
+		sub_filter "static-offline-docs" "api/static-offline-docs";
+		sub_filter_once off;
+	}
+```
+
+---
 
 After installing nginx, a default page is created under `/var/www/html` and config files are at `/etc/nginx`.
 
