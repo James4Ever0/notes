@@ -1,10 +1,20 @@
 ---
 title: Nginx use as application remapper
 created: 2024-03-07T06:07:06+00:00
-modified: 2024-04-18T15:44:53+08:00
+modified: 2024-04-29T15:35:09+08:00
 ---
 
 # Nginx use as application remapper
+
+Remap a range of ports to suburl:
+
+```nginx
+location ~ /server/(1[0-9][0-9][0-9][0-9]) {
+    proxy_pass http://localhost:$1/;
+}
+```
+
+---
 
 To handle CORS errors, one can write:
 
