@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:31:22.916Z'
+modified: '2024-05-07T23:31:31.474Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -42,7 +42,7 @@ https://github.com/Sergio-F20/GPT-FastPentest
 
 https://github.com/tenable/awesome-llm-cybersecurity-tools
 
-
+https://github.com/Armur-Ai/Auto-Pentest-GPT-AI
 
 
 CVE query tools
