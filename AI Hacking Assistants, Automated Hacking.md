@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:22:26.289Z'
+modified: '2024-05-07T23:23:09.987Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -27,6 +27,8 @@ https://github.com/ipa-lab/hackingBuddyGPT
 https://github.com/H4K6/PentestGPT
 
 https://github.com/fr0gger/Awesome-GPT-Agents
+
+https://github.com/GreyDGL/PentestGPT
 
 
 CVE query tools
