@@ -1,14 +1,14 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:11:02.910Z'
+modified: '2024-05-07T23:11:58.274Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
 
 Many [pentesting models](https://hf-mirror.com/models?search=pentest) and [datasets](https://hf-mirror.com/datasets?search=pentest) are released on huggingface. Query words are: `pentest` `0dai`
 
-0dAI has published [a series of models](https://hf-mirror.com/0dAI)
+0dAI has published [a series of models](https://hf-mirror.com/0dAI) and is available on [ollama](https://ollama.com/jjflores/0dai-v2)
 
 It may worth while to collect tool manuals, tutorials, books, security blog posts, and train your custom AI upon them. It works best to let AI interacts with and learns from both simulated and real world environments.
 
