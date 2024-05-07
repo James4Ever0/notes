@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:21:21.468Z'
+modified: '2024-05-07T23:21:50.477Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -18,10 +18,14 @@ Always keep your knowledge base up to date in order to make use of latest vulner
 
 ---
 
-Tools:
+Agent hacking tools:
 
 https://github.com/aress31/burpgpt
 
+
+CVE query tools
+
+https://github.com/msd0pe-1/cve-maker
 
 ---
 
