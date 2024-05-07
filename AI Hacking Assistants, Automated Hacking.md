@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:23:49.452Z'
+modified: '2024-05-07T23:23:56.721Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -10,7 +10,9 @@ Many [pentesting models](https://hf-mirror.com/models?search=pentest) and [datas
 
 0dAI has published [a series of models](https://hf-mirror.com/0dAI) and is available on [ollama](https://ollama.com/jjflores/0dai-v2).
 
-Tutorial on how to use it: https://notluken.github.io/running-0dai-in-ollama.html
+Tutorial on how to use it:
+
+https://notluken.github.io/running-0dai-in-ollama.html
 
 It may worth while to collect tool manuals, tutorials, books, security blog posts, and train your custom AI upon them. It works best to let AI interacts with and learns from both simulated and real world environments.
 
