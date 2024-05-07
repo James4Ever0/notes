@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:11:58.274Z'
+modified: '2024-05-07T23:21:08.973Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -15,3 +15,7 @@ It may worth while to collect tool manuals, tutorials, books, security blog post
 But always remember hacking is an adversarial and highly competitive activity. It involves both high level and low level knowledge and expertise.
 
 Always keep your knowledge base up to date in order to make use of latest vulnerabilities.
+
+---
+
+GPT-4 can now [exploit 1day CVE](https://arxiv.org/pdf/2404.08144).
