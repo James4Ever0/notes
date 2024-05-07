@@ -1,6 +1,6 @@
 ---
 created: 2024-05-07T21:42:46+08:00
-modified: 2024-05-07T21:50:02+08:00
+modified: 2024-05-07T21:50:54+08:00
 ---
 
 # Mine Filecoin on Hacked Systems
@@ -14,3 +14,5 @@ You can design a custon virtual filesystem which utilizes multiple backups and r
 ---
 
 Similarly you can mask your intent significantly by breaking down your miner source code into multiple parts, only delegate the most computational intensive part to the remote machine and offload the upload part to other lightweight servers.
+
+You can use WASM for building web miners.
