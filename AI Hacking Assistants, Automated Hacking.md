@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:21:56.489Z'
+modified: '2024-05-07T23:22:04.020Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -23,6 +23,8 @@ Agent hacking tools:
 https://github.com/aress31/burpgpt
 
 https://github.com/ipa-lab/hackingBuddyGPT
+
+https://github.com/H4K6/PentestGPT
 
 
 CVE query tools
