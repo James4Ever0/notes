@@ -1,12 +1,14 @@
 ---
 title: Common Nmap Flags
 created: '2024-05-08T15:08:01.700Z'
-modified: '2024-05-08T15:10:12.766Z'
+modified: '2024-05-08T15:11:29.719Z'
 ---
 
 # Common Nmap Flags
 
 Typically, if one wants to detect port somehow dropped by cloud service providers like AWS, the flag `-sS` or SYN stealth scan shall be enough.
+
+Further info can be collected once the port has been confirmed to be open.
 
 ---
 
