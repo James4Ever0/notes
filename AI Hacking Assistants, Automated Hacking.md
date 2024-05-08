@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-07T23:31:31.474Z'
+modified: '2024-05-08T08:25:15.254Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -48,6 +48,10 @@ https://github.com/Armur-Ai/Auto-Pentest-GPT-AI
 CVE query tools
 
 https://github.com/msd0pe-1/cve-maker
+
+PoC collection
+
+https://github.com/nomi-sec/PoC-in-GitHub
 
 ---
 
