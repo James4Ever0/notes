@@ -1,10 +1,14 @@
 ---
 title: Common Nmap Flags
 created: '2024-05-08T15:08:01.700Z'
-modified: '2024-05-08T15:08:24.029Z'
+modified: '2024-05-08T15:10:12.766Z'
 ---
 
 # Common Nmap Flags
+
+Typically, if one wants to detect port somehow dropped by cloud service providers like AWS, the flag `-sS` or SYN stealth scan shall be enough.
+
+---
 
 1. **-sS (TCP SYN Scan)**:
    - This flag instructs Nmap to perform a TCP SYN scan, also known as a half-open scan. It sends SYN packets to the target ports and analyzes the responses to determine which ports are open, closed, or filtered.
