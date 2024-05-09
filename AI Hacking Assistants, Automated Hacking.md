@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-09T06:48:10.976Z'
+modified: '2024-05-09T06:49:37.016Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -61,7 +61,9 @@ https://github.com/humblelad/Shodan-Dorks
 
 https://github.com/RevoltSecurities/ShodanX
 
-Nuclei templates
+Nuclei and templates
+
+https://github.com/projectdiscovery/nuclei
 
 https://github.com/0xmaximus/final_freaking_nuclei_templates
 
