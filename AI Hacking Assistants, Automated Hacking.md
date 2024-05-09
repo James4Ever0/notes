@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-09T03:04:00.699Z'
+modified: '2024-05-09T03:06:39.499Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -56,6 +56,8 @@ https://github.com/nomi-sec/PoC-in-GitHub
 Query dorks
 
 https://github.com/humblelad/Shodan-Dorks
+
+https://github.com/RevoltSecurities/ShodanX
 
 ---
 
