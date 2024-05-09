@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-08T08:25:15.254Z'
+modified: '2024-05-09T03:04:00.699Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -52,6 +52,10 @@ https://github.com/msd0pe-1/cve-maker
 PoC collection
 
 https://github.com/nomi-sec/PoC-in-GitHub
+
+Query dorks
+
+https://github.com/humblelad/Shodan-Dorks
 
 ---
 
