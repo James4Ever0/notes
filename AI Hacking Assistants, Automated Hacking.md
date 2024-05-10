@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-09T06:49:37.016Z'
+modified: '2024-05-10T04:01:50.085Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -44,7 +44,6 @@ https://github.com/tenable/awesome-llm-cybersecurity-tools
 
 https://github.com/Armur-Ai/Auto-Pentest-GPT-AI
 
-
 Exploit query tools
 
 https://github.com/msd0pe-1/cve-maker
@@ -54,6 +53,8 @@ https://pypi.org/project/puncia/
 PoC collection
 
 https://github.com/nomi-sec/PoC-in-GitHub
+
+
 
 Query dorks
 
@@ -66,6 +67,12 @@ Nuclei and templates
 https://github.com/projectdiscovery/nuclei
 
 https://github.com/0xmaximus/final_freaking_nuclei_templates
+
+https://github.com/Ostorlab/KEV
+
+Popular topics
+
+https://github.com/topics/0day
 
 ---
 
