@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T06:21:58.054Z'
+modified: '2024-05-13T06:25:39.889Z'
 ---
 
 # FreeCAD Python Scripting
@@ -64,16 +64,19 @@ num_squares = 10
 x_length = (x_max - x_min) / num_squares
 y_length = (y_max - y_min) / num_squares
 
+margin_portion = 0.2
+hole_portion = 1 - 2 * margin_portion
+
 # Create the squares
 for i in range(num_squares):
     for j in range(num_squares):
-        x_start = x_min + i * x_length + x_length * 0.1
-        y_start = y_min + j * y_length + y_length * 0.1
+        x_start = x_min + i * x_length + x_length * margin_portion
+        y_start = y_min + j * y_length + y_length * margin_portion
         square_points = [
             (x_start, y_start, z),
-            (x_start + x_length * 0.8, y_start, z),
-            (x_start + x_length * 0.8, y_start + y_length * 0.8, z),
-            (x_start, y_start + y_length * 0.8, z),
+            (x_start + x_length * hole_portion, y_start, z),
+            (x_start + x_length * hole_portion, y_start + y_length * hole_portion, z),
+            (x_start, y_start + y_length * hole_portion, z),
             (x_start, y_start, z), # to make it closed
         ]
         square = Part.makePolygon(square_points)
