@@ -1,7 +1,7 @@
 ---
 title: Favicon hashes creation and usage
 created: '2024-05-13T08:34:24.651Z'
-modified: '2024-05-13T09:19:58.892Z'
+modified: '2024-05-13T09:20:22.651Z'
 ---
 
 # Favicon hashes creation and usage
@@ -10,6 +10,8 @@ To create favicon hash, run:
 
 ```python
 import requests
+import mmh3
+import codecs
 
 def perform_get_request_with_insecure_and_redirects(url: str):
     response = requests.get(url, verify=False, allow_redirects=True, timeout=15)
