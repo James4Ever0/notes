@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T02:50:41.055Z'
+modified: '2024-05-13T02:58:59.839Z'
 ---
 
 # FreeCAD Python Scripting
@@ -27,5 +27,11 @@ all_object_names = [it.Name for it in all_objects]
 
 obj = doc.getObject("myObjectName")
 
-# 
+# get vertex point
+
+vertex_point = obj.Shape.Vertexes[0].Point
+
+# create new line
+
+
 ```
