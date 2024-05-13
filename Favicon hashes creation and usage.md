@@ -1,7 +1,7 @@
 ---
 title: Favicon hashes creation and usage
 created: '2024-05-13T08:34:24.651Z'
-modified: '2024-05-13T09:23:58.786Z'
+modified: '2024-05-13T09:26:35.346Z'
 ---
 
 # Favicon hashes creation and usage
@@ -29,6 +29,11 @@ def process_url_and_get_favicon_hash(url: str):
     _hash = mmh3.hash(favicon)
     _hash = str(_hash)
     return _hash
+
+if __name__ == "__main__":
+    url = "https://www.baidu.com"
+    icon_hash = process_url_and_get_favicon_hash(url)
+    print(f"icon hash for url '{url}':", icon_hash)
 ```
 
 You can use favicon hash in Shodan like: `http.favicon.hash:<favicon_hash>`
