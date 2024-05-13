@@ -1,7 +1,7 @@
 ---
 title: Telegram search engines
 created: '2024-05-13T08:26:02.440Z'
-modified: '2024-05-13T09:54:20.417Z'
+modified: '2024-05-13T09:58:28.394Z'
 ---
 
 # Telegram search engines
@@ -41,5 +41,11 @@ Telegram related resources:
 https://taiha.dev/technology/telegram-search-engines/
 
 https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
+
+https://medium.com/@ibederov_en/telegram-search-engines-fc8d9c1cc1a6
+
+https://medium.com/@teletegofficial/how-to-search-telegram-groups-and-channels-a-comprehensive-guide-b0dfc3898d35
+
+https://www.quora.com/How-do-I-find-Telegram-groups-channels-by-keywords-and-tags-Most-of-the-time-many-channels-are-not-shown-in-search
 
 You can directly use Google as telegram search engine, like ...
