@@ -1,7 +1,7 @@
 ---
 title: Telegram search engines
 created: '2024-05-13T08:26:02.440Z'
-modified: '2024-05-13T09:46:43.557Z'
+modified: '2024-05-13T09:49:06.999Z'
 ---
 
 # Telegram search engines
@@ -16,11 +16,15 @@ https://xtea.io/ts_en.html
 
 https://groupda.com/tgme/
 
+https://telemetryapp.io
+
 Available telegram search engine bots:
 
 https://t.em/tgdb_bot
 
-Telegram resources:
+Telegram related resources:
+
+https://taiha.dev/technology/telegram-search-engines/
 
 https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
 
