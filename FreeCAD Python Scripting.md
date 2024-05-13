@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T06:27:06.349Z'
+modified: '2024-05-13T06:28:18.397Z'
 ---
 
 # FreeCAD Python Scripting
@@ -64,7 +64,7 @@ num_squares = 10
 x_length = (x_max - x_min) / num_squares
 y_length = (y_max - y_min) / num_squares
 
-margin_portion = 0.15
+margin_portion = 0.17
 hole_portion = 1 - 2 * margin_portion
 
 # Create the squares
