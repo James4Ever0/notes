@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T06:14:02.266Z'
+modified: '2024-05-13T06:21:58.054Z'
 ---
 
 # FreeCAD Python Scripting
@@ -73,7 +73,8 @@ for i in range(num_squares):
             (x_start, y_start, z),
             (x_start + x_length * 0.8, y_start, z),
             (x_start + x_length * 0.8, y_start + y_length * 0.8, z),
-            (x_start, y_start + y_length * 0.8, z)
+            (x_start, y_start + y_length * 0.8, z),
+            (x_start, y_start, z), # to make it closed
         ]
         square = Part.makePolygon(square_points)
         Part.show(square)
