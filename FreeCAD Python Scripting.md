@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T06:13:31.750Z'
+modified: '2024-05-13T06:14:02.266Z'
 ---
 
 # FreeCAD Python Scripting
@@ -67,8 +67,8 @@ y_length = (y_max - y_min) / num_squares
 # Create the squares
 for i in range(num_squares):
     for j in range(num_squares):
-        x_start = x_min + i * x_length + x_length / 10
-        y_start = y_min + j * y_length + y_length / 10
+        x_start = x_min + i * x_length + x_length * 0.1
+        y_start = y_min + j * y_length + y_length * 0.1
         square_points = [
             (x_start, y_start, z),
             (x_start + x_length * 0.8, y_start, z),
