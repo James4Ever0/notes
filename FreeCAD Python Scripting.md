@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T02:58:59.839Z'
+modified: '2024-05-13T03:32:03.942Z'
 ---
 
 # FreeCAD Python Scripting
@@ -33,5 +33,9 @@ vertex_point = obj.Shape.Vertexes[0].Point
 
 # create new line
 
+new_line = Part.makeLine((-200, -200, 0), (200, 200, 0))
 
+# insert the line
+
+Part.show(new_line)
 ```
