@@ -1,7 +1,7 @@
 ---
 title: Favicon hashes creation and usage
 created: '2024-05-13T08:34:24.651Z'
-modified: '2024-05-13T09:23:48.273Z'
+modified: '2024-05-13T09:23:58.786Z'
 ---
 
 # Favicon hashes creation and usage
@@ -33,4 +33,4 @@ def process_url_and_get_favicon_hash(url: str):
 
 You can use favicon hash in Shodan like: `http.favicon.hash:<favicon_hash>`
 
-In ZoomEye like: `iconhash=<favicon_hash>`
+In ZoomEye like: `iconhash:"<favicon_hash>"`
