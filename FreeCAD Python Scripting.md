@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T06:09:44.793Z'
+modified: '2024-05-13T06:13:31.750Z'
 ---
 
 # FreeCAD Python Scripting
@@ -51,10 +51,10 @@ Draw squares within specific bounds:
 margin = 15
 
 # Define the dimensions of the square area
-x_min = -210.134
-x_max = -84.134
-y_min = -140.0997
-y_max = -14.0997
+x_min = -210.134 + margin
+x_max = -84.134 - margin
+y_min = -140.0997 + margin
+y_max = -14.0997 - margin
 z = 0
 
 # Define the number of squares in each row and column
@@ -70,12 +70,12 @@ for i in range(num_squares):
         x_start = x_min + i * x_length + x_length / 10
         y_start = y_min + j * y_length + y_length / 10
         square_points = [
-            App.Vector(x_start, y_start, z),
-            App.Vector(x_start + x_length * 0.8, y_start, z),
-            App.Vector(x_start + x_length * 0.8, y_start + y_length * 0.8, z),
-            App.Vector(x_start, y_start + y_length * 0.8, z),
-            App.Vector(x_start, y_start, z)
+            (x_start, y_start, z),
+            (x_start + x_length * 0.8, y_start, z),
+            (x_start + x_length * 0.8, y_start + y_length * 0.8, z),
+            (x_start, y_start + y_length * 0.8, z)
         ]
-        Draft.makeWire(square_points, closed=True)
+        square = Part.makePolygon(square_points)
+        Part.show(square)
 
 ```
