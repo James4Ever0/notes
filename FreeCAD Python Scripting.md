@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T02:46:19.822Z'
+modified: '2024-05-13T02:50:41.055Z'
 ---
 
 # FreeCAD Python Scripting
@@ -14,6 +14,14 @@ https://wiki.freecad.org/FreeCAD_Scripting_Basics
 import Part
 
 doc = FreeCAD.ActiveDocument
+
+# list all objects
+
+all_objects = doc.Objects
+
+# list all names
+
+all_object_names = [it.Name for it in all_objects]
 
 # get object by name
 
