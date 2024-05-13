@@ -1,7 +1,7 @@
 ---
 title: Telegram search engines
 created: '2024-05-13T08:26:02.440Z'
-modified: '2024-05-13T09:49:30.001Z'
+modified: '2024-05-13T09:50:03.287Z'
 ---
 
 # Telegram search engines
@@ -18,7 +18,13 @@ https://groupda.com/tgme/
 
 https://telemetryapp.io
 
-https://cse.google.com/cse?q=
+https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg (Telegago)
+
+https://lyzem.com/
+
+https://tgstat.com/en/search
+
+https://tgdev.io/tme/
 
 Available telegram search engine bots:
 
