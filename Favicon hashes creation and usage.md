@@ -1,7 +1,7 @@
 ---
 title: Favicon hashes creation and usage
 created: '2024-05-13T08:34:24.651Z'
-modified: '2024-05-13T09:19:09.541Z'
+modified: '2024-05-13T09:19:58.892Z'
 ---
 
 # Favicon hashes creation and usage
@@ -21,13 +21,12 @@ def get_favicon_url(url: str):
 
 
 def process_url_and_get_favicon_hash(url: str):
-    try:
-        favicon_url = get_favicon_url(url)
-        InfoConsole.positive("Processing favicon URL:", favicon_url)
-        response = perform_get_request_with_insecure_and_redirects(favicon_url)
-        favicon = codecs.encode(response.content, "base64")
-        _hash = mmh3.hash(favicon)
-        _hash = str(_hash)
+    favicon_url = get_favicon_url(url)
+    response perform_get_request_with_insecure_and_redirects(favicon_url)
+    favicon = codecs.encode(response.content, "base64")
+    _hash = mmh3.hash(favicon)
+    _hash = str(_hash)
+    return _hash
 ```
 
 You can use favicon hash in Shodan like: ``
