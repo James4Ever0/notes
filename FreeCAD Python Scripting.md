@@ -1,7 +1,7 @@
 ---
 title: FreeCAD Python Scripting
 created: '2024-05-13T02:43:07.853Z'
-modified: '2024-05-13T06:37:54.104Z'
+modified: '2024-05-13T06:40:27.234Z'
 ---
 
 # FreeCAD Python Scripting
@@ -107,14 +107,14 @@ margin_portion = 0.17
 radius_portion = 0.5 - margin_portion
 radius = x_length * radius_portion
 
-direction = (0, 0, 1)
+direction = App.Vector(0, 0, 1)
 
 # Create the squares
 for i in range(num_circles):
     for j in range(num_circles):
         x_center = x_min + i * x_length + x_length * 0.5
         y_center = y_min + j * y_length + y_length * 0.5
-        circle = Part.makeCircle(radius, (x_center, y_center, 0), direction)
+        circle = Part.makeCircle(radius, App.Vector(x_center, y_center, 0), direction)
         Part.show(circle)
 
 ```
