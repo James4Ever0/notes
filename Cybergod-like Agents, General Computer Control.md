@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T07:17:23.774Z'
+modified: '2024-05-14T07:17:55.887Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -21,6 +21,10 @@ https://github.com/google-research/google-research/tree/master/screen2words
 https://github.com/rainyugg/blip-adapter
 
 https://github.com/imnearth/coat
+
+https://github.com/xbmxb/aagent
+
+https://github.com/princeton-nlp/ptp
 
 Datasets:
 
