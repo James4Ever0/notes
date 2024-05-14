@@ -1,7 +1,7 @@
 ---
 title: Telegram search engines
 created: '2024-05-13T08:26:02.440Z'
-modified: '2024-05-14T01:56:32.263Z'
+modified: '2024-05-14T01:57:07.962Z'
 ---
 
 # Telegram search engines
@@ -43,6 +43,8 @@ https://cse.google.com/cse?cx=006368593537057042503%3Aig4r3rz35qi#gsc.tab=0 (Com
 https://www.telegram-groups.com/
 
 https://telegramchannels.me/
+
+https://tlgrm.ru/channels/
 
 Available telegram search engine bots:
 
