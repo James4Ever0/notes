@@ -1,12 +1,12 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T06:56:57.148Z'
+modified: '2024-05-14T07:03:05.752Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
 
-https://hf-mirror.com/Agent-Eval-Refine
+[Agent-Eval-Refine](https://hf-mirror.com/Agent-Eval-Refine) contains models for GUI captioning, 
 
 ---
 
