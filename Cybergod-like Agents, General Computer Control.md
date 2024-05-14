@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T07:16:47.825Z'
+modified: '2024-05-14T07:17:23.774Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -17,6 +17,10 @@ Listed projects:
 https://github.com/x-plug/mobileagent
 
 https://github.com/google-research/google-research/tree/master/screen2words
+
+https://github.com/rainyugg/blip-adapter
+
+https://github.com/imnearth/coat
 
 Datasets:
 
