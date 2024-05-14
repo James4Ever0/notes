@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T07:18:50.722Z'
+modified: '2024-05-14T07:18:59.087Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -33,6 +33,8 @@ https://github.com/thudm/autowebglm
 Environments:
 
 https://github.com/google-deepmind/android_env
+
+https://github.com/x-lance/mobile-env
 
 Datasets:
 
