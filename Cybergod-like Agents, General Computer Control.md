@@ -1,10 +1,16 @@
 ---
-title: Cybergod-like Agents, General Computer Control
-created: 2024-03-14T08:53:22+00:00
-modified: 2024-04-04T13:06:17+08:00
+title: 'Cybergod-like Agents, General Computer Control'
+created: '2024-03-14T08:53:22.000Z'
+modified: '2024-05-14T05:59:24.220Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+[ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) includes a lots of related computer control papers in, along with a self-trained model on huggingface.
+
+[Open-Interface](https://github.com/AmberSahdev/Open-Interface) utilizes GPT-4V to control computer interface.
+
+---
 
 [Devin](https://www.cognition-labs.com/) is an AI agent that can solve many real-world Github issues, with access to browser, terminal and code editor.
 
