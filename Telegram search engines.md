@@ -1,7 +1,7 @@
 ---
 title: Telegram search engines
 created: '2024-05-13T08:26:02.440Z'
-modified: '2024-05-14T01:54:39.149Z'
+modified: '2024-05-14T01:55:07.778Z'
 ---
 
 # Telegram search engines
@@ -58,4 +58,4 @@ https://medium.com/@teletegofficial/how-to-search-telegram-groups-and-channels-a
 
 https://www.quora.com/How-do-I-find-Telegram-groups-channels-by-keywords-and-tags-Most-of-the-time-many-channels-are-not-shown-in-search
 
-You can directly use Google as telegram search engine, like ...
+You can directly use Google as telegram search engine, like indexed part of Telegram itself <site:t.me>, and on external aggregators, for example <site:tgstat.ru> or <site:telemetr.me>
