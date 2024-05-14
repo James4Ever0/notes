@@ -1,7 +1,7 @@
 ---
 title: Telegram search engines
 created: '2024-05-13T08:26:02.440Z'
-modified: '2024-05-14T01:55:07.778Z'
+modified: '2024-05-14T01:56:02.068Z'
 ---
 
 # Telegram search engines
@@ -39,6 +39,8 @@ https://kribrum.io/
 https://telemetr.me/all_posts/
 
 https://cse.google.com/cse?cx=006368593537057042503%3Aig4r3rz35qi#gsc.tab=0 (Commentogram)
+
+https://www.telegram-groups.com/
 
 Available telegram search engine bots:
 
