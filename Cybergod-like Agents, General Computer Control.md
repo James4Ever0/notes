@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T07:03:59.758Z'
+modified: '2024-05-14T07:16:28.948Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -10,7 +10,15 @@ modified: '2024-05-14T07:03:59.758Z'
 
 ---
 
-[ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) includes a lots of related computer control papers in, along with a self-trained model on huggingface.
+[ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) includes a lots of related computer control papers and projects in, along with a self-trained model on huggingface.
+
+Listed projects:
+
+https://github.com/x-plug/mobileagent
+
+
+
+---
 
 [Open-Interface](https://github.com/AmberSahdev/Open-Interface) utilizes GPT-4V to control computer interface.
 
