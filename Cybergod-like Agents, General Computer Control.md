@@ -1,10 +1,14 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T05:59:24.220Z'
+modified: '2024-05-14T06:56:57.148Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+https://hf-mirror.com/Agent-Eval-Refine
+
+---
 
 [ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) includes a lots of related computer control papers in, along with a self-trained model on huggingface.
 
