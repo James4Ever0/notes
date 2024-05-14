@@ -1,7 +1,7 @@
 ---
 title: Telegram search engines
 created: '2024-05-13T08:26:02.440Z'
-modified: '2024-05-14T01:56:10.557Z'
+modified: '2024-05-14T01:56:22.512Z'
 ---
 
 # Telegram search engines
@@ -49,6 +49,8 @@ Available telegram search engine bots:
 https://t.em/tgdb_bot
 
 https://ttttt.me/SearcheeBot
+
+https://t.me/teletegbot
 
 Telegram related resources:
 
