@@ -1,10 +1,16 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-10T04:02:20.012Z'
+modified: '2024-05-14T08:35:34.585Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+Port scanning websites and self-hosted services:
+
+https://alternativeto.net/software/shodan/
+
+---
 
 Many [pentesting models](https://hf-mirror.com/models?search=pentest) and [datasets](https://hf-mirror.com/datasets?search=pentest) are released on huggingface. Query words are: `pentest` `0dai`
 
