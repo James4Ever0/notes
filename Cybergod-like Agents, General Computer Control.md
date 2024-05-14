@@ -1,12 +1,12 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T07:03:21.493Z'
+modified: '2024-05-14T07:03:44.511Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
 
-[Agent-Eval-Refine](https://hf-mirror.com/Agent-Eval-Refine) contains models for GUI captioning, iOS finetuned CogAgent, and 
+[Agent-Eval-Refine](https://hf-mirror.com/Agent-Eval-Refine) contains models for [GUI captioning](), [iOS finetuned CogAgent](), and several GUI agent datasets.
 
 ---
 
