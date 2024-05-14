@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T07:18:22.855Z'
+modified: '2024-05-14T07:18:31.237Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -25,6 +25,8 @@ https://github.com/imnearth/coat
 https://github.com/xbmxb/aagent
 
 https://github.com/princeton-nlp/ptp
+
+https://github.com/njucckevin/seeclick
 
 Environments:
 
