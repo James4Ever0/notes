@@ -1,7 +1,7 @@
 ---
-title: 'AI Hacking Assistants, Automated Hacking'
-created: '2024-05-07T14:33:59.672Z'
-modified: '2024-05-14T08:35:34.585Z'
+title: AI Hacking Assistants, Automated Hacking
+created: 2024-05-07T14:33:59+00:00
+modified: 2024-05-14T19:36:51+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -61,6 +61,14 @@ PoC collection
 https://github.com/nomi-sec/PoC-in-GitHub
 
 https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC
+
+https://github.com/DSO-Lab/pocscan
+
+https://github.com/xinyisleep/pocscan
+
+https://github.com/erevus-cn/pocscan
+
+https://github.com/vulscanteam/vulscan
 
 Query dorks
 
