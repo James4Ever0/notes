@@ -1,6 +1,6 @@
 ---
 created: 2024-05-20T08:25:32+08:00
-modified: 2024-05-20T08:34:24+08:00
+modified: 2024-05-20T08:56:02+08:00
 ---
 
 # Java jar file decompiler
@@ -17,7 +17,8 @@ java -jar jd-cli.jar file-to-decompile.jar -ods decompiled-src
 
 # with docker
 docker run -it --rm -v `pwd`:/mnt --user $(id -u):$(id -g) \
-  kwart/jd-cli /mnt/file-to-decompile.jar -ods /mnt/decompiled-src```
+  kwart/jd-cli /mnt/file-to-decompile.jar -ods /mnt/decompiled-src
+```
 
 Full syntax:
 
