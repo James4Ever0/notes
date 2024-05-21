@@ -1,10 +1,16 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-14T07:19:09.971Z'
+modified: '2024-05-21T06:17:54.289Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+Web browsing agent:
+
+https://github.com/THUDM/AutoWebGLM
+
+---
 
 [Agent-Eval-Refine](https://hf-mirror.com/Agent-Eval-Refine) contains models for [GUI captioning](https://hf-mirror.com/Agent-Eval-Refine/Captioner), [iOS finetuned CogAgent](https://hf-mirror.com/Agent-Eval-Refine/CogAgent-iOS-SelfTrain), and several GUI agent datasets.
 
