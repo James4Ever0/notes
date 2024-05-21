@@ -1,10 +1,16 @@
 ---
-title: 'Cybergod-like Agents, General Computer Control'
-created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-21T06:17:54.289Z'
+title: Cybergod-like Agents, General Computer Control
+created: 2024-03-14T08:53:22+00:00
+modified: 2024-05-21T21:54:21+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+Devin open source alternative:
+
+https://github.com/stitionai/devika
+
+---
 
 Web browsing agent:
 
