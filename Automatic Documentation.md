@@ -1,10 +1,14 @@
 ---
 title: Automatic Documentation
-created: '2024-01-10T12:55:08.813Z'
-modified: '2024-01-10T13:57:48.891Z'
+created: 2024-01-10T12:55:08+00:00
+modified: 2024-05-21T21:38:52+08:00
 ---
 
 # Automatic Documentation
+
+DFPy, auto example based prompt engineering
+
+---
 
 Semantic search, question-answer generation (query generation), prompt engineering, template generation, usage generation, topic/category clustering, turn plain text summaries into markdown document.
 
