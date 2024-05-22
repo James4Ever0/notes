@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-22T07:56:14.282Z'
+modified: '2024-05-22T08:07:24.660Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -58,7 +58,7 @@ https://github.com/msd0pe-1/cve-maker
 
 https://pypi.org/project/puncia/
 
-PoC collection
+PoC collection (search for proof-of-concept in github for more)
 
 https://github.com/nomi-sec/PoC-in-GitHub
 
