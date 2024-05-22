@@ -1,10 +1,12 @@
 ---
-title: AI Hacking Assistants, Automated Hacking
-created: 2024-05-07T14:33:59+00:00
-modified: 2024-05-14T19:36:51+08:00
+title: 'AI Hacking Assistants, Automated Hacking'
+created: '2024-05-07T14:33:59.000Z'
+modified: '2024-05-22T07:56:03.950Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+[HackerGPT](https://chat.hackergpt.co) which needs non-temporary email for registration.
 
 Port scanning websites and self-hosted services:
 
