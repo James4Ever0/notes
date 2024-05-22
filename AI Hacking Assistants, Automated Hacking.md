@@ -1,10 +1,12 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-22T08:45:25.146Z'
+modified: '2024-05-22T08:46:06.573Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+[haipy](https://pypi.org/project/haipy/) detects over 500+ hash types.
 
 [Cyberonix](https://pypi.org/project/cyberonix/) is a cybersecurity resource hub, containing a wide range of hacktool info.
 
