@@ -1,10 +1,14 @@
 ---
-title: 'AI Hacking Assistants, Automated Hacking'
-created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-22T08:46:39.594Z'
+title: AI Hacking Assistants, Automated Hacking
+created: 2024-05-07T14:33:59+00:00
+modified: 2024-05-23T19:09:45+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+[all about privileges escalation scripts](https://github.com/peass-ng/PEASS-ng)
+
+---
 
 [haipy](https://pypi.org/project/haipy/) detects over 500+ hash types, which is a Python port of [haiti](https://github.com/noraj/haiti)
 
