@@ -1,7 +1,7 @@
 ---
 title: Anonymous browsers
 created: '2024-05-27T02:55:33.180Z'
-modified: '2024-05-27T06:54:18.111Z'
+modified: '2024-05-27T06:56:26.845Z'
 ---
 
 # Anonymous browsers
@@ -26,7 +26,7 @@ docker run -v /usr/share/fonts:/usr/share/fonts:ro --name firefox_browser -d --r
 docker run -e DOCKER_MODS=linuxserver/mods:universal-package-install -e INSTALL_PACKAGES=font-noto-cjk -e LC_ALL=zh_CN.UTF-8 --name firefox_browser -d --rm -p 3000:3000 linuxserver/firefox
 ```
 
-- Container based, browser-in-browser emulation based
+- Container based, browser-in-browser emulation
 
 https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-via-terminal
 
