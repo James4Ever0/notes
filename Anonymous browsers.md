@@ -1,7 +1,7 @@
 ---
 title: Anonymous browsers
 created: '2024-05-27T02:55:33.180Z'
-modified: '2024-05-27T06:53:29.858Z'
+modified: '2024-05-27T06:54:18.111Z'
 ---
 
 # Anonymous browsers
@@ -22,7 +22,7 @@ docker run -v /System/Library/Fonts:/usr/share/fonts:ro --name firefox_browser -
 # Ubuntu and other Linux
 docker run -v /usr/share/fonts:/usr/share/fonts:ro --name firefox_browser -d --rm -p 3000:3000 linuxserver/firefox
 
-# Official Unicode support
+# official Unicode support
 docker run -e DOCKER_MODS=linuxserver/mods:universal-package-install -e INSTALL_PACKAGES=font-noto-cjk -e LC_ALL=zh_CN.UTF-8 --name firefox_browser -d --rm -p 3000:3000 linuxserver/firefox
 ```
 
