@@ -1,7 +1,7 @@
 ---
 title: Anonymous browsers
 created: '2024-05-27T02:55:33.180Z'
-modified: '2024-05-27T03:44:46.770Z'
+modified: '2024-05-27T03:46:25.968Z'
 ---
 
 # Anonymous browsers
@@ -10,7 +10,9 @@ There are three kinds of anonymous browsers.
 
 - Container based, remote desktop connected browsers
 
-
+```bash
+docker pull linuxserver/firefox
+```
 
 - Container based, browser-in-browser emulation based
 
