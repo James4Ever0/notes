@@ -1,10 +1,14 @@
 ---
-title: AI Hacking Assistants, Automated Hacking
-created: 2024-05-07T14:33:59+00:00
-modified: 2024-05-23T19:09:45+08:00
+title: 'AI Hacking Assistants, Automated Hacking'
+created: '2024-05-07T14:33:59.000Z'
+modified: '2024-05-27T09:53:39.624Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+search for blackhat gpt, blackhat tools etc.
+
+---
 
 [all about privileges escalation scripts](https://github.com/peass-ng/PEASS-ng)
 
