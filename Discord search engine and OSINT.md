@@ -1,16 +1,16 @@
 ---
 title: Discord search engine and OSINT
 created: '2024-05-27T03:31:44.477Z'
-modified: '2024-05-27T05:20:38.307Z'
+modified: '2024-05-27T05:20:48.789Z'
 ---
 
 # Discord search engine and OSINT
 
-## tutorial
+## Tutorial
 
 https://www.authentic8.com/blog/collecting-osint-discord-guide
 
-## google dork
+## Google dork
 
 ```
     “search term” site:discord.com
@@ -20,7 +20,7 @@ https://www.authentic8.com/blog/collecting-osint-discord-guide
     intext:"Discord" intext:"OSINT Community" -site:discord.com
 ```
 
-## websites
+## Websites
 
 https://discordservers.com/
 
