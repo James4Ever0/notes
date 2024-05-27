@@ -1,10 +1,14 @@
 ---
 title: IP info collect
 created: '2024-05-27T03:18:04.490Z'
-modified: '2024-05-27T03:40:58.516Z'
+modified: '2024-05-27T03:41:42.033Z'
 ---
 
 # IP info collect
+
+Tutorial:
+
+https://stackoverflow.com/questions/24678308/how-to-find-location-with-ip-address-in-python
 
 To obtain IP of ourselves, we can visit:
 
