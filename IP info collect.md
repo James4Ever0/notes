@@ -1,7 +1,7 @@
 ---
 title: IP info collect
 created: '2024-05-27T03:18:04.490Z'
-modified: '2024-05-27T03:41:42.033Z'
+modified: '2024-05-27T03:42:03.379Z'
 ---
 
 # IP info collect
@@ -12,7 +12,9 @@ https://stackoverflow.com/questions/24678308/how-to-find-location-with-ip-addres
 
 To obtain IP of ourselves, we can visit:
 
-
+```bash
+curl https://api.ipify.org
+```
 
 To get geo info of our IP, visit:
 
