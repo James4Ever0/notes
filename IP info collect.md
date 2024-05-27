@@ -1,17 +1,19 @@
 ---
 title: IP info collect
 created: '2024-05-27T03:18:04.490Z'
-modified: '2024-05-27T03:39:06.315Z'
+modified: '2024-05-27T03:40:58.516Z'
 ---
 
 # IP info collect
 
 To obtain IP of ourselves, we can visit:
 
+
+
 To get geo info of our IP, visit:
 
 ```bash
-curl https://ipinfo.io
+curl https://ipinfo.io | jq .country
 ```
 
 TO get geo info of any IP, use:
