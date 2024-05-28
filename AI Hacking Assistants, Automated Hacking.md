@@ -1,12 +1,14 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-27T09:53:39.624Z'
+modified: '2024-05-28T02:10:16.643Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
 
 search for blackhat gpt, blackhat tools etc.
+
+https://github.com/friuns2/BlackFriday-GPTs-Prompts
 
 ---
 
