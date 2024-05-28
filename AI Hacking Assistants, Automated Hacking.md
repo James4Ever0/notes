@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-28T02:10:26.798Z'
+modified: '2024-05-28T02:10:36.511Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -11,6 +11,8 @@ search for blackhat gpt, blackhat tools etc.
 https://github.com/friuns2/BlackFriday-GPTs-Prompts
 
 https://github.com/Sajibekanti/1000-blackhat-tools
+
+https://ollama.com/jimscard/blackhat-hacker
 
 ---
 
