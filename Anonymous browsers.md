@@ -1,7 +1,7 @@
 ---
 title: Anonymous browsers
 created: '2024-05-27T02:55:33.180Z'
-modified: '2024-05-27T06:56:26.845Z'
+modified: '2024-05-28T02:22:44.204Z'
 ---
 
 # Anonymous browsers
@@ -31,6 +31,7 @@ docker run -e DOCKER_MODS=linuxserver/mods:universal-package-install -e INSTALL_
 https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-via-terminal
 
 https://github.com/BrowserBox/BrowserBox
+
 
 - Builtin anonymous browser like Tor browser
 
