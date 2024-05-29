@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-29T03:25:55.267Z'
+modified: '2024-05-29T09:07:48.838Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -12,7 +12,15 @@ https://github.com/xlang-ai/OSWorld
 
 ---
 
+Multi-agent framework, routing:
+
+
+
+---
+
 Devin open source alternative:
+
+https://github.com/entropy-research/Devon
 
 https://github.com/stitionai/devika
 
