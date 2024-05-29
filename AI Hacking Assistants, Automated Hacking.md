@@ -1,10 +1,16 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-29T03:24:47.252Z'
+modified: '2024-05-29T09:55:10.309Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+Cybersec collections:
+
+https://cybersectools.com/
+
+---
 
 AI Red teaming and network attack simulated environments:
 
