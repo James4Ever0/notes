@@ -1,10 +1,14 @@
 ---
 title: GPT-4V Open Source Alternative
 created: '2024-05-21T06:15:02.493Z'
-modified: '2024-05-22T08:57:06.726Z'
+modified: '2024-05-29T09:48:54.150Z'
 ---
 
 # GPT-4V Open Source Alternative
+
+https://github.com/mbzuai-oryx/Video-LLaVA
+
+---
 
 https://github.com/OpenGVLab/InternVL
 
