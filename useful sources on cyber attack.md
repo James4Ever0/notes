@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.000Z'
-modified: '2024-05-29T09:55:45.267Z'
+modified: '2024-05-29T09:56:41.034Z'
 ---
 
 # useful sources on cyber attack
@@ -12,7 +12,9 @@ modified: '2024-05-29T09:55:45.267Z'
 
 ### post-exploit framework, evasion
 
+https://github.com/PowerShellMafia/PowerSploit
 
+https://github.com/cobbr/SharpSploit
 
 [thefatrat](https://github.com/screetsec/TheFatRat) is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. [the author](https://github.com/screetsec) has some tools to share.
 
