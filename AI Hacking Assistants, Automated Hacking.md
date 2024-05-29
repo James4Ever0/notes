@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-29T03:24:21.509Z'
+modified: '2024-05-29T03:24:47.252Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -10,7 +10,7 @@ AI Red teaming and network attack simulated environments:
 
 https://github.com/yyzpiero/RL4RedTeam
 
-
+https://github.com/Jjschwartz/NetworkAttackSimulator
 
 ---
 
