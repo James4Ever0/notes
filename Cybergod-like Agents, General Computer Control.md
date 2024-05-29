@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-05-29T03:25:39.227Z'
+modified: '2024-05-29T03:25:55.267Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -29,6 +29,8 @@ https://github.com/THUDM/AutoWebGLM
 ---
 
 [ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) includes a lots of related computer control papers and projects in, along with a self-trained model on huggingface.
+
+Similar projects:
 
 https://github.com/TobiasNorlund/UI-Act
 
