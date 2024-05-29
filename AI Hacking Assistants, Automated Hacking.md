@@ -1,10 +1,16 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-28T02:10:41.551Z'
+modified: '2024-05-29T03:24:14.342Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+AI Red teaming and network attack simulated environments:
+
+
+
+---
 
 search for blackhat gpt, blackhat tools etc.
 
