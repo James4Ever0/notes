@@ -1,10 +1,16 @@
 ---
-title: Cybergod-like Agents, General Computer Control
-created: 2024-03-14T08:53:22+00:00
-modified: 2024-05-21T21:54:21+08:00
+title: 'Cybergod-like Agents, General Computer Control'
+created: '2024-03-14T08:53:22.000Z'
+modified: '2024-05-29T03:25:24.019Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+Simulated computer control environments:
+
+
+
+---
 
 Devin open source alternative:
 
