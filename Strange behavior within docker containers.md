@@ -1,7 +1,7 @@
 ---
 title: Strange behavior within docker containers
 created: '2024-05-29T02:44:43.717Z'
-modified: '2024-05-29T02:48:57.408Z'
+modified: '2024-05-29T02:49:34.300Z'
 ---
 
 # Strange behavior within docker containers
@@ -10,10 +10,12 @@ Symlinked files are not working properly from the start. Taking `msfconsole` for
 
 ```bash
 docker run --rm -it parrotsec/security
+
 # it will stuck
 msfconsole
 # note the following will also stuck
 /usr/share/metasploit-framework/msfconsole
+
 # instead let's first change directory
 cd /usr/share/metasploit-framework
 # then invoke the binary
