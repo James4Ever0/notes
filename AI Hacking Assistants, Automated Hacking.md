@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-30T06:40:36.285Z'
+modified: '2024-05-30T06:40:49.981Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -13,6 +13,8 @@ https://github.com/topics/penetration-testing-framework
 https://github.com/qsecure-labs/overlord
 
 https://github.com/OWASP/Nettacker
+
+https://github.com/m4n3dw0lf/PytheM
 
 https://github.com/skavngr/rapidscan
 
