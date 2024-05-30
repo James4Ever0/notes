@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-29T09:55:10.309Z'
+modified: '2024-05-30T05:47:12.981Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -9,6 +9,8 @@ modified: '2024-05-29T09:55:10.309Z'
 Cybersec collections:
 
 https://cybersectools.com/
+
+https://github.com/trustedsec/ptf
 
 ---
 
