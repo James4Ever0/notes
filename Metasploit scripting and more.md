@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T06:59:50.862Z'
+modified: '2024-05-30T07:07:10.026Z'
 ---
 
 # Metasploit scripting and more
@@ -17,6 +17,13 @@ the way metasploit loads resource script:
       load_resource(full_path)
     end
   end
+
+```
+
+the parsing:
+
+```ruby
+# file:
 
 ```
 
