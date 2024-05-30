@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-30T06:37:03.334Z'
+modified: '2024-05-30T06:37:59.401Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -10,7 +10,11 @@ pentest framework in python or ruby:
 
 https://github.com/topics/penetration-testing-framework
 
+---
 
+exploit tutorials
+
+https://pypi.org/project/exploit-bianxie-xilie-jiaocheng-1-11/
 
 ---
 
