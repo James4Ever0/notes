@@ -1,10 +1,26 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T06:39:28.835Z'
+modified: '2024-05-30T06:59:24.722Z'
 ---
 
 # Metasploit scripting and more
+
+the way metasploit loads resource script:
+
+```ruby
+# file: 
+  def execute_file(full_path, args)
+    if File.extname(full_path) == '.rb'
+      Rex::Script::Shell.new(self, full_path).run(args)
+    else
+      load_resource(full_path)
+    end
+  end
+
+```
+
+---
 
 vulnerability scanners:
 
