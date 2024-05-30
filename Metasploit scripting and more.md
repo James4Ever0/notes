@@ -1,12 +1,14 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T05:51:04.019Z'
+modified: '2024-05-30T05:51:14.916Z'
 ---
 
 # Metasploit scripting and more
 
 https://www.infosecmatter.com/metasploit-module-library/
+
+https://rubyfu.net/module-0x5-or-exploitation-kung-fu/metasploit/auxiliary-module
 
 ---
 
