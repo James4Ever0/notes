@@ -1,12 +1,12 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T06:21:58.417Z'
+modified: '2024-05-30T06:22:11.925Z'
 ---
 
 # Metasploit scripting and more
 
-[metasploit-framework]() is a ruby gem.
+[metasploit-framework](https://rubygems.org/gems/metasploit-framework) is a ruby gem.
 
 ---
 
