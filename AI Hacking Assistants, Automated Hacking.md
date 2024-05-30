@@ -1,12 +1,12 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-30T06:34:51.039Z'
+modified: '2024-05-30T06:34:57.264Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
 
-search for pentest framework in python or ruby:
+pentest framework in python or ruby:
 
 
 
