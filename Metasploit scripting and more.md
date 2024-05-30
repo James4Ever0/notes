@@ -1,10 +1,19 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T07:12:30.820Z'
+modified: '2024-05-30T07:14:57.468Z'
 ---
 
 # Metasploit scripting and more
+
+you typically need to do this before importing useful metasploit ruby libraries:
+
+```ruby
+$LOAD_PATH << './lib'
+require 'rex'
+require 'msf'
+require 'msfenv'
+```
 
 the way metasploit loads resource script:
 
