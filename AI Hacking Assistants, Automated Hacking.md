@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-30T06:39:49.646Z'
+modified: '2024-05-30T06:40:09.066Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -9,6 +9,8 @@ modified: '2024-05-30T06:39:49.646Z'
 pentest framework in python or ruby:
 
 https://github.com/topics/penetration-testing-framework
+
+https://github.com/qsecure-labs/overlord
 
 https://pypi.org/project/shellfire/
 
