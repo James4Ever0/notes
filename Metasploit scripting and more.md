@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T07:14:57.468Z'
+modified: '2024-05-30T07:16:45.689Z'
 ---
 
 # Metasploit scripting and more
@@ -9,7 +9,7 @@ modified: '2024-05-30T07:14:57.468Z'
 you typically need to do this before importing useful metasploit ruby libraries:
 
 ```ruby
-$LOAD_PATH << './lib'
+$LOAD_PATH.push('./lib')
 require 'rex'
 require 'msf'
 require 'msfenv'
