@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-30T06:38:18.644Z'
+modified: '2024-05-30T06:38:43.971Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -10,6 +10,8 @@ pentest framework in python or ruby:
 
 https://github.com/topics/penetration-testing-framework
 
+
+https://pypi.org/project/lockdoor/
 ---
 
 exploit tutorials
