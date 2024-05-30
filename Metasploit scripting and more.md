@@ -1,10 +1,14 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-04-02T13:46:27.934Z'
+modified: '2024-05-30T05:51:04.019Z'
 ---
 
 # Metasploit scripting and more
+
+https://www.infosecmatter.com/metasploit-module-library/
+
+---
 
 [mad-metasploit](https://github.com/hahwul/mad-metasploit) custom metasploit scripts
 
