@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T06:27:37.628Z'
+modified: '2024-05-30T06:30:58.463Z'
 ---
 
 # Metasploit scripting and more
@@ -9,6 +9,10 @@ modified: '2024-05-30T06:27:37.628Z'
 vulnerability scanners:
 
 https://dradis.com/ce/
+
+nessus
+
+openvas
 
 ---
 
