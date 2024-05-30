@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T07:12:06.801Z'
+modified: '2024-05-30T07:12:30.820Z'
 ---
 
 # Metasploit scripting and more
@@ -23,7 +23,18 @@ the way metasploit loads resource script:
 the `Shell.new`:
 
 ```ruby
-#
+# lib/rex/shell/base.rb
+  def run(args=[])
+    self.args = args = args.flatten
+    begin
+      eval(::File.read(self.path, ::File.size(self.path)), binding )
+    rescue ::Interrupt
+    rescue ::Rex::Script::Completed
+    rescue ::Exception => e
+      self.error = e
+      raise e
+    end
+  end
 
 ```
 the  `load_resource`:
