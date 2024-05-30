@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T06:59:24.722Z'
+modified: '2024-05-30T06:59:44.745Z'
 ---
 
 # Metasploit scripting and more
@@ -9,7 +9,7 @@ modified: '2024-05-30T06:59:24.722Z'
 the way metasploit loads resource script:
 
 ```ruby
-# file: 
+# file: lib/msf/base/sessions/
   def execute_file(full_path, args)
     if File.extname(full_path) == '.rb'
       Rex::Script::Shell.new(self, full_path).run(args)
