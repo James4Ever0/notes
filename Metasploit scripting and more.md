@@ -1,7 +1,7 @@
 ---
 title: Metasploit scripting and more
 created: '2024-03-31T04:25:36.000Z'
-modified: '2024-05-30T07:07:10.026Z'
+modified: '2024-05-30T07:07:25.819Z'
 ---
 
 # Metasploit scripting and more
@@ -23,7 +23,8 @@ the way metasploit loads resource script:
 the parsing:
 
 ```ruby
-# file:
+# file: lib/rex/ui/text/resource.rb
+
 
 ```
 
