@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-05-30T06:39:34.010Z'
+modified: '2024-05-30T06:39:49.646Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -18,6 +18,7 @@ https://pypi.org/project/getsploit/
 
 https://pypi.org/project/sploitscan/
 
+https://pypi.org/project/pyExploitDb/
 ---
 
 exploit tutorials
