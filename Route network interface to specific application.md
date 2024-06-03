@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T07:28:54.677Z'
+modified: '2024-06-03T07:29:45.623Z'
 ---
 
 # Route network interface to specific application
@@ -24,6 +24,12 @@ Use `dante` and `proxychains-ng`
 sudo apt install dante-server proxychains-ng
 ```
 
+Create a user for proxy login:
+
+```bash
+sudo useradd 
+```
+
 Now edit the `dante` config file at `/etc/dante.conf`:
 
 ```
@@ -42,8 +48,6 @@ client pass {
 socks pass {
     from: 0.0.0.0/0 to: 0.0.0.0/0
 }
-
-
 ```
 
 Find the `[ProxyList]` section and add the following line in `/etc/proxychains.conf`:
