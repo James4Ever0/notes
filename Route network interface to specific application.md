@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T06:34:32.425Z'
+modified: '2024-06-03T06:34:46.238Z'
 ---
 
 # Route network interface to specific application
@@ -24,7 +24,7 @@ Use `dante` and `proxychains-ng`
 sudo apt install dante-server
 ```
 
-Now edit the dante config file:
+Now edit the `dante` config file:
 
 ```
 
