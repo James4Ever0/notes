@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T07:51:28.526Z'
+modified: '2024-06-03T08:00:25.672Z'
 ---
 
 # Route network interface to specific application
@@ -68,7 +68,7 @@ You can test your configuration like:
 curl -x socks5://root:root@127.0.0.1:1080 https://www.baidu.com
 ```
 
-If you run `danted` like `systemctl start danted`, you can configure a separate user for authentication.
+If you run `danted` like `systemctl start danted`, you can configure a separate user for authentication. You have to change `/etc/danted.conf` and `/etc/proxychains.conf` accordingly.
 
 ```bash
 sudo useradd -r -s /bin/false your_dante_user
