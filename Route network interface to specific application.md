@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T06:36:00.960Z'
+modified: '2024-06-03T06:38:43.087Z'
 ---
 
 # Route network interface to specific application
@@ -31,8 +31,14 @@ internal: eth0 port = 1080
 external: wlan0
 ```
 
+Find the `[ProxyList]` section and add the following line in `/etc/proxychains.conf`:
+
+```
+socks5 127.0.0.1 1080
+```
+
 Run the program with proxychains-ng:
 
 ```bash
-
+proxychain <program cmd>
 ```
