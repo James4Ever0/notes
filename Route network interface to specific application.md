@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T07:27:34.546Z'
+modified: '2024-06-03T07:28:54.677Z'
 ---
 
 # Route network interface to specific application
@@ -29,6 +29,20 @@ Now edit the `dante` config file at `/etc/dante.conf`:
 ```
 internal: eth0 port = 1080
 external: wlan0
+socksmethod: username
+
+user.privileged: proxy
+user.unprivileged: nobody
+user.libwrap: nobody
+
+client pass {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+}
+
+socks pass {
+    from: 0.0.0.0/0 to: 0.0.0.0/0
+}
+
 
 ```
 
