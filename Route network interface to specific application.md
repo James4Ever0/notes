@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T07:43:35.208Z'
+modified: '2024-06-03T07:51:04.523Z'
 ---
 
 # Route network interface to specific application
@@ -44,6 +44,12 @@ socks pass {
 }
 ```
 
+Run the daemon by:
+
+```bash
+danted
+```
+
 Find the `[ProxyList]` section and add the following line in `/etc/proxychains.conf`:
 
 ```
@@ -54,4 +60,17 @@ Run the program with proxychains-ng:
 
 ```bash
 proxychains <program cmd>
+```
+
+You can test your configuration like:
+
+```bash
+
+```
+
+If you run `danted` like `systemctl start danted`, you can configure a separate user for authentication.
+
+```bash
+sudo useradd -r -s /bin/false your_dante_user
+sudo passwd your_dante_user
 ```
