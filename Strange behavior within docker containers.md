@@ -1,12 +1,16 @@
 ---
 title: Strange behavior within docker containers
 created: '2024-05-29T02:44:43.717Z'
-modified: '2024-06-03T01:52:48.568Z'
+modified: '2024-06-03T02:01:53.878Z'
 ---
 
 # Strange behavior within docker containers
 
 The default directory after starting parrotsec container is the filesystem root directory, which cannot run `msfconsole`. Change to home directory using `cd` and run metasploit afterwards.
+
+```bash
+docker run --rm -it -w /root parrotsec/security
+```
 
 ---
 
