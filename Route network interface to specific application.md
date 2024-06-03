@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T06:46:49.514Z'
+modified: '2024-06-03T07:27:34.546Z'
 ---
 
 # Route network interface to specific application
@@ -29,12 +29,13 @@ Now edit the `dante` config file at `/etc/dante.conf`:
 ```
 internal: eth0 port = 1080
 external: wlan0
+
 ```
 
 Find the `[ProxyList]` section and add the following line in `/etc/proxychains.conf`:
 
 ```
-socks5 127.0.0.1 1080
+socks5 127.0.0.1 1080 proxy proxy_password
 ```
 
 Run the program with proxychains-ng:
