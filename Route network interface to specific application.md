@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T07:29:45.623Z'
+modified: '2024-06-03T07:30:11.362Z'
 ---
 
 # Route network interface to specific application
@@ -27,7 +27,8 @@ sudo apt install dante-server proxychains-ng
 Create a user for proxy login:
 
 ```bash
-sudo useradd 
+sudo useradd -r -s /usr/bin/false proxy
+sudo passwd proxy # set it as proxy_password
 ```
 
 Now edit the `dante` config file at `/etc/dante.conf`:
