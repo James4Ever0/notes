@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T07:51:04.523Z'
+modified: '2024-06-03T07:51:28.526Z'
 ---
 
 # Route network interface to specific application
@@ -65,7 +65,7 @@ proxychains <program cmd>
 You can test your configuration like:
 
 ```bash
-
+curl -x socks5://root:root@127.0.0.1:1080 https://www.baidu.com
 ```
 
 If you run `danted` like `systemctl start danted`, you can configure a separate user for authentication.
