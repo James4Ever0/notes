@@ -1,13 +1,18 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-06-03T02:35:35.116Z'
+modified: '2024-06-03T02:35:54.600Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
 
 gpt-4o is gaining popularity in computer control.
 
+---
+
+terminal controlling agent:
+
+https://github.com/greshake/Alice
 
 ---
 
