@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T06:39:24.822Z'
+modified: '2024-06-03T06:46:49.514Z'
 ---
 
 # Route network interface to specific application
@@ -40,5 +40,5 @@ socks5 127.0.0.1 1080
 Run the program with proxychains-ng:
 
 ```bash
-proxychain <program cmd>
+proxychains <program cmd>
 ```
