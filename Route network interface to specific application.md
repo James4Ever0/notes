@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
 created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T06:38:43.087Z'
+modified: '2024-06-03T06:39:24.822Z'
 ---
 
 # Route network interface to specific application
@@ -21,7 +21,7 @@ sudo firejail --net=wlan0 --ip=dhcp --noprofile <program cmd>
 Use `dante` and `proxychains-ng`
 
 ```bash
-sudo apt install dante-server
+sudo apt install dante-server proxychains-ng
 ```
 
 Now edit the `dante` config file at `/etc/dante.conf`:
