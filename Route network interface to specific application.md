@@ -1,7 +1,7 @@
 ---
 title: Route network interface to specific application
-created: '2024-06-03T06:30:04.514Z'
-modified: '2024-06-03T08:00:25.672Z'
+created: 2024-06-03T06:30:04+00:00
+modified: 2024-06-03T21:25:50+08:00
 ---
 
 # Route network interface to specific application
@@ -36,11 +36,11 @@ user.unprivileged: nobody
 user.libwrap: nobody
 
 client pass {
-    from: 0.0.0.0/0 to: 0.0.0.0/0
+    from: 0/0 to: 0/0
 }
 
 socks pass {
-    from: 0.0.0.0/0 to: 0.0.0.0/0
+    from: 0/0 to: 0/0
 }
 ```
 
