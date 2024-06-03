@@ -1,12 +1,14 @@
 ---
 title: Route network interface to specific application
 created: 2024-06-03T06:30:04+00:00
-modified: 2024-06-03T21:25:50+08:00
+modified: 2024-06-03T21:44:47+08:00
 ---
 
 # Route network interface to specific application
 
-It is not advised to do so with dual wifi connection. Have not tested with ethernet and wifi dual connection.
+It is not advised to do so with dual wifi connection.
+
+Ethernet and wifi dual connection seems fine with `firejail` but failed with `dante`.
 
 ---
 
