@@ -1,10 +1,16 @@
 ---
 title: GPT-4V Open Source Alternative
-created: '2024-05-21T06:15:02.493Z'
-modified: '2024-05-29T09:48:54.150Z'
+created: 2024-05-21T06:15:02+00:00
+modified: 2024-06-04T09:48:47+08:00
 ---
 
 # GPT-4V Open Source Alternative
+
+with llama3-v inside
+
+https://github.com/OpenBMB/MiniCPM-V
+
+---
 
 https://github.com/mbzuai-oryx/Video-LLaVA
 
