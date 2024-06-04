@@ -1,14 +1,14 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-04T08:04:01.578Z'
+modified: '2024-06-04T08:04:10.125Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
 
 gdb assistant
 
-https:///ChatGDB
+https://github.com/pgosar/ChatGDB
 
 ---
 
