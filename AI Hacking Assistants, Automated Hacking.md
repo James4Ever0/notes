@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:35:23.130Z'
+modified: '2024-06-05T03:35:31.696Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -73,6 +73,8 @@ https://github.com/dark-lbp/isf
 https://github.com/beefproject/beef
 
 https://github.com/enaqx/awesome-pentest
+
+https://poc-library.readthedocs.io/en/release/QuickStart.html
 
 ---
 
