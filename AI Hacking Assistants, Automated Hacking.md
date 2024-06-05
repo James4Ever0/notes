@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:11:14.658Z'
+modified: '2024-06-05T03:11:21.892Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -15,6 +15,8 @@ https://github.com/hi-unc1e/POC-T
 https://github.com/ycdxsb/PocOrExp_in_Github
 
 https://github.com/knownsec/pocsuite3
+
+https://github.com/midisec/pocsuite-poc
 
 ---
 
