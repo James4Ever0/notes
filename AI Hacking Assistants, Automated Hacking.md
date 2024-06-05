@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:14:37.697Z'
+modified: '2024-06-05T03:14:42.838Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -29,6 +29,8 @@ https://github.com/wy876/POC
 https://github.com/tr0uble-mAker/POC-bomber
 
 https://github.com/zhzyker/exphub
+
+https://github.com/zhzyker/vulmap
 
 ---
 
