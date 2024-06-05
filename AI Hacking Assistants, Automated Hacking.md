@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:18:40.103Z'
+modified: '2024-06-05T03:18:52.498Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -37,6 +37,8 @@ https://github.com/zhzyker/dismap
 https://github.com/chaitin/xray
 
 https://github.com/We5ter/Scanners-Box
+
+https://github.com/Tuhinshubhra/CMSeeK
 
 https://github.com/EntySec/Ghost
 
