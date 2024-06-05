@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:29:40.207Z'
+modified: '2024-06-05T03:30:10.107Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -59,6 +59,8 @@ https://github.com/ronin-rb/ronin
 https://github.com/PentestinGxRoot/pysploit
 
 https://github.com/torque59/Nosql-Exploitation-Framework
+
+https://github.com/sullo/nikto
 
 ---
 
