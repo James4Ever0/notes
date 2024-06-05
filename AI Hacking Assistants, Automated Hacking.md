@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:20:59.751Z'
+modified: '2024-06-05T03:21:38.057Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -45,6 +45,8 @@ https://github.com/EntySec/Ghost
 https://github.com/n0tr00t/Beebeeto-framework
 
 https://github.com/WooYun/TangScan
+
+https://github.com/BugScanTeam/BugScan-Doc
 
 ---
 
