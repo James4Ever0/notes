@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:22:53.944Z'
+modified: '2024-06-05T03:24:15.478Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -53,6 +53,8 @@ https://github.com/WangYihang/Exploit-Framework
 https://github.com/orleven/Tentacle
 
 https://github.com/claroty/opcua-exploit-framework
+
+https://github.com/ronin-rb/ronin
 
 ---
 
