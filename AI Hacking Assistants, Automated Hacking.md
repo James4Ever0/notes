@@ -1,10 +1,14 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:11:38.431Z'
+modified: '2024-06-05T03:12:00.618Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+```
+site:github.com poc exp.py
+```
 
 https://github.com/Veraxy00/Shiro-EXP
 
