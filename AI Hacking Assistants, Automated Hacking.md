@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:14:57.565Z'
+modified: '2024-06-05T03:15:22.573Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -20,8 +20,6 @@ https://github.com/ycdxsb/PocOrExp_in_Github
 
 https://github.com/knownsec/pocsuite3
 
-https://pypi.org/project/pocsuite3
-
 https://github.com/midisec/pocsuite-poc
 
 https://github.com/Cuerz/PoC-ExP
@@ -35,6 +33,12 @@ https://github.com/zhzyker/exphub
 https://github.com/zhzyker/vulmap
 
 https://github.com/zhzyker/dismap
+
+---
+
+https://pypi.org/project/pocsuite3
+
+https://pypi.org/project/pocx
 
 ---
 
