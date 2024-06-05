@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:35:11.204Z'
+modified: '2024-06-05T03:35:23.130Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -71,6 +71,8 @@ https://github.com/reverse-shell/routersploit
 https://github.com/dark-lbp/isf
 
 https://github.com/beefproject/beef
+
+https://github.com/enaqx/awesome-pentest
 
 ---
 
