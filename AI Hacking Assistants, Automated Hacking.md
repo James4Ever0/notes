@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:34:32.787Z'
+modified: '2024-06-05T03:34:45.973Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -67,6 +67,8 @@ https://github.com/HavocFramework/Havoc
 https://github.com/EmpireProject/EmPyre
 
 https://github.com/reverse-shell/routersploit
+
+https://github.com/dark-lbp/isf
 
 ---
 
