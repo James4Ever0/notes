@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:22:07.609Z'
+modified: '2024-06-05T03:22:48.462Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -49,6 +49,8 @@ https://github.com/WooYun/TangScan
 https://github.com/BugScanTeam/BugScan-Doc
 
 https://github.com/WangYihang/Exploit-Framework
+
+https://github.com/orleven/Tentacle
 
 ---
 
