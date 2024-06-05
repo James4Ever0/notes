@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:19:07.721Z'
+modified: '2024-06-05T03:20:53.870Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -42,10 +42,11 @@ https://github.com/Tuhinshubhra/CMSeeK
 
 https://github.com/EntySec/Ghost
 
+https://github.com/n0tr00t/Beebeeto-framework
+
 ---
 
 https://github.com/topics/exploitation-framework
-
 
 
 ---
