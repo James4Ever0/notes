@@ -1,7 +1,7 @@
 ---
 title: Several ways to have dynamic IP addresses
 created: '2024-06-08T15:09:30.197Z'
-modified: '2024-06-08T15:12:42.684Z'
+modified: '2024-06-08T15:14:06.700Z'
 ---
 
 # Several ways to have dynamic IP addresses
@@ -10,3 +10,7 @@ modified: '2024-06-08T15:12:42.684Z'
 - use router with global proxy functionality
 - use local proxy with socks5 and proxychains
 - use powerful wifi card, wifi signal amplifier and yagi antenna to crack and connect to neighboring wifi
+
+---
+
+having dynamic ip addresses is just part of the story. to leave no trace you have to use a dedicated machine with dedicated network connection, doing nothing relevant with personal info.
