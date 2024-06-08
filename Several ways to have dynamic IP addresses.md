@@ -1,11 +1,12 @@
 ---
 title: Several ways to have dynamic IP addresses
 created: '2024-06-08T15:09:30.197Z'
-modified: '2024-06-08T15:11:01.235Z'
+modified: '2024-06-08T15:12:42.684Z'
 ---
 
 # Several ways to have dynamic IP addresses
 
 - restart main router using scheduled power switches
 - use router with global proxy functionality
-- 
+- use local proxy with socks5 and proxychains
+- use powerful wifi card, wifi signal amplifier and yagi antenna to crack and connect to neighboring wifi
