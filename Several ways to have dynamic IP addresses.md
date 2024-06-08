@@ -1,7 +1,7 @@
 ---
 title: Several ways to have dynamic IP addresses
 created: '2024-06-08T15:09:30.197Z'
-modified: '2024-06-08T15:14:15.120Z'
+modified: '2024-06-08T15:14:32.773Z'
 ---
 
 # Several ways to have dynamic IP addresses
@@ -13,4 +13,4 @@ modified: '2024-06-08T15:14:15.120Z'
 
 ---
 
-having dynamic ip addresses is just part of the story. to leave no trace you have to use a dedicated machine with dedicated network connection, doing nothing relevant to personal info.
+having dynamic ip addresses is just part of the procedure. to leave no trace you have to use a dedicated machine with dedicated network connection, doing nothing relevant to personal info.
