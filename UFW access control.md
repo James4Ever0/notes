@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T16:24:10+08:00
-modified: 2024-06-09T16:28:03+08:00
+modified: 2024-06-09T16:28:43+08:00
 ---
 
 # UFW access control
@@ -14,3 +14,5 @@ sudo ufw restart
 ```
 
 when configuration is done, remember to restart ufw and reconnect existing interfaces.
+
+although remote clients are blocked, self-issued connections are not.
