@@ -1,7 +1,7 @@
 ---
 title: Several ways to have dynamic IP addresses
-created: '2024-06-08T15:09:30.197Z'
-modified: '2024-06-08T15:14:32.773Z'
+created: 2024-06-08T15:09:30+00:00
+modified: 2024-06-09T16:23:47+08:00
 ---
 
 # Several ways to have dynamic IP addresses
@@ -14,3 +14,7 @@ modified: '2024-06-08T15:14:32.773Z'
 ---
 
 having dynamic ip addresses is just part of the procedure. to leave no trace you have to use a dedicated machine with dedicated network connection, doing nothing relevant to personal info.
+
+---
+
+public wifi will have less signal if clients are too many.
