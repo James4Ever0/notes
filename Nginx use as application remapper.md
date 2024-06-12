@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-06-12T02:22:07.463Z'
+modified: '2024-06-12T02:22:24.324Z'
 ---
 
 # Nginx use as application remapper
@@ -68,7 +68,7 @@ server {
 		proxy_http_version 1.1;
 		proxy_set_header Upgrade $http_upgrade;
 		proxy_set_header Connection "upgrade";
-    proxy_set_header Origin "";
+    proxy_set_header Origin ""; // to prevent unwanted 403
   }
 }
 ```
