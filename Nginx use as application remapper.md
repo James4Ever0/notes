@@ -1,10 +1,23 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-06-12T02:22:24.324Z'
+modified: '2024-06-12T02:26:52.218Z'
 ---
 
 # Nginx use as application remapper
+
+Run nginx with debug info:
+
+```nginx
+// within /etc/nginx/nginx.conf
+http {
+    access_log /var/log/nginx/access.log debug;
+    error_log /var/log/nginx/error.log debug;
+}
+
+```
+
+---
 
 Remap a range of ports to suburl:
 
