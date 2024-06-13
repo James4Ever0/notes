@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:50:02.739Z'
+modified: '2024-06-13T06:50:29.471Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -11,6 +11,10 @@ programming ai agent:
 https://useadrenaline.com/
 
 ---
+
+blockchain applicatiion:
+
+https://playdoge.io/en
 
 coin mixer:
 
