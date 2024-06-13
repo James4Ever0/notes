@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:40:48.959Z'
+modified: '2024-06-13T06:43:18.173Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -15,6 +15,14 @@ https://useadrenaline.com/
 coin mixer:
 
 https://usdtmixer.com/index.html
+
+query: `buy things with usdt`
+
+---
+
+new proxy client:
+
+
 
 ---
 
