@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:32:36.115Z'
+modified: '2024-06-13T06:32:57.625Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -12,7 +12,9 @@ https://github.com/SubWeb3Sec/DeFiHackLabs
 
 https://github.com/0xCO2/Web3_Hack_PoC
 
+https://github.com/Anugrahsr/Awesome-web3-Security
 
+https://github.com/ManasHarsh/Awesome-Web3-security
 
 ---
 
