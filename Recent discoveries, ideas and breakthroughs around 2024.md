@@ -1,10 +1,16 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-02-13T10:30:32.268Z'
+modified: '2024-06-13T06:26:53.318Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
+
+web3 security and poc:
+
+https://github.com/SubWeb3Sec/DeFiHackLabs
+
+---
 
 Subscribe publish sources like blog, news, rss feed, recommendation engine to create video generation agents.
 
