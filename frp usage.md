@@ -1,7 +1,7 @@
 ---
 title: frp usage
 created: '2024-06-13T02:06:56.411Z'
-modified: '2024-06-13T03:44:52.052Z'
+modified: '2024-06-13T03:45:05.498Z'
 ---
 
 # frp usage
@@ -22,5 +22,6 @@ auth.token = "freefrp.net"
 name = "ssh_service"
 type = "tcp"
 localIP = "127.0.0.1"
-localPort = 
+localPort = 22
+remotePort = <remote_port>
 ```
