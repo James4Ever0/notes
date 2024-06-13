@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:49:37.216Z'
+modified: '2024-06-13T06:50:02.739Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -29,6 +29,10 @@ trc-20 related:
 https://github.com/topics/trc20
 
 https://tron.network/index
+
+blockchain inspectors:
+
+https://bscscan.com/
 
 https://tronscan.org
 
