@@ -1,10 +1,16 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:32:57.625Z'
+modified: '2024-06-13T06:35:09.038Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
+
+programming ai agent:
+
+https://useadrenaline.com/
+
+---
 
 web3 security and poc:
 
@@ -15,6 +21,8 @@ https://github.com/0xCO2/Web3_Hack_PoC
 https://github.com/Anugrahsr/Awesome-web3-Security
 
 https://github.com/ManasHarsh/Awesome-Web3-security
+
+https://github.com/descartes100/Web3Hack
 
 ---
 
