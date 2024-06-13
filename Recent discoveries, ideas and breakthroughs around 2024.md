@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:45:55.841Z'
+modified: '2024-06-13T06:46:25.101Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -21,6 +21,12 @@ https://github.com/sh0tn1k/simple-usdt-mixer
 payment provider:
 
 https://www.usdtcnpay.com/
+
+trc-20 related:
+
+https://github.com/topics/trc20
+
+https://tron.network/index
 
 trading platform:
 
