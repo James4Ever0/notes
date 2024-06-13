@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:43:22.614Z'
+modified: '2024-06-13T06:43:27.677Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -23,6 +23,8 @@ query: `buy things with usdt`
 new proxy client:
 
 https://github.com/clash-next/clash-meta
+
+https://github.com/MetaCubeX/mihomo
 
 ---
 
