@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:45:30.953Z'
+modified: '2024-06-13T06:45:55.841Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -16,11 +16,15 @@ coin mixer:
 
 https://usdtmixer.com/index.html
 
+https://github.com/sh0tn1k/simple-usdt-mixer
+
 payment provider:
 
 https://www.usdtcnpay.com/
 
+trading platform:
 
+https://www.okx.com/zh-hans
 
 query: `buy things with usdt`
 
