@@ -1,7 +1,7 @@
 ---
 title: 'Recent discoveries, ideas and breakthroughs around 2024'
 created: '2024-02-07T18:15:05.755Z'
-modified: '2024-06-13T06:46:50.326Z'
+modified: '2024-06-13T06:46:58.062Z'
 ---
 
 # Recent discoveries, ideas and breakthroughs around 2024
@@ -36,7 +36,7 @@ https://www.okx.com/zh-hans
 
 query: `buy things with usdt`
 
-
+https://www.coinsbee.com
 
 ---
 
