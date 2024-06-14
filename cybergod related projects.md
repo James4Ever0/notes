@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-14T09:00:04.938Z'
+modified: '2024-06-14T09:02:05.862Z'
 ---
 
 # cybergod related projects
@@ -20,6 +20,8 @@ git clone https://github.com/openai/Video-Pre-Training
 git clone https://github.com/abhiprojectz/SingularGPT
 git clone https://github.com/ddupont808/GPT-4V-Act 
 # preload-view.js:markPage is the html-to-boundingbox tool.
+# the author wants to create a coco dataset
+# specialized in UIED-like functionality
 git clone https://github.com/Charmve/gpt-eyes
 
 git clone https://github.com/OthersideAI/self-operating-computer
