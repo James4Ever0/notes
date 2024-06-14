@@ -1,10 +1,16 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-14T01:34:27.290Z'
+modified: '2024-06-14T07:32:12.223Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+https://pentestbox.org/
+
+
+
+---
 
 query: `google dorks` `site:github.com minecraft dorks` `shodan dorks` `censys dorks`
 
