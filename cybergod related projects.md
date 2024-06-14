@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-14T09:24:57.838Z'
+modified: '2024-06-14T09:25:15.969Z'
 ---
 
 # cybergod related projects
@@ -15,6 +15,8 @@ https://huggingface.co/foduucom/web-form-ui-field-detection
 https://github.com/js0nwu/webui
 
 https://huggingface.co/docs/transformers/model_doc/pix2struct
+
+https://github.com/google-research/pix2struct
 
 ---
 
