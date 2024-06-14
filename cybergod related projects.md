@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-01-10T15:53:56.284Z'
+modified: '2024-06-14T08:59:05.595Z'
 ---
 
 # cybergod related projects
@@ -18,7 +18,8 @@ git clone https://github.com/estill01/open_qstar
 git clone https://github.com/openai/Video-Pre-Training
 
 git clone https://github.com/abhiprojectz/SingularGPT
-git clone https://github.com/ddupont808/GPT-4V-Act
+git clone https://github.com/ddupont808/GPT-4V-Act 
+# preload-view.js:
 git clone https://github.com/Charmve/gpt-eyes
 
 git clone https://github.com/OthersideAI/self-operating-computer
