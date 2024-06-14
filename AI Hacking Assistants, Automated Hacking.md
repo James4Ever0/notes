@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-14T07:32:17.744Z'
+modified: '2024-06-14T07:32:25.445Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -9,6 +9,8 @@ modified: '2024-06-14T07:32:17.744Z'
 https://pentestbox.org/
 
 https://github.com/mahyarx/pentest-tools
+
+https://github.com/arch3rpro/pentesttools
 
 ---
 
