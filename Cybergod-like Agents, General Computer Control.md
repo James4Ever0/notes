@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-06-13T06:13:23.134Z'
+modified: '2024-06-14T08:09:58.523Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -10,6 +10,12 @@ modified: '2024-06-13T06:13:23.134Z'
 GUI detection algorithm:
 
 https://github.com/MulongXie/UIED
+
+---
+
+minified segment anything model:
+
+https://github.com/xinghaochen/TinySAM
 
 ---
 
