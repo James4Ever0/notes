@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-14T09:25:15.969Z'
+modified: '2024-06-14T09:42:29.612Z'
 ---
 
 # cybergod related projects
+
+GUI annotation dataset can be done manually or using multimodal LLM.
+
+---
 
 YOLO GUI element identification:
 
@@ -17,6 +21,8 @@ https://github.com/js0nwu/webui
 https://huggingface.co/docs/transformers/model_doc/pix2struct
 
 https://github.com/google-research/pix2struct
+
+https://github.com/M3SOulu/WinGUICrawler
 
 ---
 
