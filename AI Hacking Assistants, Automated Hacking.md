@@ -1,14 +1,14 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-14T07:32:12.223Z'
+modified: '2024-06-14T07:32:17.744Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
 
 https://pentestbox.org/
 
-
+https://github.com/mahyarx/pentest-tools
 
 ---
 
