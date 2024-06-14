@@ -1,7 +1,7 @@
 ---
 title: useful sources on cyber attack
 created: '2022-12-07T09:57:39.000Z'
-modified: '2024-06-14T07:23:51.325Z'
+modified: '2024-06-14T07:24:24.588Z'
 ---
 
 # useful sources on cyber attack
@@ -11,6 +11,8 @@ modified: '2024-06-14T07:23:51.325Z'
 https://www.hacker101.com
 
 https://www.hackerone.com
+
+https://www.hacker101.com/resources
 
 ## open source virus/malware in your arsenal
 
