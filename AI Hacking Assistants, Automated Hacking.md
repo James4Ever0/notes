@@ -1,10 +1,18 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-05T03:35:31.696Z'
+modified: '2024-06-14T01:34:27.290Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+query: `google dorks` `site:github.com minecraft dorks` `shodan dorks` `censys dorks`
+
+https://github.com/CorrieOnly/google-dorks
+
+https://github.com/Ishanoshada/GDorks
+
+---
 
 ```
 site:github.com poc exp.py
