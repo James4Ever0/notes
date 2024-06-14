@@ -1,11 +1,14 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-06-14T08:09:58.523Z'
+modified: '2024-06-14T08:53:59.895Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
 
+you can label the gui manually, write comments to each ui element and write exact operate steps about the exact execution steps.
+
+---
 
 GUI detection algorithm:
 
