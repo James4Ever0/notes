@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-14T09:52:25.855Z'
+modified: '2024-06-14T09:53:23.668Z'
 ---
 
 # cybergod related projects
@@ -29,6 +29,8 @@ https://huggingface.co/datasets/yiye2023/GUIEnv
 https://huggingface.co/datasets/yiye2023/GUIAct
 
 https://huggingface.co/SiyuanH/GUIAgent
+
+https://huggingface.co/datasets/SiyuanH/GUIAgent
 
 ---
 
