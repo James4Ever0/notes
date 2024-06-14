@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-14T09:42:37.663Z'
+modified: '2024-06-14T09:52:04.695Z'
 ---
 
 # cybergod related projects
@@ -23,6 +23,8 @@ https://huggingface.co/docs/transformers/model_doc/pix2struct
 https://github.com/google-research/pix2struct
 
 https://github.com/M3SOulu/WinGUICrawler
+
+https://huggingface.co/datasets/yiye2023/GUIEnv
 
 ---
 
