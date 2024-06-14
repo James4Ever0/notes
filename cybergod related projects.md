@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-14T09:23:07.236Z'
+modified: '2024-06-14T09:24:30.174Z'
 ---
 
 # cybergod related projects
@@ -12,7 +12,7 @@ https://github.com/rahulkundelwalll/YOLOv8-Web-Element-Recognition-Model
 
 https://huggingface.co/foduucom/web-form-ui-field-detection
 
-https://huggingface.co/papers/2301.13280
+https://github.com/js0nwu/webui
 
 ---
 
