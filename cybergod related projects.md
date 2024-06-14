@@ -1,10 +1,16 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-14T09:02:05.862Z'
+modified: '2024-06-14T09:06:19.673Z'
 ---
 
 # cybergod related projects
+
+YOLO GUI element identification:
+
+https://github.com/rahulkundelwalll/YOLOv8-Web-Element-Recognition-Model
+
+---
 
 Not every repo has official documentation.
 
