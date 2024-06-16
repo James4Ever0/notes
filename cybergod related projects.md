@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-16T09:56:18.474Z'
+modified: '2024-06-16T09:56:25.437Z'
 ---
 
 # cybergod related projects
@@ -10,6 +10,8 @@ modified: '2024-06-16T09:56:18.474Z'
 GUI Automation agent and dataset:
 
 https://github.com/TransformerOptimus/AutoNode
+
+https://superagi.com/
 
 ---
 
