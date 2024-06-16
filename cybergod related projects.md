@@ -1,10 +1,17 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-16T09:38:28.876Z'
+modified: '2024-06-16T09:56:18.474Z'
 ---
 
 # cybergod related projects
+
+
+GUI Automation agent and dataset:
+
+https://github.com/TransformerOptimus/AutoNode
+
+---
 
 AI pipeline orchestration:
 
