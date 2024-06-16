@@ -1,12 +1,14 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-16T09:38:10.036Z'
+modified: '2024-06-16T09:38:28.876Z'
 ---
 
 # cybergod related projects
 
+AI pipeline orchestration:
 
+https://github.com/instill-ai/instill-core
 
 ---
 
