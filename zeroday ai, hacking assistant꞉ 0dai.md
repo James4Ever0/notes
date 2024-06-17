@@ -1,11 +1,19 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'zeroday ai, hacking assistant: 0dai'
-created: '2022-07-11T15:43:20.000Z'
-modified: '2024-02-03T17:26:52.573Z'
+created: 2022-07-11T15:43:20+00:00
+modified: 2024-06-17T08:17:57+08:00
 ---
 
 zeroday ai, hacking assistant: [0dai](https://0dai.omegaai.io/en)
+
+---
+
+免杀 av evasion
+
+https://www.shellterproject.com/
+
+---
 
 别动不动就想日站 收集信息 熟悉工具 做好能做到的 把一路学到的经验总结下来
 
