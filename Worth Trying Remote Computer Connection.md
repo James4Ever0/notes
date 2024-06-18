@@ -2,10 +2,18 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: '2022-03-04T15:13:13.000Z'
-modified: '2024-06-18T09:20:08.667Z'
+modified: '2024-06-18T09:27:03.491Z'
 ---
 
 # Worth Trying Remote Computer Connection
+
+to persist ssh connection:
+
+```bash
+ssh -o ControlMaster=auto -o ControlPersist=yes -o BatchMode=yes user@hostname
+```
+
+---
 
 ssh port forwarding:
 
