@@ -2,10 +2,20 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: '2022-03-04T15:13:13.000Z'
-modified: '2022-08-18T16:35:46.757Z'
+modified: '2024-06-18T09:12:23.281Z'
 ---
 
 # Worth Trying Remote Computer Connection
+
+ssh port forwarding:
+
+```bash
+ssh -v -N -L <local_addr>:<remote_addr> -R <remote_addr>:<local_addr> <user>@<remote_host>
+```
+
+`-L` opens a local port at local address and forward to remote address. `-R` opens a remote port at remote address and forward to local address. `-N` disable the tty connection. `-v` shows the debug info.
+
+---
 
 NoMachine NX
 FreeNX
