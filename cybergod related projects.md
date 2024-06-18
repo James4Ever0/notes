@@ -1,13 +1,15 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-16T09:56:52.462Z'
+modified: '2024-06-18T02:01:17.297Z'
 ---
 
 # cybergod related projects
 
 
 GUI Automation agent and dataset:
+
+https://github.com/OpenGVLab/GUI-Odyssey (cross-app tasks)
 
 https://github.com/TransformerOptimus/AutoNode
 
