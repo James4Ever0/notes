@@ -2,7 +2,7 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: '2022-03-04T15:13:13.000Z'
-modified: '2024-06-18T09:18:43.080Z'
+modified: '2024-06-18T09:20:08.667Z'
 ---
 
 # Worth Trying Remote Computer Connection
@@ -10,7 +10,8 @@ modified: '2024-06-18T09:18:43.080Z'
 ssh port forwarding:
 
 ```bash
-ssh -v -N -L <local_addr>:<remote_addr> -R <remote_addr>:<local_addr> <user>@<remote_host>
+# requires sudo
+sudo ssh -v -N -L <local_addr>:<remote_addr> -R <remote_addr>:<local_addr> <user>@<remote_host>
 ```
 
 remote or local address must at least have port number specified, optionally with host address like: `[host]:<port>`
@@ -21,7 +22,7 @@ remote or local address must at least have port number specified, optionally wit
 
 enable pubkey authentication for nomachine:
 
-first copy your pubkey file to remote host at `~/.nx/config/authorized.crt`, one pubkey per line.
+first generate the key with `ssh-keygen`, copy your pubkey content at `.ssh/id_rsa` (local host) to remote host at `~/.nx/config/authorized.crt`, one pubkey per line.
 
 next change the setting `AcceptedAuthenticationMethods` as `NX-private-key` in file `/usr/NX/etc/server.cfg` at remote host.
 
