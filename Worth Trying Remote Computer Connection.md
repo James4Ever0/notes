@@ -2,7 +2,7 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: '2022-03-04T15:13:13.000Z'
-modified: '2024-06-18T09:13:23.789Z'
+modified: '2024-06-18T09:18:04.381Z'
 ---
 
 # Worth Trying Remote Computer Connection
@@ -16,6 +16,16 @@ ssh -v -N -L <local_addr>:<remote_addr> -R <remote_addr>:<local_addr> <user>@<re
 remote or local address must at least have port number specified, optionally with host address like: `[host]:<port>`
 
 `-L` opens a local port at local address and forward to remote address. `-R` opens a remote port at remote address and forward to local address. `-N` disable the tty connection. `-v` shows the debug info.
+
+---
+
+enable pubkey authentication for nomachine:
+
+first copy your pubkey file to remote host at `~/.nx/config/authorized.crt`, one pubkey per line.
+
+next change the setting `AcceptedAuthenticationMethods` as `NX-private-key` in file `/use/NX/etc/server.cfg` at remote host.
+
+no need to restart the service. change your connection method to key based authentication and select the private key file path.
 
 ---
 
