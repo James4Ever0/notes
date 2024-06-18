@@ -1,10 +1,14 @@
 ---
 title: 'object tracking, video'
 created: '2022-09-17T06:41:49.010Z'
-modified: '2024-06-14T09:08:39.191Z'
+modified: '2024-06-18T03:35:56.213Z'
 ---
 
 # object tracking, video
+
+video QA: https://github.com/OpenGVLab/InternVideo
+
+---
 
 https://github.com/jingvsai/YOLOv8-GUI with bytetrack, deepsort
 
