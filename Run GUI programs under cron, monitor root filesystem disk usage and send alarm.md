@@ -1,7 +1,7 @@
 ---
 title: 'Run GUI programs under cron, monitor root filesystem disk usage and send alarm'
 created: '2024-06-19T06:26:15.190Z'
-modified: '2024-06-19T06:30:29.882Z'
+modified: '2024-06-19T06:30:43.148Z'
 ---
 
 # Run GUI programs under cron, monitor root filesystem disk usage and send alarm
@@ -16,7 +16,7 @@ to run `notify-send` you have to set `DBUS_SESSION_BUS_ADDRESS`
 
 ---
 
-to run other gui programs you set `` and ``
+to run other gui programs you set `DISPLAY` and `XAUTHORITY`
 
 ---
 
