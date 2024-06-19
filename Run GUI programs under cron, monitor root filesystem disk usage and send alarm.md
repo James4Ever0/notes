@@ -1,7 +1,7 @@
 ---
 title: 'Run GUI programs under cron, monitor root filesystem disk usage and send alarm'
 created: '2024-06-19T06:26:15.190Z'
-modified: '2024-06-19T06:46:29.710Z'
+modified: '2024-06-19T06:50:07.294Z'
 ---
 
 # Run GUI programs under cron, monitor root filesystem disk usage and send alarm
@@ -29,13 +29,12 @@ script for monitoring disk usage:
 ```bash
 #!/bin/bash
 
-# Get the numerical root filesystem available percentage using df and awk
-percentage=$(df / | awk 'NR==2 {sub(/%/, "", $5); print $5}')
+used_percentage=$(df / | awk 'NR==2 {sub(/%/, "", $5); print $5}')
 
 alarm_message="Root filesystem has less than 10% free space."
 
-# Compare the percentage with the number 10
-if [ "$percentage" -gt 10 ]; then
+# Compare the percentage with the number 90
+if [ "$used_percentage" -gt 90 ]; then
     echo "Disk is ok."
 else
 	  wall $alarm_message
