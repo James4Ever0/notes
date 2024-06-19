@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-18T02:01:17.297Z'
+modified: '2024-06-19T07:02:18.227Z'
 ---
 
 # cybergod related projects
@@ -24,6 +24,8 @@ https://huggingface.co/SuperAGI/SAM
 AI pipeline orchestration:
 
 https://github.com/instill-ai/instill-core
+
+https://github.com/ComposioHQ/composio/ (with GUI agent)
 
 ---
 
