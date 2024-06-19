@@ -1,7 +1,7 @@
 ---
 title: 'Run GUI programs under cron, monitor root filesystem disk usage and send alarm'
 created: '2024-06-19T06:26:15.190Z'
-modified: '2024-06-19T06:50:07.294Z'
+modified: '2024-06-19T06:50:36.856Z'
 ---
 
 # Run GUI programs under cron, monitor root filesystem disk usage and send alarm
@@ -37,7 +37,7 @@ alarm_message="Root filesystem has less than 10% free space."
 if [ "$used_percentage" -gt 90 ]; then
     echo "Disk is ok."
 else
-	  wall $alarm_message
+    wall $alarm_message
     notify_send $alarm_message
 fi
 ```
