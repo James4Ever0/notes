@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-21T07:43:43.241Z'
+modified: '2024-06-21T07:43:57.611Z'
 ---
 
 # cybergod related projects
@@ -45,8 +45,6 @@ modified: '2024-06-21T07:43:43.241Z'
 [richardyc/Chrome-GPT: An AutoGPT agent that controls Chrome on your desktop](https://github.com/richardyc/Chrome-GPT)
 
 [Mass Copy URLs − copy all URLs on all tabs](https://chromewebstore.google.com/detail/mass-copy-urls-%E2%88%92-copy-all/gfclnkijfmhhhjnpmdlicdfoibjnppih)
-
-[)
 
 ---
 
