@@ -1,12 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-21T03:41:30.748Z'
+modified: '2024-06-21T03:41:39.317Z'
 ---
 
 # cybergod related projects
 
-openeqa: embodied agent question answering
+openeqa: embodied agent question answering benchmark
 
 https://github.com/facebookresearch/open-eqa
 
