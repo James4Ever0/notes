@@ -1,10 +1,54 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-21T03:41:39.317Z'
+modified: '2024-06-21T07:43:43.241Z'
 ---
 
 # cybergod related projects
+
+[James4Ever0/agi_computer_control: Autonomous computer program that can do anything without human operators.](https://github.com/James4Ever0/agi_computer_control)
+
+[niuzaisheng/ScreenAgent: ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model](https://github.com/niuzaisheng/ScreenAgent)
+
+[tmgthb/Autonomous-Agents: Autonomous Agents (LLMs) research papers. Updated Daily.](https://github.com/tmgthb/Autonomous-Agents)
+
+[ltzheng/Synapse: [ICLR 2024] Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://github.com/ltzheng/Synapse)
+
+[SkyworkAI/agent-studio: Benchmarks, environments, and toolkits for general computer agents](https://github.com/SkyworkAI/agent-studio)
+
+[OS-Copilot/OS-Copilot: An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.](https://github.com/OS-Copilot/OS-Copilot)
+
+[landing-ai/vision-agent: Vision agent](https://github.com/landing-ai/vision-agent)
+
+[smartcomputer-ai/agent-os: Build autonomous AI agents! 🌞](https://github.com/smartcomputer-ai/agent-os)
+
+[idosal/AgentLLM: AgentLLM is a PoC for browser-native autonomous agents](https://github.com/idosal/AgentLLM)
+
+[posgnu/rci-agent: A codebase for "Language Models can Solve Computer Tasks"](https://github.com/posgnu/rci-agent)
+
+[khulnasoft/gpt-computer-agent: GPT4 for windows, macos and ubuntu](https://github.com/khulnasoft/gpt-computer-agent)
+
+[TheDuckAI/DuckTrack: Multimodal computer agent data collection program](https://github.com/TheDuckAI/DuckTrack)
+
+[X-PLUG/MobileAgent: Mobile-Agent: The Powerful Mobile Device Operation Assistant Family](https://github.com/X-PLUG/MobileAgent)
+
+[mnotgod96/AppAgent: AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.](https://github.com/mnotgod96/AppAgent)
+
+[stableagents/stableagents: Stable, Semi-Autonomous, Reliable and Steerable LLM Agents for production use cases.](https://github.com/stableagents/stableagents)
+
+[OSU-NLP-Group/Mind2Web: [NeurIPS'23 Spotlight] "Mind2Web: Towards a Generalist Agent for the Web"](https://github.com/OSU-NLP-Group/Mind2Web)
+
+[microsoft/autogen: A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap](https://github.com/microsoft/autogen)
+
+[geekan/MetaGPT: 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming](https://github.com/geekan/MetaGPT)
+
+[richardyc/Chrome-GPT: An AutoGPT agent that controls Chrome on your desktop](https://github.com/richardyc/Chrome-GPT)
+
+[Mass Copy URLs − copy all URLs on all tabs](https://chromewebstore.google.com/detail/mass-copy-urls-%E2%88%92-copy-all/gfclnkijfmhhhjnpmdlicdfoibjnppih)
+
+[)
+
+---
 
 openeqa: embodied agent question answering benchmark
 
