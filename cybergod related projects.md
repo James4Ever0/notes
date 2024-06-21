@@ -1,11 +1,16 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-19T07:02:18.227Z'
+modified: '2024-06-21T03:41:30.748Z'
 ---
 
 # cybergod related projects
 
+openeqa: embodied agent question answering
+
+https://github.com/facebookresearch/open-eqa
+
+---
 
 GUI Automation agent and dataset:
 
