@@ -1,12 +1,16 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2024-06-22T12:23:04+08:00
+modified: 2024-06-22T12:23:40+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
 
+autocoder with pretrained models, has access to terminal:
 
+https://github.com/bin123apple/AutoCoder
+
+---
 
 you can label the gui manually, write comments to each ui element and write exact operate steps about the exact execution steps.
 
