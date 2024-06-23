@@ -1,7 +1,7 @@
 ---
-title: 'Run GUI programs under cron, monitor root filesystem disk usage and send alarm'
-created: '2024-06-19T06:26:15.190Z'
-modified: '2024-06-20T05:56:03.168Z'
+title: Run GUI programs under cron, monitor root filesystem disk usage and send alarm
+created: 2024-06-19T06:26:15+00:00
+modified: 2024-06-24T01:25:07+08:00
 ---
 
 # Run GUI programs under cron, monitor root filesystem disk usage and send alarm
@@ -22,6 +22,8 @@ to run other gui programs you set `DISPLAY` and `XAUTHORITY`
 
 `wall` works for `tmux` and ssh sessions but not `gnome-terminal`. 
 
+in kde everything works fine. install konsole instead.
+
 ---
 
 script for monitoring disk usage:
@@ -41,4 +43,3 @@ else
     notify-send $alarm_message
 fi
 ```
-
