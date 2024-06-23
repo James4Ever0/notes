@@ -1,6 +1,6 @@
 ---
 created: 2024-06-23T11:11:02+08:00
-modified: 2024-06-23T12:01:05+08:00
+modified: 2024-06-23T12:01:36+08:00
 ---
 
 # intrisic sshd configuration errors
@@ -24,4 +24,4 @@ GatewayPorts clientspecified
 
 ---
 
-n2n can be in handy if you do not have too many ports on internet and still want to access all ports in between your local machines.
+`n2n` can be in handy if you do not have too many ports on internet and still want to access all ports in between your local machines.
