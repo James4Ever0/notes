@@ -1,6 +1,6 @@
 ---
 created: 2024-06-23T11:11:02+08:00
-modified: 2024-06-23T11:59:02+08:00
+modified: 2024-06-23T11:59:41+08:00
 ---
 
 # intrisic sshd configuration errors
@@ -15,7 +15,7 @@ You need to change both `/etc/ssh/sshd_config` and this file to disable password
 
 ---
 
-`-R` will not allow you to open `0.0.0.0` port on remote machine unless you configure somethong like below. if not, use `socat` to finally deliver the forwarded remote local port to remote public port.
+`-R` will not allow you to open `0.0.0.0` port on remote machine unless you configure something in `/etc/ssh/sshd_config` like below. if not, use `socat` to finally deliver the forwarded remote local port to remote public port.
 
 ```config
 AllowTcpForwarding yes
