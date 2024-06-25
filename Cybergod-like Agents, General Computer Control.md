@@ -1,10 +1,16 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-06-25T09:02:03.723Z'
+modified: '2024-06-25T09:03:16.456Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+computer agents:
+
+https://github.com/slavakurilyak/awesome-ai-agents
+
+---
 
 [gui agent model](https://hf-mirror.com/shuaishuaicdp/GUI-Vid) trained on [gui-world](https://github.com/Dongping-Chen/GUI-World)
 
