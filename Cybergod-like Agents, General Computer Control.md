@@ -1,7 +1,7 @@
 ---
-title: Cybergod-like Agents, General Computer Control
-created: 2024-03-14T08:53:22+00:00
-modified: 2024-06-22T12:23:40+08:00
+title: 'Cybergod-like Agents, General Computer Control'
+created: '2024-03-14T08:53:22.000Z'
+modified: '2024-06-25T08:54:59.858Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -81,6 +81,8 @@ Devin open source alternative:
 https://github.com/entropy-research/Devon
 
 https://github.com/stitionai/devika
+
+https://github.com/semanser/codel
 
 ---
 
