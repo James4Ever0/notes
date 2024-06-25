@@ -1,7 +1,7 @@
 ---
 title: intrisic sshd configuration errors
 created: '2024-06-23T03:11:02.000Z'
-modified: '2024-06-25T13:55:36.616Z'
+modified: '2024-06-25T13:56:18.404Z'
 ---
 
 # intrisic sshd configuration errors
@@ -24,7 +24,7 @@ in linux and macos it is at `/etc/hosts`
 
 in windows, `C:\Windows\System32\drivers\etc\hosts`
 
-you need to configure the host file on the proxy machine if you want to avoid name clashes with proxies.
+you need to configure the host file on the proxy machine if you want to avoid name clashes with proxies. these host names can be less informative to hide the intent.
 
 ---
 
