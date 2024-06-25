@@ -1,14 +1,20 @@
 ---
 title: intrisic sshd configuration errors
 created: '2024-06-23T03:11:02.000Z'
-modified: '2024-06-25T13:27:38.316Z'
+modified: '2024-06-25T13:28:04.379Z'
 ---
 
 # intrisic sshd configuration errors
 
 [`chisel`]() can be used for port forwarding by http in favour of `wstunnel`, able to survive `nginx`.
 
+```bash
+# server
+chisel server -p
 
+# client
+
+```
 
 ---
 
