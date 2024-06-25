@@ -1,7 +1,7 @@
 ---
 title: intrisic sshd configuration errors
 created: '2024-06-23T03:11:02.000Z'
-modified: '2024-06-25T13:26:39.476Z'
+modified: '2024-06-25T13:27:19.654Z'
 ---
 
 # intrisic sshd configuration errors
@@ -14,7 +14,7 @@ if you want to have multiple host sharing same ip because of proxy forwarding or
 
 in linux and macos it is at `/etc/hosts`
 
-in windows, ``
+in windows, `C:\Windows\System32\drivers\etc\hosts`
 
 ---
 
