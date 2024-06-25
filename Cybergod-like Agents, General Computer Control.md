@@ -1,12 +1,12 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-06-25T08:59:58.626Z'
+modified: '2024-06-25T09:00:04.125Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
 
-[gui agent datasets](https://hf-mirror.com/search/full-text?q=gui+agent&type=dataset&type=space) on huggingface
+[gui agent datasets](https://hf-mirror.com/search/full-text?q=gui+agent&type=dataset) on huggingface
 
 autocoder with pretrained models, has access to terminal:
 
