@@ -1,12 +1,12 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-06-25T09:01:52.405Z'
+modified: '2024-06-25T09:02:03.723Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
 
-[gui agent model](https://hf-mirror.com/shuaishuaicdp/GUI-Vid) trained on gui-world
+[gui agent model](https://hf-mirror.com/shuaishuaicdp/GUI-Vid) trained on [gui-world](https://github.com/Dongping-Chen/GUI-World)
 
 [gui agent datasets](https://hf-mirror.com/search/full-text?q=gui+agent&type=dataset) on huggingface
 
