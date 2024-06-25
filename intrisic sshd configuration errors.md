@@ -1,9 +1,22 @@
 ---
-created: 2024-06-23T11:11:02+08:00
-modified: 2024-06-24T01:01:29+08:00
+title: intrisic sshd configuration errors
+created: '2024-06-23T03:11:02.000Z'
+modified: '2024-06-25T13:26:39.476Z'
 ---
 
 # intrisic sshd configuration errors
+
+`chisel` can be used for port forwarding by http in favour of `wstunnel`, able to survive `nginx`.
+
+---
+
+if you want to have multiple host sharing same ip because of proxy forwarding or different network locations, then you need to change the system host mapping file.
+
+in linux and macos it is at `/etc/hosts`
+
+in windows, ``
+
+---
 
 on latest ubuntu 24.04 the sshd config includes files under `/etc/ssh/sshd_config.d` which has a file named `50-cloud-init.conf` has the line overriding any other setting afterwords.
 
