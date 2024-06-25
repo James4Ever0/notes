@@ -1,7 +1,7 @@
 ---
 title: intrisic sshd configuration errors
 created: '2024-06-23T03:11:02.000Z'
-modified: '2024-06-25T13:30:11.308Z'
+modified: '2024-06-25T13:30:43.878Z'
 ---
 
 # intrisic sshd configuration errors
@@ -13,7 +13,7 @@ modified: '2024-06-25T13:30:11.308Z'
 chisel server -p <port> --auth <user>:<pass> --reverse
 
 # client
-chisel client 
+chisel client --auth <user>:<pass> 
 ```
 
 ---
