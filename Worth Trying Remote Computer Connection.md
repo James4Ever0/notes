@@ -1,11 +1,15 @@
 ---
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
-created: '2022-03-04T15:13:13.000Z'
-modified: '2024-06-18T09:27:03.491Z'
+created: 2022-03-04T15:13:13+00:00
+modified: 2024-06-25T18:28:27+08:00
 ---
 
 # Worth Trying Remote Computer Connection
+
+for hardware kvm over ip, there is pikvm swite for turning rpi3b+ into ipkvm and armkvm series that are dedicated low cost ipkvm hardwares.
+
+---
 
 to persist ssh connection:
 
