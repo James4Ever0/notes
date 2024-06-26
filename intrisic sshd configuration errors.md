@@ -1,7 +1,7 @@
 ---
 title: intrisic sshd configuration errors
 created: '2024-06-23T03:11:02.000Z'
-modified: '2024-06-26T08:49:44.268Z'
+modified: '2024-06-26T09:33:12.463Z'
 ---
 
 # intrisic sshd configuration errors
@@ -45,7 +45,7 @@ you need to change both `/etc/ssh/sshd_config` and this file to disable password
 `-R` will not allow you to open `0.0.0.0` port on remote machine unless you configure something in `/etc/ssh/sshd_config` like below. if not, use `socat` to finally deliver the forwarded remote local port to remote public port.
 
 ```bash
-socat TCP-LISTEN
+socat TCP-LISTEN:<lport>,reuseaddr,fork TCP:<rhost>:<rport>
 ```
 
 ```config
