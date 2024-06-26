@@ -1,12 +1,12 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-26T06:31:40.906Z'
+modified: '2024-06-26T06:31:47.083Z'
 ---
 
 # docker usage issues
 
-docker mirror:
+latest docker mirror:
 
 https://zhuanlan.zhihu.com/p/704011584
 
