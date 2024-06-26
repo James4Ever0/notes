@@ -1,10 +1,16 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2022-12-11T22:47:54.561Z'
+modified: '2024-06-26T06:31:40.906Z'
 ---
 
 # docker usage issues
+
+docker mirror:
+
+https://zhuanlan.zhihu.com/p/704011584
+
+---
 
 login mysql with empty password then execute command to make it remotely available:
 ```bash
