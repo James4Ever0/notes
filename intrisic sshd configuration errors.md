@@ -1,10 +1,14 @@
 ---
 title: intrisic sshd configuration errors
 created: '2024-06-23T03:11:02.000Z'
-modified: '2024-06-25T13:56:18.404Z'
+modified: '2024-06-26T08:42:05.323Z'
 ---
 
 # intrisic sshd configuration errors
+
+if you want to use ssh port forwarding as systemd service, keep in mind that the default user for execution is root, and you need to use the public key of root to login.
+
+---
 
 [`chisel`](https://github.com/jpillora/chisel) can be used for port forwarding by http compared with `wstunnel`, able to survive `nginx` (still need to configure websocket upgrades).
 
