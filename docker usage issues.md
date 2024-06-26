@@ -1,10 +1,17 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-26T06:31:47.083Z'
+modified: '2024-06-26T09:38:50.598Z'
 ---
 
 # docker usage issues
+
+to get host and gateway ip you can use the following domain name:
+
+- host.docker.internal
+- port.docker.internal
+
+---
 
 latest docker mirror:
 
