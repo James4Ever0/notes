@@ -1,7 +1,7 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-26T09:38:50.598Z'
+modified: '2024-06-26T10:00:06.682Z'
 ---
 
 # docker usage issues
@@ -9,7 +9,12 @@ modified: '2024-06-26T09:38:50.598Z'
 to get host and gateway ip you can use the following domain name:
 
 - host.docker.internal
-- port.docker.internal
+- gateway.docker.internal
+
+for podman:
+
+- host.containers.internal
+- gateway.containers.internal
 
 ---
 
