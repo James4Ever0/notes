@@ -1,7 +1,7 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-27T08:18:00.848Z'
+modified: '2024-06-27T08:18:28.682Z'
 ---
 
 # docker usage issues
@@ -28,7 +28,7 @@ docker run -it --network "container:tun2proxy" <image_name>[:tag]
 
 ---
 
-with docker for mac, to get host and gateway ip you can use the following domain name:
+with docker for mac, you can use the following domain name to get host and gateway ip:
 
 - host.docker.internal
 - gateway.docker.internal
