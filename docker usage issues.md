@@ -1,10 +1,18 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-26T10:00:06.682Z'
+modified: '2024-06-27T01:52:20.773Z'
 ---
 
 # docker usage issues
+
+to use host provided proxy servers, one can set environment variables before running containers.
+
+```bash
+docker run -e http_proxy=<proxy_addr> -e https_proxy=<proxy_addr> -e all_proxy=<proxy_addr> -e no_proxy=<bypass_addrs>
+```
+
+---
 
 to get host and gateway ip you can use the following domain name:
 
