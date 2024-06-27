@@ -1,7 +1,7 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-27T01:52:20.773Z'
+modified: '2024-06-27T01:52:53.912Z'
 ---
 
 # docker usage issues
@@ -10,6 +10,12 @@ to use host provided proxy servers, one can set environment variables before run
 
 ```bash
 docker run -e http_proxy=<proxy_addr> -e https_proxy=<proxy_addr> -e all_proxy=<proxy_addr> -e no_proxy=<bypass_addrs>
+```
+
+or better, use `tun2proxy` (linux only)
+
+```bash
+
 ```
 
 ---
