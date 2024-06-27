@@ -1,12 +1,19 @@
 ---
 title: intrisic sshd configuration errors
 created: '2024-06-23T03:11:02.000Z'
-modified: '2024-06-26T09:33:45.594Z'
+modified: '2024-06-27T01:56:35.887Z'
 ---
 
 # intrisic sshd configuration errors
 
 if you want to use ssh port forwarding as systemd service, keep in mind that the default user for execution is root, and you need to use the public key of root to login.
+
+or you can change the user executing the task in service config:
+
+```systemd
+[System]
+User=xxx
+```
 
 ---
 
