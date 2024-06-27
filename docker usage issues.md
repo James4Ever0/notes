@@ -1,7 +1,7 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-27T02:18:56.261Z'
+modified: '2024-06-27T06:08:58.040Z'
 ---
 
 # docker usage issues
@@ -14,9 +14,15 @@ docker run -e http_proxy=<proxy_addr> -e https_proxy=<proxy_addr> -e all_proxy=<
 
 or better, use [`tun2proxy`](https://github.com/tun2proxy/tun2proxy) (linux only)
 
+run server:
+
 ```bash
 docker run -d -v /dev/net/tun:/dev/net/tun --sysctl net.ipv6.conf.default.disable_ipv6=0 --cap-add NET_ADMIN --name tun2proxy tun2proxy --proxy <proto>://[username[:password]@]host:port
+```
 
+container forced to use proxy:
+
+```bash
 docker run -it --network "container:tun2proxy" <image_name>[:tag]
 ```
 
