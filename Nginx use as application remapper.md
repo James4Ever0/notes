@@ -1,10 +1,25 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-06-12T02:26:52.218Z'
+modified: '2024-06-28T07:59:21.697Z'
 ---
 
 # Nginx use as application remapper
+
+to disable access by ip origin, you can do this:
+
+```nginx
+
+```
+
+you have to install required nginx module and libraries.
+
+```bash
+# for ubuntu:
+sudo apt install -y 
+```
+
+---
 
 Run nginx with debug info:
 
