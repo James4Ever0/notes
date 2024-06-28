@@ -1,10 +1,17 @@
 ---
-title: 'AI Hacking Assistants, Automated Hacking'
-created: '2024-05-07T14:33:59.000Z'
-modified: '2024-06-14T07:32:40.043Z'
+title: AI Hacking Assistants, Automated Hacking
+created: 2024-05-07T14:33:59+00:00
+modified: 2024-06-28T09:09:53+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+web security tutorials
+
+https://portswigger.net/web-security
+
+https://websec.readthedocs.io/zh/latest/
+
 
 pentest tools
 
