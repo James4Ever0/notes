@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T06:47:46.239Z'
+modified: '2024-07-01T06:51:31.049Z'
 ---
 
 # Nginx use as application remapper
@@ -9,12 +9,16 @@ modified: '2024-07-01T06:47:46.239Z'
 to disable access by ip origin, you can do this:
 
 ```bash
-apt install -y libnginx-mod-http-geoip
+apt install -y libnginx-mod-http-geoip libgeoip
 ```
 
 ```nginx
 http {
-  
+  geoip_country /
+}
+
+server {
+
 }
 ```
 
