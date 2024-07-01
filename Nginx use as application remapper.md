@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T06:51:31.049Z'
+modified: '2024-07-01T07:00:06.298Z'
 ---
 
 # Nginx use as application remapper
@@ -14,11 +14,22 @@ apt install -y libnginx-mod-http-geoip libgeoip
 
 ```nginx
 http {
-  geoip_country /
+  
 }
 
 server {
-
+  set $a 0;
+  set $b 0;
+  if ($geoip_country_code != "<YOUR_COUNTRY_CODE>"){
+    set $a 1;
+  }
+  if ($external_ip){
+    set $a 1$a;
+  }
+  if ($a = 11){
+    set $b 1;
+  }
+  if ($b){return 444;}
 }
 ```
 
