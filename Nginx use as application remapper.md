@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T06:42:18.066Z'
+modified: '2024-07-01T06:47:46.239Z'
 ---
 
 # Nginx use as application remapper
@@ -13,7 +13,9 @@ apt install -y libnginx-mod-http-geoip
 ```
 
 ```nginx
-
+http {
+  
+}
 ```
 
 you have to install required nginx module and libraries.
