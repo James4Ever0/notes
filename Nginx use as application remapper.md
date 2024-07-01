@@ -1,10 +1,12 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T08:03:46.144Z'
+modified: '2024-07-01T08:06:51.195Z'
 ---
 
 # Nginx use as application remapper
+
+for more accurate results, use [nginx-geoip2](https://frankindev.com/2021/10/20/nginx-geoip2)
 
 to disable access by ip origin while exclude certain ranges, you can do this:
 
