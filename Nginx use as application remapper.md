@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T07:03:19.417Z'
+modified: '2024-07-01T07:13:54.808Z'
 ---
 
 # Nginx use as application remapper
@@ -15,7 +15,7 @@ apt install -y libnginx-mod-http-geoip libgeoip
 ```nginx
 http {
   geoip_country /usr/share/GeoIP/GeoIP.dat;
-	geoip_proxy 192.168.0.0/16;
+	geoip_proxy <internal_ip_ranges>;
 
 	geo $external_ip {
 		default 1;
@@ -49,11 +49,16 @@ remember to restart nginx service afterwards
 
 ---
 
-you have to install required nginx module and libraries.
+enable http basic auth
 
 ```bash
-# for ubuntu:
-sudo apt install -y 
+sudo htpasswd -c /etc/nginx/passwd <username>
+```
+
+```nginx
+http {
+  
+}
 ```
 
 ---
