@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T07:19:28.870Z'
+modified: '2024-07-01T08:03:46.144Z'
 ---
 
 # Nginx use as application remapper
@@ -67,7 +67,7 @@ server {
 Run nginx with debug info:
 
 ```nginx
-// within /etc/nginx/nginx.conf
+# within /etc/nginx/nginx.conf
 http {
     access_log /var/log/nginx/access.log debug;
     error_log /var/log/nginx/error.log debug;
