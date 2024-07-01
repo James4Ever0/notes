@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T07:13:54.808Z'
+modified: '2024-07-01T07:19:11.357Z'
 ---
 
 # Nginx use as application remapper
@@ -56,8 +56,9 @@ sudo htpasswd -c /etc/nginx/passwd <username>
 ```
 
 ```nginx
-http {
-  
+server {
+  auth_basic "<auth_window_title>"
+  auth
 }
 ```
 
