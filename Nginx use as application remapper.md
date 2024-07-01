@@ -1,7 +1,7 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T08:06:51.195Z'
+modified: '2024-07-01T09:34:19.753Z'
 ---
 
 # Nginx use as application remapper
@@ -32,6 +32,8 @@ http {
 }
 
 server {
+  # boolean operator in nginx
+  # better do this with njs instead
   set $a 0;
   set $b 0;
   if ($geoip_country_code != "<YOUR_COUNTRY_CODE>"){
