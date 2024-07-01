@@ -1,12 +1,12 @@
 ---
 title: Nginx use as application remapper
 created: '2024-03-07T06:07:06.000Z'
-modified: '2024-07-01T07:00:06.298Z'
+modified: '2024-07-01T07:03:19.417Z'
 ---
 
 # Nginx use as application remapper
 
-to disable access by ip origin, you can do this:
+to disable access by ip origin while exclude certain ranges, you can do this:
 
 ```bash
 apt install -y libnginx-mod-http-geoip libgeoip
@@ -14,7 +14,19 @@ apt install -y libnginx-mod-http-geoip libgeoip
 
 ```nginx
 http {
-  
+  geoip_country /usr/share/GeoIP/GeoIP.dat;
+	geoip_proxy 192.168.0.0/16;
+
+	geo $external_ip {
+		default 1;
+    <custom_exclusion_range> 0;
+	}
+
+  log_format geologfmt '$remote_addr - $remote_user <$geoip_country_code> [$time_local] '
+                           '"$request" $status $body_bytes_sent '
+                           '"$http_referer" "$http_user_agent"';
+
+	access_log /var/log/nginx/access.log geologfmt;
 }
 
 server {
@@ -32,6 +44,10 @@ server {
   if ($b){return 444;}
 }
 ```
+
+remember to restart nginx service afterwards
+
+---
 
 you have to install required nginx module and libraries.
 
