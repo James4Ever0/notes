@@ -1,16 +1,18 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-07-02T03:01:37.277Z'
+modified: '2024-07-02T03:03:10.308Z'
 ---
 
 # docker usage issues
 
-with iptable, you can constrain docker container method
+with iptable, you can constrain docker container network
 
 ```bash
-sudo iptable 
+sudo iptables -I DOCKER-USER -d <ip_range> -j DROP
 ```
+
+it does not work if you block all local ip ranges.
 
 ---
 
