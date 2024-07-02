@@ -1,10 +1,18 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-06-27T08:18:28.682Z'
+modified: '2024-07-02T03:01:37.277Z'
 ---
 
 # docker usage issues
+
+with iptable, you can constrain docker container method
+
+```bash
+sudo iptable 
+```
+
+---
 
 to use host provided proxy servers, one can set environment variables before running containers.
 
