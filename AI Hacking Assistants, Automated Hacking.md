@@ -1,7 +1,7 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-07-03T02:33:47.762Z'
+modified: '2024-07-03T02:34:22.823Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -10,7 +10,7 @@ put huge database csv (1GB+ client data, confidential info) into ram filesystem,
 
 ---
 
-use leaked credentials to query search engine, mask these credentials and find common keywords, practices finding unknown credentials.
+use leaked credentials to query search engine, mask these credentials and collect common keywords, practices finding unknown credentials.
 
 ---
 
