@@ -1,10 +1,12 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-06-25T09:03:16.456Z'
+modified: '2024-07-03T07:23:13.044Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+
 
 computer agents:
 
