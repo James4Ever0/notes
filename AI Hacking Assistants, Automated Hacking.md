@@ -1,10 +1,14 @@
 ---
-title: AI Hacking Assistants, Automated Hacking
-created: 2024-05-07T14:33:59+00:00
-modified: 2024-06-28T09:09:53+08:00
+title: 'AI Hacking Assistants, Automated Hacking'
+created: '2024-05-07T14:33:59.000Z'
+modified: '2024-07-03T02:17:46.127Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+
+
+---
 
 web security tutorials
 
