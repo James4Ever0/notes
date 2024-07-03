@@ -1,10 +1,14 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-07-03T02:34:22.823Z'
+modified: '2024-07-03T08:38:14.864Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+https://getodin.com
+
+---
 
 put huge database csv (1GB+ client data, confidential info) into ram filesystem, then search it with rg.
 
