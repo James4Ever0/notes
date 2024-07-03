@@ -1,12 +1,15 @@
 ---
 title: 'AI Hacking Assistants, Automated Hacking'
 created: '2024-05-07T14:33:59.000Z'
-modified: '2024-07-03T08:38:14.864Z'
+modified: '2024-07-03T09:16:00.539Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
 
 https://getodin.com
+
+https://getodin.com/community
+
 
 ---
 
