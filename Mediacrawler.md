@@ -1,10 +1,12 @@
 ---
 title: Mediacrawler
-created: '2024-03-31T15:46:20.952Z'
-modified: '2024-03-31T15:54:04.512Z'
+created: 2024-03-31T15:46:20+00:00
+modified: 2024-07-04T21:29:00+08:00
 ---
 
 # Mediacrawler
+
+easyspider
 
 [Mediacrawler](https://github.com/NanmiCoder/MediaCrawler) utilizes browser side javascript execution to circumvent encryption algorithms and issues valid requests.
 
