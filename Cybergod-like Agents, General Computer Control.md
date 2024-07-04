@@ -1,10 +1,18 @@
 ---
-title: 'Cybergod-like Agents, General Computer Control'
-created: '2024-03-14T08:53:22.000Z'
-modified: '2024-07-03T07:23:38.122Z'
+title: Cybergod-like Agents, General Computer Control
+created: 2024-03-14T08:53:22+00:00
+modified: 2024-07-04T21:28:32+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+aider coding assist devon alternative
+
+kyutai moshi gpt4o alternative
+
+firefunction v2 function calling llm
+
+---
 
 https://github.com/lavague-ai/LaVague
 
