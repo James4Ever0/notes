@@ -1,10 +1,14 @@
 ---
-title: AI assisted content creation, gameplay video recording, trending topics
-created: 2024-03-10T14:08:10+00:00
-modified: 2024-05-03T17:08:58+08:00
+title: 'AI assisted content creation, gameplay video recording, trending topics'
+created: '2024-03-10T14:08:10.000Z'
+modified: '2024-07-05T03:14:21.308Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+[omniparse] data serialization
+
+---
 
 Video understanding and video embedding can be achieved with ViViT (in huggingface).
 
