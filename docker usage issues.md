@@ -1,10 +1,14 @@
 ---
 title: docker usage issues
 created: '2022-12-11T00:21:44.329Z'
-modified: '2024-07-02T03:03:10.308Z'
+modified: '2024-07-05T09:07:47.226Z'
 ---
 
 # docker usage issues
+
+use slim toolkit to shrink docker image size
+
+---
 
 with iptable, you can constrain docker container network
 
