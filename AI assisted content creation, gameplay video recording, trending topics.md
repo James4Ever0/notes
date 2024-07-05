@@ -1,10 +1,12 @@
 ---
 title: 'AI assisted content creation, gameplay video recording, trending topics'
 created: '2024-03-10T14:08:10.000Z'
-modified: '2024-07-05T03:14:30.499Z'
+modified: '2024-07-05T09:09:36.691Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+fishaudio voice cloning
 
 [omniparse](https://github.com/adithya-s-k/omniparse) data serialization
 
