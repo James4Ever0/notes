@@ -1,7 +1,7 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-07-05T03:14:58.229Z'
+modified: '2024-07-05T08:51:24.188Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -11,6 +11,8 @@ modified: '2024-07-05T03:14:58.229Z'
 kyutai [moshi](https://moshi.chat/) gpt4o alternative
 
 [firefunction v2](https://hf-mirror.com/fireworks-ai/llama-3-firefunction-v2) function calling llm
+
+codegeex4-all-9b
 
 ---
 
