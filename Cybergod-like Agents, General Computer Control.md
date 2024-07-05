@@ -1,12 +1,12 @@
 ---
 title: 'Cybergod-like Agents, General Computer Control'
 created: '2024-03-14T08:53:22.000Z'
-modified: '2024-07-05T03:12:39.895Z'
+modified: '2024-07-05T03:13:34.392Z'
 ---
 
 # Cybergod-like Agents, General Computer Control
 
-aider coding assist devon alternative
+[aider](https://aider.chat/) coding assist devon alternative
 
 kyutai [moshi](https://moshi.chat/) gpt4o alternative
 
