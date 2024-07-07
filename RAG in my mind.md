@@ -1,10 +1,20 @@
 ---
 title: RAG in my mind
-created: '2023-12-20T18:36:32.123Z'
-modified: '2023-12-20T18:39:43.260Z'
+created: 2023-12-20T18:36:32+00:00
+modified: 2024-07-07T14:36:37+08:00
 ---
 
 # RAG in my mind
+
+starrag
+
+https://github.com/infiniflow/ragflow
+
+https://github.com/Jenqyang/LLM-Powered-RAG-System
+
+https://github.com/lamini-ai/Lamini-Memory-Tuning
+
+---
 
 llm generate images for content
 llm generate tags & categories for content
