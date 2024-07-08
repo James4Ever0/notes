@@ -2,7 +2,7 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: 2022-03-04T15:13:13+00:00
-modified: 2024-07-08T13:49:14+08:00
+modified: 2024-07-08T14:18:48+08:00
 ---
 
 # Worth Trying Remote Computer Connection
@@ -43,23 +43,33 @@ no need to restart the service. change your connection method to key based authe
 ---
 
 NoMachine NX
+
 FreeNX
+
 Moonlight for NVIDIA Windows
+
 parsec for windows/macos host
+
 ssh-rdp for linux host/client
 
 somehow usable on localhost:
 
 x11vnc -localhost -display :0 -threads -forever
+
 vncviewer -PreferredEncoding=ZRLE localhoat:0
 
 sunshine host for windows/linux
+
 https://github.com/SunshineStream/Sunshine/blob/master/README.md#macos
+
 https://github.com/loki-47-6F-64/sunshine
+
 openstream-server a fork of sunshine
+
 https://open-stream.net/
 
 synergy mouse keyboard sharing tool
+
 ssh -X/-Y allowX11forwarding
 
 hardware solution: kvm switch (high grade with audio redirection separate usb ports)
