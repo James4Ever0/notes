@@ -1,10 +1,16 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2024-07-07T14:36:54+08:00
+modified: 2024-07-08T16:16:16+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+matmul-free llm
+
+https://arxiv.org/abs/2406.02528
+
+---
 
 https://github.com/KingNishHF/OpenGPT-4o
 
