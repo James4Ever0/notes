@@ -2,7 +2,7 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: 2022-03-04T15:13:13+00:00
-modified: 2024-06-25T18:28:27+08:00
+modified: 2024-07-08T13:49:14+08:00
 ---
 
 # Worth Trying Remote Computer Connection
@@ -34,7 +34,7 @@ remote or local address must at least have port number specified, optionally wit
 
 enable pubkey authentication for nomachine:
 
-first generate the key with `ssh-keygen`, copy your pubkey content at `.ssh/id_rsa` (local host) to remote host at `~/.nx/config/authorized.crt`, one pubkey per line.
+first generate the key with `ssh-keygen`, copy your pubkey content at `.ssh/id_rsa.pub` (local host) to remote host at `~/.nx/config/authorized.crt`, one pubkey per line.
 
 next change the setting `AcceptedAuthenticationMethods` as `NX-private-key` in file `/usr/NX/etc/server.cfg` at remote host.
 
