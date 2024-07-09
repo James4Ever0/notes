@@ -1,10 +1,14 @@
 ---
 title: AI Hacking Assistants, Automated Hacking
 created: 2024-05-07T14:33:59+00:00
-modified: 2024-07-07T14:41:45+08:00
+modified: 2024-07-09T11:54:40+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+you need to engage with hackers, either by reaching out directly, joining hacker groups or setting up honeypot and collect attack vectors
+
+---
 
 rockyou2009 rockyou2021 rockyou2024 password leak
 
