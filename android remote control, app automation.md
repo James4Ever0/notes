@@ -1,7 +1,7 @@
 ---
 title: android remote control, app automation
 created: 2022-10-15T13:21:37+00:00
-modified: 2024-07-09T15:44:16+08:00
+modified: 2024-07-09T17:34:46+08:00
 ---
 
 # android remote control, app automation
@@ -11,6 +11,9 @@ to change the resolution of android device run this command:
 ```bash
 # <width>x<height>
 adb shell wm size 3000x2000
+
+# reset window size
+adb shell wm size reset
 ```
 ---
 
