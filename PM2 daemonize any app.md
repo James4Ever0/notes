@@ -1,6 +1,6 @@
 ---
 created: 2024-07-08T16:59:45+08:00
-modified: 2024-07-08T17:02:45+08:00
+modified: 2024-07-10T18:55:08+08:00
 ---
 
 # PM2 daemonize any app
@@ -19,6 +19,9 @@ run program as daemon:
 
 ```bash
 pm2 start -n <process_name> <executable_name> -- <process_arguments>
+
+# save all processes
+pm2 save
 
 pm2 monit
 pm2 logs
