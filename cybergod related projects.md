@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
-created: '2023-12-25T14:56:50.986Z'
-modified: '2024-06-21T07:43:57.611Z'
+created: 2023-12-25T14:56:50+00:00
+modified: 2024-07-11T13:16:30+08:00
 ---
 
 # cybergod related projects
+
+neural network generation
+
+论文：arxiv.org/abs/2406.09787
 
 [James4Ever0/agi_computer_control: Autonomous computer program that can do anything without human operators.](https://github.com/James4Ever0/agi_computer_control)
 
