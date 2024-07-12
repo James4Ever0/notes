@@ -2,10 +2,14 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: 2022-03-04T15:13:13+00:00
-modified: 2024-07-08T14:18:48+08:00
+modified: 2024-07-12T13:49:14+08:00
 ---
 
 # Worth Trying Remote Computer Connection
+
+x11vnc can proxy existing x11 desktop on web.
+
+---
 
 for hardware kvm over ip, there is pikvm swite for turning rpi3b+ into ipkvm and armkvm series that are dedicated low cost ipkvm hardwares.
 
