@@ -2,12 +2,17 @@
 tags: [remote control, remote desktop]
 title: Worth Trying Remote Computer Connection
 created: 2022-03-04T15:13:13+00:00
-modified: 2024-07-12T13:49:14+08:00
+modified: 2024-07-12T13:49:38+08:00
 ---
 
 # Worth Trying Remote Computer Connection
 
 x11vnc can proxy existing x11 desktop on web.
+
+
+```bash
+sudo apt install x11vnc
+```
 
 ---
 
