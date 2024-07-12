@@ -1,10 +1,14 @@
 ---
 title: AI Hacking Assistants, Automated Hacking
 created: 2024-05-07T14:33:59+00:00
-modified: 2024-07-09T23:21:26+08:00
+modified: 2024-07-12T14:20:43+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+site:github.com 京峰内部武器库
+
+---
 
 virus sample and source code
 
