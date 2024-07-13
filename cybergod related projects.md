@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
-created: 2023-12-25T14:56:50+00:00
-modified: 2024-07-11T13:18:44+08:00
+created: '2023-12-25T14:56:50.000Z'
+modified: '2024-07-13T13:55:41.870Z'
 ---
 
 # cybergod related projects
+
+https://lmql.ai llm query language
+
+---
 
 neural network generation/neural developmental programs
 
