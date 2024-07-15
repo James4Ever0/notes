@@ -1,12 +1,12 @@
 ---
 title: RAG in my mind
 created: 2023-12-20T18:36:32+00:00
-modified: 2024-07-15T14:49:13+08:00
+modified: 2024-07-15T14:51:12+08:00
 ---
 
 # RAG in my mind
 
-
+rankrag
 
 standford storm 2.0 writer
 
