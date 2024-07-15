@@ -1,10 +1,20 @@
 ---
 title: cybergod related projects
-created: '2023-12-25T14:56:50.000Z'
-modified: '2024-07-13T13:55:41.870Z'
+created: 2023-12-25T14:56:50+00:00
+modified: 2024-07-15T09:48:22+08:00
 ---
 
 # cybergod related projects
+
+search for `site:github.com <computer agent benchmark name> agent` and get a bunch of new computer agent frameworks
+
+https://github.com/posgnu/rci-agent
+
+https://github.com/stanfordnlp/wge
+
+https://github.com/ServiceNow/BrowserGym
+
+---
 
 https://lmql.ai llm query language
 
