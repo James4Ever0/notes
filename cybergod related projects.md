@@ -1,10 +1,20 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-07-15T09:48:22+08:00
+modified: 2024-07-15T14:49:41+08:00
 ---
 
 # cybergod related projects
+
+https://www.superjoin.ai
+
+https://github.com/test-time-training/ttt-lm-pytorch
+
+https://github.com/stanfordnlp/dspy
+
+https://www.builder.io/blog/micro-agent
+
+---
 
 search for `site:github.com <computer agent benchmark name> agent` and get a bunch of new computer agent frameworks
 
