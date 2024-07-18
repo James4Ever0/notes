@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-07-15T14:49:41+08:00
+modified: 2024-07-18T17:45:33+08:00
 ---
 
 # cybergod related projects
+
+https://github.com/evilsocket/nerve
 
 https://www.superjoin.ai
 
