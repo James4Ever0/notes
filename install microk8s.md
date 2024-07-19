@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T13:34:50+08:00
-modified: 2024-07-20T00:12:00+08:00
+modified: 2024-07-20T00:12:13+08:00
 ---
 
 # install microk8s
@@ -20,5 +20,4 @@ k3s mirror
 
 ```bash
 curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn sh -​
-
 ```
