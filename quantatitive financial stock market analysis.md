@@ -2,10 +2,14 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: 2022-06-09T06:38:29+00:00
-modified: 2023-08-25T11:10:08+08:00
+modified: 2024-07-19T18:38:26+08:00
 ---
 
 # quantative financial stock market analysis
+
+gs-quant
+
+---
 
 [pyportfolioopt](https://github.com/robertmartin8/PyPortfoiloOpt)
 
