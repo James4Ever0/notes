@@ -1,10 +1,14 @@
 ---
 title: AI Hacking Assistants, Automated Hacking
 created: 2024-05-07T14:33:59+00:00
-modified: 2024-07-12T14:20:43+08:00
+modified: 2024-07-19T09:38:54+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+https://github.com/bollwarm/SecToolSet
+
+---
 
 site:github.com 京峰内部武器库
 
