@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-07-19T09:33:55+08:00
+modified: 2024-07-19T09:53:43+08:00
 ---
 
 # cybergod related projects
+
+https://github.com/showlab/Awesome-GUI-Agent
 
 https://github.com/waterhorse1/LLM_Tree_Search
 
