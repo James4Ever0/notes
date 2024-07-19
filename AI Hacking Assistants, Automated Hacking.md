@@ -1,10 +1,12 @@
 ---
 title: AI Hacking Assistants, Automated Hacking
 created: 2024-05-07T14:33:59+00:00
-modified: 2024-07-19T22:25:38+08:00
+modified: 2024-07-19T22:30:52+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+https://github.com/kelvinBen/AppInfoScanner
 
 https://github.com/wwong99/pentest-notes
 
