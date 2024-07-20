@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T13:34:50+08:00
-modified: 2024-07-20T23:58:51+08:00
+modified: 2024-07-21T00:01:08+08:00
 ---
 
 # install microk8s
@@ -14,9 +14,9 @@ config files are at `/var/snap/microk8s/current`, and you need to replace all `d
 
 run `microk8s inspect` to get errors like hostname casing, and missing file like `/var/snap/microk8s/current/var/kubernetes/backend/localnode.yaml`
 
-you need to configure multiple registries for docker.io and registry.k8s.io under `/var/snap/microk8s/current/args/certs.d`
+you need to configure multiple registries for `docker.io` and `registry.k8s.io` under `/var/snap/microk8s/current/args/certs.d`
 
-in order to use some mirror site which does not support `./v2` url, you have to add `override_path = true` in config
+in order to use some mirror site which does not support `/v2` url, you have to add `override_path = true` in config
 
 mirror sites:
 
