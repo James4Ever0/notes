@@ -1,9 +1,21 @@
 ---
 created: 2024-07-19T13:34:50+08:00
-modified: 2024-07-21T00:42:43+08:00
+modified: 2024-07-21T01:14:04+08:00
 ---
 
 # install microk8s
+
+network policy:
+
+https://minikube.sigs.k8s.io/docs/handbook/network_policy/
+
+https://docs.tigera.io/calico/latest/network-policy/get-started/calico-policy/calico-network-policy
+
+persistent volume:
+
+https://minikube.sigs.k8s.io/docs/handbook/persistent_volumes/
+
+---
 
 ```bash
 sudo snap install --classic microk8s
