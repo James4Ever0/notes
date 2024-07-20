@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T13:34:50+08:00
-modified: 2024-07-21T00:01:08+08:00
+modified: 2024-07-21T00:42:43+08:00
 ---
 
 # install microk8s
@@ -51,3 +51,18 @@ registry config:
 
 https://docs.k3s.io/installation/private-registry
 ```
+---
+
+k0s install:
+
+https://docs.k0sproject.io/stable/install/
+
+```bash
+curl -sSLf https://get.k0s.sh | sudo sh
+sudo k0s install controller --single
+sudo k0s start
+```
+
+config:
+
+https://docs.k0sproject.io/stable/runtime/
