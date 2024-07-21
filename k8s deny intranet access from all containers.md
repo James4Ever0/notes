@@ -1,6 +1,7 @@
 ---
-created: 2024-07-21T01:14:43+08:00
-modified: 2024-07-21T01:19:00+08:00
+title: k8s deny intranet access from all containers
+created: '2024-07-20T17:14:43.000Z'
+modified: '2024-07-21T08:13:07.332Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -9,9 +10,9 @@ make sure you have a networkpolicy enabled cni first. usually included but be ca
 
 apply these configs with `kubectl apply -f <config_path>`
 
-interact with `kubectl exec hello-world -it -- /bin/sh`
+interact with `kubectl exec <pod_name> -it -- /bin/sh`
 
-pod config:
+deconfig:
 
 ```yaml
 apiVersion: v1
