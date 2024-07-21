@@ -1,7 +1,7 @@
 ---
 title: k8s load docker image
 created: '2024-07-21T14:35:03.614Z'
-modified: '2024-07-21T15:21:12.007Z'
+modified: '2024-07-21T15:31:26.415Z'
 ---
 
 # k8s load docker image
@@ -52,4 +52,11 @@ https://blog.scottlowe.org/2020/01/25/manually-loading-container-images-with-con
 
 https://docs.k3s.io/installation/registry-mirror#pushing-images
 
+---
+
+you can also configure k8s to use docker as container runtime instead.
+
+https://github.com/canonical/microk8s/issues/287
+
+https://docs.k3s.io/advanced#using-docker-as-the-container-runtime
 
