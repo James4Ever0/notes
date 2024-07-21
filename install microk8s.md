@@ -1,6 +1,7 @@
 ---
-created: 2024-07-19T13:34:50+08:00
-modified: 2024-07-21T01:14:04+08:00
+title: install microk8s
+created: '2024-07-19T05:34:50.000Z'
+modified: '2024-07-21T09:08:51.033Z'
 ---
 
 # install microk8s
@@ -58,11 +59,12 @@ k3s mirror
 
 ```bash
 curl -sfL https://rancher-mirror.rancher.cn/k3s/k3s-install.sh | INSTALL_K3S_MIRROR=cn sh -​
+```
 
 registry config:
 
 https://docs.k3s.io/installation/private-registry
-```
+
 ---
 
 k0s install:
