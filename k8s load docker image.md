@@ -1,7 +1,7 @@
 ---
 title: k8s load docker image
 created: '2024-07-21T14:35:03.614Z'
-modified: '2024-07-21T15:36:41.411Z'
+modified: '2024-07-21T15:36:49.808Z'
 ---
 
 # k8s load docker image
@@ -39,6 +39,7 @@ load image exported with `docker save <image>:<tag>`
 # remember to set a tag to the image imported
 # or set the imagePullPolicy to Never
 # ref: https://iximiuz.com/en/posts/kubernetes-kind-load-docker-image/
+
 minikube image load <image_filepath>/<docker_image_name>
 
 microk8s images import <image_filepath>
