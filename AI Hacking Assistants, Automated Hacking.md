@@ -1,7 +1,7 @@
 ---
-title: AI Hacking Assistants, Automated Hacking
-created: 2024-05-07T14:33:59+00:00
-modified: 2024-07-19T22:30:52+08:00
+title: 'AI Hacking Assistants, Automated Hacking'
+created: '2024-05-07T14:33:59.000Z'
+modified: '2024-07-21T05:22:30.595Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -21,6 +21,9 @@ https://github.com/bollwarm/SecToolSet
 ---
 
 site:github.com 京峰内部武器库
+
+site:github.com 护网
+
 
 ---
 
