@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
 created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:16:40.548Z'
+modified: '2024-07-21T08:16:53.892Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -19,7 +19,10 @@ to cleanup the mess one may run a scheduled job like:
 ```bash
 while true;
 do
-  k3s kubectl delete pods --field-selector=
+	 microk8s kubectl delete pods --field-selector=status.phase=Failed
+	 microk8s kubectl delete pods --field-selector=status.phase=Unknown
+	 sleep 60
+done
 ```
 
 ---
