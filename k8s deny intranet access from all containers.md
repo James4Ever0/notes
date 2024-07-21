@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
 created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:22:49.978Z'
+modified: '2024-07-21T08:23:28.888Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -27,17 +27,22 @@ done
 
 or configure implementation dependent `kube-controller-manager` startup argument `terminated-pod-gc-threshold=1`.
 
+for `k3s` edit `/etc/rancher/k3s/config.yaml` like:
+
+```yaml
+kube-controller-manager-arg:
+  - 'terminated-pod-gc-threshold=1'
+```
+
+for `microk8s`, edit `/var/snap/microk8s/current/args/kube-controller-manager`
+
+references:
+
 https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/
 
 https://docs.k3s.io/security/hardening-guide
 
-for `k3s` edit `/etc/rancher/k3s/config.yaml` like:
-
-```yaml
-
-```
-
-for `microk8s`, edit `/var/snap/microk8s/current/args/kube-controller-manager`
+https://github.com/k3s-io/k3s/issues/10448
 
 ---
 
