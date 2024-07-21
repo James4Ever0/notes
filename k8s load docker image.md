@@ -1,7 +1,7 @@
 ---
 title: k8s load docker image
 created: '2024-07-21T14:35:03.614Z'
-modified: '2024-07-21T14:51:11.171Z'
+modified: '2024-07-21T14:51:48.231Z'
 ---
 
 # k8s load docker image
@@ -25,6 +25,10 @@ docker push <registry_addr>/<imagename>
 ```
 
 you can also build image with minikube:
+
+```bash
+minikube image build -t <imagename> -f <dockerfile_path> <resource_path>
+```
 
 ---
 
