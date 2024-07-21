@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
 created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:13:47.466Z'
+modified: '2024-07-21T08:13:59.535Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -15,20 +15,33 @@ interact with `kubectl exec <pod_name> -it -- /bin/sh`
 deployment config:
 
 ```yaml
-apiVersion: v1
-kind: Pod
+apiVersion: apps/v1
+kind: Deployment
 metadata:
   name: hello-world
   labels:
     app: hello-world
 spec:
-  containers:
-    - name: alpine-container
-      image: alpine:3.7
-      command: ["tail", "-f", "/dev/null"]
-  dnsConfig:
-    nameservers:
-      - 8.8.8.8
+  replicas: 1
+  selector:
+    matchLabels:
+      app: hello-world
+  template:
+    metadata:
+      labels:
+        app: hello-world
+    spec:
+      containers:
+        - name: alpine-container
+          image: alpine:3.7
+          command: ["tail", "-f", "/dev/null"]
+          resources:
+            limits:
+               ephemeral-storage: "4Gi"
+      dnsConfig:
+        nameservers:
+          - 8.8.8.8
+      terminationGracePeriodSeconds: 0
 
 ```
 
