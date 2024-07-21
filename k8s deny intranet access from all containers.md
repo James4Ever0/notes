@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
 created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:19:00.641Z'
+modified: '2024-07-21T08:19:07.165Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -25,7 +25,7 @@ do
 done
 ```
 
-or configure implementation dependent `kube-controller-manager` startup argument ``.
+or configure implementation dependent `kube-controller-manager` startup argument `terminated-pod-gc-threshold=1`.
 
 https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/
 
