@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
 created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:19:07.165Z'
+modified: '2024-07-21T08:21:21.872Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -30,6 +30,8 @@ or configure implementation dependent `kube-controller-manager` startup argument
 https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/
 
 https://docs.k3s.io/security/hardening-guide
+
+for `microk8s`, edit `/var/snap/microk8s/current/args/kube-controller-manager`
 
 ---
 
