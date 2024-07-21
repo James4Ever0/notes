@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T21:03:07+08:00
-modified: 2024-07-21T21:11:16+08:00
+modified: 2024-07-21T21:23:01+08:00
 ---
 
 # k8s python api library
@@ -21,7 +21,9 @@ you can also set `KUBECONFIG` environment variable to let `kubernetes` python li
 
 to use it:
 
-```bash
+https://github.com/kubernetes-client/python/blob/master/kubernetes/README.md
+
+```python
 from kubernetes import client, config
 
 # Configs can be set in Configuration class directly or using helper utility
