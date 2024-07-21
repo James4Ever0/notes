@@ -1,10 +1,28 @@
 ---
 title: k8s deny intranet access from all containers
 created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:13:59.535Z'
+modified: '2024-07-21T08:16:40.548Z'
 ---
 
 # k8s deny intranet access from all containers
+
+to manually exceed the ephermal storage limit run:
+
+```bash
+fallocate -l 10G /bigfile
+```
+
+the pod will be evicted, volume and container will be purged, but the record is not automatically removed.
+
+to cleanup the mess one may run a scheduled job like:
+
+```bash
+while true;
+do
+  k3s kubectl delete pods --field-selector=
+```
+
+---
 
 make sure you have a networkpolicy enabled cni first. usually included but be careful with minikube since that is a different story
 
