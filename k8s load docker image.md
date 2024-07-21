@@ -1,7 +1,7 @@
 ---
 title: k8s load docker image
 created: '2024-07-21T14:35:03.614Z'
-modified: '2024-07-21T15:10:50.893Z'
+modified: '2024-07-21T15:12:00.882Z'
 ---
 
 # k8s load docker image
@@ -42,6 +42,8 @@ load image exported with `docker save <image>:<tag>`
 minikube image load <image_filepath>
 
 microk8s images import <image_filepathc>
+
+microk8s ctr image import <image_filepath>
 
 k3s ctr image import <image_filepath>
 ```
