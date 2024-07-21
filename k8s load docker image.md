@@ -1,7 +1,7 @@
 ---
 title: k8s load docker image
 created: '2024-07-21T14:35:03.614Z'
-modified: '2024-07-21T15:03:46.960Z'
+modified: '2024-07-21T15:04:21.256Z'
 ---
 
 # k8s load docker image
@@ -35,7 +35,9 @@ minikube image build -t <imagename> -f <dockerfile_path> <resource_path>
 load image exported with `docker save <image>:<tag>`
 
 ```bash
-# ref: 
-minikube image load
+# ref: https://minikube.sigs.k8s.io/docs/commands/image/
+# remember to set a tag to the image imported
+minikube image load <image_path>
+
 ```
 
