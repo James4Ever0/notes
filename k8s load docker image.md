@@ -1,7 +1,7 @@
 ---
 title: k8s load docker image
 created: '2024-07-21T14:35:03.614Z'
-modified: '2024-07-21T15:13:16.199Z'
+modified: '2024-07-21T15:14:28.764Z'
 ---
 
 # k8s load docker image
@@ -50,5 +50,5 @@ k3s ctr image import <image_filepath>
 
 https://blog.scottlowe.org/2020/01/25/manually-loading-container-images-with-containerd/
 
-
+https://docs.k3s.io/installation/registry-mirror#pushing-images
 
