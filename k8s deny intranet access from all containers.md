@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
 created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:13:07.332Z'
+modified: '2024-07-21T08:13:47.466Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -12,7 +12,7 @@ apply these configs with `kubectl apply -f <config_path>`
 
 interact with `kubectl exec <pod_name> -it -- /bin/sh`
 
-deconfig:
+deployment config:
 
 ```yaml
 apiVersion: v1
