@@ -1,7 +1,7 @@
 ---
 title: install microk8s
-created: '2024-07-19T05:34:50.000Z'
-modified: '2024-07-21T09:08:51.033Z'
+created: 2024-07-19T05:34:50+00:00
+modified: 2024-07-23T15:07:57+08:00
 ---
 
 # install microk8s
@@ -38,6 +38,8 @@ https://github.com/docker-mirrors/website
 https://github.com/cmliu/CF-Workers-docker.io/issues/8
 
 https://github.com/kubesre/docker-registry-mirrors
+
+https://github.com/lawrenceching/gitbook/blob/master/docker-repositories-in-china.md
 
 reference:
 
