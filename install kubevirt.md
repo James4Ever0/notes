@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:14+08:00
-modified: 2024-07-24T09:53:43+08:00
+modified: 2024-07-24T10:17:50+08:00
 ---
 
 # install kubevirt
@@ -21,5 +21,4 @@ export VERSION=$(curl -s https://api.github.com/repos/kubevirt/containerized-dat
 
 curl -LkO https://ghproxy.net/github.com/kubevirt/containerized-data-importer/releases/download/$VERSION/cdi-operator.yaml
 curl -LkO https://ghproxy.net/github.com/kubevirt/containerized-data-importer/releases/download/$VERSION/cdi-cr.yaml
-
 ```
