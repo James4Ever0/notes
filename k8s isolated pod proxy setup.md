@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:49+08:00
-modified: 2024-07-24T18:49:55+08:00
+modified: 2024-07-24T18:52:20+08:00
 ---
 
 # k8s isolated pod proxy setup
@@ -16,15 +16,18 @@ not every domain shall be reached via public proxies, unless it is graranteed to
 the full network isolation scheme can be shown below:
 
 ```
-
+            internet interface
+                    |
 intranet-isolated proxy server (hysteria)
                     |
-            cluster service with clusterIP
+cluster service with clusterIP
                     |
-       isolated socks5 server with only access to the hysteria service clusterIP and port
+isolated socks5 server with only access
+ to the hysteria service clusterIP and port
                     |
-          local socks5 service with clusterIP
+local socks5 service with clusterIP
                     |
-       isolated tun-routed server with only access to socks5 service clusterIP and port
+isolated tun-routed pod with only access 
+ to socks5 service clusterIP and port
 
 ```
