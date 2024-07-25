@@ -1,15 +1,26 @@
 ---
 created: 2024-07-24T07:55:49+08:00
-modified: 2024-07-25T15:43:55+08:00
+modified: 2024-07-25T15:58:50+08:00
 ---
 
 # k8s isolated pod proxy setup
 
 by the most you would create a `tun` device, then route all traffic to the device after you have installed necessary softwares.
 
+```bash
+ip tuntap add mode tun dev tun0
+ip addr add 198.18.0.1/15 dev tun0
+ip link set dev tun0 up
+
+# download tun2socks
+# https://github.com/xjasonlyu/tun2socks
+```
+
 you need to use the default gateway otherwise you will not be able to reach the dns.
 
 the default gateway will differ from nodes. it is recommended to fetch it from `ip route`
+
+for ubuntu containers you would run `apt install iproute2` first
 
 ```bash
 DNS_IP=8.8.8.8
@@ -25,8 +36,20 @@ ip route delete default
 
 ip route add $DEFAULT_ROUTE
 
-ip route add default dev tun0
+ip route add default dev via 198.18.0.1 tun0
 ip route add $DNS_IP via $GATEWAY_IP dev $DEFAULT_NET_DEVICE
+```
+
+then launch `tun2proxy`
+
+```bash
+./tun2proxy -interface $DEFAULT_NET_DEVICE -device tun://tun0 -proxy <proxy_protocol>://<proxy_address>
+```
+
+to disable the tun network you can run:
+
+```bash
+ip route delete default dev tun0
 ```
 
 you need to configure the `dnsPolicy` to `None` in manifest otherwise it would add the cluster dns ip to `/etc/resolv.conf`, slowing down the lookup process and making it very hard to change during the runtime.
