@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:56:14+08:00
-modified: 2024-07-25T14:22:27+08:00
+modified: 2024-07-25T14:27:52+08:00
 ---
 
 # k8s reboot pod and vm
@@ -18,6 +18,17 @@ for vmi there is an option called `soft-reboot` which is absent in pods. however
 virtctl soft-reboot <vmi_name>
 ```
 
-for pod you you can scale down the replicaset of deployment (recommended), or kill the pod directly.
+for pod you you can scale down the replicas of deployment (recommended), or kill the pod directly.
+
+```bash
+kubectl scale deployment <deployment_name> --replicas=0
+kubectl scale deployment <deployment_name> --replicas=<original replica num>
+```
 
 for vm you are supposed to use `virtctl`
+
+```bash
+virtctl start <vm_name>
+virtctl stop <vm_name>
+virtctl restart <vm_name>
+```
