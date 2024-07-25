@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:14+08:00
-modified: 2024-07-25T15:03:05+08:00
+modified: 2024-07-25T16:01:20+08:00
 ---
 
 # install kubevirt
@@ -111,6 +111,11 @@ to interact with the vm
 
 ```bash
 virtctl console <vm_name>
-virtctl ssh <user>@<vm_name>
+
 # ssh config is stored at: ~/.ssh/kube_known_hosts
+virtctl ssh <user>@<vm_name>
+
+# run this under gui, with `vncviewer` in path
+# install with `apt install tigervnc-viewer`
+virtctl vnc <vm_name>
 ```
