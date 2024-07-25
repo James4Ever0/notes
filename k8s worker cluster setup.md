@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T10:28:58+08:00
-modified: 2024-07-25T18:37:45+08:00
+modified: 2024-07-25T18:39:14+08:00
 ---
 
 # k8s worker cluster setup
@@ -19,4 +19,4 @@ the agent node still needs to configure registry mirrors at `/etc/rancher/k3s/re
 
 ---
 
-k3sup can automatically install k3s cluster using ssh connection
+[k3sup](https://github.com/alexellis/k3sup) can automatically install k3s cluster using ssh connection
