@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:14+08:00
-modified: 2024-07-25T14:50:18+08:00
+modified: 2024-07-25T15:03:05+08:00
 ---
 
 # install kubevirt
@@ -97,4 +97,20 @@ spec:
             #cloud-config
             password: fedora
             chpasswd: { expire: False }
+```
+
+apply it to run the vm
+
+```bash
+kubectl apply -f init_vm.yaml
+kubectl get vm
+kubectl get vmi
+```
+
+to interact with the vm
+
+```bash
+virtctl console <vm_name>
+virtctl ssh <user>@<vm_name>
+# ssh config is stored at: ~/.ssh/kube_known_hosts
 ```
