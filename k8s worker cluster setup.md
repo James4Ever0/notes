@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T10:28:58+08:00
-modified: 2024-07-25T16:33:13+08:00
+modified: 2024-07-25T18:37:45+08:00
 ---
 
 # k8s worker cluster setup
@@ -16,3 +16,7 @@ you need to change it to `k3s agent` in order to join the master node, or pass a
 the node token is at `/var/lib/rancher/k3s/server/node-token`
 
 the agent node still needs to configure registry mirrors at `/etc/rancher/k3s/registries.yaml` for successfully pulling images
+
+---
+
+k3sup can automatically install k3s cluster using ssh connection
