@@ -1,7 +1,7 @@
 ---
-title: 'AI Hacking Assistants, Automated Hacking'
-created: '2024-05-07T14:33:59.000Z'
-modified: '2024-07-21T05:22:30.595Z'
+title: AI Hacking Assistants, Automated Hacking
+created: 2024-05-07T14:33:59+00:00
+modified: 2024-07-25T11:22:46+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
@@ -337,3 +337,7 @@ https://github.com/topics/0day
 ---
 
 GPT-4 can now [exploit 1day CVE](https://arxiv.org/pdf/2404.08144).
+
+---
+
+https://github.com/shadow1ng/fscan
