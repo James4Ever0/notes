@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:14+08:00
-modified: 2024-07-24T12:24:16+08:00
+modified: 2024-07-25T14:50:18+08:00
 ---
 
 # install kubevirt
@@ -57,4 +57,44 @@ create vm (already with tun device inside)
 
 ```yaml
 # init_vm.yaml
+apiVersion: kubevirt.io/v1
+kind: VirtualMachine
+metadata:
+  name: <vm_name>
+spec:
+  runStrategy: Always
+  template:
+    spec:
+      terminationGracePeriodSeconds: 30
+      dnsConfig:
+        nameservers:
+          - 8.8.8.8
+      domain:
+        resources:
+          requests:
+            memory: 1024M
+        devices:
+          disks:
+          - name: containerdisk
+            disk:
+              bus: virtio
+          - name: emptydisk
+            disk:
+              bus: virtio
+          - disk:
+              bus: virtio
+            name: cloudinitdisk
+      volumes:
+      - name: containerdisk
+        containerDisk:
+          image: kubevirt/fedora-cloud-container-disk-demo:latest
+      - name: emptydisk
+        emptyDisk:
+          capacity: "2Gi"
+      - name: cloudinitdisk
+        cloudInitNoCloud:
+          userData: |-
+            #cloud-config
+            password: fedora
+            chpasswd: { expire: False }
 ```
