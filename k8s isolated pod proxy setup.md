@@ -1,9 +1,40 @@
 ---
 created: 2024-07-24T07:55:49+08:00
-modified: 2024-07-25T15:58:50+08:00
+modified: 2024-07-26T16:57:12+08:00
 ---
 
 # k8s isolated pod proxy setup
+
+you need to disable intranet access with `NetworkPolicy`
+
+```yaml
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: deny-intranet-egress
+spec:
+  podSelector:
+    matchLabels:
+      app: hello-world
+  policyTypes:
+    - Egress
+  egress:
+    - to:
+        - ipBlock:
+            cidr: ::/0
+            except:
+              - fc00::/7
+              - fe80::/10
+        - ipBlock:
+            cidr: 0.0.0.0/0
+            except:
+              - 0.0.0.0/8
+              - 10.0.0.0/8
+              - 100.64.0.0/10
+              - 169.254.0.0/16
+              - 172.16.0.0/12
+              - 192.168.0.0/16
+```
 
 by the most you would create a `tun` device, then route all traffic to the device after you have installed necessary softwares.
 
