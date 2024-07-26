@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
-created: '2024-07-20T17:14:43.000Z'
-modified: '2024-07-21T08:32:56.472Z'
+created: 2024-07-20T17:14:43+00:00
+modified: 2024-07-26T16:58:00+08:00
 ---
 
 # k8s deny intranet access from all containers
@@ -107,9 +107,17 @@ spec:
   egress:
     - to:
         - ipBlock:
+            cidr: ::/0
+            except:
+              - fc00::/7
+              - fe80::/10
+        - ipBlock:
             cidr: 0.0.0.0/0
             except:
+              - 0.0.0.0/8
               - 10.0.0.0/8
+              - 100.64.0.0/10
+              - 169.254.0.0/16
               - 172.16.0.0/12
               - 192.168.0.0/16
-```
+ ```
