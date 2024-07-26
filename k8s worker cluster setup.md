@@ -20,3 +20,9 @@ the agent node still needs to configure registry mirrors at `/etc/rancher/k3s/re
 ---
 
 [k3sup](https://github.com/alexellis/k3sup) can automatically install k3s cluster using ssh connection
+
+---
+
+multi server cluster setup:
+
+https://docs.k3s.io/datastore/ha-embedded
