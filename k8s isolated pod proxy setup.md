@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:49+08:00
-modified: 2024-07-26T17:03:40+08:00
+modified: 2024-07-26T17:25:06+08:00
 ---
 
 # k8s isolated pod proxy setup
@@ -10,6 +10,8 @@ you need to disable intranet access with `NetworkPolicy`
 find more info about intranet ranges here:
 
 https://github.com/langgenius/dify/blob/main/docker/ssrf_proxy/squid.conf.template
+
+http://www.squid-cache.org/Doc/config/acl/
 
 ```yaml
 apiVersion: networking.k8s.io/v1
