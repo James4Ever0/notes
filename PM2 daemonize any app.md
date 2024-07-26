@@ -1,9 +1,13 @@
 ---
 created: 2024-07-08T16:59:45+08:00
-modified: 2024-07-10T18:55:08+08:00
+modified: 2024-07-26T14:49:35+08:00
 ---
 
 # PM2 daemonize any app
+
+remember to set unbuffered output flag `-u` before running any python script, otherwise there will be no output in `pm2 log`
+
+---
 
 install and setup pm2 as daemon:
 
