@@ -1,11 +1,15 @@
 ---
 created: 2024-07-24T07:55:49+08:00
-modified: 2024-07-26T16:57:12+08:00
+modified: 2024-07-26T17:03:40+08:00
 ---
 
 # k8s isolated pod proxy setup
 
 you need to disable intranet access with `NetworkPolicy`
+
+find more info about intranet ranges here:
+
+https://github.com/langgenius/dify/blob/main/docker/ssrf_proxy/squid.conf.template
 
 ```yaml
 apiVersion: networking.k8s.io/v1
@@ -35,6 +39,13 @@ spec:
               - 172.16.0.0/12
               - 192.168.0.0/16
 ```
+
+if you want proxy, you can `export` environment variables at:
+
+- `/etc/profile` or `/etc/profile.d/proxy.sh`
+- `~/.bashrc`
+
+---
 
 by the most you would create a `tun` device, then route all traffic to the device after you have installed necessary softwares.
 
