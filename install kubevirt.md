@@ -1,11 +1,17 @@
 ---
 created: 2024-07-24T07:55:14+08:00
-modified: 2024-07-25T16:01:20+08:00
+modified: 2024-07-26T17:50:22+08:00
 ---
 
 # install kubevirt
 
 do not install it on microk8s
+
+---
+
+install windows on kubevirt:
+
+https://charlottemach.com/2020/11/03/windows-kubevirt-k3s.html
 
 ---
 
