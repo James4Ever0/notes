@@ -1,10 +1,16 @@
 ---
 title: AI Hacking Assistants, Automated Hacking
 created: 2024-05-07T14:33:59+00:00
-modified: 2024-07-25T11:22:46+08:00
+modified: 2024-07-28T02:39:30+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+awvs
+
+https://github.com/iSafeBlue/TrackRay
+
+---
 
 https://github.com/kelvinBen/AppInfoScanner
 
