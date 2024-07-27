@@ -1,10 +1,14 @@
 ---
 title: k3s change data storage path
 created: '2024-07-27T14:25:43.128Z'
-modified: '2024-07-27T15:07:40.194Z'
+modified: '2024-07-27T15:08:26.308Z'
 ---
 
 # k3s change data storage path
+
+you can configure `K3S_DATA_DIR` environment variable during installation
+
+---
 
 first, stop all k3s services
 
