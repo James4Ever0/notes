@@ -1,7 +1,7 @@
 ---
 title: proxmox cluster setup
 created: '2024-07-27T17:30:03.108Z'
-modified: '2024-07-27T17:31:15.035Z'
+modified: '2024-07-27T17:32:59.283Z'
 ---
 
 # proxmox cluster setup
@@ -9,6 +9,8 @@ modified: '2024-07-27T17:31:15.035Z'
 either use gui or command line
 
 ```bash
+# run on master device
 pvecm create <cluster_name>
-pvecm add <node_ip>
+# run on slave device
+pvecm add <cluster_ip>
 ```
