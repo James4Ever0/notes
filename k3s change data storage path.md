@@ -1,7 +1,7 @@
 ---
 title: k3s change data storage path
 created: '2024-07-27T14:25:43.128Z'
-modified: '2024-07-27T15:04:17.816Z'
+modified: '2024-07-27T15:04:48.425Z'
 ---
 
 # k3s change data storage path
@@ -17,10 +17,14 @@ k3s-killall.sh
 copy the legacy data to new location
 
 ```bash
-rsync <path_to_store_data>
+rsync /var/lib/rancher/k3s <path_to_store_data>
 ```
 
 then modify the service file under `/etc/systemd/system/k3s.service` or `/etc/systemd/system/k3s-agent.service`, add one additional flag `--data-dir <path_to_store_data>` to the commandline
 
 restart the service after done
-``````
+
+```bash
+systemctl daemon-reload
+systemctl start k3s
+```
