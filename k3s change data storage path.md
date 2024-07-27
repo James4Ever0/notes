@@ -1,7 +1,7 @@
 ---
 title: k3s change data storage path
 created: '2024-07-27T14:25:43.128Z'
-modified: '2024-07-27T15:07:21.606Z'
+modified: '2024-07-27T15:07:40.194Z'
 ---
 
 # k3s change data storage path
@@ -14,7 +14,7 @@ systemctl stop k3s # k3s-agent otherwise
 k3s-killall.sh
 ```
 
-copy the legacy data to new location
+copy the data to new location
 
 ```bash
 rsync -avh --progress /var/lib/rancher/k3s <path_to_store_data>
