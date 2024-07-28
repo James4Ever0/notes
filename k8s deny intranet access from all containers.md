@@ -1,7 +1,7 @@
 ---
 title: k8s deny intranet access from all containers
-created: 2024-07-20T17:14:43+00:00
-modified: 2024-07-26T16:58:00+08:00
+created: '2024-07-20T17:14:43.000Z'
+modified: '2024-07-28T10:10:29.893Z'
 ---
 
 # k8s deny intranet access from all containers
@@ -84,6 +84,7 @@ spec:
           resources:
             limits:
                ephemeral-storage: "4Gi"
+      dnsPolicy: None
       dnsConfig:
         nameservers:
           - 8.8.8.8
