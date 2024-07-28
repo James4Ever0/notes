@@ -1,12 +1,12 @@
 ---
-title: AI Hacking Assistants, Automated Hacking
-created: 2024-05-07T14:33:59+00:00
-modified: 2024-07-28T02:39:30+08:00
+title: 'AI Hacking Assistants, Automated Hacking'
+created: '2024-05-07T14:33:59.000Z'
+modified: '2024-07-28T05:03:12.735Z'
 ---
 
 # AI Hacking Assistants, Automated Hacking
 
-awvs
+[awvs](https://github.com/topics/awvs)
 
 https://github.com/iSafeBlue/TrackRay
 
