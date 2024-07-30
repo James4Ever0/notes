@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:49+08:00
-modified: 2024-07-26T17:25:06+08:00
+modified: 2024-07-30T13:36:21+08:00
 ---
 
 # k8s isolated pod proxy setup
@@ -84,10 +84,10 @@ ip route add default dev via 198.18.0.1 tun0
 ip route add $DNS_IP via $GATEWAY_IP dev $DEFAULT_NET_DEVICE
 ```
 
-then launch `tun2proxy`
+then launch `tun2socks`
 
 ```bash
-./tun2proxy -interface $DEFAULT_NET_DEVICE -device tun://tun0 -proxy <proxy_protocol>://<proxy_address>
+./tun2socks -interface $DEFAULT_NET_DEVICE -device tun://tun0 -proxy <proxy_protocol>://<proxy_address>
 ```
 
 to disable the tun network you can run:
