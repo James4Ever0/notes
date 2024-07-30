@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-07-22T10:24:55+08:00
+modified: 2024-07-30T16:33:12+08:00
 ---
 
 # cybergod related projects
+
+https://github.com/Envedity/DAIA
+
+---
 
 https://github.com/mem0ai/mem0
 
