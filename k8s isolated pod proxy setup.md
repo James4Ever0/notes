@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T07:55:49+08:00
-modified: 2024-07-30T13:36:21+08:00
+modified: 2024-07-30T16:45:57+08:00
 ---
 
 # k8s isolated pod proxy setup
@@ -42,10 +42,34 @@ spec:
               - 192.168.0.0/16
 ```
 
-if you want proxy, you can `export` environment variables at:
+if you do not want to use `tun` routing and rely on application specific proxy adaptors, you can `export` environment variables at:
 
 - `/etc/profile` or `/etc/profile.d/proxy.sh`
 - `~/.bashrc`
+
+---
+
+use clash tun mode by `config.yaml`
+
+```yaml
+interface-name: en0 # 与 `tun.auto-detect-interface` 冲突
+
+tun:
+  enable: true
+  stack: system # or gvisor
+  # dns-hijack:
+  #   - 8.8.8.8:53
+  #   - tcp://8.8.8.8:53
+  #   - any:53
+  #   - tcp://any:53
+  auto-route: true # manage `ip route` and `ip rules`
+  auto-redir: true # manage nftable REDIRECT
+  auto-detect-interface: true # 与 `interface-name` 冲突
+```
+
+ref:
+
+https://clash.wiki/premium/tun-device.html
 
 ---
 
