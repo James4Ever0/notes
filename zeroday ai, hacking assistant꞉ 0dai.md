@@ -2,7 +2,7 @@
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'zeroday ai, hacking assistant: 0dai'
 created: 2022-07-11T15:43:20+00:00
-modified: 2024-06-17T08:17:57+08:00
+modified: 2024-07-31T12:34:45+08:00
 ---
 
 zeroday ai, hacking assistant: [0dai](https://0dai.omegaai.io/en)
@@ -10,6 +10,8 @@ zeroday ai, hacking assistant: [0dai](https://0dai.omegaai.io/en)
 ---
 
 免杀 av evasion
+
+https://github.com/fdx-xdf/darkPulse
 
 https://www.shellterproject.com/
 
