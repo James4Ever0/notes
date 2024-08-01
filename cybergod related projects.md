@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-08-01T10:05:26+08:00
+modified: 2024-08-01T11:46:32+08:00
 ---
 
 # cybergod related projects
+
+https://github.com/frdel/agent-zero
+
+---
 
 https://digirl-agent.github.io/
 
