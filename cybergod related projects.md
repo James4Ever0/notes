@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-08-01T11:46:32+08:00
+modified: 2024-08-01T18:51:27+08:00
 ---
 
 # cybergod related projects
@@ -96,7 +96,7 @@ https://arxiv.org/abs/2406.09787
 
 [OSU-NLP-Group/Mind2Web: [NeurIPS'23 Spotlight] "Mind2Web: Towards a Generalist Agent for the Web"](https://github.com/OSU-NLP-Group/Mind2Web)
 
-[microsoft/autogen: A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap](https://github.com/microsoft/autogen)
+[microsoft/autogen: A programming framework for agentic AI.](https://github.com/microsoft/autogen) Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 
 [geekan/MetaGPT: 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming](https://github.com/geekan/MetaGPT)
 
