@@ -1,10 +1,20 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-07-30T16:33:12+08:00
+modified: 2024-08-01T10:05:26+08:00
 ---
 
 # cybergod related projects
+
+https://digirl-agent.github.io/
+
+https://github.com/opendilab/awesome-ui-agents
+
+https://github.com/hyp1231/awesome-llm-powered-agent
+
+https://github.com/skyvern-ai/skyvern
+
+---
 
 https://github.com/Envedity/DAIA
 
