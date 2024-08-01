@@ -1,10 +1,16 @@
 ---
-title: 'AI assisted content creation, gameplay video recording, trending topics'
-created: '2024-03-10T14:08:10.000Z'
-modified: '2024-07-05T09:09:36.691Z'
+title: AI assisted content creation, gameplay video recording, trending topics
+created: 2024-03-10T14:08:10+00:00
+modified: 2024-08-01T11:47:17+08:00
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+code to video
+
+https://github.com/redotvideo/revideo
+
+---
 
 fishaudio voice cloning
 
