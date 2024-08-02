@@ -1,10 +1,16 @@
 ---
 title: cybergod related projects
-created: 2023-12-25T14:56:50+00:00
-modified: 2024-08-01T18:51:27+08:00
+created: '2023-12-25T14:56:50.000Z'
+modified: '2024-08-02T15:53:36.951Z'
 ---
 
 # cybergod related projects
+
+continuous learning
+
+https://www.tryimpel.com/ 
+
+---
 
 https://github.com/frdel/agent-zero
 
