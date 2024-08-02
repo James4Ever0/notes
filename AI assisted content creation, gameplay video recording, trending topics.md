@@ -1,10 +1,22 @@
 ---
-title: 'AI assisted content creation, gameplay video recording, trending topics'
-created: '2024-03-10T14:08:10.000Z'
-modified: '2024-08-02T15:44:05.045Z'
+title: AI assisted content creation, gameplay video recording, trending topics
+created: 2024-03-10T14:08:10+00:00
+modified: 2024-08-03T00:49:15+08:00
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+https://github.com/lyogavin/airllm
+
+super large llm inference
+
+---
+
+https://github.com/tensorlakeai/indexify
+
+unstructured data indexing
+
+---
 
 terminal ai utility `sgpt`
 
