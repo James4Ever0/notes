@@ -1,10 +1,16 @@
 ---
-title: AI assisted content creation, gameplay video recording, trending topics
-created: 2024-03-10T14:08:10+00:00
-modified: 2024-08-01T11:47:17+08:00
+title: 'AI assisted content creation, gameplay video recording, trending topics'
+created: '2024-03-10T14:08:10.000Z'
+modified: '2024-08-02T15:44:05.045Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+terminal ai utility `sgpt`
+
+https://github.com/TheR1D/shell_gpt
+
+---
 
 code to video
 
