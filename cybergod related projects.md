@@ -1,10 +1,16 @@
 ---
 title: cybergod related projects
-created: '2023-12-25T14:56:50.000Z'
-modified: '2024-08-02T15:53:36.951Z'
+created: 2023-12-25T14:56:50+00:00
+modified: 2024-08-10T00:23:53+08:00
 ---
 
 # cybergod related projects
+
+web agent grounding
+
+https://github.com/OSU-NLP-Group/SeeAct
+
+---
 
 continuous learning
 
