@@ -1,10 +1,18 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-08-10T00:23:53+08:00
+modified: 2024-08-12T18:46:41+08:00
 ---
 
 # cybergod related projects
+
+related to [osworld](https://github.com/xlang-ai/OSWorld)
+
+https://github.com/OpenAdaptAI/OpenAdapt
+
+https://github.com/agentsea/surfkit
+
+--- 
 
 web agent grounding
 
