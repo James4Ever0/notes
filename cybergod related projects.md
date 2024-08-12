@@ -1,10 +1,18 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-08-12T18:46:41+08:00
+modified: 2024-08-12T19:12:46+08:00
 ---
 
 # cybergod related projects
+
+related to aitw
+
+https://github.com/njucckevin/SeeClick
+
+https://github.com/cooelf/Auto-GUI
+
+---
 
 related to [osworld](https://github.com/xlang-ai/OSWorld)
 
