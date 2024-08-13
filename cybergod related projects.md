@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-08-13T11:14:42+08:00
+modified: 2024-08-13T11:36:00+08:00
 ---
 
 # cybergod related projects
@@ -112,7 +112,7 @@ https://arxiv.org/abs/2406.09787
 
 [tmgthb/Autonomous-Agents: Autonomous Agents (LLMs) research papers. Updated Daily.](https://github.com/tmgthb/Autonomous-Agents)
 
-[ltzheng/Synapse: [ICLR 2024] Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://github.com/ltzheng/Synapse)
+[ltzheng/Synapse: ICLR 2024 Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://github.com/ltzheng/Synapse)
 
 [SkyworkAI/agent-studio: Benchmarks, environments, and toolkits for general computer agents](https://github.com/SkyworkAI/agent-studio)
 
@@ -138,7 +138,11 @@ https://arxiv.org/abs/2406.09787
 
 [OSU-NLP-Group/Mind2Web: [NeurIPS'23 Spotlight] "Mind2Web: Towards a Generalist Agent for the Web"](https://github.com/OSU-NLP-Group/Mind2Web)
 
-[microsoft/autogen: A programming framework for agentic AI.](https://github.com/microsoft/autogen) Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
+[microsoft/autogen: A programming framework for agentic AI.](https://github.com/microsoft/autogen) 
+
+Discord: https://aka.ms/autogen-dc
+
+Roadmap: https://aka.ms/autogen-roadmap
 
 [geekan/MetaGPT: 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming](https://github.com/geekan/MetaGPT)
 
