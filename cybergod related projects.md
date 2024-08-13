@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-08-13T11:00:55+08:00
+modified: 2024-08-13T11:11:29+08:00
 ---
 
 # cybergod related projects
@@ -9,6 +9,12 @@ modified: 2024-08-13T11:00:55+08:00
 benchmarks:
 
 https://github.com/camel-ai/crab
+
+https://github.com/McGill-NLP/weblinx
+
+---
+
+https://github.com/lavangue-ai/LaVangue
 
 ---
 
