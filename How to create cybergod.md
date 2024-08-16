@@ -1,12 +1,13 @@
 ---
 title: How to create cybergod
-created: '2023-12-08T16:35:59.011Z'
-modified: '2023-12-13T10:18:37.842Z'
+created: 2023-12-08T16:35:59+00:00
+modified: 2024-08-16T10:17:35+08:00
 ---
 
 # How to create cybergod
 
 https://www.novaspivack.com/business/the-four-levels-of-ai-steps-to-self-evolution
+
 https://www.novaspivack.com/business/exploring-higher-order-ai-training-on-first-order-ai-networks-for-optimal-path-outcomes
 
 ---
@@ -21,5 +22,4 @@ the verification system can be built upon internal hidden tokens (you feel like 
 
 the main problem of making this work is how to train it in parallel. the real world can be replaced by some world model (say some neural network) so that it can go back in time, or some really fast real world evaluators or some special world evaluators which supports time traversal, like virtual machine snapshots, web browsers (tab traversal). alphago has such advantage because go game is a very simple world model, while the real world is not. 
 
-also this could build some hierarchy like: real world -> world model -> agent -> superagent -> ... 
-
+also this could build some hierarchy like: real world -> world model -> agent -> superagent -> ...
