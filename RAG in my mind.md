@@ -1,14 +1,14 @@
 ---
 title: RAG in my mind
 created: 2023-12-20T18:36:32+00:00
-modified: 2024-08-23T15:14:42+08:00
+modified: 2024-08-23T15:14:51+08:00
 ---
 
 # RAG in my mind
 
 sciphi-ai r2r triplex agent-search
 
-https://sciphi.com/models
+https://sciphi.ai/models
 
 ---
 
