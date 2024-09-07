@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T11:39:40+08:00
-modified: 2024-09-08T05:30:30+08:00
+modified: 2024-09-08T05:31:08+08:00
 ---
 
 # Change default IP range settings for network sharing
@@ -8,6 +8,8 @@ modified: 2024-09-08T05:30:30+08:00
 When use network sharing along with k8s things could go wrong. Ubuntu uses `10.42.0.1/24` which interferes with k8s routing table. It has a larger `metric` value so the network will be shadowed.
 
 To fix it you do not use `ip route` or `ip addr`. You use `nmcli`.
+
+You need to both change the connection and device IP addresses.
 
 To persist changes you need `nmcli con edit <connection_name>`
 
