@@ -1,7 +1,7 @@
 ---
 title: Tailscale self-hosted server
 created: '2024-09-08T15:03:04.323Z'
-modified: '2024-09-08T15:32:24.217Z'
+modified: '2024-09-08T15:33:04.539Z'
 ---
 
 # Tailscale self-hosted server
@@ -9,3 +9,12 @@ modified: '2024-09-08T15:32:24.217Z'
 Use `headscale` (still need `tailscale` client)
 
 https://headscale.net/running-headscale-linux/
+
+---
+
+Install `tailscale`:
+
+```bash
+curl -fsSL https://tailscale.com/install.sh | sh
+
+```
