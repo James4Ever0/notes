@@ -1,9 +1,14 @@
 ---
-created: 2024-07-08T16:59:45+08:00
-modified: 2024-07-26T14:49:35+08:00
+title: PM2 daemonize any app
+created: '2024-07-08T08:59:45.000Z'
+modified: '2024-09-08T15:05:43.845Z'
 ---
 
 # PM2 daemonize any app
+
+recover stopped processes by `pm2 resurrect`
+
+---
 
 remember to set unbuffered output flag `-u` before running any python script, otherwise there will be no output in `pm2 log`
 
