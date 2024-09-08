@@ -1,11 +1,15 @@
 ---
 tags: [botnet, crypto mining, hacking, tutorial, virus]
 title: 'zeroday ai, hacking assistant: 0dai'
-created: 2022-07-11T15:43:20+00:00
-modified: 2024-08-13T11:02:10+08:00
+created: '2022-07-11T15:43:20.000Z'
+modified: '2024-09-08T15:11:52.838Z'
 ---
 
 zeroday ai, hacking assistant: [0dai](https://0dai.omegaai.io/en)
+
+---
+
+https://deelmind.com
 
 ---
 
