@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-12T15:48:15+08:00
+modified: 2024-09-12T15:51:31+08:00
 ---
 
 # PVE tips
@@ -26,7 +26,7 @@ Do not ever do this.
 
 You may enable nested virtualization on PVE host with `pvetools`, but you need to tweak VM arguments manually.
 
-Edit the VM config at: ``
+Edit the VM config at: `/etc/pve/qemu-server/<VMID>.conf`
 
 Append additional CPU config `vmx` to the config.
 
