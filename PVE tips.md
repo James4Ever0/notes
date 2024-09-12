@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-12T16:06:55+08:00
+modified: 2024-09-12T16:11:55+08:00
 ---
 
 # PVE tips
@@ -21,6 +21,10 @@ Make sure there is no TOTP anywhere.
 Make sure nodes can ping each other by self-recognized IP addresses.
 
 ## Migrate to PVE
+
+https://clonezilla.org/
+
+https://pve.proxmox.com/wiki/Advanced_Migration_Techniques_to_Proxmox_VE
 
 ## Make VM to start on boot
 
