@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-14T16:13:39+08:00
+modified: 2024-09-14T16:14:41+08:00
 ---
 
 # PVE tips
@@ -101,11 +101,7 @@ curl -O http://10.128.0.1:8000/testfile
 
 ## Setup second network interface in virtual machine
 
-For Ubuntu, first install necessary tools:
-
-```bash
-sudo apt install ifupdown
-```
+### Ubuntu
 
 Get the network interface name
 
