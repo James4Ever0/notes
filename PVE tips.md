@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-14T14:39:14+08:00
+modified: 2024-09-14T16:13:39+08:00
 ---
 
 # PVE tips
@@ -97,4 +97,33 @@ python3 -m http.server
 
 # second machine, 10.128.0.2
 curl -O http://10.128.0.1:8000/testfile
+```
+
+## Setup second network interface in virtual machine
+
+For Ubuntu, first install necessary tools:
+
+```bash
+sudo apt install ifupdown
+```
+
+Get the network interface name
+
+```bash
+ip link
+```
+
+Next, edit the file `/etc/network/interfaces`:
+
+```
+auto <interface_name>
+iface <interface_name> inet static
+    address 10.60.0.3
+    netmask 255.255.255.0
+```
+
+Restart the service
+
+```bash
+sudo systemctl restart networking
 ```
