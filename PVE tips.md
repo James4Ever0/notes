@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-14T13:50:40+08:00
+modified: 2024-09-14T14:24:09+08:00
 ---
 
 # PVE tips
@@ -75,6 +75,7 @@ Next list all network interfaces:
 
 ```bash
 ip link
+ip link set up <interface_name>
 ```
 
 Check the suspected network interface:
