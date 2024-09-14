@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-14T10:19:54+08:00
+modified: 2024-09-14T13:50:40+08:00
 ---
 
 # PVE tips
@@ -57,6 +57,8 @@ https://johnscs.com/remove-proxmox51-subscription-notice
 Sometimes your default network card will be named differently after plugging in a new Melloanox card.
 
 You can either hard-code default network card with MAC address or configure the bridge network with new card name.
+
+https://pve.proxmox.com/wiki/Network_Configuration
 
 ## Setup Mellanox intranet connection
 
