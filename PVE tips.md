@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-12T16:11:55+08:00
+modified: 2024-09-14T10:06:34+08:00
 ---
 
 # PVE tips
@@ -51,3 +51,47 @@ https://www.netjue.com/15341.html
 You can use `pvetools` to remove the notice, or do it manually below:
 
 https://johnscs.com/remove-proxmox51-subscription-notice
+
+## Fix Mellanox network card conflicts.
+
+Sometimes your default network card will be named differently after plugging in a new Melloanox card.
+
+You can either hard-code default network card with MAC address or configure the bridge network with new card name.
+
+## Setup Mellanox intranet connection
+
+PVE has mlnx-core driver, and is enough to get 10G ethernet.
+
+First install necessary tools:
+
+```bash
+apt update
+apt install -y ethtool net-tools
+```
+
+Next list all network interfaces:
+
+```bash
+ip link
+```
+
+Check the suspected network interface:
+
+```bash
+ethtool <interface_name> | grep -E 'Speed|Link detected'
+```
+
+Now get the names of 10Gb/s and connected interfaces, create two Linux bridge networks on both machines, with IP addresses like `10.128.0.1/24` and `10.128.0.2/24` respectively.
+
+Ping each other and test file transfer:
+
+```bash
+# first machine, 10.128.0.1
+ping -c 1 10.128.0.1
+ping -c 1 10.128.0.2
+fallocate -l 20G testfile
+python3 -m http.server
+
+# second machine, 10.128.0.2
+curl -O http://10.128.0.1:8000/testfile
+```
