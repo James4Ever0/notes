@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-14T10:06:34+08:00
+modified: 2024-09-14T10:19:54+08:00
 ---
 
 # PVE tips
@@ -52,7 +52,7 @@ You can use `pvetools` to remove the notice, or do it manually below:
 
 https://johnscs.com/remove-proxmox51-subscription-notice
 
-## Fix Mellanox network card conflicts.
+## Fix Mellanox network card conflicts
 
 Sometimes your default network card will be named differently after plugging in a new Melloanox card.
 
