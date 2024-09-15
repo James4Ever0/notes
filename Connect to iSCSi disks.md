@@ -1,7 +1,7 @@
 ---
 title: Connect to iSCSi disks
 created: '2024-09-12T07:31:22.000Z'
-modified: '2024-09-15T05:41:02.951Z'
+modified: '2024-09-15T05:41:19.463Z'
 ---
 
 # Connect to iSCSi disks
@@ -36,5 +36,6 @@ sudo systemctl restart iscsid open-iscsi
 Join the node:
 
 ```bash
+sudo iscsiadm -m discovery -t sendtargets -p <target_ip>
 
 ```
