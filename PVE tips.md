@@ -1,7 +1,7 @@
 ---
 title: PVE tips
-created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-14T16:14:41+08:00
+created: '2024-09-08T15:04:23.000Z'
+modified: '2024-09-15T04:42:56.848Z'
 ---
 
 # PVE tips
@@ -57,6 +57,17 @@ https://johnscs.com/remove-proxmox51-subscription-notice
 Sometimes your default network card will be named differently after plugging in a new Melloanox card, or changing PCIE spliting configurations.
 
 You can either hard-code default network card with MAC address or configure the bridge network with new card name.
+
+If you just want to temporarily fix the issue, do the following:
+
+```bash
+systemctl # look for ethernet device names
+ip link set up <device_name>
+pvesh get /nodes/<node_name>/network
+pvesh set /nodes/<node_name>/network/vmbr<bridge_number>
+ --type bridge --node_gateway```
+
+
 
 https://pve.proxmox.com/wiki/Network_Configuration
 
