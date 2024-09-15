@@ -1,7 +1,7 @@
 ---
 title: Connect to iSCSi disks
 created: '2024-09-12T07:31:22.000Z'
-modified: '2024-09-15T05:40:32.272Z'
+modified: '2024-09-15T05:40:48.525Z'
 ---
 
 # Connect to iSCSi disks
@@ -22,5 +22,13 @@ InitiatorName <prefix>.org.freenas.ctl
 Edit `/etc/iscsi/iscsid.conf` with `sudo` (if has password):
 
 ```
+node.session.auth.authmethod = CHAP
+node.session.auth.username = username
+node.session.auth.password = password
+```
+
+Restart services:
+
+```bash
 
 ```
