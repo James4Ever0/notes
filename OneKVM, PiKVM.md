@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:29:55.021Z'
+modified: '2024-09-15T06:30:33.204Z'
 ---
 
 # OneKVM, PiKVM
@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
 ```
 
-To enable command execution by buttons on the web interface, write something like this under ``:
+To enable command execution by buttons on the web interface, write something like this under `/etc/kvmd/override.d/gpio.yaml`:
 
 ```yaml
 kvmd:
