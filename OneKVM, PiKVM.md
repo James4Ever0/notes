@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:43:19.684Z'
+modified: '2024-09-15T06:43:36.295Z'
 ---
 
 # OneKVM, PiKVM
@@ -31,7 +31,7 @@ We then solder the other ends to the back of the button. Before soldering you ca
  ------------ Wire B
 ```
 
-To command a USB relay, we save the code as `usbrelay.c` and compile with `gcc `:
+To command a USB relay, we save the code as `usbrelay.c` and compile with `gcc -o usbrelay usbrelay.c`:
 
 ```c
 #include <linux/types.h>
