@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:30:33.204Z'
+modified: '2024-09-15T06:30:57.193Z'
 ---
 
 # OneKVM, PiKVM
@@ -92,7 +92,7 @@ kvmd:
         drivers:
             toggle_switch:
                 type: cmd
-                cmd: ["<absolute_path_of_binary", <arguments>]
+                cmd: ["<absolute_path_of_binary>", "<arg1>", ...]
         scheme:
             toggle_switch:
                 driver: toggle_switch
