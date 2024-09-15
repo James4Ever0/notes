@@ -1,25 +1,44 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:34:35.815Z'
+modified: '2024-09-15T06:41:58.384Z'
 ---
 
 # OneKVM, PiKVM
 
-To 
-
+We select pin `NO` and `CC` for our programmable switch.
 
 Top view of a USB relay:
 
 ```
- _____
-|     |
-|     |
-|     |
- -----
-|  |  |
-x  x
-   
+  ______
+ |      |   NO - Normally Open
+ |SONGLE|   CC - Commonly Connected
+ |      |   NC - Normally Closed
+  ------     x - Selected pins
+ |   |  |
+ x   x
+ NO  CC NC  
+```
+
+We then solder the other ends to the back of the button. Before soldering you can glue the wires close to the metal ends.
+
+```
+ ____________ Wire A
+  |__ __ __|
+     |  | Button
+  |-- -- --|
+ ------------ Wire B
+```
+
+To command a USB relay, we compile the code below with `gcc`:
+
+```c
+
+```
+Then run:
+
+```bash
 
 ```
 
