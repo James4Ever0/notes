@@ -1,7 +1,7 @@
 ---
 title: Connect to iSCSi disks
 created: '2024-09-12T07:31:22.000Z'
-modified: '2024-09-15T05:42:33.052Z'
+modified: '2024-09-15T05:42:59.012Z'
 ---
 
 # Connect to iSCSi disks
@@ -40,8 +40,13 @@ sudo iscsiadm -m discovery -t sendtargets -p <portal_ip>
 sudo iscsiadm --mode node --targetname <prefix>.org.freenas.ctl:<target_name> --portal <portal_ip> --login
 ```
 
-To connect all targets:
+To login/logout all targets:
 
 ```bash
+# login
 sudo iscsiadm -m node -l
+# logout
+sudo iscsiadm -m node -u
 ```
+
+
