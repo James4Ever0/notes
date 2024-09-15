@@ -1,10 +1,14 @@
 ---
 title: Split PCI-E x16 into multiple small PCI-E channels
-created: 2024-09-08T14:55:47+00:00
-modified: 2024-09-14T16:38:21+08:00
+created: '2024-09-08T14:55:47.000Z'
+modified: '2024-09-15T05:47:24.897Z'
 ---
 
 # Split PCI-E x16 into multiple small PCI-E channels
+
+For smaller motherboards there is no need to configure PCI-E spliting, otherwise you may not be able to use the GPU during boot (BIOS banner). If you do please reset the BIOS by physical motherboard jumpers.
+
+---
 
 For HUANANZHI F8D-Plus motherboard, in order to get three x16 splited, you configure like such:
 
