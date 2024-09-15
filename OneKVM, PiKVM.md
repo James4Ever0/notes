@@ -1,10 +1,16 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:44:25.746Z'
+modified: '2024-09-15T06:46:32.985Z'
 ---
 
 # OneKVM, PiKVM
+
+Alternative:
+
+https://github.com/BigfootACA/webrtc-kvm
+
+---
 
 We select pin `NO` and `CC` for our programmable switch.
 
