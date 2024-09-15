@@ -1,7 +1,7 @@
 ---
 title: Setup RAID5 on LVM
 created: '2024-09-12T08:12:46.000Z'
-modified: '2024-09-15T04:47:38.113Z'
+modified: '2024-09-15T04:49:01.491Z'
 ---
 
 # Setup RAID5
@@ -34,7 +34,7 @@ mkfs.ext4 /dev/md0
 And append the following line to `/etc/fstab`, then reboot.
 
 ```bash
-UUID=<filesystem_uuid> 
+UUID=<filesystem_uuid> /mnt/<mountpoint_name> ext4 nofail 0 2
 ```
 
 If you want to create a RAID array across different disks with different sizes, make sure the larger physical disks each have one smaller partition with size identical to the smallest physical disk.
