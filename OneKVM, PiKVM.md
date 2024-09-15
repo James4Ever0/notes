@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:46:32.985Z'
+modified: '2024-09-15T06:47:29.554Z'
 ---
 
 # OneKVM, PiKVM
@@ -9,6 +9,10 @@ modified: '2024-09-15T06:46:32.985Z'
 Alternative:
 
 https://github.com/BigfootACA/webrtc-kvm
+
+CH9329 references:
+
+https://blog.csdn.net/WCH_TechGroup/article/details/132202410
 
 ---
 
