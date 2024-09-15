@@ -1,7 +1,7 @@
 ---
 title: Tailscale self-hosted server
 created: '2024-09-08T15:03:04.323Z'
-modified: '2024-09-08T15:33:04.539Z'
+modified: '2024-09-15T05:56:08.648Z'
 ---
 
 # Tailscale self-hosted server
@@ -16,5 +16,4 @@ Install `tailscale`:
 
 ```bash
 curl -fsSL https://tailscale.com/install.sh | sh
-
 ```
