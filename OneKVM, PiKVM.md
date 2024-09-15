@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:41:58.384Z'
+modified: '2024-09-15T06:43:19.684Z'
 ---
 
 # OneKVM, PiKVM
@@ -31,9 +31,141 @@ We then solder the other ends to the back of the button. Before soldering you ca
  ------------ Wire B
 ```
 
-To command a USB relay, we compile the code below with `gcc`:
+To command a USB relay, we save the code as `usbrelay.c` and compile with `gcc `:
 
 ```c
+#include <linux/types.h>
+#include <linux/input.h>
+#include <linux/hidraw.h>
+ 
+#include <sys/types.h>
+#include <sys/ioctl.h>
+#include <sys/stat.h>
+ 
+#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdint.h>
+#include <fcntl.h>
+#include <errno.h>
+ 
+int find_usbrelay()
+{
+	int found = 0;
+	int fd = -1;
+	int result;
+	int id;
+ 
+	char path[32];
+	
+	const struct hidraw_devinfo usb_relay_info = 
+	{
+		.bustype = BUS_USB,
+		.vendor = 0x5131,
+		.product = 0x2007
+	};
+ 
+	struct hidraw_devinfo t_info;
+ 
+	for(id = 0; !found; id++)	
+	{
+		sprintf(path, "/dev/hidraw%d", id);
+ 
+		fd = open(path, O_RDWR | O_NONBLOCK);
+		if (fd < 0)
+			break;
+ 
+		result = ioctl(fd, HIDIOCGRAWINFO, &t_info);
+		if (result < 0)
+			break;
+	
+		if ((t_info.bustype == usb_relay_info.bustype)
+		&& (t_info.vendor == usb_relay_info.vendor)
+		&& (t_info.product == usb_relay_info.product))
+		{
+			found = 1;
+			break;
+		}
+ 
+		close(fd);
+		fd = -1;
+	}
+ 
+	if (fd >= 0)
+		close(fd);
+ 
+	return found ? id : -1;
+}
+ 
+int set_usbrelay_onoff(int id, int ch, int onoff)
+{
+	int fd = -1;
+	uint8_t cmd[8];
+ 
+	char path[32];
+ 
+	do
+	{
+		sprintf(path, "/dev/hidraw%d", id);
+ 
+		fd = open(path, O_RDWR | O_NONBLOCK);
+		if (fd < 0)
+			break;
+ 
+		cmd[0] = 0xA0;
+		cmd[1] = ch;    // 1, 2
+		cmd[2] = onoff; // 0, 1
+		cmd[3] = cmd[0] + cmd[1] + cmd[2];
+ 
+		write(fd, cmd, 4);
+ 
+	} while(0);
+ 
+	if (fd >= 0)
+		close(fd);
+ 
+	return 0;
+}
+ 
+int main(int argc, char *argv[])
+{
+	int result;
+	int id;
+	int ch;
+	int onoff;
+	char path[32];
+ 
+	do
+	{
+		if (argc != 3)
+		{
+			printf("Usage:\n"
+			"\tusbrelay ch on|off\n");
+			break;
+		}
+ 
+		ch = atoi(argv[1]);
+		if (strcmp(argv[2], "on") == 0)
+			onoff = 1;
+		else if (strcmp(argv[2], "off") == 0)
+			onoff = 0;
+		else
+			break;
+ 
+		id = find_usbrelay();
+		if (id < 0)
+		{
+			printf("usbrelay not found\n");
+			break;
+		}
+ 
+		set_usbrelay_onoff(id, ch, onoff);
+ 
+	} while(0);
+ 
+	return 0;
+}
 
 ```
 Then run:
