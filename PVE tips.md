@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-09-15T04:44:33.784Z'
+modified: '2024-09-15T04:46:16.352Z'
 ---
 
 # PVE tips
@@ -66,6 +66,7 @@ ip link set up <device_name>
 pvesh get /nodes/<node_name>/network
 pvesh set /nodes/<node_name>/network/vmbr<bridge_number>
  --type bridge --bridge_ports <device_name>
+systemctl restart networking # or reboot if it has no effect
 ```
 
 
