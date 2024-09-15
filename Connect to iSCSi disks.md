@@ -1,7 +1,7 @@
 ---
 title: Connect to iSCSi disks
 created: '2024-09-12T07:31:22.000Z'
-modified: '2024-09-15T05:35:52.081Z'
+modified: '2024-09-15T05:35:57.524Z'
 ---
 
 # Connect to iSCSi disks
@@ -16,5 +16,5 @@ sudo apt install open-iscsi
 Edit the file `/etc/iscsi/initiatorname.conf` with `sudo`
 
 ```
-
+InitiatorName 
 ```
