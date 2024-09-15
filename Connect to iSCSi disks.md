@@ -1,7 +1,7 @@
 ---
 title: Connect to iSCSi disks
 created: '2024-09-12T07:31:22.000Z'
-modified: '2024-09-15T05:40:48.525Z'
+modified: '2024-09-15T05:41:02.951Z'
 ---
 
 # Connect to iSCSi disks
@@ -28,6 +28,12 @@ node.session.auth.password = password
 ```
 
 Restart services:
+
+```bash
+sudo systemctl restart iscsid open-iscsi
+```
+
+Join the node:
 
 ```bash
 
