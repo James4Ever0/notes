@@ -1,7 +1,7 @@
 ---
 title: Connect to iSCSi disks
 created: '2024-09-12T07:31:22.000Z'
-modified: '2024-09-15T05:42:59.012Z'
+modified: '2024-09-15T05:43:44.198Z'
 ---
 
 # Connect to iSCSi disks
@@ -49,4 +49,4 @@ sudo iscsiadm -m node -l
 sudo iscsiadm -m node -u
 ```
 
-
+Now you can view the disk via `sudo fdisk -l`, and use the disk as local physical disks.
