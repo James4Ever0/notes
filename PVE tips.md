@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-09-15T06:51:02.131Z'
+modified: '2024-09-15T06:52:14.581Z'
 ---
 
 # PVE tips
@@ -23,6 +23,8 @@ echo "nameserver 8.8.8.8" >> /etc/resolv.conf && rm -rf pvetools && rm -rf /etc/
 Make sure there is no TOTP anywhere.
 
 Make sure nodes can ping each other by self-recognized IP addresses.
+
+https://rudimartinsen.com/2024/06/03/proxmox-pve-cluster
 
 ## Migrate to PVE
 
