@@ -1,10 +1,29 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:30:57.193Z'
+modified: '2024-09-15T06:34:35.815Z'
 ---
 
 # OneKVM, PiKVM
+
+To 
+
+
+Top view of a USB relay:
+
+```
+ _____
+|     |
+|     |
+|     |
+ -----
+|  |  |
+x  x
+   
+
+```
+
+---
 
 USB connected video capture dongles tend to fail. We need to reset it often to prevent failures.
 
