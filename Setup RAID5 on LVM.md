@@ -1,7 +1,7 @@
 ---
 title: Setup RAID5 on LVM
 created: '2024-09-12T08:12:46.000Z'
-modified: '2024-09-15T04:49:01.491Z'
+modified: '2024-09-15T04:49:44.862Z'
 ---
 
 # Setup RAID5
@@ -26,7 +26,7 @@ To create a five disk RAID5 array plus one hot spare disk ranging from `/dev/sd[
 
 ```bash
 wipefs -a -f /dev/sd[bcdefg]
-mdadm --create --type raid5
+mdadm --create --level=5 --raid-devices=5 /dev/sd[bcdef] --spare-devices=1 /dev/sdg
 mkfs.ext4 /dev/md0
 # after this step you need to collect the filesystem UUID
 ```
