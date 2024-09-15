@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-09-15T04:42:56.848Z'
+modified: '2024-09-15T04:44:33.784Z'
 ---
 
 # PVE tips
@@ -65,7 +65,8 @@ systemctl # look for ethernet device names
 ip link set up <device_name>
 pvesh get /nodes/<node_name>/network
 pvesh set /nodes/<node_name>/network/vmbr<bridge_number>
- --type bridge --node_gateway```
+ --type bridge --bridge_ports <device_name>
+```
 
 
 
