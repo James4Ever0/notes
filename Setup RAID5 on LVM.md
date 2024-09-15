@@ -1,7 +1,7 @@
 ---
 title: Setup RAID5 on LVM
 created: '2024-09-12T08:12:46.000Z'
-modified: '2024-09-15T04:49:44.862Z'
+modified: '2024-09-15T04:54:27.624Z'
 ---
 
 # Setup RAID5
@@ -28,7 +28,8 @@ To create a five disk RAID5 array plus one hot spare disk ranging from `/dev/sd[
 wipefs -a -f /dev/sd[bcdefg]
 mdadm --create --level=5 --raid-devices=5 /dev/sd[bcdef] --spare-devices=1 /dev/sdg
 mkfs.ext4 /dev/md0
-# after this step you need to collect the filesystem UUID
+# after this step you need to collect the filesystem UUIDf within the command output, or from the output below
+lsblk -o NAME,UUID
 ```
 
 And append the following line to `/etc/fstab`, then reboot.
