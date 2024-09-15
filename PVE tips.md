@@ -1,12 +1,16 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-09-15T04:46:16.352Z'
+modified: '2024-09-15T06:51:02.131Z'
 ---
 
 # PVE tips
 
 https://pve.sqlsec.com
+
+## Import QCOW2 files to PVE
+
+https://getlabsdone.com/how-to-import-qcow2-into-proxmox-server-step-by-step
 
 ## Install pvetools
 
