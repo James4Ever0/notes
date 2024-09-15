@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:43:36.295Z'
+modified: '2024-09-15T06:44:25.746Z'
 ---
 
 # OneKVM, PiKVM
@@ -171,7 +171,9 @@ int main(int argc, char *argv[])
 Then run:
 
 ```bash
-
+# toggle the switch remotely
+./usbrelay 1 on
+./usbrelay 1 off
 ```
 
 ---
