@@ -1,14 +1,24 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:47:29.554Z'
+modified: '2024-09-15T06:54:35.848Z'
 ---
 
 # OneKVM, PiKVM
 
+References:
+
+https://one-kvm.mofeng.run
+
+https://docs.pikvm.org/multiport
+
+https://docs.pikvm.org/gpio
+
 Alternative:
 
 https://github.com/BigfootACA/webrtc-kvm
+
+https://github.com/binnerhot/KVM-over-USB
 
 CH9329 references:
 
