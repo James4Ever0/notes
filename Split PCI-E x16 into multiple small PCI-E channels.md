@@ -1,14 +1,14 @@
 ---
 title: Split PCI-E x16 into multiple small PCI-E channels
 created: '2024-09-08T14:55:47.000Z'
-modified: '2024-09-15T05:48:01.565Z'
+modified: '2024-09-15T05:48:12.452Z'
 ---
 
 # Split PCI-E x16 into multiple small PCI-E channels
 
 For smaller motherboards there is no need to configure PCI-E spliting, otherwise you may not be able to use the GPU during boot (BIOS banner). If you do please reset the BIOS by physical motherboard jumpers.
 
-You may still want to enable SR-IOV and Above 4G decoding in PCI-E settings.
+You may still want to enable `SR-IOV` and `Above 4G decoding` in PCI-E settings.
 
 ---
 
