@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:28:47.249Z'
+modified: '2024-09-15T06:29:00.347Z'
 ---
 
 # OneKVM, PiKVM
@@ -87,4 +87,5 @@ if __name__ == "__main__":
 To enable command execution by buttons on the web interface, write something like this under ``:
 
 ```yaml
+
 ```
