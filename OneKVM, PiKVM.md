@@ -1,7 +1,7 @@
 ---
 title: 'OneKVM, PiKVM'
 created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:29:00.347Z'
+modified: '2024-09-15T06:29:55.021Z'
 ---
 
 # OneKVM, PiKVM
@@ -87,5 +87,19 @@ if __name__ == "__main__":
 To enable command execution by buttons on the web interface, write something like this under ``:
 
 ```yaml
-
+kvmd:
+    gpio:
+        drivers:
+            toggle_switch:
+                type: cmd
+                cmd: ["<absolute_path_of_binary", <arguments>]
+        scheme:
+            toggle_switch:
+                driver: toggle_switch
+                pin: 0
+                mode: output
+                switch: false
+        view:
+            table:
+                - ["toggle_switch|confirm|Switch KVM machine"]
 ```
