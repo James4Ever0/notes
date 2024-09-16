@@ -1,7 +1,7 @@
 ---
 title: Connect HomeAssistant to Mijia and Tuya
 created: '2024-09-08T15:35:50.923Z'
-modified: '2024-09-16T06:52:39.893Z'
+modified: '2024-09-16T06:55:54.348Z'
 ---
 
 # Connect HomeAssistant to Mijia and Tuya
@@ -50,9 +50,14 @@ ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
 ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
 ```
 
-
 Edit the config file like this:
-```
 
+```
+#pcm.rear cards.pcm.rear
+#pcm.center_lfe cards.pcm.center_lfe
+#pcm.side cards.pcm.side
+#pcm.hdmi cards.pcm.hdmi
+#pcm.modem cards.pcm.modem
+#pcm.phoneline cards.pcm.phoneline
 ```
 
