@@ -1,7 +1,7 @@
 ---
 title: Connect HomeAssistant to Mijia and Tuya
 created: '2024-09-08T15:35:50.923Z'
-modified: '2024-09-16T06:49:45.675Z'
+modified: '2024-09-16T06:49:58.036Z'
 ---
 
 # Connect HomeAssistant to Mijia and Tuya
@@ -39,6 +39,14 @@ audio = pyaudio.PyAudio()
 If the following lines showing up, you may need to disable specific devices in ``:
 
 ```
-
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
 ```
 
