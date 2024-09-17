@@ -1,7 +1,7 @@
 ---
 title: Cursor AI IDE open source alternative
 created: '2024-09-16T14:08:08.582Z'
-modified: '2024-09-17T05:14:21.332Z'
+modified: '2024-09-17T05:30:42.858Z'
 ---
 
 # Cursor AI IDE open source alternative
@@ -11,6 +11,7 @@ https://github.com/meltylabs/melty
 https://github.com/yetone/avante.nvim
 
 ---
+If you use `lazy.nvim` to install `avante.nvim`, the `<leader>` key would be whitespace.
 
 To make `avante.nvim` compatible with local models, you have to modify the code under `~/.local/share/nvim/lazy/avante.nvim/lua/avante/providers/openai.lua`:
 
