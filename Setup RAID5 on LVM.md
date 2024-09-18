@@ -1,7 +1,7 @@
 ---
 title: Setup RAID5 on LVM
-created: '2024-09-12T08:12:46.000Z'
-modified: '2024-09-15T04:54:39.295Z'
+created: 2024-09-12T08:12:46+00:00
+modified: 2024-09-18T10:32:52+08:00
 ---
 
 # Setup RAID5
@@ -15,6 +15,16 @@ https://www.linuxjournal.com/content/review-gui-lvm-tools
 It is best that you simulate the whole process on a virtual machine, with six 1GB disks attached.
 
 Disable IO thread, use native async IO, and disable SSD emulation.
+
+---
+
+To permanently delete an RAID array `/dev/md0` presumeably on `/dev/sd[bdefg]`, you need to run the following script:
+
+```bash
+umount /dev/md0
+mdadm --stop /dev/md0
+wipefs -f -a /dev/sd[bcdefg]
+```
 
 ---
 
@@ -48,6 +58,3 @@ fdisk /dev/sd<disk_letter>
 # type: g Enter n Enter Enter Enter w Enter 
 # if you want to specify the partition size, type something other than default after 'n'
 ```
-
-
-
