@@ -1,7 +1,7 @@
 ---
 title: Setup RAID5 on LVM
 created: 2024-09-12T08:12:46+00:00
-modified: 2024-09-18T10:32:52+08:00
+modified: 2024-09-18T10:33:27+08:00
 ---
 
 # Setup RAID5
@@ -25,6 +25,8 @@ umount /dev/md0
 mdadm --stop /dev/md0
 wipefs -f -a /dev/sd[bcdefg]
 ```
+
+Remember to comment out any lines related to `/dev/md0` in `/etc/fstab`
 
 ---
 
