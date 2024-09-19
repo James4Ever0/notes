@@ -1,7 +1,7 @@
 ---
 title: Setup RAID5 on LVM
 created: 2024-09-12T08:12:46+00:00
-modified: 2024-09-18T10:33:27+08:00
+modified: 2024-09-19T14:28:15+08:00
 ---
 
 # Setup RAID5
@@ -17,6 +17,8 @@ It is best that you simulate the whole process on a virtual machine, with six 1G
 Disable IO thread, use native async IO, and disable SSD emulation.
 
 ---
+
+Always make sure stopping `/dev/md*`  devices with `mdadm --stop` before removing RAID headers with `wipefs -f -a`, otherwise creation would fail.
 
 To permanently delete an RAID array `/dev/md0` presumeably on `/dev/sd[bdefg]`, you need to run the following script:
 
