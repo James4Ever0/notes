@@ -1,12 +1,20 @@
 ---
 title: PVE tips
-created: '2024-09-08T15:04:23.000Z'
-modified: '2024-09-15T06:52:14.581Z'
+created: 2024-09-08T15:04:23+00:00
+modified: 2024-09-20T13:02:21+08:00
 ---
 
 # PVE tips
 
 https://pve.sqlsec.com
+
+## Setup LVM group
+
+```bash
+wipefs -f -a /dev/sd[abcdef]
+pvcreate /dev/sd[abcdef]
+vgcreate <vg_name> /dev/sd[abcdef]
+```
 
 ## Import QCOW2 files to PVE
 
