@@ -1,7 +1,7 @@
 ---
 title: SAS hard drives
 created: '2024-09-08T15:21:55.000Z'
-modified: '2024-09-21T05:06:29.256Z'
+modified: '2024-09-21T05:06:35.960Z'
 ---
 
 # SAS hard drives
@@ -22,4 +22,4 @@ Make sure both ports are usable before shipping. Notice any blinking LEDs which 
 
 Never underpower a SAS drive.
 
-Avoid parallel chaining cables more than 2 drives.
+Avoid parallel chaining cables more than 2 SAS drives.
