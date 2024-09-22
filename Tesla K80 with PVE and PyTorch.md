@@ -1,7 +1,7 @@
 ---
 title: Tesla K80 with PVE and PyTorch
 created: '2024-09-22T01:44:20.866Z'
-modified: '2024-09-22T01:45:52.128Z'
+modified: '2024-09-22T01:54:41.671Z'
 ---
 
 # Tesla K80 with PVE and PyTorch
@@ -9,7 +9,11 @@ modified: '2024-09-22T01:45:52.128Z'
 You can install linux driver upto 470.
 
 ```bash
-sudo apt install -y nvidia-driver-470-server
+sudo apt install -y nvidia-headless-470-server
 ```
 
+Install CUDA driver 11.8.
 
+```bash
+conda install -n <env_name> cudatoolkit=11.8
+```
