@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-09-22T07:22:03.352Z'
+modified: '2024-09-22T07:25:09.814Z'
 ---
 
 # PVE tips
@@ -9,6 +9,11 @@ modified: '2024-09-22T07:22:03.352Z'
 https://pve.sqlsec.com
 
 ## Pass disk to VM
+
+```bash
+# you need the disk id to ensure consistency, also do not mount the disk.
+qm set <vm_name> -scsi<disk_no> /dev/disk/by-id/<disk_id>
+```
 
 https://pve.proxmox.com/wiki/Passthrough_Physical_Disk_to_Virtual_Machine_(VM)
 
