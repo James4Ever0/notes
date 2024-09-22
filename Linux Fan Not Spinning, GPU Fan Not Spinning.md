@@ -1,11 +1,15 @@
 ---
 tags: [fan, hardware, linux, security, system manage, thermal]
-title: 'Linux Fan Not Spinning, GPU Fan Not Spinning'
-created: '2022-08-11T04:25:28.086Z'
-modified: '2022-09-09T01:02:34.270Z'
+title: Linux Fan Not Spinning, GPU Fan Not Spinning
+created: 2022-08-11T04:25:28+00:00
+modified: 2024-09-22T22:41:15+08:00
 ---
 
 # Linux Fan Not Spinning, GPU Fan Not Spinning
+
+you have to understand the scheme to get it right.
+
+---
 
 everytime the fucking machine restarts, it fails devastatingly.
 
@@ -47,4 +51,3 @@ Found the following PWM controls:
 
 
 ```
-
