@@ -1,12 +1,12 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T04:10:23.056Z'
+modified: '2024-09-22T04:45:17.649Z'
 ---
 
 # Wake on LAN
 
-If there is no light when your computer is suspended or off, then there is no way to WOL no matter how.
+If there is no light on the ethernet port when your computer is suspended or off, then there is no way to WOL no matter how.
 
 Try the following commands to enable WOL/WOWLAN:
 
