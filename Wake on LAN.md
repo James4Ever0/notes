@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T03:42:15.590Z'
+modified: '2024-09-22T03:47:31.534Z'
 ---
 
 # Wake on LAN
@@ -11,6 +11,8 @@ If there is no light when your computer is suspended or off, then there is no wa
 ---
 
 References:
+
+https://wiki.archlinux.org/title/Wake-on-LAN
 
 https://en.ittrip.xyz/linux/wake-on-lan-linux
 
