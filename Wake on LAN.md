@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T03:40:58.326Z'
+modified: '2024-09-22T03:41:13.933Z'
 ---
 
 # Wake on LAN
@@ -11,6 +11,8 @@ If there is no light when your computer is suspended or off, then there is no wa
 ---
 
 https://www.pcmag.com/how-to/turn-on-computer-from-across-the-house-with-wake-on-lan
+
+https://hackernoon.com/wake-on-lan-through-the-internet-491817e2dd41
 
 ---
 
