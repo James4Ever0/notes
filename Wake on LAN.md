@@ -1,14 +1,14 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T03:56:59.398Z'
+modified: '2024-09-22T03:59:23.763Z'
 ---
 
 # Wake on LAN
 
 If there is no light when your computer is suspended or off, then there is no way to WOL no matter how.
 
-Try following commands:
+Try the following commands to enable WOL/WOWLAN:
 
 ```bash
 ethtool -s <if_name> wol g
@@ -25,6 +25,19 @@ iw phy <phy_name> wowlan enable
 
 reboot
 ```
+
+To initiate magic packets:
+
+```bash
+
+```
+
+To receive magic packets:
+
+```bash
+
+```
+
 ---
 
 References:
