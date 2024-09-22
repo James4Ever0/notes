@@ -1,12 +1,16 @@
 ---
 title: PVE tips
-created: 2024-09-08T15:04:23+00:00
-modified: 2024-09-20T13:02:21+08:00
+created: '2024-09-08T15:04:23.000Z'
+modified: '2024-09-22T07:22:03.352Z'
 ---
 
 # PVE tips
 
 https://pve.sqlsec.com
+
+## Pass disk to VM
+
+https://pve.proxmox.com/wiki/Passthrough_Physical_Disk_to_Virtual_Machine_(VM)
 
 ## Setup LVM group
 
