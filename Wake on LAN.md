@@ -1,13 +1,22 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T03:47:31.534Z'
+modified: '2024-09-22T03:51:58.320Z'
 ---
 
 # Wake on LAN
 
 If there is no light when your computer is suspended or off, then there is no way to WOL no matter how.
 
+Try following commands:
+```bash
+ethtool -s <if_name> wol g
+
+nmcli con mod <eth_conn_name> 802.3-e
+nmcli con mod <wireless_conn_name>
+
+iw phy <phy_name> wol on
+```
 ---
 
 References:
