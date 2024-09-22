@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T04:09:02.234Z'
+modified: '2024-09-22T04:09:21.962Z'
 ---
 
 # Wake on LAN
@@ -29,6 +29,7 @@ reboot
 To initiate magic packets:
 
 ```bash
+# etherwake does not work as expected
 wakeonlan -i <target_ip> <target_mac>
 # the broadcast ip ends with 255
 wakeonlan -i <intranet_broadcast_ip> <target_mac>
