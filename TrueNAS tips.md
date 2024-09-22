@@ -1,14 +1,14 @@
 ---
 title: TrueNAS tips
 created: '2024-09-20T08:15:34.000Z'
-modified: '2024-09-22T07:19:54.217Z'
+modified: '2024-09-22T07:20:16.511Z'
 ---
 
 # TrueNAS tips
 
 https://pve.proxmox.com/wiki/Passthrough_Physical_Disk_to_Virtual_Machine_(VM)
 
-
+You can directly pass disks to VM
 
 ---
 TrueNAS SCALE needs to be installed on IDE disks.
