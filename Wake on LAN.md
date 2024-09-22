@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T03:55:54.971Z'
+modified: '2024-09-22T03:56:59.398Z'
 ---
 
 # Wake on LAN
@@ -9,6 +9,7 @@ modified: '2024-09-22T03:55:54.971Z'
 If there is no light when your computer is suspended or off, then there is no way to WOL no matter how.
 
 Try following commands:
+
 ```bash
 ethtool -s <if_name> wol g
 
@@ -18,7 +19,11 @@ nmcli con mod <eth_conn_name>  802-3-ethernet.auto-negotiate on
 nmcli con mod <wireless_conn_name> 802-11-wireless.wake-on-wlan magic
 nmcli con mod <wireless_conn_name> 802-11-wireless.powersave off
 
-iw phy <phy_name> wol on
+systemctl restart NetworkManager
+
+iw phy <phy_name> wowlan enable
+
+reboot
 ```
 ---
 
