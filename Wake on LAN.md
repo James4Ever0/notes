@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T04:09:21.962Z'
+modified: '2024-09-22T04:10:23.056Z'
 ---
 
 # Wake on LAN
@@ -38,7 +38,10 @@ wakeonlan -i <intranet_broadcast_ip> <target_mac>
 To receive magic packets:
 
 ```bash
+# bsd netcat
 nc -u -l 9 | xxd
+# gnu netcat
+nc --udp --listen --local-port=9 --hexdump
 ```
 
 To suspend a machine:
