@@ -1,7 +1,7 @@
 ---
 title: Tesla K80 with PVE and PyTorch
 created: '2024-09-22T01:44:20.866Z'
-modified: '2024-09-22T01:58:31.523Z'
+modified: '2024-09-22T01:58:54.569Z'
 ---
 
 # Tesla K80 with PVE and PyTorch
@@ -10,7 +10,7 @@ You may have to enable some flags like "All functions" and "PCI-E" when passing 
 
 ---
 
-You can install linux driver upto 470.
+You can install NVIDIA Linux driver upto 470.
 
 ```bash
 sudo apt install -y nvidia-headless-470-server
