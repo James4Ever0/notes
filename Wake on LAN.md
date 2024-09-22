@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T03:59:23.763Z'
+modified: '2024-09-22T03:59:41.495Z'
 ---
 
 # Wake on LAN
@@ -33,6 +33,12 @@ To initiate magic packets:
 ```
 
 To receive magic packets:
+
+```bash
+
+```
+
+To suspend a machine:
 
 ```bash
 
