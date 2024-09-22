@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T03:51:58.320Z'
+modified: '2024-09-22T03:52:20.292Z'
 ---
 
 # Wake on LAN
@@ -12,8 +12,8 @@ Try following commands:
 ```bash
 ethtool -s <if_name> wol g
 
-nmcli con mod <eth_conn_name> 802.3-e
-nmcli con mod <wireless_conn_name>
+nmcli con mod <eth_conn_name>  802-3-ethernet.wake-on-lan magic
+nmcli con mod <wireless_conn_name> magic
 
 iw phy <phy_name> wol on
 ```
