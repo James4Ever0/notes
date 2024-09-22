@@ -1,12 +1,14 @@
 ---
 title: TrueNAS tips
 created: '2024-09-20T08:15:34.000Z'
-modified: '2024-09-22T07:21:45.760Z'
+modified: '2024-09-22T07:26:25.546Z'
 ---
 
 # TrueNAS tips
 
 You can add different vdevs as read/write cache in pool settings.
+
+It is safe to add a read-cache device only. Write-cache need to use SLC SSD to ensure integrity when power loss occurs.
 
 ---
 TrueNAS SCALE needs to be installed on IDE disks.
