@@ -1,7 +1,7 @@
 ---
 title: Wake on LAN
 created: '2024-09-21T12:10:28.000Z'
-modified: '2024-09-22T04:07:46.237Z'
+modified: '2024-09-22T04:09:02.234Z'
 ---
 
 # Wake on LAN
@@ -29,7 +29,9 @@ reboot
 To initiate magic packets:
 
 ```bash
-
+wakeonlan -i <target_ip> <target_mac>
+# the broadcast ip ends with 255
+wakeonlan -i <intranet_broadcast_ip> <target_mac>
 ```
 
 To receive magic packets:
