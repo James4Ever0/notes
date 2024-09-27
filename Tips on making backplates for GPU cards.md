@@ -1,7 +1,7 @@
 ---
 title: Tips on making backplates for GPU cards
 created: '2024-09-26T06:48:06.000Z'
-modified: '2024-09-27T16:03:13.232Z'
+modified: '2024-09-27T16:03:37.015Z'
 ---
 
 # Tips on making backplates for GPU cards
@@ -10,4 +10,4 @@ Hold a piece of A4 paper against the GPU card, then use your nail to scrub out t
 
 You need to know the screw specs. For those empty holes, you may invert the male-to-female connectors upside down.
 
-You may want some nylon rondelles
+You may want some nylon rondelles to avoid conductivity.
