@@ -2,7 +2,7 @@
 tags: [fan, hardware, linux, security, system manage, thermal]
 title: 'Linux Fan Not Spinning, GPU Fan Not Spinning'
 created: '2022-08-11T04:25:28.000Z'
-modified: '2024-09-27T15:50:01.144Z'
+modified: '2024-09-27T15:52:23.373Z'
 ---
 
 # Linux Fan Not Spinning, GPU Fan Not Spinning
@@ -13,7 +13,9 @@ https://wiki.archlinux.org/title/Fan_speed_control
 
 you need to edit the file `/etc/fancontrol` several times till you get it right.
 
-when running `pwmconfig`, after having the pwm mappings, you need to further configure params like temp sources, min/max speed 
+when running `pwmconfig`, after having the pwm mappings, you need to further configure params like temp sources, min/max speed (which is the corresponded stable PWM readings at different speeds) etc.
+
+in order to get the names of temp sensors and pwm controllers, you need to investigate under ``
 
 ---
 
