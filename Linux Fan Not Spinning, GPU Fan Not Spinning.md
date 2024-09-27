@@ -2,7 +2,7 @@
 tags: [fan, hardware, linux, security, system manage, thermal]
 title: 'Linux Fan Not Spinning, GPU Fan Not Spinning'
 created: '2022-08-11T04:25:28.000Z'
-modified: '2024-09-27T15:45:10.794Z'
+modified: '2024-09-27T15:45:37.003Z'
 ---
 
 # Linux Fan Not Spinning, GPU Fan Not Spinning
@@ -11,7 +11,7 @@ you have to understand the scheme to get it right.
 
 https://wiki.archlinux.org/title/Fan_speed_control
 
-you need to edit the file `//` several times till you get it right.
+you need to edit the file `/etc/fancontrol` several times till you get it right.
 
 ---
 
