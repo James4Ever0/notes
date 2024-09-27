@@ -1,7 +1,7 @@
 ---
 title: Terminal password manager
 created: '2024-09-27T16:34:00.269Z'
-modified: '2024-09-27T16:36:10.532Z'
+modified: '2024-09-27T16:36:35.152Z'
 ---
 
 # Terminal password manager
@@ -21,8 +21,8 @@ gpg --delete-secret-and-public-keys <user_id>
 
 initialize, create and view password:
 
-```
+```bash
 pass init
-pass create <keyname>
+pass insert <keyname>
 pass show <keyname>
 ```
