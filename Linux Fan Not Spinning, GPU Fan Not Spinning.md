@@ -1,13 +1,15 @@
 ---
 tags: [fan, hardware, linux, security, system manage, thermal]
-title: Linux Fan Not Spinning, GPU Fan Not Spinning
-created: 2022-08-11T04:25:28+00:00
-modified: 2024-09-22T22:41:15+08:00
+title: 'Linux Fan Not Spinning, GPU Fan Not Spinning'
+created: '2022-08-11T04:25:28.000Z'
+modified: '2024-09-27T15:44:20.631Z'
 ---
 
 # Linux Fan Not Spinning, GPU Fan Not Spinning
 
 you have to understand the scheme to get it right.
+
+
 
 ---
 
