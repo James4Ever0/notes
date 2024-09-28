@@ -1,7 +1,7 @@
 ---
 title: TrueNAS tips
 created: '2024-09-20T08:15:34.000Z'
-modified: '2024-09-22T07:26:44.172Z'
+modified: '2024-09-28T03:42:03.389Z'
 ---
 
 # TrueNAS tips
@@ -17,4 +17,4 @@ To create a SAMBA share you need to create a dataset with SMB preset, and a sepa
 
 Remember to turn the service on (a blue switch to the left of the startup checkbox) while enabling it on boot.
 
-If you cannot load NAS disks in PVE, try to lessen permissions.
+If you cannot load NAS disks in PVE, try to lossen permissions.
