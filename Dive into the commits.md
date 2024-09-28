@@ -1,7 +1,7 @@
 ---
 title: Dive into the commits
 created: '2024-09-28T08:43:18.037Z'
-modified: '2024-09-28T10:29:41.715Z'
+modified: '2024-09-28T10:34:55.088Z'
 ---
 
 # Dive into the commits
@@ -24,5 +24,4 @@ To get modified files:
 git log --name-only # just file paths
 git log --name-status # file path with mod status
 ```
-
 
