@@ -1,7 +1,7 @@
 ---
 title: Migrate VM with non-ASCII name from ESXi to PVE
 created: '2024-10-03T10:21:54.244Z'
-modified: '2024-10-04T16:03:35.244Z'
+modified: '2024-10-04T16:05:34.518Z'
 ---
 
 # Migrate VM with non-ASCII name from ESXi to PVE
@@ -29,3 +29,6 @@ https://bugzilla.proxmox.com/show_bug.cgi?id=1909
 ---
 
 This issue is caused by Perl.
+
+The method `file_get_contents` in `/usr/share/perl5/PVE/Tools.pm` is not decoding the `.vmx` file as UTF8, which is the root cause of the problem.
+
