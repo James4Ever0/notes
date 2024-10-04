@@ -1,7 +1,7 @@
 ---
 title: Migrate VM with non-ASCII name from ESXi to PVE
 created: '2024-10-03T10:21:54.244Z'
-modified: '2024-10-04T16:06:44.604Z'
+modified: '2024-10-04T16:06:55.756Z'
 ---
 
 # Migrate VM with non-ASCII name from ESXi to PVE
@@ -22,6 +22,7 @@ ls -1 | awk '{new_var = $1; sub("<non_ascii_name>", "<ascii_name>"); print "mv "
 ls | grep -E '.(vmdk|vmx)' | grep -v flat | grep -v sesparse | xargs -Iabc sed -i 's/<non_ascii_name>/<ascii_name>/g' abc
 ```
 
+Then unregister the old VM, register the new VM and import normally.
 
 ---
 
