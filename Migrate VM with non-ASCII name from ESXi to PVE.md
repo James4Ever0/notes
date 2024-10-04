@@ -1,7 +1,7 @@
 ---
 title: Migrate VM with non-ASCII name from ESXi to PVE
 created: '2024-10-03T10:21:54.244Z'
-modified: '2024-10-04T16:06:55.756Z'
+modified: '2024-10-04T16:07:11.876Z'
 ---
 
 # Migrate VM with non-ASCII name from ESXi to PVE
@@ -41,6 +41,7 @@ https://lore.proxmox.com/pve-devel/42ea1a54-f553-4f5a-9892-722b1ad25058@proxmox.
 https://bugzilla.proxmox.com/show_bug.cgi?id=5747
 
 https://bugzilla.proxmox.com/show_bug.cgi?id=1909
+
 ---
 
 This issue is caused by Perl.
