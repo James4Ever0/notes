@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-05T17:59:49.679Z'
+modified: '2024-10-05T18:00:30.302Z'
 ---
 
 # PVE tips
@@ -9,6 +9,14 @@ modified: '2024-10-05T17:59:49.679Z'
 https://pve.sqlsec.com
 
 ## VM startup timeout after passing through GPU cards
+
+Try to run this command in `tmux`:
+
+```bash
+qm start <vmid> --timeout 0
+```
+
+Or configure hugepages:
 
 ## Host randomly crashes after passing through a single GPU connected to another GPU using NVLink
 
