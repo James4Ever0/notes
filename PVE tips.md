@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-05T18:00:30.302Z'
+modified: '2024-10-05T18:00:55.796Z'
 ---
 
 # PVE tips
@@ -13,7 +13,7 @@ https://pve.sqlsec.com
 Try to run this command in `tmux`:
 
 ```bash
-qm start <vmid> --timeout 0
+qm start <vmid> --timeout 0 # taking a long time for the first time, then it would be quick
 ```
 
 Or configure hugepages:
