@@ -1,12 +1,20 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-09-22T07:25:09.814Z'
+modified: '2024-10-05T17:59:49.679Z'
 ---
 
 # PVE tips
 
 https://pve.sqlsec.com
+
+## VM startup timeout after passing through GPU cards
+
+## Host randomly crashes after passing through a single GPU connected to another GPU using NVLink
+
+Pass two GPUs to the same VM, otherwise do not connect.
+
+Patch PCI passthrough settings:
 
 ## Pass disk to VM
 
