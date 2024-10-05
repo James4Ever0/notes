@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-05T18:03:44.605Z'
+modified: '2024-10-05T18:03:52.644Z'
 ---
 
 # PVE tips
@@ -20,7 +20,7 @@ Or configure hugepages:
 
 ## Host randomly crashes after passing through a single GPU connected to another GPU using NVLink
 
-Pass two GPUs to the same VM, otherwise neither.
+Pass two GPUs to the same VM, or neither.
 
 Patch PCI passthrough settings:
 
