@@ -1,7 +1,7 @@
 ---
 title: Dive into the commits
 created: '2024-09-28T08:43:18.037Z'
-modified: '2024-10-07T11:28:48.047Z'
+modified: '2024-10-07T11:29:13.993Z'
 ---
 
 # Dive into the commits
@@ -29,5 +29,6 @@ To get file diffs:
 
 ```bash
 git log -p
+git log -p -- <specific_file>
 ```
 
