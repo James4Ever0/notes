@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-06T03:31:30.035Z'
+modified: '2024-10-07T03:22:51.104Z'
 ---
 
 # PVE tips
@@ -17,6 +17,8 @@ qm start <vmid> --timeout 0
 ```
 
 Or configure hugepages:
+
+https://forum.proxmox.com/threads/vm-start-failed-got-timeout.66361/
 
 ## Host randomly crashes after passing through a single GPU connected to another GPU using NVLink
 
