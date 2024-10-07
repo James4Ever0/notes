@@ -1,7 +1,7 @@
 ---
 title: Migrate VM with non-ASCII name from ESXi to PVE
 created: '2024-10-03T10:21:54.244Z'
-modified: '2024-10-07T10:36:03.306Z'
+modified: '2024-10-07T10:36:18.857Z'
 ---
 
 # Migrate VM with non-ASCII name from ESXi to PVE
@@ -48,9 +48,10 @@ This issue is caused by Perl.
 
 The method `file_get_contents` in `/usr/share/perl5/PVE/Tools.pm` is not decoding the `.vmx` file as UTF8, which is the root cause of the problem.
 
+`src/PVE/Tools.pm`
 
 ```
-src/PVE/Tools.pm
+
 Original file line number	Diff line number	Diff line change
 @@ -3,6 +3,10 @@ package PVE::Tools;
 use strict;
