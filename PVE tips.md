@@ -1,12 +1,20 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-07T03:23:01.713Z'
+modified: '2024-10-07T03:27:02.702Z'
 ---
 
 # PVE tips
 
 https://pve.sqlsec.com
+
+## PVE cluster config read-only after removing a node
+
+```bash
+pvecm expected 1
+```
+
+https://aurlen.net/w/en/proxmox-etc-pve-nodes-node-qemu-server-read-only-after-removing-a-node-from-a-cluster
 
 ## VM startup timeout after passing through GPU cards
 
