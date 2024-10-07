@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-07T09:32:13.956Z'
+modified: '2024-10-07T09:33:15.848Z'
 ---
 
 # PVE tips
@@ -26,7 +26,11 @@ qm start <vmid> --timeout 0
 
 Or configure hugepages:
 
-Add `hugepagez=1GB default_hugepagez=2M` to file `/etc/default/grub`
+Add `hugepagez=1GB default_hugepagez=2M` to file `/etc/default/grub`, then run:
+
+```bash
+update-grub
+```
 
 Then change the VM config:
 
