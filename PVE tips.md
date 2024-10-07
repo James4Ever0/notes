@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-07T09:31:12.122Z'
+modified: '2024-10-07T09:32:13.956Z'
 ---
 
 # PVE tips
@@ -27,6 +27,13 @@ qm start <vmid> --timeout 0
 Or configure hugepages:
 
 Add `hugepagez=1GB default_hugepagez=2M` to file `/etc/default/grub`
+
+Then change the VM config:
+
+```bash
+qm set <vmid> --hugepages 1024
+qm set <vmid> --numa 2
+```
 
 https://forum.proxmox.com/threads/vm-start-failed-got-timeout.66361/
 
