@@ -1,7 +1,7 @@
 ---
 title: Migrate VM with non-ASCII name from ESXi to PVE
 created: '2024-10-03T10:21:54.244Z'
-modified: '2024-10-07T10:36:18.857Z'
+modified: '2024-10-07T10:36:24.295Z'
 ---
 
 # Migrate VM with non-ASCII name from ESXi to PVE
@@ -51,7 +51,6 @@ The method `file_get_contents` in `/usr/share/perl5/PVE/Tools.pm` is not decodin
 `src/PVE/Tools.pm`
 
 ```
-
 Original file line number	Diff line number	Diff line change
 @@ -3,6 +3,10 @@ package PVE::Tools;
 use strict;
