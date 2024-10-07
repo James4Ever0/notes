@@ -1,7 +1,7 @@
 ---
 title: Dive into the commits
 created: '2024-09-28T08:43:18.037Z'
-modified: '2024-10-07T11:28:27.462Z'
+modified: '2024-10-07T11:28:48.047Z'
 ---
 
 # Dive into the commits
@@ -28,6 +28,6 @@ git log --name-status # file path with mod status
 To get file diffs:
 
 ```bash
-git log
+git log -p
 ```
 
