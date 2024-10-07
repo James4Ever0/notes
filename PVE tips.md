@@ -1,7 +1,7 @@
 ---
 title: PVE tips
 created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-07T09:31:01.261Z'
+modified: '2024-10-07T09:31:12.122Z'
 ---
 
 # PVE tips
@@ -32,7 +32,7 @@ https://forum.proxmox.com/threads/vm-start-failed-got-timeout.66361/
 
 https://forum.proxmox.com/threads/one-of-20-kvm-vm-does-not-start-reliably.61011
 
-https://forum.proxmox.com/threads/enable-1gb-hugepages-for-vm-guest.59704/#:~:text=I've%20tried%20manually%20specifying%20in%20the
+https://forum.proxmox.com/threads/enable-1gb-hugepages-for-vm-guest.59704
 
 ## Host randomly crashes after passing through a single GPU connected to another GPU using NVLink
 
