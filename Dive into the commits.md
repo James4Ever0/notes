@@ -1,10 +1,14 @@
 ---
 title: Dive into the commits
-created: '2024-09-28T08:43:18.037Z'
-modified: '2024-10-07T11:29:13.993Z'
+created: 2024-09-28T08:43:18+00:00
+modified: 2024-10-11T09:12:09+08:00
 ---
 
 # Dive into the commits
+
+Take notes to a specific file while you code. It is important to note down observations and insights during reading code.
+
+---
 
 You need to know the development history of your project in order to recover the contexts and motivations. A most possible use case could be picking up an ongoing project weeks ago, but you do not know where to start or follow.
 
@@ -31,4 +35,3 @@ To get file diffs:
 git log -p
 git log -p -- <specific_file>
 ```
-
