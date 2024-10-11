@@ -1,10 +1,18 @@
 ---
-title: 'OneKVM, PiKVM'
-created: '2024-09-08T14:57:25.399Z'
-modified: '2024-09-15T06:54:35.848Z'
+title: OneKVM, PiKVM
+created: 2024-09-08T14:57:25+00:00
+modified: 2024-10-11T08:44:56+08:00
 ---
 
 # OneKVM, PiKVM
+
+OneCloud flashing reference:
+
+https://files.mofeng.run/
+
+https://one-kvm.mofeng.run/onecloud_install/
+
+https://www.ecoo.top/update/soft_init/amlproject/USB_Burning_Tool_v2.1.3.exe
 
 References:
 
