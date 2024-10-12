@@ -1,12 +1,12 @@
 ---
 title: PM2 daemonize any app
 created: 2024-07-08T08:59:45+00:00
-modified: 2024-10-12T18:03:38+08:00
+modified: 2024-10-12T18:05:01+08:00
 ---
 
 # PM2 daemonize any app
 
-get commandline info by `pm2 info <id>`
+get commandline info by `pm2 info <id>`. you can view them in "script path" and "script args"
 
 ---
 
