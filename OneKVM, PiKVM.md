@@ -1,7 +1,7 @@
 ---
 title: OneKVM, PiKVM
 created: 2024-09-08T14:57:25+00:00
-modified: 2024-10-12T16:01:35+08:00
+modified: 2024-10-12T16:24:35+08:00
 ---
 
 # OneKVM, PiKVM
@@ -14,7 +14,22 @@ You need to change `host` to `otg`.
 
 ---
 
+To change password you need to follwoing things:
 
+```bash
+# change root password
+passwd root
+
+# change webui password
+kvmd-htpasswd
+
+# disable unnecessary services
+systemctl stop kvmd-vnc
+systemctl disable kvmd-vnc
+
+systemctl stop kvmd-ipmi
+systemctl disable kvmd-ipmi
+```
 
 ---
 
