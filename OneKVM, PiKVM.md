@@ -1,10 +1,22 @@
 ---
 title: OneKVM, PiKVM
 created: 2024-09-08T14:57:25+00:00
-modified: 2024-10-11T08:44:56+08:00
+modified: 2024-10-12T16:01:35+08:00
 ---
 
 # OneKVM, PiKVM
+
+In order to use OTG-capable USB ports, one needs to change the device tree source code.
+
+For example, under this U-Boot repo, one can find the OneCloud device tree file under `lede/target/linux/meson/files/arch/arm/dts/meson8b-onecloud.dts`.
+
+You need to change `host` to `otg`.
+
+---
+
+
+
+---
 
 OneCloud flashing reference:
 
