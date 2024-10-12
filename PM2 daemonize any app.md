@@ -1,10 +1,14 @@
 ---
 title: PM2 daemonize any app
-created: '2024-07-08T08:59:45.000Z'
-modified: '2024-09-08T15:05:43.845Z'
+created: 2024-07-08T08:59:45+00:00
+modified: 2024-10-12T18:03:38+08:00
 ---
 
 # PM2 daemonize any app
+
+get commandline info by `pm2 info <id>`
+
+---
 
 recover stopped processes by `pm2 resurrect`
 
