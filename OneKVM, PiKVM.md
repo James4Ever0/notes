@@ -1,7 +1,7 @@
 ---
 title: OneKVM, PiKVM
 created: 2024-09-08T14:57:25+00:00
-modified: 2024-10-12T16:24:35+08:00
+modified: 2024-10-12T16:31:07+08:00
 ---
 
 # OneKVM, PiKVM
@@ -11,6 +11,10 @@ In order to use OTG-capable USB ports, one needs to change the device tree sourc
 For example, under this U-Boot repo, one can find the OneCloud device tree file under `lede/target/linux/meson/files/arch/arm/dts/meson8b-onecloud.dts`.
 
 You need to change `host` to `otg`.
+
+---
+
+For Raspberry Pi 3B+, one can use a micro-USB to two USB-A power/data spliter.
 
 ---
 
