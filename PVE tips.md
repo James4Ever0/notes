@@ -1,12 +1,20 @@
 ---
 title: PVE tips
-created: '2024-09-08T15:04:23.000Z'
-modified: '2024-10-07T09:36:39.660Z'
+created: 2024-09-08T15:04:23+00:00
+modified: 2024-10-12T19:16:27+08:00
 ---
 
 # PVE tips
 
 https://pve.sqlsec.com
+
+## Multi-ethernet and multi-bridge config
+
+If you plug in another ethernet cable while PVE is running, it won't work. Instead you have to set "Autostart" to on, while using `ethtool` to check the link presence.
+
+If you want to have multiple VM bridges, you do not set an IP like xxx.xxx.xxx.0/xx, instead make that zero some other number unoccupied, which will be the IP address of PVE host.
+
+Meanwhile, other VMs may need to manually configure IP addresses and gateway.
 
 ## PVE cluster config read-only after removing a node
 
