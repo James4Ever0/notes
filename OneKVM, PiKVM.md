@@ -1,10 +1,14 @@
 ---
 title: OneKVM, PiKVM
 created: 2024-09-08T14:57:25+00:00
-modified: 2024-10-12T16:31:07+08:00
+modified: 2024-10-12T19:06:55+08:00
 ---
 
 # OneKVM, PiKVM
+
+To change config in OneKVM you edit the file `/etc/kvmd/override.yaml`
+
+---
 
 In order to use OTG-capable USB ports, one needs to change the device tree source code.
 
