@@ -1,14 +1,14 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2024-10-13T06:01:00.552Z'
+modified: '2024-10-13T06:01:06.552Z'
 ---
 
 # cybergod related projects
 
 agents:
 
-
+https://github.com/Openmacro/openmacro
 
 ---
 
