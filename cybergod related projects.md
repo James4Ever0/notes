@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2024-10-13T06:01:06.552Z'
+modified: '2024-10-13T06:01:11.218Z'
 ---
 
 # cybergod related projects
@@ -9,6 +9,8 @@ modified: '2024-10-13T06:01:06.552Z'
 agents:
 
 https://github.com/Openmacro/openmacro
+
+https://github.com/sentient-engineering/agent-q
 
 ---
 
