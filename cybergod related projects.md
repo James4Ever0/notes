@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2024-10-13T06:01:11.218Z'
+modified: '2024-10-13T06:01:16.701Z'
 ---
 
 # cybergod related projects
@@ -11,6 +11,8 @@ agents:
 https://github.com/Openmacro/openmacro
 
 https://github.com/sentient-engineering/agent-q
+
+https://github.com/ErikBjare/gptme
 
 ---
 
