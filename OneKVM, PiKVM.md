@@ -1,7 +1,7 @@
 ---
 title: OneKVM, PiKVM
 created: 2024-09-08T14:57:25+00:00
-modified: 2024-10-12T19:06:55+08:00
+modified: 2024-10-13T15:53:28+08:00
 ---
 
 # OneKVM, PiKVM
@@ -18,7 +18,9 @@ You need to change `host` to `otg`.
 
 ---
 
-For Raspberry Pi 3B+, one can use a micro-USB to two USB-A power/data spliter.
+It is only possible on the Raspberry Pi 0, 0W, A, A+, 4 and 5. The Pi B, B+, 2, 3, 3A+, and 3B+ lack the required pin for OTG.
+
+For some Raspberry Pi, one can use a USB-C to two USB-A power/data spliter.
 
 ---
 
