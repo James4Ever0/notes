@@ -2,10 +2,16 @@
 tags: [lyric generation, music generation, singing, voice changer]
 title: Singing Voice Generation and more
 created: 2022-05-05T02:28:59+00:00
-modified: 2024-10-14T09:54:14+08:00
+modified: 2024-10-14T09:58:26+08:00
 ---
 
 # Singing Voice Generation and more
+
+audio embedding:
+
+https://github.com/marl/openl3
+
+---
 
 https://github.com/Stability-AI/stable-audio-tools
 
