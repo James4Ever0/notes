@@ -1,10 +1,12 @@
 ---
 title: Cursor AI IDE open source alternative
 created: '2024-09-16T14:08:08.582Z'
-modified: '2024-09-17T05:31:55.527Z'
+modified: '2024-10-14T16:03:47.616Z'
 ---
 
 # Cursor AI IDE open source alternative
+
+https://github.com/Aider-AI/aider
 
 https://github.com/meltylabs/melty
 
