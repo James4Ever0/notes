@@ -1,14 +1,14 @@
 ---
 title: PVE tips
 created: 2024-09-08T15:04:23+00:00
-modified: 2024-10-15T11:26:00+08:00
+modified: 2024-10-15T11:39:25+08:00
 ---
 
 # PVE tips
 
 https://pve.sqlsec.com
 
-Increase the MTU of both physical network cards and VM network cards to 9000 can effectively speed up bandwidth utilization.
+Increase the MTU of both physical network cards and VM network cards to 9000 can effectively speed up bandwidth utilization upto 10Gbps
 
 ## Multi-ethernet and multi-bridge config
 
