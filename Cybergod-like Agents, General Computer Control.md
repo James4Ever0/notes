@@ -1,7 +1,7 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2024-07-08T16:16:16+08:00
+modified: 2024-10-19T21:52:41+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -15,6 +15,10 @@ https://arxiv.org/abs/2406.02528
 https://github.com/KingNishHF/OpenGPT-4o
 
 [aider](https://aider.chat/) coding assist devon alternative
+
+realtime ai chatbot platform:
+
+https://github.com/TEN-framework/TEN-Agent
 
 kyutai [moshi](https://moshi.chat/) gpt4o alternative
 
