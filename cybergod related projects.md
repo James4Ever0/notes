@@ -1,10 +1,16 @@
 ---
 title: cybergod related projects
-created: '2023-12-25T14:56:50.000Z'
-modified: '2024-10-14T15:52:50.424Z'
+created: 2023-12-25T14:56:50+00:00
+modified: 2024-10-19T21:54:54+08:00
 ---
 
 # cybergod related projects
+
+multimodal model:
+
+https://molmo.org/zh
+
+---
 
 prompt engineering:
 
