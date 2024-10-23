@@ -1,10 +1,16 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-10-19T21:54:54+08:00
+modified: 2024-10-23T11:51:55+08:00
 ---
 
 # cybergod related projects
+
+claude ai computer use:
+
+https://docs.anthrophic.com/en/docs/build-with-claude/computer-use
+
+---
 
 multimodal model:
 
