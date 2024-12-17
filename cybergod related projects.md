@@ -1,10 +1,22 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-10-23T11:51:55+08:00
+modified: 2024-12-17T22:36:59+08:00
 ---
 
 # cybergod related projects
+
+https://github.com/sumleo/djinn-agent
+https://github.com/simular-ai/Agent-S
+https://github.com/deedy/mac_computer_use
+https://github.com/SALT-NLP/PopupAttack
+https://github.com/Clevrr-AI/Clevrr-Computer
+https://github.com/suitedaces/computer-agent
+https://github.com/showlab/ShowUI
+https://github.com/showlab/computer_use_ootb
+https://github.com/ranpox/awesome-computer-use
+
+---
 
 claude ai computer use:
 
