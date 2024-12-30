@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2024-12-17T22:36:59+08:00
+modified: 2024-12-30T11:28:44+08:00
 ---
 
 # cybergod related projects
+
+https://github.com/browser-use/browser-use
 
 https://github.com/sumleo/djinn-agent
 https://github.com/simular-ai/Agent-S
