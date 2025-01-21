@@ -6,6 +6,10 @@ modified: 2024-10-19T21:52:41+08:00
 
 # Cybergod-like Agents, General Computer Control
 
+internvl2.5
+
+minicpm-o
+
 matmul-free llm
 
 https://arxiv.org/abs/2406.02528
