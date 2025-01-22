@@ -6,6 +6,8 @@ modified: 2025-01-08T18:50:45+08:00
 
 # cybergod related projects
 
+https://github.com/FellouAI/eko
+
 https://ariaui.github.io
 
 https://github.com/browser-use/browser-use
