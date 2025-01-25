@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-25T14:25:49.426Z'
+modified: '2025-01-25T15:28:17.762Z'
 ---
 
 # cybergod related projects
+
+https://github.com/bytedance/UI-TARS-desktop
 
 https://openai.com/index/computer-using-agent/
 
