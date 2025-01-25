@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-25T17:23:36.030Z'
+modified: '2025-01-25T17:24:04.571Z'
 ---
 
 # cybergod related projects
+
+https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/
 
 https://agenttrek.github.io/
 
