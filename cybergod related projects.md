@@ -1,12 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-25T14:25:07.330Z'
+modified: '2025-01-25T14:25:49.426Z'
 ---
 
 # cybergod related projects
 
-
+https://openai.com/index/computer-using-agent/
 
 https://operator.chatgpt.com/
 
