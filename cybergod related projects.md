@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-25T17:24:04.571Z'
+modified: '2025-01-25T17:24:39.581Z'
 ---
 
 # cybergod related projects
+
+https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List
 
 https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/
 
