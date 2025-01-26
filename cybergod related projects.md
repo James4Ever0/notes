@@ -6,6 +6,8 @@ modified: '2025-01-25T17:24:39.581Z'
 
 # cybergod related projects
 
+https://pasa-agent.ai/home?query=computer+agent&session=1737866185090430853
+
 https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List
 
 https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/
