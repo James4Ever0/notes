@@ -2,12 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2025-01-28T09:37:36.776Z'
+modified: '2025-01-28T09:39:32.437Z'
 ---
 
 # disco diffusion and ai art
 
-
+https://huggingface.co/deepseek-ai/Janus-Pro-7B
 
 https://github.com/showlab/Show-o
 
