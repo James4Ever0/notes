@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-28T11:33:54.075Z'
+modified: '2025-01-28T11:34:05.128Z'
 ---
 
 # cybergod related projects
@@ -13,6 +13,8 @@ https://github.com/GAIR-NLP/PC-Agent
 https://github.com/francedot/acu
 
 https://github.com/Upsonic/Upsonic
+
+https://github.com/microsoft/WindowsAgentArena
 
 ---
 
