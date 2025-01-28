@@ -2,10 +2,12 @@
 tags: [picture generator, stub, text to picture, video generator]
 title: disco diffusion and ai art
 created: '2022-08-08T12:52:28.000Z'
-modified: '2025-01-28T09:40:18.878Z'
+modified: '2025-01-28T09:42:47.444Z'
 ---
 
 # disco diffusion and ai art
+
+https://github.com/hao-ai-lab/FastVideo
 
 https://github.com/Tencent/HunyuanVideo
 
