@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-28T11:37:44.794Z'
+modified: '2025-01-28T11:38:12.298Z'
 ---
 
 # cybergod related projects
+
+https://github.com/askui/vision-agent
 
 https://github.com/a-real-ai/pywinassistant
 
