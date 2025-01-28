@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-28T11:36:28.030Z'
+modified: '2025-01-28T11:36:57.237Z'
 ---
 
 # cybergod related projects
+
+https://github.com/OS-Agent-Survey/OS-Agent-Survey
 
 https://github.com/topics/computer-use
 
