@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-28T11:35:46.656Z'
+modified: '2025-01-28T11:36:28.030Z'
 ---
 
 # cybergod related projects
+
+https://github.com/topics/computer-use
+
+https://github.com/sumleo/djinn-agent
 
 https://github.com/AriaUI/Aria-UI
 
