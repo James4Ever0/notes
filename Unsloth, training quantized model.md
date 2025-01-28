@@ -1,7 +1,7 @@
 ---
 title: 'Unsloth, training quantized model'
 created: '2025-01-28T09:25:26.117Z'
-modified: '2025-01-28T09:54:51.720Z'
+modified: '2025-01-28T09:57:07.159Z'
 ---
 
 # Unsloth, training quantized model
@@ -23,3 +23,6 @@ https://standardscaler.com/2024/03/09/navigating-the-jungle-of-llm-quantization-
 https://www.theregister.com/2024/07/14/quantization_llm_feature/
 
 https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/
+
+https://www.maartengrootendorst.com/blog/quantization/
+
