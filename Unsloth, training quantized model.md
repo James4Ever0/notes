@@ -1,7 +1,7 @@
 ---
 title: 'Unsloth, training quantized model'
 created: '2025-01-28T09:25:26.117Z'
-modified: '2025-01-28T09:57:07.159Z'
+modified: '2025-01-28T09:58:57.865Z'
 ---
 
 # Unsloth, training quantized model
@@ -16,6 +16,12 @@ https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollam
 
 ---
 
+other quantization methods:
+
+https://github.com/ModelCloud/GPTQModel
+
+---
+
 quantization method comparison:
 
 https://standardscaler.com/2024/03/09/navigating-the-jungle-of-llm-quantization-formats-gguf-gptq-awq-and-exl2-which-one-to-pick/
@@ -25,4 +31,6 @@ https://www.theregister.com/2024/07/14/quantization_llm_feature/
 https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/
 
 https://www.maartengrootendorst.com/blog/quantization/
+
+https://newsletter.maartengrootendorst.com/p/which-quantization-method-is-right
 
