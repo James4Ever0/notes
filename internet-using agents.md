@@ -1,7 +1,7 @@
 ---
 title: internet-using agents
 created: '2025-01-28T09:34:08.387Z'
-modified: '2025-01-28T10:25:07.086Z'
+modified: '2025-01-28T11:40:33.171Z'
 ---
 
 # internet-using agents
@@ -9,6 +9,8 @@ modified: '2025-01-28T10:25:07.086Z'
 https://github.com/browser-use/web-ui
 
 https://github.com/ItzCrazyKns/Perplexica
+
+https://github.com/web-infra-dev/midscene
 
 ---
 
