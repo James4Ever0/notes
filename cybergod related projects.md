@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-28T11:33:23.702Z'
+modified: '2025-01-28T11:33:54.075Z'
 ---
 
 # cybergod related projects
@@ -10,7 +10,9 @@ https://github.com/All-Hands-AI/open-operator
 
 https://github.com/GAIR-NLP/PC-Agent
 
+https://github.com/francedot/acu
 
+https://github.com/Upsonic/Upsonic
 
 ---
 
