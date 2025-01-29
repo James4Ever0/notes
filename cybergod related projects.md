@@ -1,10 +1,18 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-29T14:29:14.869Z'
+modified: '2025-01-29T14:31:16.438Z'
 ---
 
 # cybergod related projects
+
+representation fine-tuning
+
+https://github.com/stanfordnlp/pyreft
+
+https://github.com/qibaoyuan/LLaMA-Factory-reft
+
+---
 
 reinforcement fine tuning:
 
