@@ -1,7 +1,7 @@
 ---
 title: 'Unsloth, training quantized model'
 created: '2025-01-28T09:25:26.117Z'
-modified: '2025-01-28T10:09:33.122Z'
+modified: '2025-01-29T14:44:47.332Z'
 ---
 
 # Unsloth, training quantized model
@@ -15,6 +15,8 @@ https://github.com/ollama/ollama/blob/main/docs/import.md
 fine-tuning quantized models:
 
 https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama
+
+https://github.com/hiyouga/LLaMA-Factory
 
 https://github.com/artidoro/qlora
 
