@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-29T14:31:16.438Z'
+modified: '2025-01-29T15:34:40.116Z'
 ---
 
 # cybergod related projects
+
+https://github.com/camel-ai/agent-trust
+
+---
 
 representation fine-tuning
 
