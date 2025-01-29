@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-29T14:28:14.399Z'
+modified: '2025-01-29T14:29:14.869Z'
 ---
 
 # cybergod related projects
@@ -37,6 +37,8 @@ https://github.com/Upsonic/Upsonic
 https://github.com/microsoft/WindowsAgentArena
 
 ---
+
+https://github.com/huggingface/open-r1
 
 http://github.com/Jiayi-Pan/TinyZero
 
