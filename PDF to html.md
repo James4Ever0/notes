@@ -1,12 +1,14 @@
 ---
 title: PDF to html
 created: '2025-01-29T04:14:11.821Z'
-modified: '2025-01-29T10:51:23.608Z'
+modified: '2025-01-29T11:00:53.435Z'
 ---
 
 # PDF to html
 
-Use pandoc
+https://pdf2htmlex.github.io/pdf2htmlEX/
+
+Use poppler
 
 https://www.freeconvert.com/pdf-to-html/download
 
