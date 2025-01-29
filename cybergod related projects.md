@@ -1,12 +1,16 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-29T14:27:56.732Z'
+modified: '2025-01-29T14:28:14.399Z'
 ---
 
 # cybergod related projects
 
-reinforcement 
+reinforcement fine tuning:
+
+https://github.com/ADaM-BJTU/OpenRFT
+
+https://github.com/XxFChen/awesome-reinforcement-fine-tuning
 
 ---
 
