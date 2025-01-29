@@ -1,10 +1,14 @@
 ---
 title: force to use docker mirror instead of pulling from docker.io
 created: '2023-10-05T15:34:18.836Z'
-modified: '2024-09-22T05:32:53.989Z'
+modified: '2025-01-29T11:44:49.016Z'
 ---
 
 # force to use docker mirror instead of pulling from docker.io
+
+when error pulling image from docker.io, just use tagged image instead.
+
+---
 
 https://jockerhub.com/
 
