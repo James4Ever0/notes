@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-29T15:34:40.116Z'
+modified: '2025-01-30T12:44:00.277Z'
 ---
 
 # cybergod related projects
+
+https://github.com/QwenLM/Qwen2.5-VL/blob/main/cookbooks/computer_use.ipynb
 
 https://github.com/camel-ai/agent-trust
 
