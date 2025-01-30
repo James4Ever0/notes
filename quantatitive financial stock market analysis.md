@@ -7,6 +7,8 @@ modified: 2024-07-19T18:41:50+08:00
 
 # quantative financial stock market analysis
 
+https://github.com/syyunn/finrl-dt
+
 [gs-quant](https://github.com/goldmansachs/gs-quant)
 
 ---
