@@ -7,6 +7,18 @@ modified: 2024-07-19T18:41:50+08:00
 
 # quantative financial stock market analysis
 
+https://github.com/AI4Finance-Foundation/FinGPT
+
+https://github.com/TradeMaster-NTU/TradeMaster
+
+https://github.com/pipiku915/FinMem-LLM-StockTrading
+
+https://github.com/wondertrader/wondertrader
+
+https://github.com/UFund-Me/Qbot
+
+https://github.com/shinnytech/tqsdk-python
+
 https://github.com/MShahabSepehri/CryptoMamba
 
 https://github.com/syyunn/finrl-dt
