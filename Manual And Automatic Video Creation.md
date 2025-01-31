@@ -6,6 +6,8 @@ modified: '2024-02-19T17:10:44.107Z'
 
 # Manual And Automatic Video Creation
 
+https://github.com/jianchang512/pyvideotrans
+
 [抖音信息采集](https://github.com/erma0/douyin) (Playwright)
 
 ---
