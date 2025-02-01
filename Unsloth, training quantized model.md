@@ -6,6 +6,10 @@ modified: '2025-01-29T14:44:47.332Z'
 
 # Unsloth, training quantized model
 
+idea: raw streaming embedding api for client-side lora
+
+---
+
 declarative ai:
 
 https://ludwig.ai/latest/
