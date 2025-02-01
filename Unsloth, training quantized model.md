@@ -6,6 +6,12 @@ modified: '2025-01-29T14:44:47.332Z'
 
 # Unsloth, training quantized model
 
+declarative ai:
+
+https://ludwig.ai/latest/
+
+---
+
 ollama importing from unsloth:
 
 https://github.com/ollama/ollama/blob/main/docs/import.md
@@ -19,6 +25,16 @@ https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollam
 https://github.com/hiyouga/LLaMA-Factory
 
 https://github.com/artidoro/qlora
+
+https://predibase.com/blog/lora-land-fine-tuned-open-source-llms-that-outperform-gpt-4
+
+---
+
+multi-lora serving
+
+https://github.com/predibase/lorax
+
+https://github.com/punica-ai/punica
 
 ---
 
