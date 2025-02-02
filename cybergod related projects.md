@@ -6,6 +6,8 @@ modified: '2025-01-30T12:44:00.277Z'
 
 # cybergod related projects
 
+https://huggingface.co/collections/HuggingFaceTB/smolvlm-256m-and-500m-6791fafc5bb0ab8acc960fb0
+
 https://github.com/QwenLM/Qwen2.5-VL/blob/main/cookbooks/computer_use.ipynb
 
 https://github.com/camel-ai/agent-trust
