@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-02-03T18:17:33.421Z'
+modified: '2025-02-03T18:18:59.051Z'
 ---
 
 # cybergod related projects
+
+rl for llm: https://github.com/volcengine/verl
 
 https://github.com/hkust-nlp/simpleRL-reason
 
