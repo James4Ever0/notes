@@ -1,10 +1,18 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-02-03T17:43:05.284Z'
+modified: '2025-02-03T18:13:25.444Z'
 ---
 
 # cybergod related projects
+
+r1-v
+
+https://github.com/Deep-Agent/R1-V
+
+flow of reasoning
+
+https://github.com/Yu-Fangxu/FoR
 
 agent funds manager
 
