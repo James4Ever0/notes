@@ -1,10 +1,16 @@
 ---
-title: AI assisted content creation, gameplay video recording, trending topics
-created: 2024-03-10T14:08:10+00:00
-modified: 2024-08-03T00:49:15+08:00
+title: 'AI assisted content creation, gameplay video recording, trending topics'
+created: '2024-03-10T14:08:10.000Z'
+modified: '2025-02-03T18:16:44.359Z'
 ---
 
 # AI assisted content creation, gameplay video recording, trending topics
+
+video translation
+
+https://github.com/Huanshere/VideoLingo
+
+---
 
 https://github.com/lyogavin/airllm
 
