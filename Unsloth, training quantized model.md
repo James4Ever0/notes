@@ -1,10 +1,14 @@
 ---
 title: 'Unsloth, training quantized model'
 created: '2025-01-28T09:25:26.117Z'
-modified: '2025-01-29T14:44:47.332Z'
+modified: '2025-02-03T18:14:43.677Z'
 ---
 
 # Unsloth, training quantized model
+
+e2e llm building: https://github.com/oumi-ai/oumi
+
+---
 
 idea: raw streaming embedding api for client-side lora
 
