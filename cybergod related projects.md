@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-02-03T18:13:25.444Z'
+modified: '2025-02-03T18:17:33.421Z'
 ---
 
 # cybergod related projects
+
+https://github.com/hkust-nlp/simpleRL-reason
 
 r1-v
 
