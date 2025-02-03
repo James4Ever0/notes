@@ -1,10 +1,16 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-01-30T12:44:00.277Z'
+modified: '2025-02-03T17:42:57.728Z'
 ---
 
 # cybergod related projects
+
+agent funds manager
+
+https://github.com/0xfreysa/agent
+
+smallest vlm
 
 https://huggingface.co/collections/HuggingFaceTB/smolvlm-256m-and-500m-6791fafc5bb0ab8acc960fb0
 
