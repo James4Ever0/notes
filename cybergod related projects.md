@@ -1,7 +1,7 @@
 ---
 title: cybergod related projects
 created: '2023-12-25T14:56:50.000Z'
-modified: '2025-02-03T17:42:57.728Z'
+modified: '2025-02-03T17:43:05.284Z'
 ---
 
 # cybergod related projects
@@ -9,6 +9,8 @@ modified: '2025-02-03T17:42:57.728Z'
 agent funds manager
 
 https://github.com/0xfreysa/agent
+
+---
 
 smallest vlm
 
