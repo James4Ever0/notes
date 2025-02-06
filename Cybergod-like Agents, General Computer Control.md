@@ -6,6 +6,14 @@ modified: 2024-10-19T21:52:41+08:00
 
 # Cybergod-like Agents, General Computer Control
 
+https://github.com/allenai/open-instruct
+
+github.com/trotsky1997/MathBlackBox
+
+https://github.com/Deep-Agent/R1-V
+
+https://github.com/Unakar/Logic-RL
+
 embedding-as-thought: https://github.com/facebookresearch/coconut/commits/main/
 
 https://github.com/GAIR-NLP/PC-Agent
