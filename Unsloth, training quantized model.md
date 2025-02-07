@@ -6,6 +6,10 @@ modified: '2025-02-03T18:14:43.677Z'
 
 # Unsloth, training quantized model
 
+deepseek r1 training:
+
+https://unsloth.ai/blog/r1-reasoning
+
 e2e llm building: https://github.com/oumi-ai/oumi
 
 ---
