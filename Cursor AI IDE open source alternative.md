@@ -6,6 +6,10 @@ modified: '2024-10-14T16:03:47.616Z'
 
 # Cursor AI IDE open source alternative
 
+https://github.com/block/goose
+
+cline
+
 https://github.com/Aider-AI/aider
 
 https://github.com/meltylabs/melty
