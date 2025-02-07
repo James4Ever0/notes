@@ -7,6 +7,8 @@ modified: 2024-07-19T18:41:50+08:00
 
 # quantative financial stock market analysis
 
+https://github.com/microsoft/qlib
+
 https://github.com/hummingbot/awesome-hummingbot
 
 https://github.com/quantopian/zipline
