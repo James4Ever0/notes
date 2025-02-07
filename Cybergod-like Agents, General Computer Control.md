@@ -6,6 +6,10 @@ modified: 2024-10-19T21:52:41+08:00
 
 # Cybergod-like Agents, General Computer Control
 
+https://github.com/simplescaling/s1
+
+https://github.com/Physical-Intelligence/openpi
+
 https://github.com/allenai/open-instruct
 
 github.com/trotsky1997/MathBlackBox
