@@ -7,6 +7,8 @@ modified: 2024-07-19T18:41:50+08:00
 
 # quantative financial stock market analysis
 
+https://www.quantlib.org/
+
 https://github.com/QuantML-Github
 
 https://github.com/microsoft/qlib
