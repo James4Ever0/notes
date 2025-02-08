@@ -8,6 +8,8 @@ modified: '2023-01-02T21:12:08.424Z'
 
 ## robotics
 
+https://hugwbc.github.io
+
 RT-1 [robotics transformer](https://github.com/google-research/robotics_transformer) and [SayCan](https://github.com/google-research/google-research/blob/master/saycan/README.md)
 
 [VIMA](https://github.com/vimalabs/VIMA) General Robot Manipulation with Multimodal Prompts
