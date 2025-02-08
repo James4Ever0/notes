@@ -7,6 +7,8 @@ modified: 2024-07-19T18:41:50+08:00
 
 # quantative financial stock market analysis
 
+https://github.com/MingyuJ666/Stockagent
+
 https://www.quantlib.org/
 
 https://github.com/QuantML-Github
