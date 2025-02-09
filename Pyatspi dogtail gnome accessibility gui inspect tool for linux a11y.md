@@ -7,6 +7,8 @@ modified: '2022-08-18T16:18:38.085Z'
 
 # Pyatspi dogtail gnome accessibility gui inspect tool for linux a11y
 
+https://github.com/autopilot-rs/autopy
+
 does appium have linux accessibility implementation?
 
 windows a11y:
