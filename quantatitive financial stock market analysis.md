@@ -7,6 +7,8 @@ modified: 2024-07-19T18:41:50+08:00
 
 # quantative financial stock market analysis
 
+https://github.com/AI4Finance-Foundation/FinRobot
+
 https://github.com/microsoft/MarS/
 
 https://www.statsmodels.org/stable/index.html
