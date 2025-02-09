@@ -8,6 +8,8 @@ modified: '2023-01-02T21:12:08.424Z'
 
 ## robotics
 
+gr2: https://gr2-manipulation.github.io/
+
 openpi
 
 https://github.com/thu-ml/RoboticsDiffusionTransformer
