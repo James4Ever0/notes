@@ -6,6 +6,10 @@ modified: '2022-12-30T19:56:51.738Z'
 
 # AI tools collections
 
+distributed ai:
+
+https://github.com/exo-explore/exo
+
 ## tool repository
 
 i was informed by a post on zhihu.
