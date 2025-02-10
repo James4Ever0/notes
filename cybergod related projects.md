@@ -6,6 +6,8 @@ modified: '2025-02-03T18:18:59.051Z'
 
 # cybergod related projects
 
+https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
+
 kvcache: treekv clusterkv leankv zigzagkv scope 
 
 https://sites.google.com/view/lighttransfer
