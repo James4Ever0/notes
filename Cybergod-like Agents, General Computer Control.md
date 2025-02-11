@@ -6,6 +6,8 @@ modified: 2024-10-19T21:52:41+08:00
 
 # Cybergod-like Agents, General Computer Control
 
+https://github.com/seal-rg/recurrent-pretraining
+
 https://github.com/lucidrains/titans-pytorch
 
 https://github.com/deepseek-ai/Janus
