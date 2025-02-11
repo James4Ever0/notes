@@ -4,6 +4,11 @@ created: '2025-01-28T09:25:26.117Z'
 modified: '2025-02-03T18:14:43.677Z'
 ---
 
+```bash
+# uncensored deepseek
+ollama pull huihui_ai/deepseek-r1-abliterated:32b
+```
+
 # Unsloth, training quantized model
 
 deepseek r1 training:
