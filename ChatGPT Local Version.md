@@ -8,6 +8,8 @@ modified: '2023-04-02T13:28:22.797Z'
  
 Run some community contributed ChatGPT-like models on commondity PCs.
  
+android: https://github.com/a-ghorbani/pocketpal-ai
+
 ## Model Selection
  
 Below are some models we are about to use:
