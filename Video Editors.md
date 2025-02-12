@@ -5,6 +5,8 @@ created: '2022-07-10T11:01:14.000Z'
 modified: '2022-10-08T05:55:55.708Z'
 ---
 
+video segmentation: https://github.com/magic-research/Sa2VA
+
 # Video Editors
 
 [moviepy](https://github.com/Zulko/moviepy)
