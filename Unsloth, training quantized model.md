@@ -9,6 +9,8 @@ modified: '2025-02-03T18:14:43.677Z'
 ollama pull huihui_ai/deepseek-r1-abliterated:32b
 ```
 
+small llm: https://github.com/jingyaogong/minimind
+
 # Unsloth, training quantized model
 
 deepseek r1 training:
