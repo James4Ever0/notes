@@ -11,6 +11,8 @@ ollama pull huihui_ai/deepseek-r1-abliterated:32b
 
 small llm: https://github.com/jingyaogong/minimind
 
+small r1: https://github.com/dhcode-cpp/X-R1
+
 # Unsloth, training quantized model
 
 deepseek r1 training:
