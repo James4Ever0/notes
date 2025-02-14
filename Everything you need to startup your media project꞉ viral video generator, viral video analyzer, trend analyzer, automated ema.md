@@ -10,6 +10,12 @@ Microsoft powered [recommendation system](https://github.com/recommenders-team/r
 
 ---
 
+image/anime background removal system:
+
+https://pypi.org/project/rembg
+
+---
+
 CantoonSegmentation can be used for creating visual effects over static cartoon images.
 
 ---
