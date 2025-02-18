@@ -6,6 +6,8 @@ modified: '2022-12-28T18:34:47.377Z'
 
 # how to use ai to generate video, distribute them and advertise
 
+https://github.com/Saiyan-World/goku
+
 notice: QA based websites are popular now. inspired by that and jumpcut, you can mine summaries/questions/prompts/examples relating to some topic, **generating answers/scripts from chatgpt** (imagination is the limit)
 
 videos are similar by title, author and topic. you demand the bot to generate new embeddings by any "abstractive" means, giving sample embeddings (subtitles, voice, sentiment, music, scene), and output needed embeddings. cool!
