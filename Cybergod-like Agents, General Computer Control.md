@@ -6,7 +6,7 @@ modified: 2024-10-19T21:52:41+08:00
 
 # Cybergod-like Agents, General Computer Control
 
-comcts for mllm, o1 for mllm https://github.com/HJYao00/Mulberry
+co-mcts for mllm, o1 for mllm https://github.com/HJYao00/Mulberry
 
 rl for llm: https://github.com/agentica-project/deepscaler
 
