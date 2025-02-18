@@ -6,6 +6,9 @@ modified: '2022-12-13T19:23:33.775Z'
 
 # Awesome Transformer & Transfer Learning in NLP
 
+long context: https://github.com/MoonshotAI/MoBA
+
+
 [machine learning guide](https://github.com/mikeroyal/Machine-Learning-Guide) lots of links, broad topics
 
 [This repository](https://github.com/cedrickchee/awesome-transformer-nlp/) contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, and transfer learning in NLP.
