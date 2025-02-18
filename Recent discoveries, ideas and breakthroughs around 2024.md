@@ -4,6 +4,11 @@ created: '2024-02-07T18:15:05.755Z'
 modified: '2024-06-13T06:50:29.471Z'
 ---
 
+general workflow: https://github.com/apache/airflow
+
+ai workflow: dify
+
+
 # Recent discoveries, ideas and breakthroughs around 2024
 
 programming ai agent:
