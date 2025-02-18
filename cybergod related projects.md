@@ -134,6 +134,8 @@ https://docs.anthrophic.com/en/docs/build-with-claude/computer-use
 
 multimodal model:
 
+https://github.com/Ola-Omni/Ola
+
 https://molmo.org/zh
 
 ---
