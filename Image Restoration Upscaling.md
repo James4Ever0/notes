@@ -5,6 +5,12 @@ created: '2022-05-31T06:17:59.000Z'
 modified: '2023-02-05T13:15:09.049Z'
 ---
 
+image editing:
+
+https://github.com/ant-research/MagicQuill
+
+comfyui
+
 # Image Restoration Upscaling Inpainting 图像修复 超分辨率
 
 [sota image inpainting: lama-cleaner](https://github.com/Sanster/lama-cleaner) still needs manual labeling on inpainting area
