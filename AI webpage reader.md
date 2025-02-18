@@ -6,6 +6,8 @@ modified: '2024-06-07T03:48:29.051Z'
 
 # AI webpage reader
 
+https://github.com/unclecode/crawl4ai
+
 use [reader](https://jina.ai/reader) from jina
 
 visit like:
