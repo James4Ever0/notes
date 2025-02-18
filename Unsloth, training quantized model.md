@@ -17,6 +17,8 @@ small r1: https://github.com/dhcode-cpp/X-R1
 
 deepseek r1 training:
 
+https://github.com/HKUNLP/critic-rl
+
 https://unsloth.ai/blog/r1-reasoning
 
 e2e llm building: https://github.com/oumi-ai/oumi
