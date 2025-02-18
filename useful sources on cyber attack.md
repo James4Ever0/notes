@@ -6,6 +6,10 @@ modified: '2024-06-14T07:24:24.588Z'
 
 # useful sources on cyber attack
 
+https://0dayfans.com/
+
+https://github.com/0xsdeo/HeartK
+
 https://github.com/DarkFlippers/unleashed-firmware
 
 ## learning resource and bug bounty
