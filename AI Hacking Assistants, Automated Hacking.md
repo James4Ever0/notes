@@ -6,6 +6,8 @@ modified: '2024-07-28T05:03:12.735Z'
 
 # AI Hacking Assistants, Automated Hacking
 
+tips: use "ai hacker/hacking" or "ai黑客" to search for relevant contents
+
 [awvs](https://github.com/topics/awvs)
 
 https://github.com/iSafeBlue/TrackRay
