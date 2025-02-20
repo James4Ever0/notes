@@ -8,6 +8,7 @@ general workflow: https://github.com/apache/airflow
 
 ai workflow: dify
 
+multimodal agents: https://github.com/agno-agi/agno
 
 # Recent discoveries, ideas and breakthroughs around 2024
 
