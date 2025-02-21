@@ -6,6 +6,8 @@ modified: '2025-02-03T18:18:59.051Z'
 
 # cybergod related projects
 
+https://github.com/om-ai-lab/VLM-R1
+
 https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
 
 kvcache: treekv clusterkv leankv zigzagkv scope 
