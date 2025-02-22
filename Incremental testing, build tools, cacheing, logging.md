@@ -6,6 +6,18 @@ modified: '2023-07-06T02:42:54.475Z'
 
 # Incremental testing, build tools, cacheing, logging
 
+code comparison:
+
+difftastic
+
+c/cpp/c++ code formatting:
+
+clang-format
+astyle
+Uncrustify
+
+---
+
 how to log error emitted from `better-exceptions`?
 
 ----
