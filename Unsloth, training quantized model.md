@@ -15,6 +15,8 @@ small r1: https://github.com/dhcode-cpp/X-R1
 
 # Unsloth, training quantized model
 
+r1 grpo training: https://unsloth.ai/blog/grpo
+
 deepseek r1 training:
 
 https://github.com/HKUNLP/critic-rl
