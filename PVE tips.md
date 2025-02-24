@@ -10,6 +10,10 @@ https://pve.sqlsec.com
 
 Increase the MTU of both physical network cards and VM network cards to 9000 can cause cluster interaction error.
 
+## Growing an existing partition
+
+use growpart in cloud-utils
+
 ## Multi-ethernet and multi-bridge config
 
 If you plug in another ethernet cable while PVE is running, it won't work. Instead you have to set "Autostart" to on, while using `ethtool` to check the link presence.
