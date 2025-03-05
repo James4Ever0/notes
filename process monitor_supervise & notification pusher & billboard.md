@@ -15,6 +15,8 @@ prometheus
 
 Atlassian status page
 
+https://github.com/louislam/uptime-kuma
+
 ## process monitor
 
 https://github.com/troglobit/watchdogd
