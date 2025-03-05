@@ -6,6 +6,10 @@ modified: '2024-07-28T05:03:12.735Z'
 
 # AI Hacking Assistants, Automated Hacking
 
+https://github.com/tmylla/Awesome-LLM4Cybersecurity
+
+https://github.com/Ed1s0nZ/PrivHunterAI
+
 tips: use "ai hacker/hacking" or "ai黑客" to search for relevant contents
 
 [awvs](https://github.com/topics/awvs)
