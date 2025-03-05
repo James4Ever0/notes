@@ -5,6 +5,16 @@ modified: 2023-09-26T13:25:54+08:00
 
 # process monitor/supervise & notification pusher & dashboard
 
+zabbix
+
+https://sampler.dev/
+
+grafana
+
+prometheus
+
+Atlassian status page
+
 ## process monitor
 
 https://github.com/troglobit/watchdogd
