@@ -13,6 +13,10 @@ small llm: https://github.com/jingyaogong/minimind
 
 small r1: https://github.com/dhcode-cpp/X-R1
 
+https://github.com/Liuziyu77/Visual-RFT
+
+https://github.com/moojink/openvla-oft
+
 # Unsloth, training quantized model
 
 r1 grpo training: https://unsloth.ai/blog/grpo
