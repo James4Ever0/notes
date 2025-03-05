@@ -17,6 +17,8 @@ Atlassian status page
 
 https://github.com/louislam/uptime-kuma
 
+ivbeg/awesome-status-pages
+
 ## process monitor
 
 https://github.com/troglobit/watchdogd
