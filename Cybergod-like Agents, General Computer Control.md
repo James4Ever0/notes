@@ -6,6 +6,10 @@ modified: 2024-10-19T21:52:41+08:00
 
 # Cybergod-like Agents, General Computer Control
 
+https://github.com/mannaandpoem/OpenManus
+
+https://github.com/turningpoint-ai/VisualThinker-R1-Zero
+
 convergence-ai/proxy-lite
 
 software freelancer benchmark: https://github.com/openai/SWELancer-Benchmark
