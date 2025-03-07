@@ -14,6 +14,8 @@ tencent comfyui sonic
 
 fay
 
+omnihuman
+
 ## 3d models, live2d models and model makers
 
 [makehuman](https://github.com/makehumancommunity/makehuman) as model maker
