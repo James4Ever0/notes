@@ -6,6 +6,8 @@ modified: 2024-08-23T15:21:40+08:00
 
 # RAG in my mind
 
+https://github.com/pat-jj/DeepRetrieval
+
 sciphi-ai r2r triplex agent-search
 
 https://sciphi.ai/models
