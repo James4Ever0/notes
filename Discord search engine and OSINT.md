@@ -6,6 +6,10 @@ modified: '2024-05-27T05:20:48.789Z'
 
 # Discord search engine and OSINT
 
+https://github.com/chm0dx/creepyCrawler
+
+https://github.com/xnl-h4ck3r/xnLinkFinder
+
 ## Tutorial
 
 https://www.authentic8.com/blog/collecting-osint-discord-guide
