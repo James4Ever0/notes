@@ -6,6 +6,14 @@ modified: '2022-09-07T08:57:45.132Z'
 
 # metahuman makehuman blender lipsync 动捕 视频转动画 人物模型 捏脸 vroid模型 vrm
 
+https://github.com/GuijiAI/HeyGem.ai
+
+aigcpanel
+
+tencent comfyui sonic
+
+fay
+
 ## 3d models, live2d models and model makers
 
 [makehuman](https://github.com/makehumancommunity/makehuman) as model maker
