@@ -10,6 +10,12 @@ https://github.com/chm0dx/creepyCrawler
 
 https://github.com/xnl-h4ck3r/xnLinkFinder
 
+https://github.com/iamunixtz/Lazy-Hunter
+
+https://github.com/pattonant/autopen2.0
+
+https://github.com/Tokeii0/LovelyMem
+
 ## Tutorial
 
 https://www.authentic8.com/blog/collecting-osint-discord-guide
