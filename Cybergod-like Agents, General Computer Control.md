@@ -6,6 +6,8 @@ modified: 2024-10-19T21:52:41+08:00
 
 # Cybergod-like Agents, General Computer Control
 
+open-r1-multimodal
+
 https://github.com/mannaandpoem/OpenManus
 
 https://github.com/turningpoint-ai/VisualThinker-R1-Zero
