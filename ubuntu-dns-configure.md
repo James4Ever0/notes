@@ -11,7 +11,7 @@ ln -s /run/systemd/resolve/resolv.conf /etc
 
 ## method 2
 
-Install the resolvconf package:
+Install the `resolvconf` package:
 
 ```bash
 sudo apt-get install resolvconf
@@ -30,7 +30,7 @@ nameserver 1.1.1.2
 nameserver 1.0.0.2
 ```
 
-Enable and start the resolvconf service:
+Enable and start the `resolvconf` service:
 
 ```bash
 sudo systemctl enable --now resolvconf.service
