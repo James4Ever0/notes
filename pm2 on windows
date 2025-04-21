@@ -4,4 +4,6 @@ use `scoop install git` to install bash for windows
 
 before `pm2 start -n <task_name> bash -- <script_path>` you would manually run the script first, to make sure it would not be a infinite daemonization loop which would freeze the computer
 
+remember to run `pm2 save` when done creating tasks
+
 use task scheduler to invoke `pm2 resurrect` once on login
