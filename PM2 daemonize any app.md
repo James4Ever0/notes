@@ -6,6 +6,12 @@ modified: 2024-10-12T18:05:01+08:00
 
 # PM2 daemonize any app
 
+rotate logs to avoid disk issues
+
+```bash
+pm2 install pm2-logrotate
+```
+
 get commandline info by `pm2 info <id>`. you can view them in "script path" and "script args"
 
 ---
