@@ -7,6 +7,10 @@ modified: '2022-08-18T16:22:10.578Z'
 
 # Roll in Bed在床上翻滚
 
+get up and strentch from head to toe often, must do it three and four times a day, whenever you feel clumsy and blood flows unevenly.
+
+---
+
 睡觉要脱鞋子 不然浑身难受
 
 ---
