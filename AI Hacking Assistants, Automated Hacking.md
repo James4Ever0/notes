@@ -1,10 +1,16 @@
 ---
-title: 'AI Hacking Assistants, Automated Hacking'
-created: '2024-05-07T14:33:59.000Z'
-modified: '2024-07-28T05:03:12.735Z'
+title: AI Hacking Assistants, Automated Hacking
+created: 2024-05-07T14:33:59+00:00
+modified: 2025-07-24T16:42:36+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+docker run -p 50001:80 frdel/agent-zero-run:hacking
+
+https://github.com/frdel/agent-zero
+
+---
 
 https://github.com/tmylla/Awesome-LLM4Cybersecurity
 
