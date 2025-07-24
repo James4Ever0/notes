@@ -1,9 +1,15 @@
 ---
 created: 2025-07-24T16:29:59+08:00
-modified: 2025-07-24T16:41:16+08:00
+modified: 2025-07-24T16:49:33+08:00
 ---
 
-# agentic ai coding ide, multi agent sdk
+# agentic ai coding ide, multi agent sdk, code semantic searching
+
+https://github.com/zilliztech/code-context
+
+https://github.com/james4ever0/prometheous
+
+---
 
 https://mp.weixin.qq.com/s/40kPGdsw7LxTCeDxSsoYUQ
 
