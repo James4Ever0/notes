@@ -1,7 +1,7 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-07-25T14:17:26+08:00
+modified: 2025-07-25T14:18:15+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -13,6 +13,8 @@ https://github.com/mannaandpoem/OpenManus
 https://github.com/turningpoint-ai/VisualThinker-R1-Zero
 
 browser automation: stagehand
+
+https://github.com/browserbase/stagehand
 
 convergence-ai/proxy-lite
 
