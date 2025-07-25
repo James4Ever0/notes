@@ -1,12 +1,16 @@
 ---
 title: 语音转文字 stt speech to text
-created: '2022-09-17T12:42:12.000Z'
-modified: '2024-05-29T09:42:09.084Z'
+created: 2022-09-17T12:42:12+00:00
+modified: 2025-07-25T14:17:05+08:00
 ---
 
 # 语音转文字 asr stt speech to text
 
 ## online
+
+bytedance seed liveinterpret 2.0
+
+---
 
 字说APP的api
 
