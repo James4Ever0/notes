@@ -2,7 +2,7 @@
 tags: [financial, market, quantative trading, RL, stock market, trading]
 title: quantatitive financial stock market analysis
 created: 2022-06-09T06:38:29+00:00
-modified: 2024-07-19T18:41:50+08:00
+modified: 2025-07-25T17:15:28+08:00
 ---
 
 # quantative financial stock market analysis
@@ -117,6 +117,8 @@ https://github.com/AI4Finance-Foundation/FinRL
 
 openbb_terminal:
 https://github.com/OpenBB-finance/OpenBBTerminal
+
+https://github.com/OpenBB-finance/OpenBB
 
 zipline
 https://github.com/quantopian/zipline
