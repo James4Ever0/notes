@@ -1,6 +1,6 @@
 ---
 created: 2025-07-24T16:29:59+08:00
-modified: 2025-07-24T16:49:33+08:00
+modified: 2025-07-25T13:03:08+08:00
 ---
 
 # agentic ai coding ide, multi agent sdk, code semantic searching
@@ -46,6 +46,8 @@ npm install -g @openai/codex
 https://github.com/openai/codex
 
 aider
+
+https://github.com/Aider-AI/aider
 
 https://aider.chat/docs/install.html
 
