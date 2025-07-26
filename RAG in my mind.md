@@ -1,10 +1,19 @@
 ---
 title: RAG in my mind
 created: 2023-12-20T18:36:32+00:00
-modified: 2024-08-23T15:21:40+08:00
+modified: 2025-07-26T20:13:00+08:00
 ---
 
 # RAG in my mind
+
+Coze (bytedance open source)
+
+https://mp.weixin.qq.com/s/4ej16VvWUFJpBFohhH6CgQ
+
+Lazyllm
+
+https://mp.weixin.qq.com/s/tsfupwYBMKF3bkJMqDA5MA
+---
 
 https://github.com/pat-jj/DeepRetrieval
 
