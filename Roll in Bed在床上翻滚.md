@@ -1,11 +1,15 @@
 ---
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
-created: '2022-06-04T09:13:44.000Z'
-modified: '2022-08-18T16:22:10.578Z'
+created: 2022-06-04T09:13:44+00:00
+modified: 2025-07-27T17:22:44+08:00
 ---
 
 # Roll in Bed在床上翻滚
+
+三位一体 站累了坐 坐累了躺 躺累了站
+
+---
 
 get up and strentch from head to toe often, must do it three and four times a day, whenever you feel clumsy and blood flows unevenly.
 
