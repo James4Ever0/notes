@@ -2,10 +2,14 @@
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
 created: 2022-06-04T09:13:44+00:00
-modified: 2025-07-27T17:22:44+08:00
+modified: 2025-07-30T19:29:46+08:00
 ---
 
 # Roll in Bed在床上翻滚
+
+如果全身随机位置触电 肌肉抽动一样反应 很可能是神经损伤
+
+---
 
 三位一体 站累了坐 坐累了躺 躺累了站
 
