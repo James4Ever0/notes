@@ -2,10 +2,14 @@
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
 created: 2022-06-04T09:13:44+00:00
-modified: 2025-07-30T19:29:46+08:00
+modified: 2025-07-31T08:51:26+08:00
 ---
 
 # Roll in Bed在床上翻滚
+
+长期不动导致筋膜粘连 用筋膜枪 按摩器 震动平台
+
+---
 
 如果全身随机位置触电 肌肉抽动一样反应 很可能是神经损伤
 
