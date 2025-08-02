@@ -1,6 +1,6 @@
 ---
 created: 2025-08-02T09:25:02+08:00
-modified: 2025-08-02T09:34:12+08:00
+modified: 2025-08-02T09:38:08+08:00
 ---
 
 # vnc recording, gui recording, terminal recording,
@@ -22,7 +22,9 @@ novnc
 vnc2video
 
 https://github.com/amitbet/vncproxy
+
 https://github.com/vprix/vncproxy
+
 https://github.com/evangwt/go-vncproxy
 
 ---
@@ -34,6 +36,7 @@ terminal-recorder
 
 https://github.com/asciinema/asciinema
 
+https://github.com/asciinema/agg
 
 ---
 
