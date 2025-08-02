@@ -1,6 +1,6 @@
 ---
 created: 2025-08-02T09:25:02+08:00
-modified: 2025-08-02T15:34:28+08:00
+modified: 2025-08-02T15:34:49+08:00
 ---
 
 # vnc recording, gui recording, terminal recording,
@@ -12,6 +12,8 @@ we need to embed the timecode and session uuid into terminal capture, monitor ca
 ---
 
 record raw tcp data of vnc and parse results, so we can get the keyboard and mouse events
+
+we can use websocketify to record tcp data
 
 ---
 
