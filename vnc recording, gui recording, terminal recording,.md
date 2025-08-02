@@ -1,6 +1,6 @@
 ---
 created: 2025-08-02T09:25:02+08:00
-modified: 2025-08-02T09:29:18+08:00
+modified: 2025-08-02T09:34:12+08:00
 ---
 
 # vnc recording, gui recording, terminal recording,
@@ -11,11 +11,19 @@ we need to embed the timecode and session uuid into terminal capture, monitor ca
 
 ---
 
+time code can also be used for real time agent clustering and collaboration
+
+---
+
 vnc recording:
 
 vncproxy
 novnc
 vnc2video
+
+https://github.com/amitbet/vncproxy
+https://github.com/vprix/vncproxy
+https://github.com/evangwt/go-vncproxy
 
 ---
 
@@ -23,6 +31,9 @@ terminal capture:
 
 asciinema
 terminal-recorder
+
+https://github.com/asciinema/asciinema
+
 
 ---
 
