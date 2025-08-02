@@ -1,6 +1,6 @@
 ---
 created: 2025-08-02T09:25:02+08:00
-modified: 2025-08-02T13:33:44+08:00
+modified: 2025-08-02T15:34:28+08:00
 ---
 
 # vnc recording, gui recording, terminal recording,
@@ -8,6 +8,10 @@ modified: 2025-08-02T13:33:44+08:00
 timecode and Metadata is important in gui action recordings
 
 we need to embed the timecode and session uuid into terminal capture, monitor capture and video/audio capture.
+
+---
+
+record raw tcp data of vnc and parse results, so we can get the keyboard and mouse events
 
 ---
 
