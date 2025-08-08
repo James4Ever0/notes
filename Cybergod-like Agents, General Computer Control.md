@@ -1,10 +1,16 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-07-25T14:18:15+08:00
+modified: 2025-08-08T13:34:59+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+seagent, self exploring computer using agent
+
+https://arxiv.org/html/2508.04700v1
+
+https://github.com/SunzeY/SEAgent
 
 open-r1-multimodal
 
