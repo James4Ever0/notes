@@ -1,10 +1,32 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-08-08T17:54:32+08:00
+modified: 2025-08-09T14:28:06+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+opencua
+
+https://github.com/xlang-ai/OpenCUA
+
+https://opencua.xlang.ai
+
+agentnet-tool computer operation recorder
+
+https://agentnet-tool.xlang.ai
+
+---
+
+neural-os diffusion model based os simulator
+
+random action creates dataset
+
+neural-os.com
+
+https://github.com/yuntian-group/neural-os
+
+---
 
 an agent shall both generate and receives data, able to encode/compress data and decode/extract data from a live stream of both self-generated and environment events 
 
