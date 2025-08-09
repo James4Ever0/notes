@@ -1,12 +1,14 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-08-09T19:14:44+08:00
+modified: 2025-08-09T19:15:21+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
 
 we can collect manuals and man pages from web, operate systems like kali and generate task descriptions from the manual. the training method would be just like zerogui/opencua/seagent (rl)
+
+we may use legacy code of metalazero for collecting man pages.
 
 ---
 
