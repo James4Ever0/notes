@@ -2,10 +2,14 @@
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
 created: 2022-06-04T09:13:44+00:00
-modified: 2025-08-05T08:52:43+08:00
+modified: 2025-08-09T18:52:24+08:00
 ---
 
 # Roll in Bed在床上翻滚
+
+买htpc keyoard 比如罗技k830 k400r k400 plus等 适合在沙发上 躺椅上 床上 变换姿势输入
+
+---
 
 沙发坐着尽量变换多种姿势 左右扭 用无线键盘
 
