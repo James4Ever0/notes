@@ -1,10 +1,16 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-08-09T14:28:06+08:00
+modified: 2025-08-09T14:35:13+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+zerogui
+
+https://github.com/OpenGVLab/ZeroGUI
+
+---
 
 opencua
 
