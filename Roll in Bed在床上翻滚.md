@@ -2,10 +2,17 @@
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
 created: 2022-06-04T09:13:44+00:00
-modified: 2025-08-09T18:52:24+08:00
+modified: 2025-08-15T21:49:54+08:00
 ---
 
 # Roll in Bed在床上翻滚
+
+when the weather is hot, do not always turn the AC on, otherwise the bloodflow will become too slow, the vessel will be too narrow.
+
+turn the AC off periodically, no matter it is sleeping or in the sofa
+
+---
+
 
 买htpc keyoard 比如罗技k830 k400r k400 plus等 适合在沙发上 躺椅上 床上 变换姿势输入
 
