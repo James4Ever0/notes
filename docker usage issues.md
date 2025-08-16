@@ -1,10 +1,31 @@
 ---
 title: docker usage issues
-created: '2022-12-11T00:21:44.329Z'
-modified: '2024-07-05T09:07:47.226Z'
+created: 2022-12-11T00:21:44+00:00
+modified: 2025-08-16T17:12:27+08:00
 ---
 
 # docker usage issues
+
+use clash proxy to speedup image pulling, pushing images to docker hub
+
+edit `/etc/docker/daemon.json`
+
+```json
+{
+  "proxies": {
+    "http-proxy": "http://127.0.0.1:7897",
+    "https-proxy": "http://127.0.0.1:7897"
+  }
+}
+```
+
+```bash
+docker login -u <username> # enter your password or api token later
+docker tag <imagename> <username>/<imagename>
+docker push <username>/<imagename>
+```
+
+---
 
 use slim toolkit to shrink docker image size
 
