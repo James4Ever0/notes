@@ -1,10 +1,14 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-08-11T16:47:03+08:00
+modified: 2025-08-18T19:04:59+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+https://github.com/niuzaisheng/ScreenExplorer
+
+---
 
 we can collect commandline help, manuals and man pages from web, operate systems like kali and generate task descriptions from the manual. the training method would be just like zerogui/opencua/seagent (rl)
 
