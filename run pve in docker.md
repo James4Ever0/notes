@@ -1,6 +1,6 @@
 ---
 created: 2025-08-20T19:30:10+08:00
-modified: 2025-08-20T20:22:09+08:00
+modified: 2025-08-20T20:26:34+08:00
 ---
 
 # run pve in docker
@@ -14,3 +14,5 @@ For example, run docker in docker, docker in pve or run pve in pve. when the inn
 If by all means you want to restart the physical machine, make sure you use the reboot command instead of poweroff.
 
 most importantly, make sure your machine has qualified and sufficient power supply, with enough and stable internal storage.
+
+k8s might not provide enough single point stability.
