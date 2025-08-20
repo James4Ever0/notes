@@ -1,6 +1,6 @@
 ---
 created: 2025-08-20T19:30:10+08:00
-modified: 2025-08-20T20:27:48+08:00
+modified: 2025-08-20T21:07:12+08:00
 ---
 
 # run pve in docker
@@ -16,3 +16,13 @@ If by all means you want to restart the physical machine, make sure you use the 
 most importantly, make sure your machine has qualified and sufficient power supply, with enough and stable internal storage.
 
 k8s might not provide enough single point stability. it is meant to be deployed at scale. you can repair failing nodes while using healthy ones.
+
+---
+
+run docker in docker (dind)
+
+https://kodekloud.com/blog/run-docker-in-docker-container/
+
+https://bgithub.xyz/nestybox/sysbox
+
+https://katacontainers.io/
