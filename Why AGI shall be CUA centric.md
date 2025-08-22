@@ -1,11 +1,13 @@
 ---
 created: 2025-08-22T18:26:57+08:00
-modified: 2025-08-22T18:32:46+08:00
+modified: 2025-08-22T18:35:19+08:00
 ---
 
 # Why AGI shall be CUA centric
 
 CUA tasks can be made extremely difficult, yet very practical, easy to verify and observable.
+
+CUA basically provide the tools for learning and the tasks to be solved simulateously, therefore have almost infinite saturation threshold.
 
 CUA agents can easily be used in other environments, while other specialized agents cannot do the same.
 
