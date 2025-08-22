@@ -1,6 +1,6 @@
 ---
 created: 2025-08-22T18:26:57+08:00
-modified: 2025-08-22T18:31:22+08:00
+modified: 2025-08-22T18:32:46+08:00
 ---
 
 # Why AGI shall be CUA centric
@@ -12,3 +12,5 @@ CUA agents can easily be used in other environments, while other specialized age
 CUA environments often require the agent to self-explore and evolve indefinitely, self-modification which is required for AGI.
 
 CUA agents can eventually replace human computer users, which are already AGI by themselves.
+
+CUA agents can orchestrate latest software tools and other tool AI, solve real world problem indefinitely.
