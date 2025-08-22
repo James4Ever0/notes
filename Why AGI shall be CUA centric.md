@@ -1,6 +1,6 @@
 ---
 created: 2025-08-22T18:26:57+08:00
-modified: 2025-08-22T18:35:19+08:00
+modified: 2025-08-22T18:37:27+08:00
 ---
 
 # Why AGI shall be CUA centric
@@ -16,3 +16,5 @@ CUA environments often require the agent to self-explore and evolve indefinitely
 CUA agents can eventually replace human computer users, which are already AGI by themselves.
 
 CUA agents can orchestrate latest software tools and other tool AI, solve real world problem indefinitely.
+
+<!-- refer to kaggle game arena blog and benchflow for more inspiration -->
