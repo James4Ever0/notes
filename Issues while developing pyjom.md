@@ -1,7 +1,7 @@
 ---
 title: Issues while developing pyjom
 created: 2023-02-12T02:15:26+00:00
-modified: 2025-08-30T19:13:11+08:00
+modified: 2025-08-30T19:15:08+08:00
 ---
 
 # Issues while developing pyjom
@@ -11,6 +11,10 @@ use a workflow orchestration platform, like temporal:
 https://docs.temporal.io/
 
 or just store everything on disk, and create a dashboard
+
+chat to ai agents in real time
+
+https://github.com/omnara-ai/omnara
 
 ---
 
