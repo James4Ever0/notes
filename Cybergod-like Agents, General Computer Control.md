@@ -1,10 +1,16 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-08-30T10:20:30+08:00
+modified: 2025-08-30T11:36:36+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+reinforcement learning with world model (dreaming, diffusion)
+
+https://genie-envisioner.github.io
+
+---
 
 agentic reasoning, high thoughtput tool calling
 
