@@ -1,10 +1,18 @@
 ---
 title: Issues while developing pyjom
-created: '2023-02-12T02:15:26.284Z'
-modified: '2023-02-12T02:15:41.350Z'
+created: 2023-02-12T02:15:26+00:00
+modified: 2025-08-30T19:13:11+08:00
 ---
 
 # Issues while developing pyjom
+
+use a workflow orchestration platform, like temporal:
+
+https://docs.temporal.io/
+
+or just store everything on disk, and create a dashboard
+
+---
 
 fix requests timeout problem.
 
@@ -43,4 +51,3 @@ graph-guess-word
 graph-baike-text
 
 graph-baike-desc -> span
-
