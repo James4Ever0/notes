@@ -1,10 +1,12 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-08-30T10:18:35+08:00
+modified: 2025-08-30T10:20:30+08:00
 ---
 
-# Cybergod-like Agents, General Computer Contro
+# Cybergod-like Agents, General Computer Control
+
+agentic reasoning, high thoughtput tool calling
 
 https://github.com/microsoft/rStar
 
