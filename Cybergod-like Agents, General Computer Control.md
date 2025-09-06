@@ -1,10 +1,14 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-08-30T19:56:49+08:00
+modified: 2025-09-06T14:43:02+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+easy integration of computer using agents
+
+https://github.com/trycua/cua
 
 rl and eval env
 
