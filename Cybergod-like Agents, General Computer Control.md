@@ -1,12 +1,12 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-07T21:48:37+08:00
+modified: 2025-09-07T22:01:53+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
 
-android agent demo by toinc ai
+android agent demo by tonic ai
 
 https://huggingface.co/spaces/Tonic/l-operator-demo
 
