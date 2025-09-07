@@ -1,10 +1,18 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-07T22:01:53+08:00
+modified: 2025-09-07T22:08:44+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+stateful memory with camel ai:
+
+https://docs.camel-ai.org/cookbooks/advanced_features/agents_with_memory.html
+
+https://github.com/camel-ai/camel
+
+---
 
 android agent demo by tonic ai
 
