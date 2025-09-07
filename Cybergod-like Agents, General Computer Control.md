@@ -1,10 +1,18 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-07T14:15:04+08:00
+modified: 2025-09-07T21:47:43+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+android agent demo
+
+https://huggingface.co/spaces/Tonic/l-operator-demo
+
+---
+
+cua agents get paid to do tasks
 
 https://mulerun.com/
 
