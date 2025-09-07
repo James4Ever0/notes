@@ -1,10 +1,12 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-06T14:43:02+08:00
+modified: 2025-09-07T14:15:04+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+https://mulerun.com/
 
 easy integration of computer using agents
 
