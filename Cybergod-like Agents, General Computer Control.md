@@ -1,10 +1,18 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-07T22:08:44+08:00
+modified: 2025-09-08T09:32:20+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+cheap robot:
+
+https://github.com/Vector-Wangel/XLeRobot
+
+https://xlerobot.readthedocs.io/zh-cn/latest/index.html
+
+---
 
 stateful memory with camel ai:
 
