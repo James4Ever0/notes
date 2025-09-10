@@ -1,10 +1,16 @@
 ---
 title: video generation/modification (vfx) from text
-created: '2022-10-09T05:54:25.000Z'
-modified: '2024-03-05T15:38:00.526Z'
+created: 2022-10-09T05:54:25+00:00
+modified: 2025-09-10T21:12:35+08:00
 ---
 
 # video generation/modification (vfx) from text
+
+full video generation with audio, music and cut
+
+https://github.com/bilibili/Index-anisora
+
+---
 
 Sora is the new SOTA video generation model from OpenAI.
 
