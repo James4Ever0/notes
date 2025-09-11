@@ -1,10 +1,12 @@
 ---
 title: Issues while developing pyjom
 created: 2023-02-12T02:15:26+00:00
-modified: 2025-08-30T19:15:08+08:00
+modified: 2025-09-12T07:57:19+08:00
 ---
 
 # Issues while developing pyjom
+
+Use version control system like git for pinning different parts of systems, submit its source code and envs to ensure consistency
 
 use a workflow orchestration platform, like temporal:
 
