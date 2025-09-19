@@ -1,7 +1,7 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-19T21:38:31+08:00
+modified: 2025-09-19T21:41:02+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -19,6 +19,8 @@ The low level executor could be acting upon both high level commands and low lev
 Llm as a judge, master any task
 
 https://github.com/OpenPipe/ART
+
+https://art.openpipe.ai/getting-started/about
 
 ---
 
