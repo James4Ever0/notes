@@ -1,7 +1,7 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-19T21:36:24+08:00
+modified: 2025-09-19T21:38:31+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
@@ -9,6 +9,10 @@ modified: 2025-09-19T21:36:24+08:00
 The idea:
 
 Use LLM as coordinator, use fast actions models as executor
+
+The low level executor could be acting upon both high level commands and low level feedbacks as input, action as output.
+
+【中外大模型混战! ？我训练了10个AI打CS，谁会赢？【图灵计划13】-哔哩哔哩】 https://b23.tv/dwEGfg2
 
 ---
 
