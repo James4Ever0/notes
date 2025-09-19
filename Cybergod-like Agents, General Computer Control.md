@@ -1,10 +1,22 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-08T09:32:20+08:00
+modified: 2025-09-19T21:36:24+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+The idea:
+
+Use LLM as coordinator, use fast actions models as executor
+
+---
+
+Llm as a judge, master any task
+
+https://github.com/OpenPipe/ART
+
+---
 
 cheap robot:
 
