@@ -1,6 +1,6 @@
 ---
 created: 2025-09-21T20:28:12+08:00
-modified: 2025-09-21T20:31:24+08:00
+modified: 2025-09-21T20:32:08+08:00
 ---
 
 # How to create complex compound medicine that works similar to a single forbidden medicine
@@ -9,4 +9,4 @@ We need both AI to decide and control dosage and automated injector (like adrena
 
 After multiple experiments, we might discover hidden bio pathways.
 
-Most importantly, the final compound might be completely legal despite its equivalence to banned simplex drugs.
+Most importantly, the final compound might be completely legal despite its equivalent effect to banned simplex drugs.
