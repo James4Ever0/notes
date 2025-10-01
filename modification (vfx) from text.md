@@ -1,10 +1,12 @@
 ---
 title: video generation/modification (vfx) from text
 created: 2022-10-09T05:54:25+00:00
-modified: 2025-09-10T21:12:35+08:00
+modified: 2025-10-01T19:30:48+08:00
 ---
 
 # video generation/modification (vfx) from text
+
+opencut: capcut Foss alternatove
 
 full video generation with audio, music and cut
 
