@@ -1,11 +1,14 @@
 ---
 tags: [3D model, action detection, dancing, MMD, OpenMM, pyjom, video analysis, video generator]
 title: MMDetection and MMD dancing
-created: '2022-04-21T17:58:04.000Z'
-modified: '2022-08-18T15:47:19.539Z'
+created: 2022-04-21T17:58:04+00:00
+modified: 2025-10-03T02:22:46+08:00
 ---
 
 # MMDetection and MMD dancing
+
+free app in steam: vtuber studio (boykisser)
+
 
 3d 虚拟形象动作生成 视频生成 虚拟偶像 Vtuber:
 https://github.com/xianfei/SysMocap
