@@ -1,10 +1,12 @@
 ---
 title: video generation/modification (vfx) from text
 created: 2022-10-09T05:54:25+00:00
-modified: 2025-10-03T10:26:59+08:00
+modified: 2025-10-09T22:20:09+08:00
 ---
 
 # video generation/modification (vfx) from text
+
+need to provide feedback to video creator, like openai sora app
 
 translation: https://github.com/liuzhao1225/YouDub
 
