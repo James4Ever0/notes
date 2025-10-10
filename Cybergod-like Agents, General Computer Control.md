@@ -1,10 +1,14 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-09-19T21:41:02+08:00
+modified: 2025-10-10T16:18:48+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+force context shrinking compression thinking regime: 
+
+https://github.com/McGill-NLP/the-markovian-thinker
 
 The idea:
 
