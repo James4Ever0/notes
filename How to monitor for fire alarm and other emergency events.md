@@ -1,6 +1,6 @@
 ---
 created: 2025-10-12T19:29:50+08:00
-modified: 2025-10-12T19:49:46+08:00
+modified: 2025-10-12T19:55:03+08:00
 ---
 
 # How to monitor for fire alarm and other emergency events
@@ -15,4 +15,12 @@ Make sure the data collection system can only send data to the external server, 
 
 Host your app online here:
 
+Google, cloudflare, vercel
+
 https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison
+
+Send email for free:
+
+https://tool-sphere.github.io/tools/email-sender/
+
+Since we can do little things when fire happens miles away, we had better take automated actions on site. We would only send data for the sake of notification.
