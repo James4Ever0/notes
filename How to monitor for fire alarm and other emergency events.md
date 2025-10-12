@@ -1,6 +1,6 @@
 ---
 created: 2025-10-12T19:29:50+08:00
-modified: 2025-10-12T19:34:14+08:00
+modified: 2025-10-12T19:34:26+08:00
 ---
 
 # How to monitor for fire alarm and other emergency events
@@ -11,4 +11,4 @@ You can monitor camera feed. If no new camera feed coming through, you could fir
 
 Before the real world use cases, you first test the effectiveness of such alarm system
 
-Make sure the monitor system can only send data to the external server, but not vice versa. Close all unnecessary ports and connections.
+Make sure the data collection system can only send data to the external server, but not vice versa. Close all unnecessary ports and connections.
