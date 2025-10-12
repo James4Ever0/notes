@@ -1,6 +1,6 @@
 ---
 created: 2025-10-12T22:04:15+08:00
-modified: 2025-10-12T22:09:26+08:00
+modified: 2025-10-12T22:40:41+08:00
 ---
 
 # how to secure compute nodes
@@ -14,3 +14,5 @@ input password in a multi step way, send the real password plus inputted salt as
 only privileged process approved manually with multi factor authentication such as email verification code can run with full internet access. others may only use limited approved websites in a short time.
 
 management machine can only access compute nodes using ssh, in one direction. management machine shall not have access to internet. no machine can reach the management machine
+
+use custom, proprietary protocol to secure the internet gateway, to prevent unauthorized access.
