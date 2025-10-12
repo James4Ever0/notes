@@ -1,9 +1,9 @@
 ---
 created: 2025-10-12T19:29:50+08:00
-modified: 2025-10-12T19:55:03+08:00
+modified: 2025-10-12T19:55:18+08:00
 ---
 
-# How to monitor for fire alarm and other emergency events
+# How to monitor fire alarm and other emergency events
 
 Use an online server to pull data from ntfy.io constantly and monitor for potential problems. If anything bad happens, you can trigger an alarm in one of your endpoint receivers, or just trigger immediate local actions in first place such as switching off power supply.
 
