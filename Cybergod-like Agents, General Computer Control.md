@@ -1,10 +1,14 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-10-10T16:18:48+08:00
+modified: 2025-10-24T21:38:44+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+The free transformer
+
+https://arxiv.org/html/2510.17558v1
 
 force context shrinking compression thinking regime: 
 
