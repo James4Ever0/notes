@@ -1,10 +1,12 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-10-24T21:38:44+08:00
+modified: 2025-12-05T08:23:50+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+豆包手机助手
 
 The free transformer
 
