@@ -2,7 +2,7 @@
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
 created: 2022-06-04T09:13:44+00:00
-modified: 2025-08-15T21:49:54+08:00
+modified: 2026-01-05T07:15:10+08:00
 ---
 
 # Roll in Bed在床上翻滚
@@ -23,6 +23,8 @@ turn the AC off periodically, no matter it is sleeping or in the sofa
 ---
 
 把房间窗户贴上反光 降低整体cortisol水平
+
+deep breath to lower cortisol levels
 
 ---
 
