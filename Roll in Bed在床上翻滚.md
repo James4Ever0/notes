@@ -2,12 +2,12 @@
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
 created: 2022-06-04T09:13:44+00:00
-modified: 2026-01-05T08:17:55+08:00
+modified: 2026-01-05T09:56:47+08:00
 ---
 
 # Roll in Bed在床上翻滚
 
-chsnge your sleep position when uncomfortable
+change your sleep position when uncomfortable
 
 when the weather is hot, do not always turn the AC on, otherwise the bloodflow will become too slow, the vessel will be too narrow.
 
