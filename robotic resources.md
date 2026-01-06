@@ -2,6 +2,8 @@
 
 upload the entire downloaded robot arm and hand dataset to tnkr.ai or kaggle dataset
 
+https://www.kaggle.com/datasets/jessysisca/robot-data-2
+
 join robotic discord
 
 https://discord.gg/robotis
