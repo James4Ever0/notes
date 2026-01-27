@@ -1,6 +1,6 @@
 ---
 created: 2026-01-27T19:36:26+08:00
-modified: 2026-01-27T19:43:01+08:00
+modified: 2026-01-27T19:46:27+08:00
 ---
 
 # The immortal device
@@ -13,4 +13,4 @@ Using nano machines, micro in place biological containers, we can do many gene e
 
 Defeat disease when infected, spot issues before spreading, create antibodies and genetically engineered cells to counteract.
 
-If the host is totally destroyed and the device is intact, the device can still restore the host biologically.
+If the host is totally destroyed and the device is intact, the device can still restore the host biologically if in optimal circumstances.
