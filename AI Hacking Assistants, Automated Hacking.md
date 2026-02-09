@@ -1,10 +1,12 @@
 ---
 title: AI Hacking Assistants, Automated Hacking
 created: 2024-05-07T14:33:59+00:00
-modified: 2025-07-24T16:42:36+08:00
+modified: 2026-02-09T11:12:47+08:00
 ---
 
 # AI Hacking Assistants, Automated Hacking
+
+https://tryhackme.com
 
 docker run -p 50001:80 frdel/agent-zero-run:hacking
 
