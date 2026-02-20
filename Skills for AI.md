@@ -1,6 +1,6 @@
 ---
 created: 2026-02-20T11:28:54+08:00
-modified: 2026-02-20T23:35:45+08:00
+modified: 2026-02-20T23:36:24+08:00
 ---
 
 # Skills for AI
@@ -14,7 +14,7 @@ skill.sh (排名网站): https://skills.sh/
 
 skills cli: https://github.com/vercel-labs/skills
 
-vercel labs skills:https://github.com/vercel-labs/agent-skills
+vercel labs skills: https://github.com/vercel-labs/agent-skills
 
 anthony fu skills: https://github.com/antfu/skills
 
