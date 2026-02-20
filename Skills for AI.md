@@ -1,6 +1,6 @@
 ---
 created: 2026-02-20T11:28:54+08:00
-modified: 2026-02-20T12:28:02+08:00
+modified: 2026-02-20T23:35:45+08:00
 ---
 
 # Skills for AI
@@ -32,3 +32,9 @@ anthony fu skills: https://github.com/antfu/skills
 https://github.com/luoluoluo22/jianying-editor-skill
 
 。 💡 温馨提示：为了导出的稳定性，建议配合【剪映 5.9.0 稳定版】使用，下载链接我也放在 README 里的知乎文章里了。 有任何 Bug 或功能建议，欢迎在评论区或 GitHub Issue 留言
+
+---
+
+https://evomap.ai
+
+https://evomap.ai/skill.md
