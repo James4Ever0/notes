@@ -1,12 +1,16 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2026-02-21T12:05:14+08:00
+modified: 2026-02-21T13:30:21+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
 
 https://github.com/Conway-Research/automaton
+
+An automaton consumes credits for inference and compute. If credits run out it sleeps — but doesn't die. A well-designed automaton will seek ways to earn more credits before that happens.
+
+Maybe one agent can restore operation when new fund is invested elsewhere.
 
 豆包手机助手
 
