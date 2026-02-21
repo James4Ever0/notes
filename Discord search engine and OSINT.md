@@ -1,10 +1,12 @@
 ---
 title: Discord search engine and OSINT
-created: '2024-05-27T03:31:44.477Z'
-modified: '2024-05-27T05:20:48.789Z'
+created: 2024-05-27T03:31:44+00:00
+modified: 2026-02-21T12:00:39+08:00
 ---
 
 # Discord search engine and OSINT
+
+工具地址：https://github.com/qeeqbox/social-analyzer，自己看自己学！
 
 https://github.com/chm0dx/creepyCrawler
 
@@ -55,4 +57,3 @@ https://discordleaks.unicornriot.ninja/discord/
 https://dht.chylex.com/
 
 https://discord.com/servers
-
