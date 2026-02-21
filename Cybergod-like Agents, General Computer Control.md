@@ -1,10 +1,12 @@
 ---
 title: Cybergod-like Agents, General Computer Control
 created: 2024-03-14T08:53:22+00:00
-modified: 2025-12-05T08:23:50+08:00
+modified: 2026-02-21T12:05:14+08:00
 ---
 
 # Cybergod-like Agents, General Computer Control
+
+https://github.com/Conway-Research/automaton
 
 豆包手机助手
 
