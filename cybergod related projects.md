@@ -1,10 +1,16 @@
 ---
 title: cybergod related projects
-created: '2023-12-25T14:56:50.000Z'
-modified: '2025-02-03T18:18:59.051Z'
+created: 2023-12-25T14:56:50+00:00
+modified: 2026-02-25T22:12:25+08:00
 ---
 
 # cybergod related projects
+
+https://chat.inceptionlabs.ai/
+
+btw many agent coding tools are integrated in ollama
+
+openclaw
 
 manus.im
 
