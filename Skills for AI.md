@@ -1,9 +1,15 @@
 ---
 created: 2026-02-20T11:28:54+08:00
-modified: 2026-02-20T23:36:24+08:00
+modified: 2026-02-27T15:43:00+08:00
 ---
 
 # Skills for AI
+
+Openclaw clawhub
+
+npx clawhub
+
+https://clawhub.ai
 
 一个 发现->安装->管理 的方法
 
