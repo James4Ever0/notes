@@ -1,10 +1,12 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2026-02-25T22:12:25+08:00
+modified: 2026-02-28T21:25:30+08:00
 ---
 
 # cybergod related projects
+
+autoglm operate Android phone
 
 https://chat.inceptionlabs.ai/
 
