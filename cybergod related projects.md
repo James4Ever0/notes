@@ -1,10 +1,14 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2026-02-28T21:25:30+08:00
+modified: 2026-03-06T13:44:42+08:00
 ---
 
 # cybergod related projects
+
+https://github.com/lsdefine/pc-agent-loop
+
+物理机械臂操作手机刷抖音极速版
 
 autoglm operate Android phone
 
