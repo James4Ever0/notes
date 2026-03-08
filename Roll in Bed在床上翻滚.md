@@ -2,10 +2,12 @@
 tags: [health, lifestyle, rest]
 title: Roll in Bed在床上翻滚
 created: 2022-06-04T09:13:44+00:00
-modified: 2026-02-27T13:34:47+08:00
+modified: 2026-03-08T21:29:47+08:00
 ---
 
 # Roll in Bed在床上翻滚
+
+wear anything that is oversized or wear just underware
 
 Stretch your body in bed before, during and after sleep, do not get up before stretching 
 
