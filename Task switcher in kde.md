@@ -1,9 +1,15 @@
 ---
 created: 2026-03-16T23:47:05+08:00
-modified: 2026-03-16T23:47:22+08:00
+modified: 2026-03-17T18:09:15+08:00
 ---
 
 # Task switcher in kde
+
+Use tab search extension for chromium and Firefox, install and use standalone Firefox instead of snap version, use tmux for arranging and searching terminal, use terminal window instead of terminal tabs, detach important browser tabs as windows
+
+Or use Mac with finda
+
+---
 
 You're in luck! KDE Plasma has a built-in tool called **KRunner** that can do exactly what you're looking for, and it can be enhanced to work even better across virtual desktops and with browser tabs.
 
