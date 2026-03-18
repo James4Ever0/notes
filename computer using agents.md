@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T23:22:34+08:00
-modified: 2026-03-18T23:34:24+08:00
+modified: 2026-03-18T23:54:25+08:00
 ---
 
 # computer using agents
@@ -14,3 +14,5 @@ https://generalagents.com/ace/
 https://calmops.com/ai/computer-use-agents-ai-screen-control/
 
 https://www.simular.ai/articles/agent-s2
+
+https://github.com/suitedaces/computer-agent
