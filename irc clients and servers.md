@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T22:40:48+08:00
-modified: 2026-03-18T22:45:19+08:00
+modified: 2026-03-18T22:46:07+08:00
 ---
 
 # irc clients and servers
@@ -8,6 +8,8 @@ modified: 2026-03-18T22:45:19+08:00
 hackers love to use irc for chatting
 
 maybe ai agents also love to use irc.
+
+https://www.unrealircd.org/
 
 ---
 
