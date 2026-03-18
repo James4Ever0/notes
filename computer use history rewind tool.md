@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T23:51:54+08:00
-modified: 2026-03-18T23:52:58+08:00
+modified: 2026-03-18T23:54:16+08:00
 ---
 
 # computer use history rewind tool
@@ -29,3 +29,7 @@ https://github.com/ilyasse253/VisualMem
 https://github.com/ivdimova/visual-memory-search
 
 https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c
+
+https://github.com/arkohut/pensieve
+
+https://screenpi.pe/about
