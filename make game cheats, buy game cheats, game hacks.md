@@ -1,10 +1,14 @@
 ---
-title: 'make game cheats, buy game cheats, game hacks'
-created: '2022-12-05T09:17:16.724Z'
-modified: '2022-12-07T06:46:13.554Z'
+title: make game cheats, buy game cheats, game hacks
+created: 2022-12-05T09:17:16+00:00
+modified: 2026-03-18T15:52:00+08:00
 ---
 
 # make game cheats, buy game cheats, game hacks
+
+interactive code to assembly compiler edit tool
+
+https://godbolt.org
 
 aimbots
 
