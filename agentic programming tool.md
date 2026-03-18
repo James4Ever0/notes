@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T19:05:54+08:00
-modified: 2026-03-18T19:14:21+08:00
+modified: 2026-03-18T19:32:22+08:00
 ---
 
 # agentic programming tool
@@ -24,7 +24,7 @@ terminal agent
 warp
 tmuxai
 
-looping agent
+looping agent with skills
 
 openclaw
 zeroclaw
