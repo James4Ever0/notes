@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T19:05:54+08:00
-modified: 2026-03-18T19:32:34+08:00
+modified: 2026-03-18T23:34:59+08:00
 ---
 
 # agentic programming tool
@@ -44,3 +44,7 @@ Claude computer use
 Glm-pc
 
 Autoglm
+
+agent s2
+
+ui-tars
