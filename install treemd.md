@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T15:39:06+08:00
-modified: 2026-03-18T15:40:49+08:00
+modified: 2026-03-18T15:42:27+08:00
 ---
 
 # install treemd
@@ -16,5 +16,6 @@ cargo install treemd
 export PATH=$PATH:"$(realpath ~/.cargo/bin)"
 
 # remember to save it to ~/.bashrc
-
+echo "export PATH=$PATH" >> ~/.bashrc
+source ~/.bashrc
 ```
