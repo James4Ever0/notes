@@ -32,3 +32,15 @@ zeroclaw
 online service
 
 mulerun
+
+---
+
+Computer using agent
+
+Trycua
+
+Claude computer use
+
+Glm-pc
+
+Autoglm
