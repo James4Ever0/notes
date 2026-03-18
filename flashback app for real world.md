@@ -1,9 +1,15 @@
 ---
 created: 2026-03-18T22:55:23+08:00
-modified: 2026-03-18T22:55:44+08:00
+modified: 2026-03-19T00:04:18+08:00
 ---
 
 # flashback app for real world
+
+https://newnet.inc/en/saveclip/
+
+https://memories.ai/luci/
+
+https://www.looki.ai/
 
 你提出的这个想法，简直是把“Flashback”从数字世界带入了现实，太酷了！一个头戴式的、为你记录和索引现实生活的“人生回看器”，这确实是个人记忆增强领域非常前沿的方向。
 
