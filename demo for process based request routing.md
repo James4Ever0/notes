@@ -1,13 +1,13 @@
 ---
 created: 2026-03-19T11:46:50+08:00
-modified: 2026-03-19T11:48:54+08:00
+modified: 2026-03-19T11:49:32+08:00
 ---
 
 # demo for process based request routing
 
 better onhold request when request incomes
 
-for daemon services managed by pm2 or systemd we should configure different method for starting and shutting down service.
+for daemon services managed by pm2 or systemd we should configure different method for starting and shutting down service. and we need to check if the process is running anyway.
 
 ---
 
