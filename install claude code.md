@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:25:07+08:00
-modified: 2026-03-19T15:27:25+08:00
+modified: 2026-03-19T22:39:55+08:00
 ---
 
 # install claude code
@@ -9,6 +9,17 @@ install from npm
 
 ```
 npm install -g @anthropic-ai/claude-code
+```
+
+set finished onboarding, in file ~/.claude.json
+
+```
+claude 
+# exit
+vim ~/.claude.json
+
+# add the following attr
+# "hasCompletedOnboarding": true
 ```
 
 using deepseek
