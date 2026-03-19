@@ -1,0 +1,145 @@
+---
+created: 2026-03-19T11:35:20+08:00
+modified: 2026-03-19T11:35:32+08:00
+---
+
+# Tools for dynamic process scaling and routing
+
+There isn’t a single off‑the‑shelf tool that does exactly what you describe (dynamic process pooling with request‑driven lifecycle and health‑checked routing), but the problem can be solved by combining existing open‑source components or by using a lightweight custom solution. Below I outline several practical approaches, ranging from simple scripts to more integrated frameworks, along with their trade‑offs.
+
+---
+
+## 1. Custom Reverse Proxy + Process Supervisor (Lightweight & Flexible)
+
+You can build a small reverse proxy (in Go, Python, Node.js, etc.) that:
+
+- Listens on a main port (e.g., `localhost:1223`).
+- For each request, checks if the required backend process is already running and healthy.
+- If not, stops any other process in the same “pool” (e.g., by sending a SIGTERM to the previous process), starts the new one using a configured command, waits for its health endpoint (`localhost:2334/health`) to become ready, and then proxies the request.
+- Caches the process handle and health status for subsequent requests.
+
+**Configuration** can be a simple YAML file:
+
+```yaml
+pools:
+  - name: ml-models
+    processes:
+      transcribe:
+        command: "python transcribe_server.py --port 2334"
+        health_endpoint: "http://localhost:2334/health"
+        endpoint: "/v1/transcribe"
+      translate:
+        command: "python translate_server.py --port 2335"
+        health_endpoint: "http://localhost:2335/health"
+        endpoint: "/v1/translate"
+    max_processes: 1   # only one active at a time
+```
+
+**Existing libraries** that can help:
+
+- **Go**: [`reverse`](https://pkg.go.dev/net/http/httputil#ReverseProxy) with [`os/exec`](https://pkg.go.dev/os/exec)
+- **Python**: [`aiohttp`](https://docs.aiohttp.org/) with [`asyncio.subprocess`](https://docs.python.org/3/library/asyncio-subprocess.html)
+- **Node.js**: [`http-proxy`](https://www.npmjs.com/package/http-proxy) with [`child_process`](https://nodejs.org/api/child_process.html)
+
+This approach gives you full control and is easy to adapt. It’s not a pre‑built tool, but it can be written in <200 lines of code.
+
+---
+
+## 2. Process Supervisor + Reverse Proxy + Orchestration Script
+
+Combine mature tools:
+
+- **Process supervision**: [Circus](https://circus.rtfd.org/) or [Supervisor](http://supervisord.org/) – manage process lifecycles, start/stop by name, and expose a control API.
+- **Reverse proxy**: [Nginx](https://nginx.org/), [Caddy](https://caddyserver.com/), or [Traefik](https://traefik.io/) – route requests to backends.
+- **Orchestration script**: A small daemon that watches incoming requests (or a trigger endpoint) and uses the supervisor’s API to stop all but the needed process, then updates the proxy’s configuration (via file reload or API) to point to the active backend.
+
+**Example flow**:
+1. Request arrives at `localhost:1223/v1/transcribe`.
+2. Orchestrator calls Circus’s HTTP API to stop any other running process in the pool, then starts the `transcribe` process.
+3. It polls the process’s health endpoint (`localhost:2334/health`) until ready.
+4. It updates Traefik’s dynamic configuration (e.g., via file provider) to route `/v1/transcribe` to `localhost:2334`.
+5. The request is forwarded (either by the orchestrator itself or by Traefik after reload).
+
+**Pros**: Uses well‑tested components; Circus handles process resurrection, logging, etc.  
+**Cons**: Requires integration work – no single YAML file.
+
+---
+
+## 3. Container Orchestration (Docker Compose / Kubernetes)
+
+If you’re comfortable with containers, you can leverage orchestration tools that already handle scaling, health checks, and routing.
+
+- **Docker Compose** with a custom script using the Docker API to scale services up/down.
+  - Define each model as a separate service in `docker-compose.yml`.
+  - On request, run `docker-compose up -d --scale <model>=1` and scale others to 0.
+  - Use a reverse proxy like [Traefik](https://doc.traefik.io/traefik/providers/docker/) that automatically updates its routing based on container labels.
+
+- **Kubernetes** (even local with Minikube or Kind) + **Knative Serving** or **OpenFaaS**.
+  - [Knative](https://knative.dev/docs/serving/) scales services to zero and starts them on first request, with built‑in health checking and path‑based routing.
+  - [OpenFaaS](https://www.openfaas.com/) (especially [`faasd`](https://github.com/openfaas/faasd) for lightweight local deployment) does the same with a simpler YAML stack file.
+  - You can set `max_replicas: 1` to ensure only one instance runs at a time. However, independent functions won’t automatically kill each other – you’d need to co‑locate them in a single container or use resource constraints (e.g., a shared GPU) to force exclusivity.
+
+**Pros**: Production‑ready, declarative YAML, built‑in health checks.  
+**Cons**: Overhead for a local machine; requires containerizing each model.
+
+---
+
+## 4. Model‑Serving Frameworks (if processes are ML models)
+
+If your “processes” are actually ML model servers, consider frameworks designed for model multiplexing:
+
+- [**Triton Inference Server**](https://github.com/triton-inference-server/server) – can load/unload models on demand via its model control API. All models run inside the same server process (no process isolation), but it supports health checks, concurrent inference, and can be configured to load models only when requested.
+- [**Ray Serve**](https://docs.ray.io/en/latest/serve/index.html) – allows you to define deployments with autoscaling policies (e.g., `min_replicas=0`, `max_replicas=1`). It handles health checks, routing, and can run multiple models in separate processes (or in the same process) with resource isolation via Ray’s placement groups. You can define everything in a YAML config.
+
+**Example Ray Serve config**:
+
+```yaml
+deployments:
+  - name: Transcribe
+    num_replicas: 0
+    max_replicas: 1
+    ray_actor_options:
+      num_gpus: 1
+  - name: Translate
+    num_replicas: 0
+    max_replicas: 1
+    ray_actor_options:
+      num_gpus: 1
+```
+
+Requests are routed to the appropriate deployment, and Ray will start a replica when the first request arrives. However, it won’t automatically stop one when the other starts – you’d need to set resource limits (e.g., GPU memory) so that only one can run at a time, or implement a custom autoscaler.
+
+---
+
+## 5. Systemd Socket Activation (Linux Only)
+
+On Linux, you can use systemd’s socket activation:
+
+- Define a socket unit for each endpoint (e.g., `transcribe.socket` listening on `localhost:2334`).
+- Define a service unit that is triggered by the socket and runs the model server.
+- Use a small proxy that accepts the initial request, but systemd will start the service and hand over the listening socket. The service must be capable of accepting connections from the inherited socket (most web frameworks support this via `systemd` socket activation).
+
+This gives you on‑demand startup, but does **not** automatically stop other services or health‑check before routing. You would need to complement it with a script that stops conflicting services when a new one starts.
+
+---
+
+## Summary
+
+| Approach                                   | Single Tool? | YAML Config? | Process Isolation | Health Checks | On‑Demand Start/Stop |
+|--------------------------------------------|--------------|--------------|-------------------|---------------|----------------------|
+| Custom reverse proxy                       | ❌ (build it) | ✅ (custom)   | ✅                | ✅            | ✅                   |
+| Circus + Traefik + glue script             | ❌ (combine)  | ✅ (each)     | ✅                | ✅            | ✅                   |
+| Docker Compose + Traefik + scaling script  | ❌ (combine)  | ✅ (each)     | ✅ (containers)   | ✅            | ✅                   |
+| Kubernetes + Knative/OpenFaaS              | ✅ (platform) | ✅           | ✅ (containers)   | ✅            | ✅ (scale to zero)   |
+| Triton Inference Server                     | ✅            | ✅           | ❌ (same process) | ✅            | ✅ (model loading)   |
+| Ray Serve                                   | ✅            | ✅           | ⚠️ (configurable) | ✅            | ✅ (scale to zero)   |
+| systemd socket activation                   | ✅ (partial)  | ✅ (unit files)| ✅                | ❌ (manual)   | ⚠️ (start only)      |
+
+**Recommendation**:  
+If you need a quick, lightweight solution and are comfortable writing a bit of code, build a custom reverse proxy (approach #1). It will give you exactly the behaviour you described with minimal dependencies.
+
+If you prefer using existing tools and don’t mind a slightly heavier setup, **OpenFaaS** (faasd) or **Ray Serve** are excellent choices – they provide YAML configuration, health checks, and scaling to zero, and you can containerize your processes or run them as Python actors.
+
+If you’re on Linux and only need on‑demand startup (and can handle shutdown manually), systemd socket activation is the simplest built‑in option.
+
+Let me know if you’d like a concrete example for any of these approaches!
