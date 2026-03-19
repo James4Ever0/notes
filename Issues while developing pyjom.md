@@ -1,10 +1,16 @@
 ---
 title: Issues while developing pyjom
 created: 2023-02-12T02:15:26+00:00
-modified: 2025-09-12T07:57:42+08:00
+modified: 2026-03-19T08:23:35+08:00
 ---
 
 # Issues while developing pyjom
+
+AI agent acquire info
+
+https://github.com/jackwener/opencli
+
+---
 
 Use version control system like git, local docker image registry for pinning different parts of systems, submit its source code and envs to ensure consistency
 
