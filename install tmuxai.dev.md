@@ -1,6 +1,6 @@
 ---
 created: 2026-03-18T15:33:51+08:00
-modified: 2026-03-20T18:51:46+08:00
+modified: 2026-03-20T18:53:04+08:00
 ---
 
 # install tmuxai.dev
@@ -18,7 +18,7 @@ create config file
 ```bash
 mkdir -p ~/.config/tmuxai
 
-cat  > ~/.config/tmuxai/config.yaml <<EOF
+cat << EOF > ~/.config/tmuxai/config.yaml
 
 default_model: 'deepseek-chat'
 models:
