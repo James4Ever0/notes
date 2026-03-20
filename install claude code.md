@@ -1,9 +1,15 @@
 ---
 created: 2026-03-19T15:25:07+08:00
-modified: 2026-03-19T22:39:55+08:00
+modified: 2026-03-20T18:48:26+08:00
 ---
 
 # install claude code
+
+clause resume session, list history
+
+https://kentgigger.com/posts/claude-code-conversation-history
+
+---
 
 install from npm
 
