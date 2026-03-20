@@ -1,9 +1,13 @@
 ---
 created: 2026-03-10T04:44:38+08:00
-modified: 2026-03-10T04:54:34+08:00
+modified: 2026-03-20T19:25:45+08:00
 ---
 
 # acne treatment
+
+For salty food, use water to dip it before eating. Drink pure water during and after eating.
+
+---
 
 Use adb and scrcpy along with a mounting frame to see the back of your neck and help with self-surgery.
 
