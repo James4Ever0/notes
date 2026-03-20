@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:25:07+08:00
-modified: 2026-03-20T18:48:26+08:00
+modified: 2026-03-20T18:53:56+08:00
 ---
 
 # install claude code
@@ -8,6 +8,32 @@ modified: 2026-03-20T18:48:26+08:00
 clause resume session, list history
 
 https://kentgigger.com/posts/claude-code-conversation-history
+
+
+```bash
+mkdir -p ~/.claude/commands
+
+cat > ~/.claude/commands/history.md << 'EOF'
+Please read my global conversation history from ~/.claude/history.jsonl and present it in an easy-to-scan format.
+
+For each conversation, show:
+- Entry number
+- Date/time (human readable format: "Nov 10, 2025 15:48")
+- Project name (just the folder name, not full path)
+- First 60-80 characters of the conversation topic
+- Session ID (if available)
+
+IMPORTANT: Format as a plain text table with properly padded columns (NOT markdown tables).
+
+Focus on the most recent 10 conversations in the first table. If there are more, show another 5-7 in an "Additional Recent Conversations" table.
+
+At the end, include:
+---
+Tip: Resume any conversation by running:
+- claude --resume <session-id>
+- claude --resume (to see an interactive list of recent sessions)
+EOF
+```
 
 ---
 
