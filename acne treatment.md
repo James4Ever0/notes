@@ -1,9 +1,13 @@
 ---
 created: 2026-03-10T04:44:38+08:00
-modified: 2026-03-20T19:25:45+08:00
+modified: 2026-03-21T19:27:59+08:00
 ---
 
 # acne treatment
+
+Prepare food yourself, control every factor.
+
+---
 
 For salty food, use water to dip it before eating. Drink pure water during and after eating.
 
