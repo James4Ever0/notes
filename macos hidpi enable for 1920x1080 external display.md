@@ -1,6 +1,6 @@
 ---
 created: 2026-03-24T23:35:51+08:00
-modified: 2026-03-24T23:48:41+08:00
+modified: 2026-03-24T23:59:22+08:00
 ---
 
 # macos hidpi enable for 1920x1080 external display
@@ -13,6 +13,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 https://github.com/waydabber/BetterDisplay
 
 https://github.com/0xbl00dy/MAC_DPIManager
+
+https://www.mac78.com/4829.html#J_DLIPPCont
 ```
 
 | Resolution | Aspect Ratio (Width/Height) |
