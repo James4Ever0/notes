@@ -1,9 +1,9 @@
 ---
 created: 2026-03-27T00:01:47+08:00
-modified: 2026-03-27T00:07:17+08:00
+modified: 2026-03-27T00:08:16+08:00
 ---
 
-# capture display screenshot in swm
+# capture virtual display screenshot in swm
 
 ```bash
 # first get all display ids
