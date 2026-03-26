@@ -1,9 +1,13 @@
 ---
 created: 2026-03-19T11:46:50+08:00
-modified: 2026-03-19T11:50:07+08:00
+modified: 2026-03-26T22:34:03+08:00
 ---
 
 # demo for process based request routing
+
+if you have enough ram, you can use ram as disk and load model file from ramdisk which would be faster. Another question, did Linux do this for you in the background, by loading file into cache on first read since boot then speedup like ram for second access? If not stick to ramdisk.
+
+---
 
 better onhold request when request incomes
 
