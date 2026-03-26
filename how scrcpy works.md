@@ -1,6 +1,6 @@
 ---
 created: 2026-03-27T00:25:28+08:00
-modified: 2026-03-27T00:26:13+08:00
+modified: 2026-03-27T00:27:45+08:00
 ---
 
 # how scrcpy works
@@ -8,6 +8,10 @@ modified: 2026-03-27T00:26:13+08:00
 check out myscrcpy for reference?
 
 https://github.com/me2sy/MYScrcpy
+
+https://pypi.org/project/pyscrcpy/
+
+https://github.com/leng-yue/py-scrcpy-client
 
 ---
 
