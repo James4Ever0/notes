@@ -1,0 +1,8 @@
+---
+created: 2026-03-26T17:59:18+08:00
+modified: 2026-03-26T18:01:12+08:00
+---
+
+# use sshfs along with claude code
+
+https://zhuanlan.zhihu.com/p/714003462
