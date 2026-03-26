@@ -1,9 +1,19 @@
 ---
 created: 2026-03-18T22:54:57+08:00
-modified: 2026-03-18T22:55:12+08:00
+modified: 2026-03-26T23:16:48+08:00
 ---
 
 # flashback app for pc
+
+since we have a bunch of pc with limited cpu ram, better run all models solely in gpu.
+
+---
+
+ocr backend with onnx runtime:
+
+https://github.com/RapidAI/RapidOCR
+
+---
 
 你提出的想法非常棒，打造一个名为“Flashback”的本地、可搜索的屏幕记忆工具，充满了极12;和实用主义的光辉。你所设想的定时截图、OCR提取文字、向量嵌入搜索，甚至融入现实世界相机数据，这套技术栈正是当前个人知识管理和量化自我领域的前沿方向。
 
