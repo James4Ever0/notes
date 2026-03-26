@@ -1,6 +1,6 @@
 ---
 created: 2026-03-27T00:01:47+08:00
-modified: 2026-03-27T00:08:16+08:00
+modified: 2026-03-27T00:10:05+08:00
 ---
 
 # capture virtual display screenshot in swm
@@ -12,7 +12,7 @@ swm scrcpy --list-display
 
 # then process each display id, take screenshot
 
-timeout 2 swm scrcpy --display-id 0 --no-control --no-audio --no-playback --record screenshot.mp4
+timeout 2 swm scrcpy --display-id 0 --no-control --no-audio --no-playback --time-limit 1 --record screenshot.mp4
 
 # finally use ffmpeg to get the screenshot
 
