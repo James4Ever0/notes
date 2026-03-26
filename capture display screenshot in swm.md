@@ -1,11 +1,19 @@
 ---
 created: 2026-03-27T00:01:47+08:00
-modified: 2026-03-27T00:48:10+08:00
+modified: 2026-03-27T00:51:13+08:00
 ---
 
 # capture virtual display screenshot in swm
 
 you can mirror camera as well as microphone if you want to using scrcpy-server
+
+```bash
+
+scrcpy --audio-source=mic
+
+scrcpy --list-cameras
+scrcpy --camera-id=0
+```
 
 ---
 
