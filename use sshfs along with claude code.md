@@ -1,19 +1,13 @@
 ---
 created: 2026-03-26T17:59:18+08:00
-modified: 2026-03-26T18:05:38+08:00
+modified: 2026-03-26T18:06:13+08:00
 ---
 
 # use sshfs along with claude code
 
 https://zhuanlan.zhihu.com/p/714003462
 
-```markdown
 # LINUX：使用SSHFS挂载远程目录
-
-*1 年前*
-
-**云云众生**  
-关注云原生时代的云云众生
 
 SSHFS 使用安全加密将远程目录挂载到本地机器，连接比标准 FTP 安全得多。
 
@@ -128,4 +122,3 @@ sshfs USER@SERVER:/srv/data ~/data_mount
 ```
 
 其中 `USER` 是远程用户名，`SERVER` 是远程服务器的 IP 地址。系统会提示你输入远程用户的密码。身份验证成功后，远程目录将被挂载到本地目录，你可以像访问本地机器上的目录一样访问它。如果你在 `~/data_mount` 中保存或编辑文件，它将在远程机器上的 `/srv/data` 中反映出来。
-```
