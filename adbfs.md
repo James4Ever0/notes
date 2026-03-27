@@ -1,9 +1,11 @@
 ---
 created: 2026-03-27T11:19:50+08:00
-modified: 2026-03-27T11:20:12+08:00
+modified: 2026-03-27T11:21:10+08:00
 ---
 
 # adbfs
+
+we want su support, so we can read and write across all file systems.
 
 https://deepwiki.com/zach-klippenstein/adbfs
 
