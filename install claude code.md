@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:25:07+08:00
-modified: 2026-03-27T14:17:23+08:00
+modified: 2026-03-27T14:18:36+08:00
 ---
 
 # install claude code
@@ -8,6 +8,10 @@ modified: 2026-03-27T14:17:23+08:00
 clause resume session, list history
 
 https://kentgigger.com/posts/claude-code-conversation-history
+
+---
+
+using claude code 2.1.85
 
 
 ```bash
