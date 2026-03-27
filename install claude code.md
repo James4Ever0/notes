@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:25:07+08:00
-modified: 2026-03-27T14:18:36+08:00
+modified: 2026-03-27T14:19:12+08:00
 ---
 
 # install claude code
@@ -12,6 +12,8 @@ https://kentgigger.com/posts/claude-code-conversation-history
 ---
 
 using claude code 2.1.85
+
+default context size: 200k
 
 
 ```bash
