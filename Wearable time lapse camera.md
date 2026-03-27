@@ -1,9 +1,15 @@
 ---
 created: 2026-03-25T13:24:37+08:00
-modified: 2026-03-25T13:25:08+08:00
+modified: 2026-03-27T09:25:48+08:00
 ---
 
 # Wearable time lapse camera
+
+https://github.com/BasedHardware/openglass.git
+
+https://zhuanlan.zhihu.com/p/703885432
+
+---
 
 For your specific requirements—especially 24/7 operation and easy PC access—the **Raspberry Pi Zero W** is likely the better fit. It runs a full Linux OS, making USB mass storage access straightforward, and there is a complete, open-source build guide available for it.
 
