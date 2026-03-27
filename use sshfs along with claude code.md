@@ -1,12 +1,18 @@
 ---
 created: 2026-03-26T17:59:18+08:00
-modified: 2026-03-26T18:06:13+08:00
+modified: 2026-03-27T11:25:40+08:00
 ---
 
 # use sshfs along with claude code
 
 https://zhuanlan.zhihu.com/p/714003462
 
+```bash
+# mount fs in foreground
+sshfs <user>@<hostname>:<source_path> <dest_path> -d -v
+```
+
+---
 # LINUX：使用SSHFS挂载远程目录
 
 SSHFS 使用安全加密将远程目录挂载到本地机器，连接比标准 FTP 安全得多。
