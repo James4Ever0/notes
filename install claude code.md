@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:25:07+08:00
-modified: 2026-03-27T14:19:12+08:00
+modified: 2026-03-27T16:11:48+08:00
 ---
 
 # install claude code
@@ -70,7 +70,7 @@ export API_TIMEOUT_MS=600000
 export ANTHROPIC_MODEL=deepseek-chat
 export ANTHROPIC_SMALL_FAST_MODEL=deepseek-chat
 export CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1
-export CLAUDE_AUTOCOMPACT_PCT_OVERRIDE=55
+export CLAUDE_AUTOCOMPACT_PCT_OVERRIDE=50
 ```
 
 using kimi-k2
