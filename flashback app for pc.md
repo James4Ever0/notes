@@ -1,9 +1,15 @@
 ---
 created: 2026-03-18T22:54:57+08:00
-modified: 2026-03-26T23:16:48+08:00
+modified: 2026-03-30T09:03:02+08:00
 ---
 
 # flashback app for pc
+
+View deepwiki for other "flashback" like apps
+
+https://deepwiki.com/screenpipe/screenpipe/2.1-system-overview
+
+---
 
 since we have a bunch of pc with limited cpu ram, better run all models solely in gpu.
 
