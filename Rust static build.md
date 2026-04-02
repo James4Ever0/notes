@@ -1,9 +1,13 @@
 ---
 created: 2026-04-02T08:37:21+08:00
-modified: 2026-04-02T08:37:33+08:00
+modified: 2026-04-02T09:26:16+08:00
 ---
 
 # Rust static build
+
+https://zhuanlan.zhihu.com/p/25127947378?share_code=1cHiUDr82Tlhx&utm_psn=2022968024261558383
+
+---
 
 For Rust projects, using musl is the most straightforward and recommended way to create a fully static binary that eliminates glibc dependencies.
 
