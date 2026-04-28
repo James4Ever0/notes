@@ -1,7 +1,7 @@
 ---
 title: Unsloth, training quantized model
 created: 2025-01-28T09:25:26+00:00
-modified: 2026-04-28T10:04:11+08:00
+modified: 2026-04-28T10:04:13+08:00
 ---
 
 free amd mi300x gpu
