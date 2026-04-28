@@ -1,7 +1,13 @@
 ---
-title: 'Unsloth, training quantized model'
-created: '2025-01-28T09:25:26.117Z'
-modified: '2025-02-03T18:14:43.677Z'
+title: Unsloth, training quantized model
+created: 2025-01-28T09:25:26+00:00
+modified: 2026-04-28T10:02:00+08:00
+---
+
+free amd mi300x gpu
+
+https://oneclickamd.ai/github/unslothai/notebooks/blob/main/nb/gpt_oss_(20B)_Reinforcement_Learning_2048_Game_BF16.ipynb
+
 ---
 
 ```bash
@@ -84,4 +90,3 @@ https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/
 https://www.maartengrootendorst.com/blog/quantization/
 
 https://newsletter.maartengrootendorst.com/p/which-quantization-method-is-right
-
