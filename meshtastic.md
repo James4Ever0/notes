@@ -1,30 +1,9 @@
 ---
 created: 2026-05-20T19:21:59+08:00
-modified: 2026-05-20T19:32:09+08:00
+modified: 2026-05-20T19:32:43+08:00
 ---
 
 # meshtastic
-
-以下是完善后的笔记，对 Todo 部分进行了丰富和补充，已知信息已填入，不确定的地方已留出空白或标注待验证。
-
----
-
-原始笔记
-
-有Python包可以控制节点设备
-pip install meshtastic[cli]
-可以发信息、导入导出 yaml config、设置 primary message channel、设置 config url
-手机端可以蓝牙配对 meshtastic 设备，设置设备名称、设备信息
-
-todo
-用 Heltec WiFi LoRa V3 和其他开发板配合来发送信息
-比如用一些数据采集开发板：modbus 转串口或者 i2c，编码成信息让开发板发送
-或者其他开发板通过串口和 meshtastic 开发板沟通并发送信息
-了解具体的针脚，以及适合的其他开发板
-
----
-
-完善笔记
 
 1. Python 控制基础 (meshtastic CLI / API)
 
