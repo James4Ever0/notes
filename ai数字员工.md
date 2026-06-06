@@ -1,11 +1,11 @@
 ---
 created: 2026-06-06T13:29:08+08:00
-modified: 2026-06-06T13:30:29+08:00
+modified: 2026-06-06T14:43:18+08:00
 ---
 
 # ai数字员工
 
-找下有没有现成的 mulerun？
+找下有没有现成的 mulerun？openhuman？openthomas？
 
 ---
 
