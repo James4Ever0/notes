@@ -1,6 +1,6 @@
 ---
 created: 2026-07-03T21:47:40+08:00
-modified: 2026-07-04T07:02:45+08:00
+modified: 2026-07-04T07:03:51+08:00
 ---
 
 # document understanding
@@ -16,6 +16,14 @@ ai for bio
 baidu unlimited ocr
 
 Locate anything nvidia
+
+---
+
+options:
+
+use opencv to segment areas or yolo or other light weight models
+
+---
 
 针对你“分割图像、指出特定区域并单独分析”的需求，目前最前沿的思路是采用统一的多模态大模型，或组合使用专业模型。以下是几个2025-2026年表现突出的方案：
 
