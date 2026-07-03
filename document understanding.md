@@ -1,6 +1,6 @@
 ---
 created: 2026-07-03T21:47:40+08:00
-modified: 2026-07-04T07:03:51+08:00
+modified: 2026-07-04T07:05:22+08:00
 ---
 
 # document understanding
@@ -22,6 +22,8 @@ Locate anything nvidia
 options:
 
 use opencv to segment areas or yolo or other light weight models
+
+Use LLM for first hand impression then decide, try multiple times, slide and pad around selection, also include other random, untouched areas
 
 ---
 
