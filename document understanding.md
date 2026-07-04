@@ -1,11 +1,13 @@
 ---
 created: 2026-07-03T21:47:40+08:00
-modified: 2026-07-04T07:05:22+08:00
+modified: 2026-07-04T11:00:31+08:00
 ---
 
 # document understanding
 
 layoutlm Microsoft
+
+doclayout yolo
 
 Claude for science
 
