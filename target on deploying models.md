@@ -1,6 +1,6 @@
 ---
 created: 2026-07-04T11:51:49+08:00
-modified: 2026-07-04T11:53:30+08:00
+modified: 2026-07-04T11:53:54+08:00
 ---
 
 # target on deploying models
@@ -10,3 +10,7 @@ create local docker image, stripped layers, remove intermediate layers, cache, o
 ---
 
 Create reusable scripts for deploying and setting up services
+
+---
+
+Push them to open dockerhub and GitHub repos
