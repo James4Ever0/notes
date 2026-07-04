@@ -1,6 +1,6 @@
 ---
 created: 2026-07-03T21:47:40+08:00
-modified: 2026-07-04T11:00:31+08:00
+modified: 2026-07-04T11:55:55+08:00
 ---
 
 # document understanding
@@ -8,6 +8,8 @@ modified: 2026-07-04T11:00:31+08:00
 layoutlm Microsoft
 
 doclayout yolo
+
+Omniparser
 
 Claude for science
 
