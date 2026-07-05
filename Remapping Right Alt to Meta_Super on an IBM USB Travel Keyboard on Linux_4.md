@@ -1,6 +1,6 @@
 ---
 created: 2026-07-05T11:27:44+08:00
-modified: 2026-07-05T11:28:54+08:00
+modified: 2026-07-05T11:33:22+08:00
 ---
 
 # Remapping Right Alt to Meta/Super on an IBM USB Travel Keyboard on Linux
@@ -214,4 +214,3 @@ sudo xremap config.yml
 - [KDE Discuss: Mapping right-Alt to Meta (Windows/Super) key](https://discuss.kde.org/t/mapping-right-alt-to-meta-windows-super-key/7627/2)
 - [xremap - key remapper for Linux](https://github.com/xremap/xremap)
 - [Linux input-event-codes.h](https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h)
--
