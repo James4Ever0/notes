@@ -1,9 +1,17 @@
 ---
 created: 2026-07-03T21:47:40+08:00
-modified: 2026-07-04T11:55:55+08:00
+modified: 2026-07-11T15:43:36+08:00
 ---
 
 # document understanding
+
+find a tool for image extraction, layout extraction.
+
+Opendatalab mineru
+
+https://huggingface.co/spaces/opendatalab/MinerU
+
+---
 
 layoutlm Microsoft
 
