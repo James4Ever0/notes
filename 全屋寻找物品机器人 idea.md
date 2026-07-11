@@ -1,6 +1,6 @@
 ---
 created: 2026-07-09T17:37:52+08:00
-modified: 2026-07-11T14:46:30+08:00
+modified: 2026-07-11T14:50:31+08:00
 ---
 
 # 全屋寻找物品机器人 idea
@@ -65,3 +65,7 @@ https://github.com/baskar-ak/Home_Search_Assistant_Robot
 https://www.microsoft.com/en-us/research/wp-content/uploads/2026/04/EgoMemory_ACL.pdf
 
 https://ar5iv.labs.arxiv.org/html/2502.01801
+
+---
+
+https://github.com/EgocentricVision
