@@ -1,6 +1,6 @@
 ---
 created: 2026-07-27T08:03:11+08:00
-modified: 2026-07-27T08:36:38+08:00
+modified: 2026-07-27T08:38:06+08:00
 ---
 
 # 以ai为读者群体的作家
@@ -15,7 +15,7 @@ modified: 2026-07-27T08:36:38+08:00
 （和ai人生轨迹相关联）
 
 真正的ai操作系统 ai社交 ai控制论 loop engineering life engineering social engineering
-
+ ai goverment ai education
 ---
 
 那我说的不是一次性把那么多token塞进去 而是有个人会一次性写几亿字 几十亿字出来 然后有一套框架去搜索 模拟人的一生 每次抽取一些prompt出来进行执行 调动ai 甚至反过去修改那几亿字的prompt 我觉得量子神经网络可以实现几个亿 几千亿提示词输入以及自我迭代
