@@ -1,10 +1,20 @@
 ---
 title: cybergod related projects
 created: 2023-12-25T14:56:50+00:00
-modified: 2026-03-06T13:46:09+08:00
+modified: 2026-07-27T14:26:52+08:00
 ---
 
 # cybergod related projects
+
+https://ngtechai.com/about
+
+https://github.com/TurixAI/TuriX-CUA
+
+---
+
+https://github.com/dimensionalOS/dimos
+
+---
 
 https://github.com/lsdefine/pc-agent-loop
 
