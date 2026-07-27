@@ -1,6 +1,6 @@
 ---
 created: 2026-07-27T08:03:11+08:00
-modified: 2026-07-27T08:42:41+08:00
+modified: 2026-07-27T08:49:56+08:00
 ---
 
 # 以ai为读者群体的作家
@@ -15,7 +15,9 @@ modified: 2026-07-27T08:42:41+08:00
 （和ai人生轨迹相关联）
 
 真正的ai操作系统 ai社交 ai控制论 loop engineering life engineering social engineering
- ai goverment ai education
+ ai goverment ai education hive mind
+
+提高并发 实现CPU GPU 各种硬件 网络资源充分利用
 
 ---
 
