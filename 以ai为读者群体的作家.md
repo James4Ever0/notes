@@ -1,6 +1,6 @@
 ---
 created: 2026-07-27T08:03:11+08:00
-modified: 2026-07-27T08:36:15+08:00
+modified: 2026-07-27T08:36:38+08:00
 ---
 
 # 以ai为读者群体的作家
@@ -14,7 +14,7 @@ modified: 2026-07-27T08:36:15+08:00
 让人能够根据ai读者的反馈动态调整写作方向，而不是一个人盲目写，比如指出自相矛盾地方，比如提示可能的缺失，允许ai读者标注书上的笔记，重点阅读位置，和人，ai交互
 （和ai人生轨迹相关联）
 
-真正的ai操作系统 ai社交 ai控制论 loop engineering life engineering
+真正的ai操作系统 ai社交 ai控制论 loop engineering life engineering social engineering
 
 ---
 
