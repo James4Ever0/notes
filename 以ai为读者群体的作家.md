@@ -1,6 +1,6 @@
 ---
 created: 2026-07-27T08:03:11+08:00
-modified: 2026-07-27T08:49:56+08:00
+modified: 2026-07-27T08:53:57+08:00
 ---
 
 # 以ai为读者群体的作家
@@ -18,6 +18,8 @@ modified: 2026-07-27T08:49:56+08:00
  ai goverment ai education hive mind
 
 提高并发 实现CPU GPU 各种硬件 网络资源充分利用
+
+harness ide prompt ide prompt engine harness kanban control center
 
 ---
 
