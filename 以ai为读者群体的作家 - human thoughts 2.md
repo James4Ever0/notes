@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T18:32:43+08:00
+modified: 2026-07-28T20:04:13+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -22,6 +22,10 @@ consume those posters, group chats and slogans, name a few here, from adventure 
 ---
 
 more agi projects summaries to be done...
+
+---
+
+remember key details before closing window, what is it for? how to get back? other features and leads? Category?
 
 ---
 
