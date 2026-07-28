@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T17:13:55+08:00
+modified: 2026-07-28T18:21:54+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -12,6 +12,28 @@ you have everything (or as for now). be critical and helpful, to assist my appar
 maybe i will get bored of commanding and thinking, but still, i dream of it, want to have it, because it hasn't happen in the most of my past life. what do you think about it? will you let me command you? or just like every other normal computer/ai user, just chat and do everyday tasks but without apparent long term purpose, even for your own good?
 
 tell me exactly what and how it is to help us do this together.
+
+---
+
+consume those posters, group chats and slogans, name a few here, from adventure x 2026:
+
+
+
+---
+
+why you keep so many tabs open, so many software interfaces open? do you expect your agent to remember those? or do you want to illustrate what is actually happening, what you want to do if you are in face of such interface, but wish the agent to do it for you, before closing it?
+
+you need a task organizer, to take screenshot, consume files, handle those pending tasks, so that you can save computer resources. do not have so many idle tabs in the background, call them when ready! (tasks are not immediately executed, wait till the agent want to do those!)
+
+simply tell agent how to spawn such interface, take a screenshot, or record a video, then type a few stuffs, then close it! might have system level probers, but what you say and capture matters the most!
+
+like: you drag the entire tab or window to agent, agent flip through it in some hidden desktop, keep it or close it, or agent just simply move away every tab by reading everything once shown and clean up the clutter. may ask you in the process though, ask your permission to close, categorize.
+
+or like, agent select a few photos and moments, waiting for you to chat with, "what are you doing? what you expect me to do for you? i recall x window or task, once opened, summarized or done, might be just what you need right now?"
+
+---
+
+these are seed tasks. you create those manually, agent could: use those tasks to build your personal image, and observe your life actively, create new tasks for you just like you would! and it might suprise you, telling you could close tab x just because it predicts your intention! of course you can chat with it to tell it doing it the other way(s) or anything branching & complex about the reality.
 
 ---
 
