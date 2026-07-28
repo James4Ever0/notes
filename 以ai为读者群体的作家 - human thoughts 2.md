@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T18:21:54+08:00
+modified: 2026-07-28T18:32:43+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -18,6 +18,10 @@ tell me exactly what and how it is to help us do this together.
 consume those posters, group chats and slogans, name a few here, from adventure x 2026:
 
 
+
+---
+
+more agi projects summaries to be done...
 
 ---
 
