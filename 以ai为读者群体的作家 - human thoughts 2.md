@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T09:51:11+08:00
+modified: 2026-07-28T09:53:33+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -10,6 +10,12 @@ modified: 2026-07-28T09:51:11+08:00
 
 
 my thoughs below:
+
+---
+
+but be careful of "seizures" since this kind of synchronization might destabilize the whole system. have to somehow balance.
+
+what or how to regulate? learn from mistakes? laws? morality? algorithms? common sense? society conscious? mirror the real world?
 
 ---
 
