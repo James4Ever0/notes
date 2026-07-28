@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T20:08:06+08:00
+modified: 2026-07-28T20:08:33+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -27,6 +27,7 @@ more agi projects summaries to be done...
 
 remember key details before closing window, what is it for? how to get back? other features and leads? Category? It's like window minimize in ists most compact form
 
+Need skills to know what the window is actually about.
 ---
 
 why you keep so many tabs open, so many software interfaces open? do you expect your agent to remember those? or do you want to illustrate what is actually happening, what you want to do if you are in face of such interface, but wish the agent to do it for you, before closing it?
