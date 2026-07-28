@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T20:04:13+08:00
+modified: 2026-07-28T20:08:06+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -25,7 +25,7 @@ more agi projects summaries to be done...
 
 ---
 
-remember key details before closing window, what is it for? how to get back? other features and leads? Category?
+remember key details before closing window, what is it for? how to get back? other features and leads? Category? It's like window minimize in ists most compact form
 
 ---
 
