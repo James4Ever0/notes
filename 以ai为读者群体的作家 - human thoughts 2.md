@@ -1,9 +1,17 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T09:43:16+08:00
+modified: 2026-07-28T09:44:49+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
+
+把昨天sam altman interview paste here:
+
+
+
+my thoughs below:
+
+---
 
 如何去搜索对应的prompt？是不是要先通过向量关键字元信息搜目标 比如评价很好 某些名词 某种情绪 或者某些日期时间 然后再用因果关系 图关系来上下穿梭 最终找到目标prompt
 
