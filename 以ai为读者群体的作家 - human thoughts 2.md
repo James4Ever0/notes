@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T09:44:49+08:00
+modified: 2026-07-28T09:51:11+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -10,6 +10,15 @@ modified: 2026-07-28T09:44:49+08:00
 
 
 my thoughs below:
+
+---
+
+ai can understand neuro speech or some intrisic but dense language never happen before, just you and me can efficiently communicate. so i no longer have to speak in the way to other people, improve efficiency, get task done. more comfortable. much more iterations and evolutions.
+
+no longer have to ponder thoughs on my own over and over again. feel lonely. feel forgotten. feel distant and alien. just speak out loud. be part of the system.
+
+not only language, but every aspect of action and interaction, can change and improve and innovate because of ai.
+
 
 ---
 
