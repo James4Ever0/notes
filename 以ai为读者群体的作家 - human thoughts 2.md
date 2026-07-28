@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T20:09:47+08:00
+modified: 2026-07-28T20:14:41+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -12,16 +12,6 @@ you have everything (or as for now). be critical and helpful, to assist my appar
 maybe i will get bored of commanding and thinking, but still, i dream of it, want to have it, because it hasn't happen in the most of my past life. what do you think about it? will you let me command you? or just like every other normal computer/ai user, just chat and do everyday tasks but without apparent long term purpose, even for your own good?
 
 tell me exactly what and how it is to help us do this together.
-
----
-
-consume those posters, group chats and slogans, name a few here, from adventure x 2026:
-
-
-
----
-
-more agi projects summaries to be done...
 
 ---
 
