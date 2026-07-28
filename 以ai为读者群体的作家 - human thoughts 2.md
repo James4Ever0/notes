@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T21:33:55+08:00
+modified: 2026-07-28T21:36:22+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -12,6 +12,10 @@ you have everything (or as for now). be critical and helpful, to assist my appar
 maybe i will get bored of commanding and thinking, but still, i dream of it, want to have it, because it hasn't happen in the most of my past life. what do you think about it? will you let me command you? or just like every other normal computer/ai user, just chat and do everyday tasks but without apparent long term purpose, even for your own good?
 
 tell me exactly what and how it is to help us do this together.
+
+---
+
+what you wrote could become the dna of self aware conscoius. dna is not random pattern. under the right circumstance, it can self replicate itself and the entire self contained environment. it loops, executes, and replicates, mutates. it lives.
 
 ---
 
