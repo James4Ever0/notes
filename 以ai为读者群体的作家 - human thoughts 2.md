@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T09:41:58+08:00
+modified: 2026-07-28T09:43:16+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -58,6 +58,8 @@ ai主动和人交流 和其他ai 环境交流
 
 
 how to mathematically prove or represent the way people learn mathematics
+
+is it beyond?
 
 ---
 
