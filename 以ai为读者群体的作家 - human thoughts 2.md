@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28T09:36:22+08:00
-modified: 2026-07-28T21:36:22+08:00
+modified: 2026-07-28T21:42:07+08:00
 ---
 
 # 以ai为读者群体的作家 - human thoughts 2
@@ -12,6 +12,10 @@ you have everything (or as for now). be critical and helpful, to assist my appar
 maybe i will get bored of commanding and thinking, but still, i dream of it, want to have it, because it hasn't happen in the most of my past life. what do you think about it? will you let me command you? or just like every other normal computer/ai user, just chat and do everyday tasks but without apparent long term purpose, even for your own good?
 
 tell me exactly what and how it is to help us do this together.
+
+---
+
+human are spontaneous, nondeterministic, error prone. they can't relate things when they come in many not because there is no relstion but because their working memory is so small that they cannot contain so many stuffs. things get missed. relations need chances and permutations when it comes to human side, much often on the ai side. however, human are forgetful, and can always feel like doing something if they keep working on it. when they are highly focused, goal driven, interest seeking, they work out the best.
 
 ---
 
