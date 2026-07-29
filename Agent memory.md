@@ -5,6 +5,6 @@ modified: 2026-07-29T20:27:06+08:00
 
 # Agent memory
 
-#小程序://Bonjour/N3CcRGbLEiYowRy
+https://bonjour.bio/jobs-mapping/team/memu
 
 Memu nevamind.ai
