@@ -1,11 +1,17 @@
 ---
 created: 2026-08-12T13:18:37+08:00
-modified: 2026-08-12T13:25:20+08:00
+modified: 2026-08-12T13:41:32+08:00
 ---
 
 # recommend best practice to circumvent cuda barrier
 
 export CUDA_VISIBLE_DEVICES=-1 to use CPU
+
+Use ggml cpu
+
+Downscale image & audio
+
+Summarize text
 
 Use docker container with no GPU resources
 
