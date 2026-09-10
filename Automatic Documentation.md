@@ -1,10 +1,12 @@
 ---
 title: Automatic Documentation
 created: 2024-01-10T12:55:08+00:00
-modified: 2024-05-22T15:43:48+08:00
+modified: 2026-09-10T17:08:56+08:00
 ---
 
 # Automatic Documentation
+
+https://github.com/zvec-ai/zvec-grep
 
 DFPy, auto example based prompt engineering
 
