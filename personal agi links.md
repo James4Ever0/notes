@@ -1,6 +1,6 @@
 ---
 created: 2026-09-12T01:26:54+08:00
-modified: 2026-09-12T09:46:39+08:00
+modified: 2026-09-12T10:02:27+08:00
 ---
 
 # personal agi links
@@ -24,3 +24,5 @@ https://chatgpt.com/s/t_6aa447eeed708191a083b34bcfa27904
 https://chatgpt.com/s/t_6aa4aa66068081918f9d4113d6a21881
 
 https://chatgpt.com/s/t_6aa4aef613c88191b149443bce52b2da
+
+https://chatgpt.com/s/t_6aa4b27bf83081918c63fed0984f5193
