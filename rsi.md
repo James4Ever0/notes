@@ -1,11 +1,13 @@
 ---
 created: 2026-09-12T17:17:47+08:00
-modified: 2026-09-15T14:23:48+08:00
+modified: 2026-09-15T14:24:26+08:00
 ---
 
 # rsi
 
 模型不会任务 A，能否不让它做 A 而去做 B，但是还是得围绕一个核心目标一直做，不能偏离主线。lifeos 更多的是目标管理系统，这套系统能否用于 AGI 或者 rsi 的自我迭代上？
+
+---
 
 https://github.com/Lee1003-lee/Awesome-RSI-Research
 
