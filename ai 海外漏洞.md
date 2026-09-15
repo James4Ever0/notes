@@ -19,3 +19,9 @@ vdp hackerone 公益项目刷声誉
 ---
 
 ai 自动截图 自动写报告
+
+---
+
+ai 把往期看到的内容变成可以复用的 skill，有 skill selector
+
+ai 挖洞提示词

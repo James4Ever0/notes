@@ -1,9 +1,15 @@
 ---
 created: 2026-06-06T13:29:08+08:00
-modified: 2026-06-06T14:43:18+08:00
+modified: 2026-09-15T20:34:23+08:00
 ---
 
 # ai数字员工
+
+youmind 内容转多媒体
+
+https://youmind.com/
+
+---
 
 找下有没有现成的 mulerun？openhuman？openthomas？
 
