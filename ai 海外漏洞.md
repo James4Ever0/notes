@@ -1,9 +1,15 @@
 ---
 created: 2026-09-15T20:15:59+08:00
-modified: 2026-09-15T21:50:44+08:00
+modified: 2026-09-16T21:50:23+08:00
 ---
 
 # ai 海外漏洞
+
+https://github.com/LunaticLegacy/angelus
+
+https://github.com/LunaticLegacy/ElfCTF_POFP
+
+---
 
 ai 做你的老师
 
