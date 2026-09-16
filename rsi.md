@@ -1,9 +1,13 @@
 ---
 created: 2026-09-12T17:17:47+08:00
-modified: 2026-09-16T21:19:47+08:00
+modified: 2026-09-17T00:24:16+08:00
 ---
 
 # rsi
+
+🔗 https://arxiv.org/abs/2609.14858
+
+---
 
 system one intuitive
 https://typesafe.ai/blog/introducing-system-one-models-and-jev
