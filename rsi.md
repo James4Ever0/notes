@@ -1,9 +1,11 @@
 ---
 created: 2026-09-12T17:17:47+08:00
-modified: 2026-09-17T00:24:16+08:00
+modified: 2026-10-09T18:51:40+08:00
 ---
 
 # rsi
+
+https://github.com/ziyor-ai/EvoCore
 
 🔗 https://arxiv.org/abs/2609.14858
 
