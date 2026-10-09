@@ -1,9 +1,15 @@
 ---
 created: 2026-10-09T21:06:41+08:00
-modified: 2026-10-09T21:06:50+08:00
+modified: 2026-10-09T21:14:56+08:00
 ---
 
 # github trending
+
+筛选 ai 消息
+
+https://mp.weixin.qq.com/s/mu9Nf0l2NhKZQr0E0Z1opg
+
+---
 
 🔸 Strata
 让大模型开始往本地 PC 里跑。
